@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "a9df984019ee54c9174937bf071a146bf0f19bcff5f4eacff1835aa7034b3eb4"
+metafile = true
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "471190b2467d200f034d7f8b38ac932cb76082724439fa500dce4041a431b1f2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "268eee36d007dc55ff7abb4e4eff3dc2d6d8007fad18bea53330dffffeee41f5"
+metafile = true
