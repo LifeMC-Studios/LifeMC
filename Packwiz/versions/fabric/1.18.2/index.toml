@@ -201,11 +201,6 @@ hash = "d1b0d8a39bdc87c7da52b42001b3aca916f6598b966d86ae66dbe40251b4c020"
 metafile = true
 
 [[files]]
-file = "mods/jade.pw.toml"
-hash = "da079c4953fc1023fdeb3fcdba216c76dd9958c9cd30ed5b738932e7f6563a0c"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "8001814e0b6f5546d8a345ef813b8fd010ce5d506a531d44c22227cab4f478d6"
 metafile = true
