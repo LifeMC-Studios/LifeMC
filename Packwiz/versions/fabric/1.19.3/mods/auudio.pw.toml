@@ -1,0 +1,13 @@
+name = "Auudio"
+filename = "auudio_fabric_1.0.3_MC_1.19-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FCr31KmZ/versions/RFyT1Wl2/auudio_fabric_1.0.3_MC_1.19-1.19.2.jar"
+hash-format = "sha1"
+hash = "dd432c2ec9946875250e3eeadf56982c8e885a89"
+
+[update]
+[update.modrinth]
+mod-id = "FCr31KmZ"
+version = "RFyT1Wl2"
