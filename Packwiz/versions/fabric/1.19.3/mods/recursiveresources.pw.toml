@@ -1,13 +1,13 @@
 name = "Recursive Resources"
-filename = "recursive-resources-2.3.0+1.19.jar"
+filename = "recursive-resources-2.2.3+1.19.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CcL3MXyI/versions/aZwqUTwe/recursive-resources-2.3.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/CcL3MXyI/versions/rLd2XbMr/recursive-resources-2.2.3%2B1.19.3.jar"
 hash-format = "sha1"
-hash = "8c4acd742be8e268a1dc2d4b44246ea12e683262"
+hash = "dd18e3a8708151fd8634bc954b03340612622a94"
 
 [update]
 [update.modrinth]
 mod-id = "CcL3MXyI"
-version = "aZwqUTwe"
+version = "rLd2XbMr"
