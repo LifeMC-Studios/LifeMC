@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://github.com/Nukecraft5419/LifeMC/main/assets/logo/piggy.png"/>
+  <img src="https://github.com/Nukecraft5419/LifeMC/blob/main/assets/logo/piggy.png"/>
 <p>
 
 <h1 align=center>LifeMC</h1>
