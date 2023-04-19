@@ -131,16 +131,6 @@ hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "cdf6e87246a0519d7e6351c4bf2ba4fae17a058ab8470c8d7bcfa52ac3a07e2b"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
-metafile = true
-
-[[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
 hash = "f33a392dbbc1e518ebca8929707b5f6c38d59c67fb0b30a30a3ebae5e3d59c73"
 metafile = true
@@ -281,6 +271,16 @@ hash = "9f099a192392ee51ed679dad76f74806cf1c2fa8c8a37ae015f22c208cfa8236"
 metafile = true
 
 [[files]]
+file = "mods/qkl.pw.toml"
+hash = "24ca6901df336de9e8d866ebbbc93f5563a13d52141ce934dd6293746003ea44"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "e4c981864080221395f462c5a2ef1ccfd38aa6b16ca10879a4b5ef4f60828a7d"
+metafile = true
+
+[[files]]
 file = "mods/raised.pw.toml"
 hash = "5568e02dc2159a1ef7d6fa1597478ef1c3257818ca7a79d9b3da83782a81ec80"
 metafile = true
@@ -343,4 +343,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true
