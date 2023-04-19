@@ -1,6 +1,66 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "39ae1b9c7dedf5ef9fd62952df9f32deb02296d08ab45dd74c27ade455a07c6e"
+
+[[files]]
+file = "config/cosmetica/cosmetica.properties"
+hash = "2d4b4c39e1467d202f7e042f01497b8fa1617a6ef5a48dfe3289b6bdfc92cf1c"
+
+[[files]]
+file = "config/cosmetica/default-settings.properties"
+hash = "53b4e68f6b07476ead95094b0323e2ee188f31d3e75877fa6880ec2ea62419fa"
+
+[[files]]
+file = "config/dynamicfps.toml"
+hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
+
+[[files]]
+file = "config/fastload.properties"
+hash = "63bedcd5bec66f2068590125a505ce27196e39b808a4d3dd404ef46caaa12a59"
+
+[[files]]
+file = "config/iris.properties"
+hash = "08b789827f7cbfaf5bffd5aedb6dfe9889e216e87be4674299781934658767af"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "365f60d6d83034f72213ce4e7fd6298f23e4e92bdbf71a1b5ff6f50e79a64050"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "55df9b49d6f569f1eae3040b4c132964a417c8c2e37dfcb7411ebd1e21897094"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "a1b36c54b075f7d3f7bd674155844704421bcb26aad1d005b59b4365b23185c0"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "d686a3b681a60ffee6f0608ab37e9dcfd7ae3af0a736b8fcfc06fda018a7d076"
+
+[[files]]
+file = "config/midnightcontrols.json"
+hash = "f4b64d092766caa1a8e7032698b8c15d89123f2767637af6988879d78b88bc02"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "8f6298177b9045fb38c6b7634c4364d4ab78ee08232dceb2641cac87287136ca"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "3db597996f187e89d66349564b52295fab36d9dfdb28aea9cf9fa1d9d26f8daf"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "77d515103868c99fe35998db55e412176a17107e3504edd0ef031b3f20779d0a"
+
+[[files]]
+file = "config/waveycapes.json"
+hash = "0423838d965ecff34525d76f0015a4c0e8dc8965cd59b4b398d2bd2c95de7df0"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a9df984019ee54c9174937bf071a146bf0f19bcff5f4eacff1835aa7034b3eb4"
 metafile = true
@@ -344,3 +404,7 @@ metafile = true
 file = "mods/wavey-capes.pw.toml"
 hash = "f47f35dca916e3bed0d7e20538e3a9b154588a6164f34270947c41d80cfcefda"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "33e5ef91e42074d6047b7211de8d42633ec2ea67af24d8a7057831d9b1154eb4"
