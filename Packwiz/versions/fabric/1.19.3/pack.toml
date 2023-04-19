@@ -1,6 +1,6 @@
 name = "LifeMC"
 author = "Nukecraft5419"
-version = "0.0.1"
+version = "0.0.1+fabric.1.19.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "1ad59bd5b0ae70b8fdffc376145882a36673ae5fc77290c9e451967f7d154591"
 
 [versions]
-fabric = "0.14.19"
 minecraft = "1.19.3"
+fabric = "0.14.9"
