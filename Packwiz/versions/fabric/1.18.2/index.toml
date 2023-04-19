@@ -186,11 +186,6 @@ hash = "111e5e1082cd618125fad1e8892caf9c1fcacd2a115ea73b1a71e35ae98259d0"
 metafile = true
 
 [[files]]
-file = "mods/essential.pw.toml"
-hash = "1c849e3a6103fd2f1a97218eafcbf0deff72ac78e756afd6c7230833c6d5fbbf"
-metafile = true
-
-[[files]]
 file = "mods/exordium.pw.toml"
 hash = "ef9ab1a9351ad20f6c5c061caa409d4024bcf8ad498dc4994d897ca1988c61ff"
 metafile = true
