@@ -1,0 +1,13 @@
+name = "LifeMC"
+author = "Nukecraft5419"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f45b2570e9b6f0834bc709fd2f36a54c51fb4210ffeba631bd7d04e77061ad0c"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.18.2"
