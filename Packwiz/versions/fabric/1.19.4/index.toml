@@ -344,3 +344,8 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "b77bc86bc7b354a55ed610b76c65e1ec0f9b2246b29e4a52d8d40889c975f4df"
 metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
+metafile = true
