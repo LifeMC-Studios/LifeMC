@@ -156,11 +156,6 @@ hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
 metafile = true
 
 [[files]]
-file = "mods/custom-crosshair-mod.pw.toml"
-hash = "7c7f36b08923b18d334a962a2728fda9d212b6901dfd698bceed3c400443d437"
-metafile = true
-
-[[files]]
 file = "mods/dcch.pw.toml"
 hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
