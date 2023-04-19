@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "1a8f0c15ae35da293f34bd5eefe13629946cb772e0d714483bc682e8ae35a1a2"
+hash = "d8bb9cc6c51b8bae3dc185fce8563d50a7cfbef7a272f9948d0f7410e1900f3a"
 metafile = true
 
 [[files]]
