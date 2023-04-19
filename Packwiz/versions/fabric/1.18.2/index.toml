@@ -29,18 +29,6 @@ file = "config/isxander-main-menu-credits.json"
 hash = "365f60d6d83034f72213ce4e7fd6298f23e4e92bdbf71a1b5ff6f50e79a64050"
 
 [[files]]
-file = "config/jade/jade.json"
-hash = "55df9b49d6f569f1eae3040b4c132964a417c8c2e37dfcb7411ebd1e21897094"
-
-[[files]]
-file = "config/jade/plugins.json"
-hash = "a1b36c54b075f7d3f7bd674155844704421bcb26aad1d005b59b4365b23185c0"
-
-[[files]]
-file = "config/jade/usernamecache.json"
-hash = "d686a3b681a60ffee6f0608ab37e9dcfd7ae3af0a736b8fcfc06fda018a7d076"
-
-[[files]]
 file = "config/midnightcontrols.json"
 hash = "f4b64d092766caa1a8e7032698b8c15d89123f2767637af6988879d78b88bc02"
 
@@ -168,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "098b9ed94d05bc731dd403d47702c548d43347bbc80896a21c8b80b5992f9eac"
 metafile = true
 
 [[files]]
