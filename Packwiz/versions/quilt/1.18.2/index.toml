@@ -29,24 +29,12 @@ file = "config/isxander-main-menu-credits.json"
 hash = "365f60d6d83034f72213ce4e7fd6298f23e4e92bdbf71a1b5ff6f50e79a64050"
 
 [[files]]
-file = "config/jade/jade.json"
-hash = "55df9b49d6f569f1eae3040b4c132964a417c8c2e37dfcb7411ebd1e21897094"
-
-[[files]]
-file = "config/jade/plugins.json"
-hash = "a1b36c54b075f7d3f7bd674155844704421bcb26aad1d005b59b4365b23185c0"
-
-[[files]]
-file = "config/jade/usernamecache.json"
-hash = "d686a3b681a60ffee6f0608ab37e9dcfd7ae3af0a736b8fcfc06fda018a7d076"
-
-[[files]]
 file = "config/midnightcontrols.json"
 hash = "f4b64d092766caa1a8e7032698b8c15d89123f2767637af6988879d78b88bc02"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "8f6298177b9045fb38c6b7634c4364d4ab78ee08232dceb2641cac87287136ca"
+hash = "21bcb51dffc577ba66cfa8da9075cfb3371b8e48479a03ef53a6045af01a9c8e"
 
 [[files]]
 file = "config/puzzle.json"
@@ -59,6 +47,10 @@ hash = "77d515103868c99fe35998db55e412176a17107e3504edd0ef031b3f20779d0a"
 [[files]]
 file = "config/waveycapes.json"
 hash = "0423838d965ecff34525d76f0015a4c0e8dc8965cd59b4b398d2bd2c95de7df0"
+
+[[files]]
+file = "icon.png"
+hash = "7689ddf7ec46d40d629ee7a096b4750e723831810193111dea99c4b3cb8e1201"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -171,6 +163,11 @@ hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "098b9ed94d05bc731dd403d47702c548d43347bbc80896a21c8b80b5992f9eac"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
 metafile = true
@@ -188,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/exordium.pw.toml"
 hash = "ef9ab1a9351ad20f6c5c061caa409d4024bcf8ad498dc4994d897ca1988c61ff"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
