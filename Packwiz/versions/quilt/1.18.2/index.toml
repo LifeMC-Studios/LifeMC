@@ -338,6 +338,11 @@ hash = "82bfc54f0259e74515d892ec18de6623a4460fdb6ddd43bc21c477a83b587fab"
 metafile = true
 
 [[files]]
+file = "mods/satin-api.pw.toml"
+hash = "3524293e6afd5b9579d28200d97e6a1cd8ce97604478e6e6d2447b63defe6769"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "03f6c45dd8de23551d1a24aca8d6845d29d375eb9434b7c92da0c9166829b1ac"
 metafile = true

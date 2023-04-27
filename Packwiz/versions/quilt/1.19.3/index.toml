@@ -286,6 +286,11 @@ hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
+file = "mods/satin-api.pw.toml"
+hash = "133fdd50979e43225d8dfcc27fa98c881d3f053c8c083327bb0b12ad6fb06270"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "62038d09ca74b799438634d9f2bf9f1d676e2558a7a499b80bfaef5c614d2c61"
 metafile = true
@@ -336,13 +341,13 @@ hash = "ecf0c6a4e1ea923de5149d8fbceb63c2030d9d89385c08289483695d012f5568"
 metafile = true
 
 [[files]]
-file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+file = "mods/yacl.pw.toml"
+hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
 metafile = true
 
 [[files]]
-file = "mods/yacl.pw.toml"
-hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
