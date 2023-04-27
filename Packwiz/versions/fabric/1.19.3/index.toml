@@ -86,11 +86,6 @@ hash = "4a1efe77a42baa7c8eb76e1639ac85dc180a0fa855b42d9a94d9ccee606db4a6"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
-hash = "dddbbecca58c5f866d145265da499621770e6adbe36be6d6284f2d409219638b"
-metafile = true
-
-[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "18f046ed2181bbfbfb07b1db22f8babed47a40d8d80f204bd9e5574a5d9cfb3b"
 metafile = true
@@ -188,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "09d31307f81a06df5ab65ff57c2c830180bbc1138bb8326557172b0a883d6b8b"
-metafile = true
-
-[[files]]
-file = "mods/itemphysic-lite.pw.toml"
-hash = "f2817db89956162ec78fd32ed7923e6b6a0840ec3dd5a18b24a0d5181502593d"
 metafile = true
 
 [[files]]
