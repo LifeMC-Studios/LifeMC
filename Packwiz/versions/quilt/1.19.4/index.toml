@@ -276,11 +276,6 @@ hash = "2ffa6237ed942f5734c20ba755ae86592004f977cb6e3e64c34ca19bd60690e2"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-hash = "977fa64f69701ba5617640bf048abc10257ed00ddba615ceca1b52e65e118c2f"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "a0d6bc80ddb30ae38daab5e04d8b1a8066a9f9c51a7f6948f5d755e057c7bd84"
 metafile = true
