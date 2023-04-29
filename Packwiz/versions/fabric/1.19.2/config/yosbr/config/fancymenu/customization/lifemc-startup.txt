@@ -1,0 +1,114 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 187
+  width = 480
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 92978bd2-f5fa-4a2b-99c0-ae9eba0aa7c01681473668771
+  y = 180
+  height = 120
+}
+
+customization {
+  custom_color_hex = 7FBB3E
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = ca0a4a59-9046-480b-ae5e-d4e5169fdb501681473668771
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 187
+  width = 480
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 97c1d5ce-2bd0-4e7a-9141-e090ee2dce681681473668771
+  y = 394
+  height = 10
+}
+
+customization {
+  orientation = bottom-right
+  delayappearanceseconds = 1.0
+  path = config/resources/minecraft/textures/gui/title/lifemc-logo-mainmenu.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -177
+  width = 177
+  action = addtexture
+  actionid = 5d7fac92-10c0-4c84-9b68-f8ac18f1bfc71681484633561
+  y = -100
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 100
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = true
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = {"placeholder":"drippy_gl_percent"}%
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = -100
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = a230eec4-b15c-4475-9fbe-a08451d729801681484701649
+  y = -40
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = false
+  height = 40
+}
+
+customization {
+  orientation = bottom-centered
+  background_color = AAD576
+  x = -427
+  width = 853
+  bar_color = 538D22
+  action = custom_layout_element:drippy_custom_loading_bar
+  actionid = 21b5cba4-5970-4ba1-9423-49d7807d849b1681485499010
+  y = -20
+  progress_for_element_orientation = false
+  direction = right
+  height = 20
+}
+
+customization {
+  path = config/resources/minecraft/textures/gui/logo/piggy.png
+  orientation = bottom-left
+  x = 6
+  width = 71
+  action = addtexture
+  actionid = 7bdf1e36-273f-49de-9bf1-471d75dc64e11681858383617
+  y = -128
+  height = 100
+}
+
