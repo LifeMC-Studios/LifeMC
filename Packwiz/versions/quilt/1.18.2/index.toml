@@ -158,11 +158,6 @@ hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "098b9ed94d05bc731dd403d47702c548d43347bbc80896a21c8b80b5992f9eac"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
 metafile = true
