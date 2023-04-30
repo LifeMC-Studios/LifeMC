@@ -326,7 +326,7 @@ customization {
 customization {
   delayappearanceseconds = 1.0
   slim = false
-  auto_skin = true
+  auto_skin = false
   scale = 30
   showname = true
   follow_mouse = true
@@ -337,11 +337,11 @@ customization {
   delayappearance = true
   bodyrotationx = 0.0
   bodyrotationy = 0.0
-  auto_cape = true
+  auto_cape = false
   is_baby = false
   height = 54
   orientation = bottom-centered
-  copy_client_player = false
+  copy_client_player = true
   headrotationy = 0.0
   headrotationx = 0.0
   skinurl = http://textures.minecraft.net/texture/bb53674477b30ae00119b0adedd71cbefc29a01c32602c3fea7ca1c7232f186e
@@ -373,15 +373,6 @@ customization {
   backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-light-theme-deactive.light.png
   delayappearanceeverytime = false
   height = 24
-}
-
-customization {
-  identifier = %id=901980%
-  seconds = 1.0
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
 }
 
 customization {
