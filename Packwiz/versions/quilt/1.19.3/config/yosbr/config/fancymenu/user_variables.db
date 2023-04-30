@@ -1,0 +1,8 @@
+type = cached_variables
+
+variables {
+  light = runscript='lifemc-themes-script.light.txt'
+  Dark = Light
+  dark = dark
+}
+

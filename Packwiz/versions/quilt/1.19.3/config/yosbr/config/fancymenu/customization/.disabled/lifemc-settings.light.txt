@@ -1,0 +1,217 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_429
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505154%
+  orientation = mid-centered
+  x = 11
+  action = movebutton
+  y = -80
+}
+
+customization {
+  identifier = %id=505154%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-normal-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-normal-deactive.light.png
+}
+
+customization {
+  identifier = %id=345232%
+  orientation = mid-centered
+  x = -160
+  action = movebutton
+  y = -40
+}
+
+customization {
+  identifier = %id=345232%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-video-settings-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-video-settings-deactive.light.png
+}
+
+customization {
+  identifier = %id=345280%
+  orientation = mid-centered
+  x = -160
+  action = movebutton
+  y = 51
+}
+
+customization {
+  identifier = %id=345280%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-resource-pack-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-resource-pack-deactive.light.png
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = mid-centered
+  x = -160
+  action = movebutton
+  y = -80
+}
+
+customization {
+  identifier = %id=505232%
+  orientation = mid-centered
+  x = -160
+  action = movebutton
+  y = 21
+}
+
+customization {
+  identifier = %id=505232%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-control-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-control-deactive.light.png
+}
+
+customization {
+  identifier = %id=505280%
+  orientation = mid-centered
+  x = 11
+  action = movebutton
+  y = 51
+}
+
+customization {
+  identifier = %id=505280%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-accessibility-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-accessibility-deactive.light.png
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 91
+}
+
+customization {
+  identifier = %id=400334%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-normal-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-normal-deactive.light.png
+}
+
+customization {
+  identifier = %id=345256%
+  orientation = mid-centered
+  x = 11
+  action = movebutton
+  y = 21
+}
+
+customization {
+  identifier = %id=345256%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-lang-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-lang-deactive.light.png
+}
+
+customization {
+  identifier = %id=345208%
+  orientation = mid-centered
+  x = 11
+  action = movebutton
+  y = -9
+}
+
+customization {
+  identifier = %id=345208%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-cosmetica-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-cosmetica-deactive.light.png
+}
+
+customization {
+  identifier = %id=505208%
+  orientation = mid-centered
+  x = -160
+  action = movebutton
+  y = -9
+}
+
+customization {
+  identifier = %id=505208%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-audio-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-audio-deactive.light.png
+}
+
+customization {
+  identifier = %id=505256%
+  orientation = mid-centered
+  x = 11
+  action = movebutton
+  y = -40
+}
+
+customization {
+  identifier = %id=505256%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-chat-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-chat-deactive.light.png
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  buttonaction = runscript;lifemc-themes-script.dark%btnaction_splitter_fm%
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-light-theme-active.light.png
+  label = 
+  loopbackgroundanimations = true
+  x = -30
+  width = 24
+  action = addbutton
+  actionid = 810ad4bc-b973-49f9-ad3a-042fe9203d021682803373079
+  y = -33
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-light-theme-deactive.light.png
+  height = 24
+}
+
+customization {
+  identifier = %id=635154%
+  orientation = mid-centered
+  x = 141
+  action = movebutton
+  y = -80
+}
+
