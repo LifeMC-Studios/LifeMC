@@ -16,7 +16,7 @@ joinedFirstServer:true
 telemetryOptInExtra:false
 onboardAccessibility:false
 syncChunkWrites:false
-soundCategory_music:0.0
+soundCategory_music:0.06
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
