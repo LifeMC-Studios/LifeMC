@@ -1,58 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/c2me.toml"
-hash = "39ae1b9c7dedf5ef9fd62952df9f32deb02296d08ab45dd74c27ade455a07c6e"
-
-[[files]]
-file = "config/cosmetica/cosmetica.properties"
-hash = "2d4b4c39e1467d202f7e042f01497b8fa1617a6ef5a48dfe3289b6bdfc92cf1c"
-
-[[files]]
-file = "config/cosmetica/default-settings.properties"
-hash = "53b4e68f6b07476ead95094b0323e2ee188f31d3e75877fa6880ec2ea62419fa"
-
-[[files]]
-file = "config/dynamicfps.toml"
-hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
-
-[[files]]
-file = "config/fastload.properties"
-hash = "63bedcd5bec66f2068590125a505ce27196e39b808a4d3dd404ef46caaa12a59"
-
-[[files]]
-file = "config/iris.properties"
-hash = "08b789827f7cbfaf5bffd5aedb6dfe9889e216e87be4674299781934658767af"
-
-[[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "365f60d6d83034f72213ce4e7fd6298f23e4e92bdbf71a1b5ff6f50e79a64050"
-
-[[files]]
-file = "config/midnightcontrols.json"
-hash = "f4b64d092766caa1a8e7032698b8c15d89123f2767637af6988879d78b88bc02"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "21bcb51dffc577ba66cfa8da9075cfb3371b8e48479a03ef53a6045af01a9c8e"
-
-[[files]]
-file = "config/puzzle.json"
-hash = "3db597996f187e89d66349564b52295fab36d9dfdb28aea9cf9fa1d9d26f8daf"
-
-[[files]]
-file = "config/vmp.properties"
-hash = "77d515103868c99fe35998db55e412176a17107e3504edd0ef031b3f20779d0a"
-
-[[files]]
-file = "config/waveycapes.json"
-hash = "0423838d965ecff34525d76f0015a4c0e8dc8965cd59b4b398d2bd2c95de7df0"
-
-[[files]]
-file = "icon.png"
-hash = "7689ddf7ec46d40d629ee7a096b4750e723831810193111dea99c4b3cb8e1201"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a9df984019ee54c9174937bf071a146bf0f19bcff5f4eacff1835aa7034b3eb4"
 metafile = true
@@ -260,11 +208,6 @@ metafile = true
 [[files]]
 file = "mods/load-my-resources.pw.toml"
 hash = "03b419cd0e9212ca1b3f2b9174bdf5c9154db104678cbcb90aae5ec4aa193e9a"
-metafile = true
-
-[[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]
