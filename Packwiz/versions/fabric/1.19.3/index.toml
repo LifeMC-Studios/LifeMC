@@ -56,6 +56,11 @@ hash = "4830a70a299bd27667a9cc64637364a65eb876175153a076c8da9398e9be89ff"
 metafile = true
 
 [[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "84c3ce8339a863ddc1bae28e73559d8944c397f8a6a50c9cf4bb292b9bb69f40"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
 metafile = true
