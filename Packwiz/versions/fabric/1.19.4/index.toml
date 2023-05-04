@@ -251,11 +251,6 @@ hash = "09f62ae3aee8a090f3b2cf6a1860bff62c1177566ab08850430cb6cbfe90159b"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
 metafile = true
