@@ -1,0 +1,444 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = lifemc_panorama_light
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-normal-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-normal-deactive.light.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = bottom-centered
+  x = -12
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 24
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-settings-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-settings-deactive.light.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-centered
+  x = 48
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 24
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-exit-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-exit-deactive.light.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = bottom-centered
+  x = -42
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  width = 24
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-lang-mainmenu-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-lang-mainmenu-deactive.light.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-normal-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-normal-deactive.light.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = bottom-centered
+  x = 18
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 24
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-mods-active.light.png
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-mods-deactive.light.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 9b1cff60-fee6-4143-82a7-92dbaf0465dd1681470410185
+  y = 445
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 530
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = bc32a8a1-e0d1-4a23-9348-df320fb0c3ae1681470410186
+  y = 214
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 290
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 5db75fc6-3327-4342-8ced-1b4750b1b7481681470410186
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 3035234b-286f-4872-838f-a9a05016ef741681470410186
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = top-centered
+  delayappearanceseconds = 1.0
+  path = config/resources/minecraft/textures/gui/title/lifemc-logo-mainmenu.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -88
+  width = 177
+  action = addtexture
+  actionid = c5f1dd74-1e0d-4452-8106-2e057337d6ff1681486197404
+  y = 0
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 100
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
+  buttonaction = openlink;https://www.discord.com/invite/dnVdDSUJFZ%btnaction_splitter_fm%
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-discord-active.light.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = -72
+  width = 24
+  action = addbutton
+  actionid = f257ebc1-6cc5-4534-be31-961073e889d91681699165659
+  y = -42
+  delayappearance = true
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-discord-deactive.light.png
+  delayappearanceeverytime = false
+  height = 24
+}
+
+customization {
+  delayappearanceseconds = 1.0
+  slim = false
+  auto_skin = false
+  scale = 30
+  showname = true
+  follow_mouse = true
+  capeurl = http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = d561f087-a753-46c4-b520-8f9e2edaf45c1681775444661
+  playername = Nukecraft5419
+  delayappearance = true
+  bodyrotationx = 0.0
+  bodyrotationy = 0.0
+  auto_cape = false
+  is_baby = false
+  height = 54
+  orientation = bottom-centered
+  copy_client_player = true
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/bb53674477b30ae00119b0adedd71cbefc29a01c32602c3fea7ca1c7232f186e
+  crouching = false
+  x = -9
+  width = 18
+  parrot_left_shoulder = false
+  y = -116
+  parrot = false
+  delayappearanceeverytime = false
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
+  buttonaction = runscript;lifemc-themes-script.dark%btnaction_splitter_fm%
+  backgroundhovered = config/resources/minecraft/textures/gui/buttons/light/button-light-theme-active.light.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = -30
+  width = 24
+  action = addbutton
+  actionid = 64ec857e-9eee-492d-a835-2bf9a4bbd1ec1682667701297
+  y = -43
+  delayappearance = true
+  backgroundnormal = config/resources/minecraft/textures/gui/buttons/light/button-light-theme-deactive.light.png
+  delayappearanceeverytime = false
+  height = 24
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = false
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = LifeMC - {"placeholder":"json","values":{"source":"config/fancymenu/custom_locals/lifemc-info.json","json_path":"$.lifemc.info[0].version"}}
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = 2
+  width = 76
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = a68554b3-506b-4df7-b016-e9026bf96da61682979098484
+  y = -20
+  delayappearance = true
+  alignment = left
+  delayappearanceeverytime = false
+  height = 10
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = false
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = Minecraft {"placeholder":"mcversion"}/{"placeholder":"json","values":{"source":"config/fancymenu/custom_locals/lifemc-info.json","json_path":"$.lifemc.info[0].loader"}} (Modded)
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = 2
+  width = 275
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 3d9091b1-a7d2-405a-a1ef-f501f604e8be1682979123541
+  y = -10
+  delayappearance = true
+  alignment = left
+  delayappearanceeverytime = false
+  height = 10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=604322%
+  action = hidebutton
+}
+

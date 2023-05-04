@@ -1,0 +1,10 @@
+{
+    "lifemc": {
+        "info": [
+            {
+                "version": "1.0.0",
+                "loader": "Fabric"
+            }
+        ]
+    }
+}
