@@ -104,9 +104,9 @@
 
 [single_player]
 	#Enable/Disable the Single Player Event
-	enabled = false
+	enabled = true
 	#The first line of text under the app name
-	description = "Currently In %world%"
+	description = "Currently In Singleplayer"
 	#The second line of text under the app name
 	state = ""
 	#The Asset ID/URL of the image to display as the large image

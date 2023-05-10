@@ -42,5 +42,21 @@ version = 2
 		largeImageText = ""
 		smallImageKey = [""]
 		smallImageText = ""
+[[entry]]
+		ip = "localhost"
+		description = "Local test server"
+		state = ""
+		largeImageKey = [""]
+		largeImageText = ""
+		smallImageKey = [""]
+		smallImageText = ""
+[[entry]]
+		ip = "127.0.0.1"
+		description = "Local test server"
+		state = ""
+		largeImageKey = [""]
+		largeImageText = ""
+		smallImageKey = [""]
+		smallImageText = ""
 
 
