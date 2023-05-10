@@ -91,11 +91,6 @@ hash = "79b8321454e5bae1c64a389a8a31f5abd4eb42a6ee80ceccf9dc0237b4ed34db"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
-metafile = true
-
-[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "512c46e1846c7fac7495268730484b5af8a0dc53e748f67d22d4b1193712fe23"
 metafile = true
