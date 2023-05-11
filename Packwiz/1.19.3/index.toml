@@ -344,3 +344,13 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true
+
+[[files]]
+file = "resourcepacks/reimaginedguidark.pw.toml"
+hash = "72610acc30020615a3b2609cc1c22325c0b5796721efb473f7fd5b42207e4bed"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reimaginedguilight.pw.toml"
+hash = "a084f82ba1cfc13d02214bc8a62df288b0c6b49a3dcbc7fbfb805fd36728e9e3"
+metafile = true
