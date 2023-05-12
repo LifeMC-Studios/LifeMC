@@ -241,6 +241,11 @@ hash = "c6932018158da544553f88b977bed1946f59d9c86685f2023b0a9ee196fc3087"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "0ac90dcc33473b316b975601f5c69f172e9babae174e7c85ec24281e31903934"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "df11b66e152011f96cc5a4dbf35d2dec99c4373cb19a8c1c761368170d425cf4"
 metafile = true

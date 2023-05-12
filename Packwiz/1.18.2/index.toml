@@ -241,6 +241,11 @@ hash = "ec64297b6b7f82ede5ecc46a82e8a0e8dc8b730ee2ad763427b7043389b7a072"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "b99c1cae57386de36e5a6dc1d247057d0d5c0e9c5a5563b67d078ea7975919a9"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
