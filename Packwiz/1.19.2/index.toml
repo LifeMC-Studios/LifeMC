@@ -46,11 +46,6 @@ hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
-metafile = true
-
-[[files]]
 file = "mods/cem.pw.toml"
 hash = "7f63923d2240d002b0d113eec8a2fea4869837c09386faed9e1a4d096552d594"
 metafile = true
