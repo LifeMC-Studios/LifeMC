@@ -46,6 +46,11 @@ hash = "55c14fd0cba0ae4478945420862cfdec970a5ab40b04a34ce9e3f94b9d721e38"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
+metafile = true
+
+[[files]]
 file = "mods/cem.pw.toml"
 hash = "2393668f05c9062f95075532c112a18df9d328996a34ad527411540fc07a42b7"
 metafile = true
