@@ -271,6 +271,11 @@ hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "9fbe0cbf3143fef6ef28927dd17dbfa8fb82f8cd4aa201556a1a4c2a0d5a0dee"
+metafile = true
+
+[[files]]
 file = "mods/satin-api.pw.toml"
 hash = "aeb5b8269e1080f0bec57868dd82a5087e9a7d8e1d405ae574f23b589031210a"
 metafile = true
