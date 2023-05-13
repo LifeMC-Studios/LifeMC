@@ -151,6 +151,11 @@ hash = "c738d6b16833d8516cd6bcb163964f0e84244944e01e66346fa6747c1a1a817a"
 metafile = true
 
 [[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "4761b20ff070450ec7abd8906a64450c015d6dd7d827d3a73a08eb8da05a3fad"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4e5b3f0f1f62498a4dfdc4524b8c72ae4e91576ded5f2510cc676532b5876c95"
 metafile = true
