@@ -256,6 +256,11 @@ hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "d4a2dca4a28226d36a35cbd08d6f03b5b33afb2a8c27cd1edd179d56f9d98b6c"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "54db897cb696867285ee42422e4e57ee9e30382541c5e7c85bdaa3324aae63fe"
 metafile = true
