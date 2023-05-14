@@ -1,0 +1,21 @@
+Copyright © Reimagined GUI
+Author @AmongstReality(https://www.planetminecraft.com/member/amongstreality/)
+
+Requirements if you are distributing any assets made by me:
+
+1. Give clear credit in an appropriate place (e.g. video descriptions, pack.mcmetas, listing descriptions).
+2. Link back to pack's page on PlanetMinecraft, Modrinth, CurseForge(You can find all tree links in separate file).
+3. Do not monetise under any circumstances, including use of link shorteners. Any content with assets made by me must be entirely free and open sourced, to uphold my standards. This includes redistribution on the Bedrock Marketplace or locking behind a paywall (e.g. Patreon). Taking voluntary donations or participating in reward programs (e.g. CurseForge points, YouTube monetization) is allowed.
+
+You must abide by the above rules if you are doing any of the following:
+
+1. Distributing my assets in any form, modified or not.
+2. Using my textures as placeholders.
+3. Using my textures as a base for any of your own textures that you're making public.
+4. Using a few textures that you cannot properly make yourself (e.g. paintings).
+5. Distributing a modified copy as a content creator with your videos/streams.
+6. Using textures for adventure maps, server resource packs, mod textures, or data packs.
+
+Exceptions:
+
+1. If you're doing anything privately and undistributed to my assets (e.g. custom edit for personal use, unpublished add-ons, mod support, using the pack for a small private Minecraft server, or edits either by you or from different packs) you can safely disregard all of these requirements since you are not gaining unfairly from me in any form.
