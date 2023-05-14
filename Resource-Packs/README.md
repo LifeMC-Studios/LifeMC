@@ -8,11 +8,11 @@ The "Reimagined GUI" Resource Packs were created by [AmongstReality](https://www
 
 - 🌟 Reimagined GUI Light: [🔗 Modrinth](https://modrinth.com/resourcepack/reimaginedguilight)
   - Licence: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Light)/LICENSE)
-  - Credits: [🔗 CREDITS.md](https://github.com/Nukecraft5419/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Light)/Credits.txt)
+  - Credits: [🔗 Credits](https://github.com/Nukecraft5419/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Light)/Credits.txt)
   - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Light)/Links.txt)
 - 🌑 Reimagined GUI Dark: [🔗 Modrinth](https://modrinth.com/resourcepack/reimaginedguidark)
   - Licence: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Dark)/LICENSE)
-  - Credits: [🔗 CREDITS.md](https://github.com/Nukecraft5419/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Dark)/Credits.txt)
+  - Credits: [🔗 Credits](https://github.com/Nukecraft5419/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Dark)/Credits.txt)
   - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Dark)/Links.txt)
 
 ## 📜 Licence
