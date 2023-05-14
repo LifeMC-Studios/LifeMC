@@ -9,3 +9,19 @@ The 'BSL Shaders' shaders pack was created by [CaptTatsu](https://bitslablab.com
 - 🌟 BSL Shaders: [🔗 Modrinth](https://modrinth.com/shader/bsl-shaders)
   - License: [🔗 LICENCE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/BSL-Shaders/LICENSE)
   - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/BSL-Shaders/Links.txt)
+
+## 🌟 Complementary Shaders v4
+
+The 'Complementary Shaders v4' shaders pack was created by [EminGT](https://www.complementary.dev/).
+
+- 🌟 Complementary Shaders v4: [🔗 Modrinth](https://modrinth.com/shader/complementary-shaders-v4)
+  - License: [🔗 LICENCE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Complementary-Shaders-v4/LICENSE)
+  - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Complementary-Shaders-v4/Links.txt)
+
+## 🌟 Complementary Reimagined
+
+The 'Complementary Reimagined' shaders pack was created by [EminGT](https://www.complementary.dev/).
+
+- 🌟 Complementary Reimagined: [🔗 Modrinth](https://modrinth.com/shader/complementary-reimagined)
+  - License: [🔗 LICENCE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Complementary-Reimagined/LICENSE)
+  - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Complementary-Reimagined/Links.txt)

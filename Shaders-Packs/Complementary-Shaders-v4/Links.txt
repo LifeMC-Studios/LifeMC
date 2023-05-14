@@ -1,0 +1,5 @@
+Sites where you can download the shaders pack:
+Website: https://www.complementary.dev/
+Patreon: https://www.patreon.com/emingt
+Modrinth: https://modrinth.com/shader/complementary-shaders-v4
+CurseForge: https://www.curseforge.com/minecraft/customization/complementary-shaders
