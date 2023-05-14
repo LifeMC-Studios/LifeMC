@@ -1,9 +1,10 @@
 version:3337
 enableVsync:false
 autoJump:false
+snooperEnabled:false
 entityShadows:false
 fullscreen:true
-fov:1.0
+fov:0.75
 renderDistance:12
 simulationDistance:5
 guiScale:3
