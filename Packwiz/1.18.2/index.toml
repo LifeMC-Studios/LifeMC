@@ -369,3 +369,8 @@ metafile = true
 file = "resourcepacks/reimaginedguilight.pw.toml"
 hash = "ff90b8b5bfeac51616dbaadbabf00fbbb1ca822ae373b85d89bae5c2435e6860"
 metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "eb5d07ac1370825eaa1a35eea0b9fa53bf89f7716f7eb62b626effca4f5817b1"
+metafile = true

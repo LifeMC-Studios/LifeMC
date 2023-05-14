@@ -1,0 +1,4 @@
+Sites where you can download the shaders pack:
+Website: https://bitslablab.com/bslshaders/
+Modrinth: https://modrinth.com/shader/bsl-shaders
+CurseForge: https://www.curseforge.com/minecraft/customization/bsl-shaders
