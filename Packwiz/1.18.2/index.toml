@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "02045df9772f52594529fc300e8983a52cd476c64b7282a4c7a218399d38591c"
+hash = "aad1dd0d0152a13c62d273fe70019f6dc3585387f1a83f70c53f76f698d82484"
 metafile = true
 
 [[files]]
@@ -87,12 +87,12 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
-hash = "79b8321454e5bae1c64a389a8a31f5abd4eb42a6ee80ceccf9dc0237b4ed34db"
+hash = "54abc146fa6b2375f0bc67b24a1dcca5aab488fbd7e94641a0ad338901ba5679"
 metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "512c46e1846c7fac7495268730484b5af8a0dc53e748f67d22d4b1193712fe23"
+hash = "4608bbaf2bef1f1a3e46425fa8d7a6f4050ccc864f29d67197bb592b1a21b3b7"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "8091bb4e5053e548987e747d3b7906e9c8e9945634dd72c94290e31d01b2479d"
+hash = "0e1117375a2bff919726d28d05aa0dacd31f485df92c124e66cbe6e2fff9c7cb"
 metafile = true
 
 [[files]]
@@ -177,12 +177,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7270a9ac5690c04fc5445e88b7cbb9f216c94250e7a3cc98d034049341ab0083"
+hash = "062b63f97387a4ec3db4586a5f29243d3ad59460456e4c8d9a914f1a35154f5e"
 metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "8001814e0b6f5546d8a345ef813b8fd010ce5d506a531d44c22227cab4f478d6"
+hash = "be9b0ccbeb46b79706ec96ab8294e10b1434c001dddd626edb04b61776981730"
 metafile = true
 
 [[files]]
@@ -352,10 +352,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguidark.pw.toml"
-hash = "9bbf84224dcc3207a3b90df2cb595b8c59595d4ad103a715764c809de5303486"
+hash = "61b7fd40eac58bec304c87723e5242e22598dc00ab5a051333d168ab3e4fdef0"
 metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguilight.pw.toml"
-hash = "3d3d0d7891ce3bbef7d695ee4e3ae13251fd4abeacfa400428ce36c0bb8a773b"
+hash = "ff90b8b5bfeac51616dbaadbabf00fbbb1ca822ae373b85d89bae5c2435e6860"
 metafile = true
