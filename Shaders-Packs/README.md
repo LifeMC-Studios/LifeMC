@@ -33,3 +33,11 @@ The 'Shrimple' shaders pack was created by [Null](https://modrinth.com/user/Null
 - 🌟 Shrimple: [🔗 Modrinth](https://modrinth.com/shader/shrimple)
   - License: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Shrimple/LICENSE)
   - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Shrimple/Links.txt)
+
+## 🌟 Arc Shader
+
+The 'Arc Shader' shaders pack was created by [Null](https://modrinth.com/user/Null).
+
+- 🌟 Arc Shader: [🔗 Modrinth](https://modrinth.com/shader/arc-shader)
+  - License: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Arc-Shader/LICENSE)
+  - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Arc-Shader/Links.txt)
