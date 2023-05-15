@@ -15,7 +15,7 @@ The 'BSL Shaders' shaders pack was created by [CaptTatsu](https://bitslablab.com
 The 'Complementary Shaders v4' shaders pack was created by [EminGT](https://www.complementary.dev/).
 
 - 🌟 Complementary Shaders v4: [🔗 Modrinth](https://modrinth.com/shader/complementary-shaders-v4)
-  - License: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Complementary-Shaders-v4/LICENSE)
+  - License: [🔗 LICENSE](https://github.com/ComplementaryDevelopment/ComplementaryShadersV4/blob/main/License.txt)
   - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Complementary-Shaders-v4/Links.txt)
 
 ## 🌟 Complementary Reimagined
@@ -23,7 +23,7 @@ The 'Complementary Shaders v4' shaders pack was created by [EminGT](https://www.
 The 'Complementary Reimagined' shaders pack was created by [EminGT](https://www.complementary.dev/).
 
 - 🌟 Complementary Reimagined: [🔗 Modrinth](https://modrinth.com/shader/complementary-reimagined)
-  - License: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Complementary-Reimagined/LICENSE)
+  - License: [🔗 LICENSE](https://github.com/ComplementaryDevelopment/ComplementaryReimagined/blob/main/License.txt)
   - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Complementary-Reimagined/Links.txt)
 
 ## 🌟 Shrimple
@@ -31,7 +31,7 @@ The 'Complementary Reimagined' shaders pack was created by [EminGT](https://www.
 The 'Shrimple' shaders pack was created by [Null](https://modrinth.com/user/Null).
 
 - 🌟 Shrimple: [🔗 Modrinth](https://modrinth.com/shader/shrimple)
-  - License: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Shrimple/LICENSE)
+  - License: [🔗 LICENSE](https://github.com/Null-MC/Shrimple/blob/main/LICENSE)
   - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Shrimple/Links.txt)
 
 ## 🌟 Arc Shader
@@ -39,7 +39,7 @@ The 'Shrimple' shaders pack was created by [Null](https://modrinth.com/user/Null
 The 'Arc Shader' shaders pack was created by [Null](https://modrinth.com/user/Null).
 
 - 🌟 Arc Shader: [🔗 Modrinth](https://modrinth.com/shader/arc-shader)
-  - License: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Arc-Shader/LICENSE)
+  - License: [🔗 LICENSE](https://github.com/Null-MC/Arc-Shader/blob/main/LICENSE)
   - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Arc-Shader/Links.txt)
 
 ## 🌟 Rethinking Voxels
@@ -47,5 +47,5 @@ The 'Arc Shader' shaders pack was created by [Null](https://modrinth.com/user/Nu
 The 'Rethinking Voxels' shaders pack was created by [gri573](https://modrinth.com/user/gri573).
 
 - 🌟 Rethinking Voxels: [🔗 Modrinth](https://modrinth.com/shader/rethinking-voxels)
-  - License: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Rethinking-Voxels/LICENSE)
+  - License: [🔗 LICENSE](https://github.com/gri573/rethinking-voxels/blob/main/License.txt)
   - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Rethinking-Voxels/Links.txt)
