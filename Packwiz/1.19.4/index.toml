@@ -401,6 +401,11 @@ hash = "d468216fa4b4917769fae3179b7bb47656f8a65474e87352d5b379783384e0af"
 metafile = true
 
 [[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "b7a6c9f0966fb1dacd80893f5041feddfe0206ce952958fc49ea08e7dcc2da69"
+metafile = true
+
+[[files]]
 file = "shaderpacks/shrimple.pw.toml"
 hash = "57d8d5e1f59086fc521f05651ea517bf49b2676f40f4e6abc19e026423e68dec"
 metafile = true

@@ -41,3 +41,11 @@ The 'Arc Shader' shaders pack was created by [Null](https://modrinth.com/user/Nu
 - 🌟 Arc Shader: [🔗 Modrinth](https://modrinth.com/shader/arc-shader)
   - License: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Arc-Shader/LICENSE)
   - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Arc-Shader/Links.txt)
+
+## 🌟 Rethinking Voxels
+
+The 'Rethinking Voxels' shaders pack was created by [gri573](https://modrinth.com/user/gri573).
+
+- 🌟 Rethinking Voxels: [🔗 Modrinth](https://modrinth.com/shader/rethinking-voxels)
+  - License: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Rethinking-Voxels/LICENSE)
+  - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Rethinking-Voxels/Links.txt)
