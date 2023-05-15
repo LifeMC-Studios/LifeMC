@@ -1,5 +1,6 @@
 Sites where you can download the shaders pack:
 Website: https://bitslablab.com/bslshaders/
+Discord: https://discord.com/invite/ZJd7jjA
 Patreon: https://www.patreon.com/capttatsu
 PayPal: https://www.paypal.com/paypalme/capttatsu
 Modrinth: https://modrinth.com/shader/bsl-shaders
