@@ -25,3 +25,11 @@ The 'Complementary Reimagined' shaders pack was created by [EminGT](https://www.
 - 🌟 Complementary Reimagined: [🔗 Modrinth](https://modrinth.com/shader/complementary-reimagined)
   - License: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Complementary-Reimagined/LICENSE)
   - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Complementary-Reimagined/Links.txt)
+
+## 🌟 Shrimple
+
+The 'Shrimple' shaders pack was created by [Null](https://modrinth.com/user/Null).
+
+- 🌟 Shrimple: [🔗 Modrinth](https://modrinth.com/shader/shrimple)
+  - License: [🔗 LICENSE](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Shrimple/LICENSE)
+  - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Shrimple/Links.txt)
