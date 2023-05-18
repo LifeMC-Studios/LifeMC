@@ -2,6 +2,8 @@
 
 Here are the shaders packs used in LifeMC.
 
+### 🤝 To help the creators of these Shaders Packs follow the Links.txt files of each Shaders Packs
+
 ## 🌟 BSL Shaders
 
 The 'BSL Shaders' shaders pack was created by [CaptTatsu](https://bitslablab.com/).
@@ -49,3 +51,11 @@ The 'Rethinking Voxels' shaders pack was created by [gri573](https://modrinth.co
 - 🌟 Rethinking Voxels: [🔗 Modrinth](https://modrinth.com/shader/rethinking-voxels)
   - License: [🔗 LICENSE](https://github.com/gri573/rethinking-voxels/blob/main/License.txt)
   - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Rethinking-Voxels/Links.txt)
+
+## 🌟 Super Duper Vanilla
+
+The 'Super Duper Vanilla' shaders pack was created by [Eldeston](https://modrinth.com/user/Eldeston).
+
+- 🌟 Super Duper Vanilla: [🔗 Modrinth](https://modrinth.com/shader/super-duper-vanilla)
+  - License: [🔗 LICENSE](https://github.com/Eldeston/Super-Duper-Vanilla/blob/master/LICENSE)
+  - Useful links: [🔗 Links](https://github.com/Nukecraft5419/LifeMC/blob/main/Shaders-Packs/Super-Duper-Vanilla/Links.txt)

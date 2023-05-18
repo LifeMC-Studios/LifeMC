@@ -534,3 +534,8 @@ metafile = true
 file = "shaderpacks/shrimple.pw.toml"
 hash = "57d8d5e1f59086fc521f05651ea517bf49b2676f40f4e6abc19e026423e68dec"
 metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "a5ed01e32d65dbd67e9573e1575874284a0e3c64aebbbbb872230d8be9fd0e8e"
+metafile = true
