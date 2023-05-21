@@ -23,3 +23,4 @@
 - 🌟 [Arc Shader](https://modrinth.com/shader/arc-shader) by [Null](https://modrinth.com/user/Null)
 - 🌟 [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels) by [gri573](https://modrinth.com/user/gri573)
 - 🌟 [Super Duper Vanilla](https://modrinth.com/shader/super-duper-vanilla) by [Eldeston](https://modrinth.com/user/Eldeston)
+- 🌟 [Solas Shader](https://modrinth.com/shader/solas-shader) by [septonious](https://modrinth.com/user/septonious)
