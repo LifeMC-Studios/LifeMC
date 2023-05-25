@@ -3,5 +3,6 @@
     "editor.defaultFormatter": "yzhang.markdown-all-in-one"
   },
   "githubPullRequests.defaultMergeMethod": "squash",
-  "files.autoSave": "onWindowChange"
+  "files.autoSave": "onWindowChange",
+  "githubPullRequests.pullBranch": "never"
 }
