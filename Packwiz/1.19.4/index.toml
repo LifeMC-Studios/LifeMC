@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "fddf1c5252e74d1fe4624e5891be91c932f43c3315fb7faec83769a289d2c543"
+hash = "2cf94bc44842f1dd2924560a3258fb903d809162100c0dfac7894963ad2012cb"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc1323ed77ac0b485d55f12edde21a1a9cde29b90f85e353fab11b034b7ab9d8"
+hash = "a026bd0b14096ae3a26a324c01155bf7c496b9549ed18d69a3f671ede2e3dc55"
 metafile = true
 
 [[files]]
