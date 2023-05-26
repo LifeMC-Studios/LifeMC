@@ -2,6 +2,8 @@
   "recommendations": [
     "dbaeumer.vscode-eslint",
     "EditorConfig.EditorConfig",
+    "yzhang.markdown-all-in-one",
+    "bierner.github-markdown-preview",
     "tamasfe.even-better-toml",
     "vivaxy.vscode-conventional-commits"
   ]
