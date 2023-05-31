@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "eed93bb8de6a35096acaf2505d63910ed8f5c179a4e4de633c5b53a59e88fdbd"
+hash = "c7a0920a53a695abd97f0ddee54028a2cdc83cca93d8c6186f0d0e3b1df2435b"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
+hash = "bef4d6ae3e73b65d223e78ba62282435cb273b306ef1e8660c28745fcc0b500c"
 metafile = true
 
 [[files]]
