@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "2cf94bc44842f1dd2924560a3258fb903d809162100c0dfac7894963ad2012cb"
+hash = "0f0a38b0fa2e089829b0c8f95d0653d8e1d6de1277c6ed36c29258efe23a289c"
 metafile = true
 
 [[files]]
@@ -261,12 +261,12 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "f974bd1b21f7b3c9046c4ccaeb8ed1cbd36df72b080c5deff86f8d7f5774ce07"
+hash = "9fca594c786bbfbc6951a5e1cca87e701f0c7760ef93903a76740c9a0e19638f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a026bd0b14096ae3a26a324c01155bf7c496b9549ed18d69a3f671ede2e3dc55"
+hash = "5d55ebf01c451aaad25bf8751de6425c28ff29efe04bd7f46b8863a721234188"
 metafile = true
 
 [[files]]
@@ -276,12 +276,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "1d15f4c23e72403f9d3f8aea27001b13808ee5881c8b36fb9f323485193cbe97"
+hash = "498647bf3f7f2ab5b76e0f964b352ea745b01a704e4b37c78b9d02e0a43681a9"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "42272688975731772ce119e33659091edfff29244dddd147320866c0e5177ee8"
+hash = "6ee063e73a6b77d146e57fca4e2e60e652ffa5de6d0d1b049bbcbb974292825e"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
+hash = "bef4d6ae3e73b65d223e78ba62282435cb273b306ef1e8660c28745fcc0b500c"
 metafile = true
 
 [[files]]
@@ -446,12 +446,12 @@ metafile = true
 
 [[files]]
 file = "mods/satin-api.pw.toml"
-hash = "aeb5b8269e1080f0bec57868dd82a5087e9a7d8e1d405ae574f23b589031210a"
+hash = "5b22ab1d724d143f9c32375671acdd7970a160273353e075953b2c7ff1be1105"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "352d2dd8efb08f8a6213c295a10259de61b4536f2afb1fd985ffcea47a55ec8b"
+hash = "88f9054ca637d318c34912fe52429aba5a006d110489cdcea5872d72bd12a063"
 metafile = true
 
 [[files]]
