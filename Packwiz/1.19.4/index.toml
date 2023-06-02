@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "87adb226c6e9c480155c0205bb0e6646bb85f5be16413bc555358df43bf41995"
+hash = "0ae0f0fdbb37a150696c3c6f5a7776029ed832da9e1820e504a8f3546cf1a396"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e6324b15f0cc3ac114be6f389643bb11ff410f401299037ec4703fc1bc35961a"
+hash = "9ab6f2e1d12d17bc50501269efe65a415b115d56b6096b6c9eb136f8de6fb885"
 metafile = true
 
 [[files]]
