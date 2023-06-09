@@ -1,4 +1,3 @@
 {
-    "chunkUnloadDelayInTicks": 72000,
-    "ignoreServerRenderDistance": false
+  "chunkUnloadDelayInTicks": 72000
 }
