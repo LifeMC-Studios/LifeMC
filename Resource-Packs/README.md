@@ -2,6 +2,8 @@
 
 Here are the Resource Packs used in LifeMC.
 
+### 🤝 To help the creators of these Resource Packs follow the Links.txt files of each Resource Packs
+
 ## 🎨 Reimagined GUI
 
 The "Reimagined GUI" Resource Packs were created by [AmongstReality](https://www.planetminecraft.com/member/amongstreality/)
