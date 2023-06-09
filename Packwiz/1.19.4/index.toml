@@ -10,23 +10,23 @@ hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
-hash = "52271b689f95cbef1f24317553086a84f881e3edf0f6fb0895c611612c5d5e33"
+hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
-hash = "1743f1c6234171d4211292bc39aaf87dccc43cfc943a69fe4a3e1c273879ac02"
+hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
 [[files]]
 file = "config/yosbr/config/cosmetica/cosmetica.properties"
-hash = "988ce8ab983fa4dd4d2a4e6fe78f0b0af714dc8c2a0d3efb9e454380410379c5"
+hash = "44d2dbe855e927253548b3fd51c14648c769fd07c39906cd1c69ad5474b773c7"
 
 [[files]]
 file = "config/yosbr/config/cosmetica/default-settings.properties"
-hash = "a34b53be842eb1acc21b60a0cb62a4611bc90e0c0d3b3f4be35d1a5a99e9b5c6"
+hash = "12933dda27b3298fb89b7a7016ff44487700dca92da6b687c6bc70e533357280"
 
 [[files]]
 file = "config/yosbr/config/drippyloadingscreen/config.cfg"
-hash = "22025690d3d3cbcc8636171db84004275957e1a6be07fdb505d64ab0f4c9105f"
+hash = "71c8b6911efae3d5501bae92ef0c20bfc0a65d309a13237266d8e99ca276faee"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -34,39 +34,39 @@ hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "a6775396c0292f6884a58eff7bf10a797b602330623e45b1995dc0746f148722"
+hash = "34f8233c9e93f5b579ade237449901acaac99d12824303c483fc21b76c612393"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "f42fe821af0feee1a1095a664543ce9b17a961c6bcff5bd037a2e2ad09407c7f"
+hash = "fe60a37eab0d7ffa6cd195a3f8fb2922c43b27f384b06561908ea8f7c959e7e2"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
-hash = "119362936d5c3ee485cfd555eeb1be639a0935f176d6d37451e191d3319d3570"
+hash = "0a2bae8ca65427496fd86581e2f2f957ad59acf90a20f7c65e7cd872e0057ff3"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
-hash = "584afa1fcb97aec394f8cf16d0baa05acdddaa0d0de58c2d2b86fb37e6688091"
+hash = "1113a0778901487bd8b073f1934a56137975faaf6357bbc28a2758febc18176e"
 
 [[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "c74250dc1c1f1498ae0baf6b91ef12e3221b37f12217b4bde8fc7fef2d82fb95"
+hash = "4a06d7506cda9ce3ef032c1dbe39c23dd22bbda931167fffd9eaa0d082b248ae"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
-hash = "e60b74ab1295d8d85e57cb689128a31973d01cd5bcb22b0e1219105f3d11b7d7"
+hash = "b7d70766a5a19527ae7838894d069e8732d9844de2852bcc0a93160a764450f4"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
 file = "config/yosbr/config/holdthatchunk.json"
-hash = "7ac2b582177ef8edeacd502d45d5106a31d97767ef29031f21c8086fbbf41522"
+hash = "79ca4feee53b8d49b929b922d60eac67ee10c810d0e6f577a429657aa2a1c6b9"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "53a1dd8b2e9f8f1d7d81d885109b295a1a836372108ebb686e718f2db2d25c07"
+hash = "14dfd003b17dca20607b207376787b7c989c110a0fb04bd8302b4a6146c1554b"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -74,31 +74,31 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "368a6c0384c61787e3eb296a53e8ba7baa2c1701c7c0bbf55987b720d6041c42"
+hash = "a9234869972f6a9482be05ab734cf2192f8ffb3aef1f9d0ee367d1fc11cf7b47"
 
 [[files]]
-file = "config/yosbr/config/lifemc-info.json"
+file = "config/yosbr/config/lifemc.json"
 hash = "e12742402025c93a2ba84b17bbaec32d19ec311596db0d7bbb089437eb6de3a7"
 
 [[files]]
 file = "config/yosbr/config/loadmyresources/config.cfg"
-hash = "7228b6ff09b1b25a8dbcc8f8d59f526cf8d741d366e765d2009ad29fde0eb7f6"
+hash = "d3d9808685618b4a47e82f66a2b64cc00d8750573a0a0648d64c4343b0ed5b3c"
 
 [[files]]
 file = "config/yosbr/config/midnightcontrols.json"
-hash = "d55a3603a3d204bdcaed90a4bdf00b84db7f1262bd7a4d8490b885badae559c3"
+hash = "5de12b87f77a12f2dc515bc4d0684ff16217c448d05975b62771ca3dcfe24592"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "20c2b6ec95a8fa3d8dbb61b1b2c5ce986b6410e8d9f5bff92e8550588db8db70"
+hash = "70a2a23045853043a01b9f7fae7a47c65470b498d2fb8bc02bf22e0b56515a6c"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "97a19031a10809c206b89c366bf1e802e4f2d39e9df798c3c627bf0d63448447"
+hash = "39911094473a65091ffe0c482ef3fb0ba22d9b114739df3e5f758275b34bfb39"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "12fbedf09044dc6969f7ddd8937a9a34d0c31bf77380b335a5a86ea0337c8d9a"
+hash = "480794d061b872b10d8b021d7e75715b625db731f986695615789232d3a61ff3"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
@@ -106,39 +106,39 @@ hash = "33b2480ce87c3f640100d19cb6ad0af9a74966902c2a312deb28050756326cb1"
 
 [[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
-hash = "e5351294777cb73da733b406ce5468e2d5044d6a15b5195b070a2eec27f6d4f3"
+hash = "55611ada7b7906e2b8269c7ff22edd8ca3982fbafdeed7484af66df1e0dd1ae1"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/server-entries.toml"
-hash = "dd4b578471f01d56d9ddbcbda674ff1533df02a0c942758a258764a45b275fb2"
+hash = "dbc9c6a5c1504ba47a6406e6341dac032788c2af1561328af351129b806a3584"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "ef8e672d58ebcfaf68a817a6f9e1b9361b3f23315142bc68a05ce780b3879c16"
+hash = "62f4abee424de1524e02f5540a53b4c42255bdecfba4bb6c52944b50a41cf5b3"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
-hash = "92a24fa7faeb4656541b6efab586b680f22ee3143ea6a42ec4fff9a71a5d9996"
+hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "86499b7156e5bb83905252bfcca734ce83ce84e6fbce4b46d38a9511af30437f"
+hash = "e651ba7e205bdc982ebb0b347223f3073fd560be8a219293e1f69d0c883760a3"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
-hash = "9b12a34baccb388bd7e482a91abeb4c336de0a04c1df6b1ee80457eab7f083a5"
+hash = "45fe768e3777b6d9021c7f159cc19a6e28e8db760be84b1ffae403bfdc2962a9"
 
 [[files]]
 file = "config/yosbr/config/waveycapes.json"
-hash = "d32f9bf5f3b69cd3faeaa858edec3455076d4557f9d704ca37fbac6f9b045b31"
+hash = "7274b750a9257a7134915f43a4ea29554e44e77e36fe7f1d9c0d2e91cf2ed6ab"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
-hash = "54d4f3ab2a1896dc8682e4d615729ebbc1dc3e9047feb2b755797d0d7186e720"
+hash = "af3c59f42dc9c6b34c41ac88d8c1dbc71a60b7471b1c1f5075a15ddfb8ffc90d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a2e9a666a7b354b639a1efaeb328a1fd9992020cefef191c08fcac43203e0be7"
+hash = "2cb31b4b895184ed5b9d164001c1a6eaed1d10a2f844ad6b9d91a53e9bbc01d9"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
 
 [[files]]
