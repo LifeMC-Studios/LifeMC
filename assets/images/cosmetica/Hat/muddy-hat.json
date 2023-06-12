@@ -1,0 +1,58 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "muddy-flower",
+		"particle": "muddy-flower"
+	},
+	"elements": [
+		{
+			"name": "head",
+			"from": [6, 1, 8],
+			"to": [10, 7, 8],
+			"faces": {
+				"north": {"uv": [6, 0, 7, 1.5], "texture": "#0"},
+				"east": {"uv": [6, 0, 6, 1.5], "texture": "#0"},
+				"south": {"uv": [7, 0, 8, 1.5], "texture": "#0"},
+				"west": {"uv": [7, 0, 7, 1.5], "texture": "#0"},
+				"up": {"uv": [7, 0, 6, 0], "texture": "#0"},
+				"down": {"uv": [8, 0, 7, 0], "texture": "#0"}
+			}
+		},
+		{
+			"name": "head",
+			"from": [6, 0, 6],
+			"to": [10, 1, 10],
+			"faces": {
+				"north": {"uv": [13, 1, 14, 1.25], "texture": "#0"},
+				"east": {"uv": [12, 1, 13, 1.25], "texture": "#0"},
+				"south": {"uv": [15, 1, 16, 1.25], "texture": "#0"},
+				"west": {"uv": [14, 1, 15, 1.25], "texture": "#0"},
+				"up": {"uv": [14, 1, 13, 0], "texture": "#0"},
+				"down": {"uv": [15, 0, 14, 1], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 14.5, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "Muddy-Hat",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [
+				{
+					"name": "Hat",
+					"origin": [8, 8, 8],
+					"color": 9,
+					"nbt": "{}",
+					"children": [0, 1]
+				}
+			]
+		}
+	]
+}
