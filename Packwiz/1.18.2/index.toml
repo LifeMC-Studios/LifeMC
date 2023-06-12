@@ -61,10 +61,6 @@ file = "config/yosbr/config/holdthatchunk.json"
 hash = "79ca4feee53b8d49b929b922d60eac67ee10c810d0e6f577a429657aa2a1c6b9"
 
 [[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "48b02c05f7e1000dca679588813b083cc26f6fa5f9945c77608fde33f7c03726"
-
-[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "08b789827f7cbfaf5bffd5aedb6dfe9889e216e87be4674299781934658767af"
 
@@ -308,11 +304,6 @@ metafile = true
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "4761b20ff070450ec7abd8906a64450c015d6dd7d827d3a73a08eb8da05a3fad"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "4e5b3f0f1f62498a4dfdc4524b8c72ae4e91576ded5f2510cc676532b5876c95"
 metafile = true
 
 [[files]]
