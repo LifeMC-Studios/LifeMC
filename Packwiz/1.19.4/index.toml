@@ -352,6 +352,11 @@ hash = "d685c47885829bf913aeaf1b736e07818a412d8f980636f3351e244b4f78e79e"
 metafile = true
 
 [[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "36d0964d55d2a36f27b1f7232fc3cb0f6e3599d442f2b5c8735e638bf45a5cb4"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
