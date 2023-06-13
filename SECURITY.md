@@ -27,3 +27,5 @@ We take the security of LifeMC seriously and take several measures to ensure the
 - 🔒 We train our development team on secure coding practices and conduct background checks on all team members 
 
 🙏 Thank you for helping us keep LifeMC secure!
+
+> All rights reserved. © 2021-2023 LifeMC Studios

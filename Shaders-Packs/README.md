@@ -74,3 +74,5 @@ The 'Solas Shader' shaders pack was created by [septonious](https://modrinth.com
 - 🌟 Solas Shader: [Modrinth](https://modrinth.com/shader/solas-shader) or [Curseforge](https://www.curseforge.com/minecraft/customization/solas-shader)
   - 📝 [LICENSE](https://github.com/Septonious/Solas-Shader/blob/main/LICENSE)
   - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Shaders-Packs/Solas-Shader/Links.txt)
+
+> All rights reserved. © 2021-2023 LifeMC Studios

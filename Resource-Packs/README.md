@@ -28,3 +28,5 @@ The "Dramatic Skys" Resource Packs were created by [thebaum64](https://www.plane
   - 📝 [LICENSE](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/Dramatic-Skys/LICENSE)
   - ❤️ [Patreon](https://www.patreon.com/thebaum64)
   - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/Dramatic-Skys/Links.txt)
+
+> All rights reserved. © 2021-2023 LifeMC Studios

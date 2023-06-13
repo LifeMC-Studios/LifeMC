@@ -35,3 +35,5 @@
 - 🔗 [Modrinth](https://modrinth.com/modpack/lifemc)
 - 🐛 [Issue Tracker](https://github.com/Nukecraft5419/LifeMC/issues)
 - 🔒 [Security Policy](SECURITY.md)
+
+> All rights reserved. © 2021-2023 LifeMC Studios
