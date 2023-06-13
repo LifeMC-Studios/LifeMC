@@ -33,7 +33,7 @@
 
 - 🎤 [Server Discord](https://discord.com/invite/dnVdDSUJFZ)
 - 🔗 [Modrinth](https://modrinth.com/modpack/lifemc)
-- 🐛 [Issue Tracker](https://github.com/Nukecraft5419/LifeMC/issues)
-- 🔒 [Security Policy](SECURITY.md)
+- 🐛 [Issue Tracker](https://github.com/LifeMC-Studios/LifeMC/issues)
+- 🔒 [Security Policy](https://github.com/LifeMC-Studios/LifeMC/blob/main/SECURITY.md)
 
 > All rights reserved. © 2021-2023 LifeMC Studios
