@@ -8,7 +8,7 @@ Only the latest version of LifeMC is supported by security updates.
 
 If you discover security vulnerabilities related to mods included in LifeMC, please report them via one of the following channels:
 
-- 🔒 Open a new issue on our [GitHub Repository](https://github.com/Nukecraft5419/LifeMC/issues) labeled "security" 
+- 🔒 Open a new issue on our [GitHub Repository](https://github.com/LifeMC-Studios/LifeMC/issues) labeled "security" 
 - 🛡️ Notify one of our [Server Discord](https://discord.com/invite/dnVdDSUJFZ) moderators and provide information about the mod and vulnerability.
 
 ⏱️ Please provide as much information as possible about the vulnerability, including a clear description of the problem and steps to reproduce it. We will review and respond to all security issues related to mods included in LifeMC as soon as possible.
