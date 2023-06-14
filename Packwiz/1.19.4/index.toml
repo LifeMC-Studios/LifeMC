@@ -432,6 +432,11 @@ hash = "a6955c0a5238d656d0916537b9b498b2e39a57737fd10fe9d47ce4b925a330d2"
 metafile = true
 
 [[files]]
+file = "mods/paperdoll.pw.toml"
+hash = "e671feaeccd5a6191fa0dc9310d51317e4612769fd1d2ff9cf84d82ff066224c"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "2ffa6237ed942f5734c20ba755ae86592004f977cb6e3e64c34ca19bd60690e2"
 metafile = true
