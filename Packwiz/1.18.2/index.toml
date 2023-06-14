@@ -303,6 +303,11 @@ hash = "c738d6b16833d8516cd6bcb163964f0e84244944e01e66346fa6747c1a1a817a"
 metafile = true
 
 [[files]]
+file = "mods/graphutil.pw.toml"
+hash = "1969ab34f5e00f8f8b2842291f759b0198b35e6df083e7c8516c691a1964a18e"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "4761b20ff070450ec7abd8906a64450c015d6dd7d827d3a73a08eb8da05a3fad"
 metafile = true
@@ -415,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "a6955c0a5238d656d0916537b9b498b2e39a57737fd10fe9d47ce4b925a330d2"
+metafile = true
+
+[[files]]
+file = "mods/paperdoll.pw.toml"
+hash = "9c504542028f06392e9c10243676f06254b97023ce18becf666ade86251b8612"
 metafile = true
 
 [[files]]
