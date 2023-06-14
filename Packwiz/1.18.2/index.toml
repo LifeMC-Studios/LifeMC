@@ -368,6 +368,11 @@ hash = "47c92b4cfd41908adff40fe773908eccebe0332bb94c31072a4382f4f735c599"
 metafile = true
 
 [[files]]
+file = "mods/minecalc.pw.toml"
+hash = "68e788e69756f2ec0a0c1292256db46d3f9399854fc0fa49dd0c406a86c6e9c6"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
