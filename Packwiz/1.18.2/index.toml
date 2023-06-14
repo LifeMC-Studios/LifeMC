@@ -303,6 +303,11 @@ hash = "4761b20ff070450ec7abd8906a64450c015d6dd7d827d3a73a08eb8da05a3fad"
 metafile = true
 
 [[files]]
+file = "mods/imblocker.pw.toml"
+hash = "e604c02ff2715fd3de4153055265f923b759170538e407da57feb9319d1d24c5"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "fdebc54ee80be90757fae74011431710cf07d1df5ffaf81678a5c2c8f2d32a2b"
 metafile = true
@@ -365,6 +370,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "47c92b4cfd41908adff40fe773908eccebe0332bb94c31072a4382f4f735c599"
+metafile = true
+
+[[files]]
+file = "mods/minecalc.pw.toml"
+hash = "68e788e69756f2ec0a0c1292256db46d3f9399854fc0fa49dd0c406a86c6e9c6"
 metafile = true
 
 [[files]]
