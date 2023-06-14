@@ -129,10 +129,6 @@ file = "config/yosbr/config/waveycapes.json"
 hash = "7274b750a9257a7134915f43a4ea29554e44e77e36fe7f1d9c0d2e91cf2ed6ab"
 
 [[files]]
-file = "config/yosbr/config/zoomify.json"
-hash = "af3c59f42dc9c6b34c41ac88d8c1dbc71a60b7471b1c1f5075a15ddfb8ffc90d"
-
-[[files]]
 file = "config/yosbr/options.txt"
 hash = "2cb31b4b895184ed5b9d164001c1a6eaed1d10a2f844ad6b9d91a53e9bbc01d9"
 
@@ -356,6 +352,11 @@ hash = "d685c47885829bf913aeaf1b736e07818a412d8f980636f3351e244b4f78e79e"
 metafile = true
 
 [[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "36d0964d55d2a36f27b1f7232fc3cb0f6e3599d442f2b5c8735e638bf45a5cb4"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
@@ -496,18 +497,8 @@ hash = "0206ee5316f22e23b319eff6e31eb328908bb0ad8b57463be202175061a4a7dc"
 metafile = true
 
 [[files]]
-file = "mods/yacl.pw.toml"
-hash = "37c5d5ea5d8c26d988a1de62ab9afc54fa9d8febf276de57f087a1642265ebfc"
-metafile = true
-
-[[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
 
 [[files]]
