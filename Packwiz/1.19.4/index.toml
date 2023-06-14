@@ -417,6 +417,11 @@ hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "68e797f5a5f2d3cc33802148bd4199bc846e6afa9bff3217b19d220ad7518499"
+metafile = true
+
+[[files]]
 file = "mods/notebook.pw.toml"
 hash = "9dff2b74d7f9d2373eb43e2c6fc075e21ab6a5e5bf576ac1537bd8642b17301c"
 metafile = true
