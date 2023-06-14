@@ -1,0 +1,13 @@
+name = "Better Name Visibility"
+filename = "name-visibility-1.1.0+1.18.2-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pSfNeCCY/versions/e5BQI5dZ/name-visibility-1.1.0%2B1.18.2-1.19.2.jar"
+hash-format = "sha1"
+hash = "a591dbc4e5ddb7387b3bd903ff04de692f99dd1d"
+
+[update]
+[update.modrinth]
+mod-id = "pSfNeCCY"
+version = "e5BQI5dZ"

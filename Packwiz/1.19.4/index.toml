@@ -172,6 +172,11 @@ hash = "296b4e7a1b7eee84117cc64362f27a981a820e9a39c9d8acae9937c0fca99da6"
 metafile = true
 
 [[files]]
+file = "mods/better-name-visibility.pw.toml"
+hash = "aebf926e5fdfabaefe4355f6bc37ed957befd8b8e1bb70383852fa4d1242477b"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "b6199df97bd7363fc0b65ef9fb8c839453981955a6820912376ea77e9994c186"
 metafile = true
@@ -409,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "68e797f5a5f2d3cc33802148bd4199bc846e6afa9bff3217b19d220ad7518499"
 metafile = true
 
 [[files]]
