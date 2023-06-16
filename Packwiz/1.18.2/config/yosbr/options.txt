@@ -32,5 +32,3 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.cosmetica.customise:key.keyboard.unknown
 key_key.cosmetica.snipe:key.keyboard.unknown
-key_zoomify.key.zoom:key.keyboard.c
-key_zoomify.key.gui:key.keyboard.unknown
