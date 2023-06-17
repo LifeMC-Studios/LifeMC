@@ -6,7 +6,7 @@ hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
-hash = "ae3b3676e268bac50ed5235938454992dad4832814e930f4923156ba6e609794"
+hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
 [[files]]
 file = "config/yosbr/config/cosmetica/cosmetica.properties"
@@ -42,7 +42,7 @@ hash = "1113a0778901487bd8b073f1934a56137975faaf6357bbc28a2758febc18176e"
 
 [[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "4a06d7506cda9ce3ef032c1dbe39c23dd22bbda931167fffd9eaa0d082b248ae"
+hash = "09a3ed56558a4d1db89083f668d4e2336bd2cd95a2b905a787bdbf580a349e39"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
@@ -51,10 +51,6 @@ hash = "b7d70766a5a19527ae7838894d069e8732d9844de2852bcc0a93160a764450f4"
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
-
-[[files]]
-file = "config/yosbr/config/holdthatchunk.json"
-hash = "79ca4feee53b8d49b929b922d60eac67ee10c810d0e6f577a429657aa2a1c6b9"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -83,6 +79,14 @@ hash = "8432c5c63f13833727489036d0507cdd03f847c87656161b5c4e311ddfec790c"
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "c7a9f49f606ed01491c039018268ce5da03d551e14e4961be37a887f9b56cc49"
+
+[[files]]
+file = "config/yosbr/config/notenoughanimations.json"
+hash = "a7ef92b530285f85d445f64cfeb1e7e3daf0f724498d219c4fdb88bc27ebf9b8"
+
+[[files]]
+file = "config/yosbr/config/paperdoll.json"
+hash = "0f5b67d7be1da6cefb4346c7e4c1037b93cf5d3444ef40b5a224af54cbce0811"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -122,7 +126,7 @@ hash = "7274b750a9257a7134915f43a4ea29554e44e77e36fe7f1d9c0d2e91cf2ed6ab"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5decfb59c248ca986f754dcde702df5ff02b0f55e073165901bf5605eb3a3ca5"
+hash = "7ca6eac50799ff976f05c6ba0c2ef55a6a904868db49662acc045f146a56e45e"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -296,11 +300,6 @@ metafile = true
 [[files]]
 file = "mods/graphutil.pw.toml"
 hash = "1969ab34f5e00f8f8b2842291f759b0198b35e6df083e7c8516c691a1964a18e"
-metafile = true
-
-[[files]]
-file = "mods/hold-that-chunk.pw.toml"
-hash = "4761b20ff070450ec7abd8906a64450c015d6dd7d827d3a73a08eb8da05a3fad"
 metafile = true
 
 [[files]]

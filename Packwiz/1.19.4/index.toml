@@ -50,7 +50,7 @@ hash = "1113a0778901487bd8b073f1934a56137975faaf6357bbc28a2758febc18176e"
 
 [[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "4a06d7506cda9ce3ef032c1dbe39c23dd22bbda931167fffd9eaa0d082b248ae"
+hash = "09a3ed56558a4d1db89083f668d4e2336bd2cd95a2b905a787bdbf580a349e39"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
@@ -59,10 +59,6 @@ hash = "b7d70766a5a19527ae7838894d069e8732d9844de2852bcc0a93160a764450f4"
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
-
-[[files]]
-file = "config/yosbr/config/holdthatchunk.json"
-hash = "79ca4feee53b8d49b929b922d60eac67ee10c810d0e6f577a429657aa2a1c6b9"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -91,6 +87,14 @@ hash = "70a2a23045853043a01b9f7fae7a47c65470b498d2fb8bc02bf22e0b56515a6c"
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "39911094473a65091ffe0c482ef3fb0ba22d9b114739df3e5f758275b34bfb39"
+
+[[files]]
+file = "config/yosbr/config/notenoughanimations.json"
+hash = "ba46a80e0702c73ae0861a130fb18f0b755b6c57ab9f05a5f582cf25f91d6da2"
+
+[[files]]
+file = "config/yosbr/config/paperdoll.json"
+hash = "0f5b67d7be1da6cefb4346c7e4c1037b93cf5d3444ef40b5a224af54cbce0811"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -130,7 +134,7 @@ hash = "7274b750a9257a7134915f43a4ea29554e44e77e36fe7f1d9c0d2e91cf2ed6ab"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2cb31b4b895184ed5b9d164001c1a6eaed1d10a2f844ad6b9d91a53e9bbc01d9"
+hash = "380918698ab24f9b1d189cba373ac6e9b98666940a64614ca4fd7d637c321fb5"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -312,11 +316,6 @@ hash = "2e0e0ca4f943400d2cf13365f975d1788e6292d9afdadbc392423bb8b42bc4db"
 metafile = true
 
 [[files]]
-file = "mods/hold-that-chunk.pw.toml"
-hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
-metafile = true
-
-[[files]]
 file = "mods/imblocker.pw.toml"
 hash = "7e9782d0edd364770e441aaa779cb249756d0154eca2e21b795bc9bb195d21b9"
 metafile = true
@@ -488,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
 
 [[files]]
