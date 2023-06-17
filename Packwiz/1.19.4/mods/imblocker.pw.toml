@@ -1,13 +1,13 @@
 name = "IMBlockerFabric"
-filename = "imblockerfabric-1.0.21.jar"
+filename = "imblockerfabric-1.0.23.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/752GQt04/versions/MYodL2ME/imblockerfabric-1.0.21.jar"
+url = "https://cdn.modrinth.com/data/752GQt04/versions/MGxMpFT6/imblockerfabric-1.0.23.jar"
 hash-format = "sha1"
-hash = "df39cf1ba6ad40ca24b08bd9af4f6b3e8b6daaae"
+hash = "b2b96b6ce47e3fed621f9c8b296572032550689b"
 
 [update]
 [update.modrinth]
 mod-id = "752GQt04"
-version = "MYodL2ME"
+version = "MGxMpFT6"
