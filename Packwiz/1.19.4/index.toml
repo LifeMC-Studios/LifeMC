@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "b6199df97bd7363fc0b65ef9fb8c839453981955a6820912376ea77e9994c186"
+hash = "d55a2d9e00e1be97f58eeca445034be31ba1063c18446143bd0134b1d572d5e6"
 metafile = true
 
 [[files]]
@@ -223,12 +223,12 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
-hash = "3ead797ab7e006ff35865d5037251e36889f7cdc72e03dbc4a119fcc1a61e438"
+hash = "db67fd9448b1e0f1cc881af44f368fa3d36527f79f3c574b8b18e5c50cb1f3d5"
 metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "62f2cd2dca2fee703bd8d2f1b495db1d9be4282173b0602bd704bfb9b1d7e12b"
+hash = "087cd9e4abcf36693938e9243916064bde52ab9885251e7d11b40a7f24569542"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "d6306703532abe9f949937ef94d994f33cca2533c40333e2bda2f6393e43dc66"
+hash = "17bf07de6c9201582c097351047b15653d15e0f1361b16751c49360cede20ab0"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "498647bf3f7f2ab5b76e0f964b352ea745b01a704e4b37c78b9d02e0a43681a9"
+hash = "0c49c30afd27b0a2cf79b4487a31143a313e847ad6eede7f9d56d7644313e61c"
 metafile = true
 
 [[files]]
@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker.pw.toml"
-hash = "e604c02ff2715fd3de4153055265f923b759170538e407da57feb9319d1d24c5"
+hash = "7e9782d0edd364770e441aaa779cb249756d0154eca2e21b795bc9bb195d21b9"
 metafile = true
 
 [[files]]
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
+hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "a6955c0a5238d656d0916537b9b498b2e39a57737fd10fe9d47ce4b925a330d2"
+hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
 metafile = true
 
 [[files]]
@@ -528,12 +528,12 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "8cbe6766827373015705ada52b23724505683f2d23d0c6edb9b3042ad88c86e1"
+hash = "2b9b902684a7caa72491139d8c4f4788810484e2c53edcddd131be101f1ae6cb"
 metafile = true
 
 [[files]]
@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "dcdb5fbe52b1746de1b48d5543d708b0df79577f52d56b04a5cda333327228e9"
+hash = "1f2ec0bcd3a5e8e5a4070b141654039f726812ae0a76acf2b6b5e309da24dc0e"
 metafile = true
 
 [[files]]
