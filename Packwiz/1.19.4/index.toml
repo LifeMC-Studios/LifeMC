@@ -9,6 +9,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
 
 [[files]]
+file = "config/yosbr/config/bobby.conf"
+hash = "bae545e423c7ab1bb0f1f6661232a35c3e220e5d901575d3abb560da81426c9f"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
 
@@ -188,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "55c14fd0cba0ae4478945420862cfdec970a5ab40b04a34ce9e3f94b9d721e38"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "d42b950fa761275d1680cf51c3edace320f93c8089a59deb3772fab67dad1a15"
 metafile = true
 
 [[files]]
