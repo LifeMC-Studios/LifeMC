@@ -5,10 +5,6 @@ file = "config/yosbr/config/borderlessmining.json"
 hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
 
 [[files]]
-file = "config/yosbr/config/cem.conf"
-hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
-
-[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "ae3b3676e268bac50ed5235938454992dad4832814e930f4923156ba6e609794"
 
@@ -185,11 +181,6 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "61e83f271c7e16618b26ee427e87d9ced073c2e8edcc94dbdff76aed3f5a8069"
-metafile = true
-
-[[files]]
-file = "mods/cem.pw.toml"
-hash = "727c319290b015a46f54f379fdb32b1a8eeb649c85bb7409fe3b9ffd3ebe5d22"
 metafile = true
 
 [[files]]
