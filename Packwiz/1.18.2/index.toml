@@ -462,6 +462,11 @@ hash = "3524293e6afd5b9579d28200d97e6a1cd8ce97604478e6e6d2447b63defe6769"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "03f6c45dd8de23551d1a24aca8d6845d29d375eb9434b7c92da0c9166829b1ac"
 metafile = true
