@@ -1,13 +1,13 @@
 name = "Load My Resources"
-filename = "loadmyresources_fabric_1.0.4_MC_1.19.3.jar"
+filename = "loadmyresources_fabric_1.0.4-1_MC_1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TqCKvqjC/versions/lsBN5Uh2/loadmyresources_fabric_1.0.4_MC_1.19.3.jar"
+url = "https://cdn.modrinth.com/data/TqCKvqjC/versions/vO7R2WNi/loadmyresources_fabric_1.0.4-1_MC_1.20.jar"
 hash-format = "sha1"
-hash = "02728ca1575a2b897b11b51ad6367af802f0921a"
+hash = "9d873d3ac0a95de8dcd29cdde362b7fe72c4dc04"
 
 [update]
 [update.modrinth]
 mod-id = "TqCKvqjC"
-version = "lsBN5Uh2"
+version = "vO7R2WNi"
