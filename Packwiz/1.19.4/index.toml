@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "d55a2d9e00e1be97f58eeca445034be31ba1063c18446143bd0134b1d572d5e6"
+hash = "2f867261971e897b5bc68bcd48d29d5805dccbe260286eaad2a0356d2748388a"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "f0be89b1a9fa284dc986982a3b38939f05953ff42e17fd99eeb6e71c708ecc85"
+hash = "e4559bc9b01fdbb58a709ec6c7c70317a39eab36bbac9cb1f84e0d4e159a2031"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
 metafile = true
 
 [[files]]
