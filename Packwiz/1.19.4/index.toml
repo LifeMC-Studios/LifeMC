@@ -30,7 +30,7 @@ hash = "12933dda27b3298fb89b7a7016ff44487700dca92da6b687c6bc70e533357280"
 
 [[files]]
 file = "config/yosbr/config/drippyloadingscreen/config.cfg"
-hash = "71c8b6911efae3d5501bae92ef0c20bfc0a65d309a13237266d8e99ca276faee"
+hash = "d2b2c35de77f6b1f6e9e0ff1c7b909a8c2c480d74c3b4ac9defc6ffbe932b6a3"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -78,7 +78,7 @@ hash = "e12742402025c93a2ba84b17bbaec32d19ec311596db0d7bbb089437eb6de3a7"
 
 [[files]]
 file = "config/yosbr/config/loadmyresources/config.cfg"
-hash = "d3d9808685618b4a47e82f66a2b64cc00d8750573a0a0648d64c4343b0ed5b3c"
+hash = "1ea0cd71c7e4d5bf0425e1cf966cb197e038a30a3d39b549fc3d1871f12b963f"
 
 [[files]]
 file = "config/yosbr/config/midnightcontrols.json"
