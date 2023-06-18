@@ -7,9 +7,9 @@
 
 <div align="center">
 
-![](https://img.shields.io/modrinth/v/ms5DhVTo?color=7FBB3E&logo=modrinth&style=for-the-badge)
-![](https://img.shields.io/modrinth/dt/ms5DhVTo?color=7FBB3E&logo=modrinth&style=for-the-badge)
-![](https://img.shields.io/tokei/lines/github/LifeMC-Studios/LifeMC?color=7FBB3E&logo=github&style=for-the-badge)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/modpack/lifemc)
+[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_64h.png)](https://discord.com/invite/dnVdDSUJFZ)
+[![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/translate/crowdin_64h.png)](https://crowdin.com/project/lifemc)
 
 </div>
 
