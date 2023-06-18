@@ -1,0 +1,3 @@
+[light_sources]
+entities = false
+self = true
