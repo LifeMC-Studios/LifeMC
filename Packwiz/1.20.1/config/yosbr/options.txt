@@ -1,0 +1,37 @@
+version:3337
+enableVsync:false
+autoJump:false
+snooperEnabled:false
+entityShadows:false
+fullscreen:true
+fov:1.0
+renderDistance:12
+simulationDistance:5
+guiScale:3
+maxFps:260
+graphicsMode:0
+advancedItemTooltips:true
+resourcePacks:["vanilla","fabric","loadmyresources.hiddenpack","continuity:glass_pane_culling_fix","continuity:default","midnightcontrols:bedrock","file/ReimaginedGUI(Light) 1.19.4.zip","file/ReimaginedGUI(Dark) 1.19.4.zip"]
+incompatibleResourcePacks:["continuity:glass_pane_culling_fix","continuity:default"]
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+telemetryOptInExtra:false
+onboardAccessibility:false
+syncChunkWrites:false
+soundCategory_music:0.06
+key_key.fabricskyboxes.toggle:key.keyboard.unknown
+key_key.antighost.reveal:key.keyboard.unknown
+key_key.entityculling.toggle:key.keyboard.unknown
+key_key.raised.hud.down:key.keyboard.unknown
+key_key.raised.hud.up:key.keyboard.unknown
+key_key.raised.chat.down:key.keyboard.unknown
+key_key.raised.chat.up:key.keyboard.unknown
+key_Reload Menu | CTRL + ALT + :key.keyboard.unknown
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.cosmetica.customise:key.keyboard.unknown
+key_key.cosmetica.snipe:key.keyboard.unknown
