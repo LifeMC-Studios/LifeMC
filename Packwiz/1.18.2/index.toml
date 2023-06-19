@@ -147,11 +147,6 @@ hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "471190b2467d200f034d7f8b38ac932cb76082724439fa500dce4041a431b1f2"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 hash = "567dea83368027d9051051a50e777ef5650f9b5ae74d8a8c5cf1fb5abb74c6d5"
 metafile = true
