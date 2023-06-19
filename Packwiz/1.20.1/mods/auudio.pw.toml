@@ -1,13 +1,13 @@
 name = "Auudio"
-filename = "auudio_fabric_1.0.3_MC_1.19.3.jar"
+filename = "auudio_fabric_1.0.3_MC_1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/FCr31KmZ/versions/dCS1byRn/auudio_fabric_1.0.3_MC_1.19.3.jar"
+url = "https://cdn.modrinth.com/data/FCr31KmZ/versions/gxgmLNKM/auudio_fabric_1.0.3_MC_1.20.jar"
 hash-format = "sha1"
-hash = "eebbee3175a8108d4ec467920477de3805adff5d"
+hash = "eb1ade38a01784d74651257c77a433a71976cce4"
 
 [update]
 [update.modrinth]
 mod-id = "FCr31KmZ"
-version = "dCS1byRn"
+version = "gxgmLNKM"
