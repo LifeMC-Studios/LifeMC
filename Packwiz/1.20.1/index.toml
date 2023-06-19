@@ -230,6 +230,11 @@ hash = "1a777b67fb9236b57e62a4c537794afe1919995d797bb87abf2aa4b9c64680b9"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "23d2c83abcf601d56fa8a500660d8d512192a5a038468492037ec1025ba08b78"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "cdc29be5184744f749227975db823805269c5cab7f9814b91590c5f10b921606"
 metafile = true
