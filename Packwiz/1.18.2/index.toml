@@ -302,6 +302,11 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/fixbookgui.pw.toml"
+hash = "400a288bcdf9b04d2e9face9ff4cc562cc262df35fca7b6c00f4893897a3c901"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "c738d6b16833d8516cd6bcb163964f0e84244944e01e66346fa6747c1a1a817a"
 metafile = true
