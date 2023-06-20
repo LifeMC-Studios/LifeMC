@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixbookgui.pw.toml"
-hash = "400a288bcdf9b04d2e9face9ff4cc562cc262df35fca7b6c00f4893897a3c901"
+hash = "fdb996cb329dc9f3d38113ccad4c97db5ac0b194b0394298d1f3f7dedfe7bd2f"
 metafile = true
 
 [[files]]
