@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "f573cac2ec9cd88456c545e177753791c91a38ba0a46c4ad4c87e5a7878664ea"
+hash = "1127e53daa00cc93cc47e9226012c7121e9f44e83bc269b64699e8ac4894957c"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "6696af9aaf787643fe5c258a3fa982c65e30bd1296aaf1be2218276a8f43fec3"
+hash = "dc5a95fb8a4775576c8c2d87f534ccb9b88be856bd54bbb67f47c6322af8e1ff"
 metafile = true
 
 [[files]]
