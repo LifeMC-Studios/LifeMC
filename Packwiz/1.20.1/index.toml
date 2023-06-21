@@ -831,6 +831,11 @@ hash = "eb6cb8a8cde5c16bfe3c1f14353f362bc857621a9703579ff9aac154c8c975e9"
 metafile = true
 
 [[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "6b64bd79bba3ceef6393e51f97bc04808ac6c8252a084c11cfbb7bec3d3d3b30"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
 metafile = true
