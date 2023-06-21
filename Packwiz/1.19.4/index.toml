@@ -866,11 +866,6 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "b03c0c9616b8e790ca01054d8be91c2d6b62b26e7c9262ec7b0a70fb07e6a7f5"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "dbc9321c870e69e867837cbad4f0c1dcf45c3c27d2ee230f6a6868cde2f9daab"
 metafile = true
@@ -1122,7 +1117,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
 
 [[files]]
