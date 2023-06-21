@@ -1,0 +1,29 @@
+type = customizablemenus
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.class_500 {
+}
+
+cc.cosmetica.cosmetica.screens.MainScreen {
+}
+
+net.minecraft.class_473 {
+}
+
+nl.enjarai.recursiveresources.gui.CustomResourcePackScreen {
+}
+
+net.minecraft.class_433 {
+}
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_429 {
+}
+
+nl.enjarai.recursiveresources.gui.FolderedResourcePackScreen {
+}
+
