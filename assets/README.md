@@ -12,4 +12,12 @@ The buttons were made using [Icons8](https://intercom.help/icons8-7fb7577e8170/e
 
 All Cosmetics were made using [Blockbench](https://www.blockbench.net/) an Open-source tool and [PAINT.NET](https://www.getpaint.net/download.html) those who want to learn how to make cosmetics can freely use all the resources found [here](https://github.com/LifeMC-Studios/LifeMC/blob/main/assets/cosmetica)
 
+## 🏅 Badges
+
+The badges used come from an opensource library called Devin's Badges made by [Devin](https://github.com/intergrav/devins-badges)
+
+## 🏳️ Flag Icons
+
+The flag icons used come from an opensource library called flag-icons made by [Lipis](https://github.com/lipis/flag-icons)
+
 > All rights reserved. © 2021-2023 LifeMC Studios
