@@ -996,6 +996,11 @@ hash = "d685c47885829bf913aeaf1b736e07818a412d8f980636f3351e244b4f78e79e"
 metafile = true
 
 [[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
+metafile = true
+
+[[files]]
 file = "mods/logical-zoom.pw.toml"
 hash = "36d0964d55d2a36f27b1f7232fc3cb0f6e3599d442f2b5c8735e638bf45a5cb4"
 metafile = true
