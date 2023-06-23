@@ -1137,7 +1137,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
 metafile = true
 
 [[files]]
@@ -1232,7 +1232,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "4cacf73dddc3092036e70f8d0d97e28cd790f5661270bf7d67d1fb3b33bd439d"
+hash = "4c3709e69305d1cdfba1ee73bdf239e7298e4eff6e0dbdfc97cc05dd1490fb80"
 metafile = true
 
 [[files]]
