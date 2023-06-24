@@ -1,5 +1,10 @@
 {
   preview: {
+    alwaysOn: true,
+    swapModes: true,
     position: "OUTSIDE"
+  }
+  "tooltip": {
+    "showKeyHints": false
   }
 }
