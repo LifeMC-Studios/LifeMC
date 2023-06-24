@@ -3,11 +3,11 @@ filename = "minecalc-1.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vptsNFMA/versions/6GtEbLO3/minecalc-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/vptsNFMA/versions/XDdK4FK4/minecalc-1.0.3.jar"
 hash-format = "sha1"
-hash = "72e52eb9441528892f55ea29ca6f7ffc24019393"
+hash = "e7d02ddacc5103c30fcaf78d6be7e254d5e92d50"
 
 [update]
 [update.modrinth]
 mod-id = "vptsNFMA"
-version = "6GtEbLO3"
+version = "XDdK4FK4"
