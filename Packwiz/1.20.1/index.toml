@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
+hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
@@ -845,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "eb6cb8a8cde5c16bfe3c1f14353f362bc857621a9703579ff9aac154c8c975e9"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
 metafile = true
 
 [[files]]
@@ -970,12 +970,12 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker.pw.toml"
-hash = "7e9782d0edd364770e441aaa779cb249756d0154eca2e21b795bc9bb195d21b9"
+hash = "3d70e3bd2bc610b044f074de7db302bd5cb5ecb443318440fc298dff0bd04280"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e6e746d0ac4dd170a8309e7bda19ad05c74d6352c1569f83f4dd01e2980674ff"
+hash = "45ad54cce889a3327cc38e244b140552c8a8616068885c26f05d4edc0a0456f0"
 metafile = true
 
 [[files]]
@@ -1045,7 +1045,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecalc.pw.toml"
-hash = "c531e0cd31778c8395d7d41253881d66e7fc71ef63b433d122a14cf2385d68a0"
+hash = "1eefe9a68d8cf536a3ad04b0d61ca3e6aaa248ac8531816bfb63c2c5c999ff5d"
 metafile = true
 
 [[files]]
@@ -1085,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/notebook.pw.toml"
-hash = "9dff2b74d7f9d2373eb43e2c6fc075e21ab6a5e5bf576ac1537bd8642b17301c"
+hash = "94936c12b163f37cf285f98153132f8183d8347a480fe53ad23904897658b387"
 metafile = true
 
 [[files]]
@@ -1165,7 +1165,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-scroll.pw.toml"
-hash = "8659c822c42563064e8dfd7f8f9cdd1cc504924cdd11bae257a7527c0c10528e"
+hash = "5a878c0c7c9b4476f709d291171bca31701cb6cf3e2b39d9a68aa1cecf2adc64"
 metafile = true
 
 [[files]]
