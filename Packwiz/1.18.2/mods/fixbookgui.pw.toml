@@ -3,11 +3,11 @@ filename = "fixbookgui-mc1.18.2-1.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/myKgAJq6/versions/ZyfdBkAy/fixbookgui-mc1.18.2-1.4.jar"
+url = "https://cdn.modrinth.com/data/myKgAJq6/versions/BuvU4ax0/fixbookgui-mc1.18.2-1.4.jar"
 hash-format = "sha1"
-hash = "2409c1c25fba898bb0c1feee844b58b10cbb55be"
+hash = "6274c21f6e44f03caaa6f4b36ce43cb6ff0c6492"
 
 [update]
 [update.modrinth]
 mod-id = "myKgAJq6"
-version = "ZyfdBkAy"
+version = "BuvU4ax0"
