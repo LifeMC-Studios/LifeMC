@@ -1,8 +1,132 @@
 # 📜 Copying
 
-The source code of the LifeMC repository is distributed under the GNU General Public Licence v3.0 found in the [LICENSE](https://github.com/LifeMC-Studios/LifeMC/blob/main/LICENSE) file.
+LifeMC is free software, and the repository source code is distributed under the GNU General Public License v3.0, published by the Free Software Foundation. You may redistribute and/or modify the software under the terms of this license or any later version, as specified in the [LICENSE](https://github.com/LifeMC-Studios/LifeMC/blob/main/LICENSE) file.
 
-However, it is important to keep in mind that some files and packages are subject to different licences provided by their authors. These licences may require explicit permission for use in modpacks and the inclusion of their credits.
+However, it is important to keep in mind that some files and packages within the modpack are subject to different licenses provided by their respective authors. These licenses may require explicit permission for use in modpacks and the inclusion of corresponding credits. In addition, some resource packages, such as icons, can only be distributed by citing credits.
+
+Please ensure that you have received a copy of the GNU General Public Licenses and the COPYING.md file with your modpack. If not, you can consult the license at https://www.gnu.org/licenses or visit this repository to get the latest versions or report any problems.
+
+## Other related documents
+
+- [SECURITY.md](https://github.com/LifeMC-Studios/LifeMC/blob/main/SECURITY.md): This document provides important information on software security and procedures to follow in reporting vulnerabilities.
+- [CONTRIBUTING.md](https://github.com/LifeMC-Studios/LifeMC/blob/main/CONTRIBUTING.md): If you wish to contribute to the development of this software, please consult this document for information on the contribution process and guidelines for developers.
+- [Issues Page](https://github.com/LifeMC-Studios/LifeMC/issues): If you encounter problems or wish to report bugs or suggestions for improving the software, please visit this page to submit a report.
+
+
+## 🟩 Icons8
+
+```
+Universal Multimedia License Agreement for Icons8
+
+Dear Customer,
+
+This document serves as our Standard Universal Multimedia Licensing Agreement between you - the Customer, Licensee, or User of our Services, and Icons8 or our subsidiaries, including but not limited to:
+
+Using, downloading, accessing, or copying Content from our website or that of our subsidiaries constitutes your acceptance of these Licensing Terms as well as any changes to this Agreement. Please revisit this Agreement before purchasing any future Content Licenses to be aware of modifications.
+
+For purposes of this Licensing Agreement, the following terms and definitions apply:
+
+a. Account Access. A "License" or consent is issued based on the number of individual users who have access to the Licensed Materials. A single License is issued to persons that are Free account holders, individuals, or companies if there is only one (1) person accessing and/or using Licensed Material. Note: It is strictly prohibited for more than one (1) User or Licensee to use or access a single account at any time. NO OTHER PERSONS (INCLUDING EMPLOYEES, CO-WORKERS, OR INDEPENDENT CONTRACTORS) MAY ACCESS YOUR ACCOUNT OR USE CONTENT LICENSED THROUGH YOUR ACCOUNT.
+
+b. Team License. If a Licensee or User shall have two or more persons using or accessing an Icons8 or subsidiary account at any time, a Team License is required. Please contact Icons8 Support Team at https://icons8.com/contact to purchase multiple licenses or Team License.
+
+c. Infringement. The Licensee's use of any Licensed Material in a manner not permitted under the terms of this Agreement constitutes copyright infringement, and Icons8 shall be entitled to exercise any and all rights or remedies to enforce these terms. The Licensee understands and agrees to be liable and responsible for any and all damages resulting from the said infringement, including but not limited to legal and attorney fees.
+
+d. Distribution. The Licensee may not sell or otherwise distribute the final product made solely or majorly of Licensed Materials without the written consent of Icons8. Please contact Icons8 at https://icons8.com/contact for information if you would like to sell or distribute our products.
+
+f. Tax Responsibility. The Licensee is responsible for any and all appropriate sales or uses tax imposed by any government authority or jurisdiction as a result of the License granted to the Licensee by Icons8.
+
+a. Icons8 grants the User or Licensee a worldwide, non-exclusive, revocable, non-transferable rights to use Licensed Material and reasonably modify while maintaining the integrity of Content; All Licensed Materials are subject to provisions, restrictions, and limitations as provided within this License Agreement.
+
+b. Free and paid account holders may provide third parties with the final product containing the Licensed Material if the third party expressly agrees with the terms and conditions of this Agreement. The Licensee is responsible for including a copy of this Agreement when providing third parties with the final product. Licensees must inform third parties about the rules for crediting and distributing Licensed Material specified below.
+
+I. Free Account Holders:
+
+II. Paid Users/Licensees:
+
+c. The Licensee acknowledges that Icons8 retains all rights, titles, and interests in copyrighted icons, illustrations, photographs, music, or other media created by Icons8 staff, employees, or agents. Independent artists that create icons; photographs; music; or other Licensed Material for sale or distribution on the Icons8 website retain full ownership rights and interest in their original works as provided herein.
+
+I. Licensees. Licensees and Users, except Free Account Holders, are granted a limited license to use, change, or modify any recorded works displayed or uploaded on our website. Use of Licensed Material or Content is subject to restrictions noted within this Agreement.
+
+II. Free Account Holders. Permitted uses for Free Account Holders: synchronization with an audio-visual or audio-only work (allowed variations: cutting, stretching, looping). Prohibited Uses for Free Account Holders: remixing, mashing up, adding lyrics.
+
+III. Commercial Use. Licensed Material or Content may not be: exported, shared, downloaded, uploaded, or otherwise displayed specifically for commercial use (i.e., for reselling), nor shall works be distributed, shared, exported, uploaded, or downloaded as stand-alone files.
+
+IV. Content ID. Due to administration costs, music marked with the Content ID tag is not licensed for YouTube. However, users are welcome to contact Icons8 or reach music authors directly to discuss licensing for Youtube.
+
+V. P.R.O. Music marked with the P.R.O. tag is registered with Performing Rights Organizations (PRO) and is not licensed for playing in public, including but not limited to TV, radio, and public spaces. The performance rights are not included with the Icons8 license. However, users can contact Icons8 or negotiate the terms with the music authors directly.
+
+Licensee may, subject to License usage, permission, and/or restrictions noted within this Agreement, use, alter, crop, reasonably modify, adapt, or make derivative works of the Licensed Materials found on Icons8 or subsidiary websites.
+
+Permitted License Usage of Licensed Material includes:
+
+The Licensor prohibits the use of Licensed Material in the following cases (immediate revocation will apply):
+
+The Licensee may use the Licensed Material only with expressed written consent of Icons8 in the following circumstances (additional license fees may apply):
+
+If a Licensee or User has committed a copyright violation, please notify Customer Service immediately at copyright@icons8.com.
+
+a. Claims. A copyright violation Claim (i.e., "Claim") must be in writing and sent to our Company via email or the U.S. Postal Service. The Claim must contain the Claimant's (i.e., the person making a Claim) name, address, email address, contact information, and proof of intellectual property ownership or rights to ownership.
+
+The Claim must also:
+
+b. Investigation. Our Company will conduct an investigation when our Copyright Agent receives the Claim. We will immediately take the following actions: (I) Freeze the alleged violator's account; (II) Conduct an investigation; (III) Verify the Claim; (IV) Notify the violator of the Claim; and
+
+(V) Send the Claimant a prompt response about our investigation.
+
+c. Warnings and False Claims. First-time copyright offenders will receive a written warning, and their content will be deleted. Upon receiving a second complaint, the offender's account will be terminated. If our Copyright Agent discovers the Claimant filed a false claim, we will immediately release any disputed material back to the original owner and unfreeze their account.
+
+d. Responsibility. The Claimant also agrees to be personally and financially responsible for all costs or fees incurred as a result of filing a false claim, as well as the cost of the investigation, including but not limited to attorney's fees, legal fees, and expenses.
+
+a. The term of this Universal Multimedia License begins immediately upon the Licensee's access, acceptance, download, upload, or purchase of any Licensed Material from the Icons8 or subsidiary websites, and is valid for the term specified within the Licensee or User's particular licensing package agreed upon at purchase (i.e., "Licensing Period").
+
+This License covers the following aspects of the Licensed Material:
+
+b. After expiration or termination of this Universal Multimedia Licensing Agreement, the following features shall remain and be applicable to:
+
+c. Upon expiration, this License and Agreement shall not apply to:
+
+The Licensee or User warrants and agrees to be responsible for all Licensed Materials uploaded, downloaded, or otherwise transmitted between our websites and the end User. Under the terms of this Universal Multimedia Agreement, the Licensee shall not permit the unauthorized display, access, distribution, use, or sharing of any Licensed Material or Content. The Licensee also agrees:
+
+a. Infringement. Pursuant to the terms of this Agreement and the purchased Universal Multimedia License, Icons8 (and its subsidiaries) warrant that the Licensed Material will not infringe upon any copyrights, or intellectual property rights of any third party provided the Licensee uses the Content pursuant to the terms of this Agreement.
+
+b. "As Is." The User or Licensee understands and agrees that any and all Licensed Material is provided "as is" without representation, warranty, or condition of any kind, either express or implied, including but not limited to implied warranties, representations, or conditions of merchantability, or fitness for a particular purpose. Icons8 (and its subsidiaries) do not warrant or guarantee that the Licensed Content will meet the Licensee or User's requirements or that their use will be uninterrupted or error-free. The Licensee acknowledges and agrees to bear all risk for the use of the Licensed Material and Content.
+
+c. Defective Content. Should the uploaded, downloaded, or transmitted Licensed Material or Content prove to be defective, the Licensee agrees to assume all risk and cost for corrections. Our Company makes no representation or warranty respecting Licensed Material except as expressly provided herein or within our agreements and policies (as it applies to ownership, technical requirements, or legal compliance).
+
+a. Rights. Licensed Materials are owned or rightfully put on sale by Icons8 and are protected by U.S. and International Copyright Laws, rules, and regulations. No title or intellectual property rights related to the Licensed Material are transferred or assigned to the Licensee. The Licensor retains all rights, titles, and interests not expressly granted by this License Agreement.
+
+b. Trademarks. Some Licensed Materials may contain copyrighted content, such as trademarks and/or fictional characters. These icons shall be used in accordance with accepted trademark practice, as well as a professional standard of care. You understand and agree that the use of any trademark or service mark does not give you any rights of ownership in that trademark. Except as otherwise provided herein, this License Agreement does not grant the User or Licensee any intellectual property rights, nor rights to royalties to Licensed Materials.
+
+a. Liability. At no time shall any of our companies, owners, directors, officers, employees, representatives, affiliates, or content providers; be liable for any incidental, indirect, punitive, exemplary, or consequential damages (including but not limited to loss of profits, interruption, loss of business information or any other pecuniary loss) in connection with any claim, loss, damage, or other proceeding arising under the terms of this Agreement, including without limitation your use of, reliance upon, access to, or exploitation of the Licensed Content, or any part thereof, or any rights granted to the Licensee or User as provided herein, even if our Company had been advised of the possibility of such damages, whether the action is based upon contract, tort (including negligence), infringement of intellectual property rights or otherwise. No action, regardless of form or nature, arising out of this Agreement may be brought by or on behalf of the Claimant more than one (1) year after the cause of action first occurred. Our companies, owners, directors, employees, affiliates, and/or representatives shall not be liable at any time for damages, costs, or losses arising as a result of modifications made to the Licensed Material or Content.
+
+b. Limitation of Liability. Notwithstanding any other terms under this Agreement, the total maximum aggregate liability under this Agreement and any other agreement where our Company has licensed the same Material or Content, regardless of file size, or the Licensee/User's exploitation of any or all Licensed Content in any manner, our aggregate liability shall be limited to the amount paid for the use of the license. Some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages; therefore, the limitations noted herein may not apply to you specifically.
+
+All parties to this Agreement acknowledge and agree that neither shall be responsible for any delay or failure to perform under these terms in the event any delay or failure is caused by fire, flood, strike, labor unrest, riot, embargo, an act of civil or military authority, accident, acts of God, vandalism, or other events beyond its control. Notice of any Force Majeure Event shall be given to the non-affected party as soon as possible after its occurrence. The affected party(ies) shall resume their duties and responsibilities as soon as it is practical.
+
+Violations of any terms of this Universal Multimedia Agreement shall be considered a "breach" or infraction. In case of a breach, the Licensor shall provide the Licensee with written notice of the infraction. Upon receipt of the notice, the Licensee shall have seven (7) days to cure the infraction or violation. If the Licensee fails to remedy the breach timely, then this Agreement is deemed to have been automatically terminated without any further notice to the Licensee. The Licensee agrees to be financially and personally responsible for such breach, including but not limited to: damages, fees, or balances on the account.
+
+a. Mediation. In the event of a dispute regarding this Agreement, its terms, or their interpretation, it is agreed that the Licensor, Licensee, or User will attempt to resolve the dispute in a professional manner. If the parties are unable to resolve the dispute personally, then they both agree to use the services of a Private Mediator in Delaware, U.S.A. The parties agree to share the cost and choice of a Mediator.
+
+b. Notice of Intent. The Disputing Party shall send the Non-Disputing party a thirty (30) day written "Notice of Intent" stating the basis for the intent to Mediate prior to filing a Claim. Service shall be completed by the delivery of the Notice to the Non-Disputing Party's last known address.
+
+c. Procedure. The Mediation Hearing shall be conducted via Mediation or Arbitration Rules adopted by the American Bar Association.
+
+d. Award. The prevailing party shall be entitled to reimbursement of any costs and fees, including but not limited to attorney's fees. This Mediation provision shall survive cancellation or termination of this Agreement.
+
+This Agreement shall be governed by the laws and statutes of the State of Delaware, United States of America, excluding the application of conflict of law provisions. This Agreement shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods (C.I.S.G.), the application of which is expressly excluded.
+
+If any part of this Agreement is found by a court of competent jurisdiction or mediator to be void and unenforceable, the void or unenforceable provision shall not affect the validity or interpretation of the balance of the Agreement, which shall remain valid and enforceable according to its terms.
+
+Icons8 does not process refunds in cases of violation of provisions of this Agreement or expressed terms of Icons8, unless required by the rule of law.
+
+You expressly agree that any feedback provided to you by Icons8, its subsidiaries, or representatives regarding any questions you may have about this Agreement or your use of Licensed Materials hereunder is solely for the purpose of interpreting this Agreement and is not legal advice. Icons8 cannot render legal advice to you and expressly disclaims any liability related to any feedback provided by Icons8 or its subsidiaries and representatives.
+
+If you have questions or comments regarding this Universal Multimedia Licensing
+
+Tel: + 1 929-445-2737
+```
+
 
 ## 🎨 Reimagined GUI
 
