@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "bdb09dbe352b2ad6eda2d014a1a6f44efbdf9f9e559c2a2608bc98479df7a3d2"
+hash = "220a9ccd21b96fc5ce6c8d8d1acdcb0562699cc16c28901802025dcf3a63071e"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
-hash = "f4686a8a4136479be83cf6396cc2fe2de0086c7e28708d999ec341c6c45f36ec"
+hash = "1139be1f63fc33f083d1c2b84bdb5eab053e6d2f564a2a56fe7ab2d0c71d4254"
 
 [[files]]
 file = "config/yosbr/LICENSE"
@@ -62,7 +62,7 @@ hash = "0a2bae8ca65427496fd86581e2f2f957ad59acf90a20f7c65e7cd872e0057ff3"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
-hash = "1113a0778901487bd8b073f1934a56137975faaf6357bbc28a2758febc18176e"
+hash = "cc1c1a2f3ed0a6a3671daccf6834042819d4ec187deecb8efffd7b023afe17fe"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/config.txt"
@@ -738,7 +738,7 @@ hash = "245b755c5b5c1cd3666aca44de5ecebfe9cabbcb5ac3d016bc00ef29792b6b5e"
 
 [[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
-hash = "55611ada7b7906e2b8269c7ff22edd8ca3982fbafdeed7484af66df1e0dd1ae1"
+hash = "3197150af1019ff69919a3616a7e5326b88cc8800725898f958b04152d276ecb"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/server-entries.toml"
@@ -840,11 +840,6 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
-metafile = true
-
-[[files]]
-file = "mods/chatpatches.pw.toml"
-hash = "84c3ce8339a863ddc1bae28e73559d8944c397f8a6a50c9cf4bb292b9bb69f40"
 metafile = true
 
 [[files]]
