@@ -5,7 +5,7 @@ customization-meta {
   randomgroup = 1
   renderorder = foreground
   randommode = false
-  custom_menu_title = 
+  custom_menu_title =
   randomonlyfirsttime = false
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:308c399e-75e4-48a6-b2ce-fffc827a4a171683317405359] = theme:1
 }
@@ -163,7 +163,7 @@ customization {
   restartbackgroundanimations = true
   buttonaction = set_variable;theme:0%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-light-theme-on.dark.png
-  label = 
+  label =
   loopbackgroundanimations = true
   x = -30
   width = 24
@@ -204,7 +204,7 @@ customization {
   source_mode = direct
   line_spacing = 1
   x = 6
-  width = 94
+  width = 120
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 0f88198f-a186-44b4-b258-840fc8183e2d1686993010802
   y = -30

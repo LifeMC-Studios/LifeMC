@@ -6,7 +6,7 @@ hash = "1d3c3d1936a709fac12d98c18fc509679cc361c0bb22cec5288144aee31ed418"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
-hash = "f4686a8a4136479be83cf6396cc2fe2de0086c7e28708d999ec341c6c45f36ec"
+hash = "1139be1f63fc33f083d1c2b84bdb5eab053e6d2f564a2a56fe7ab2d0c71d4254"
 
 [[files]]
 file = "config/yosbr/LICENSE"
@@ -62,7 +62,7 @@ hash = "0a2bae8ca65427496fd86581e2f2f957ad59acf90a20f7c65e7cd872e0057ff3"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
-hash = "1113a0778901487bd8b073f1934a56137975faaf6357bbc28a2758febc18176e"
+hash = "cc1c1a2f3ed0a6a3671daccf6834042819d4ec187deecb8efffd7b023afe17fe"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/config.txt"
@@ -74,39 +74,39 @@ hash = "761a553a7c9aa9d79b78cf332145eb82b41db056c1a6db34781f39bc30632bf4"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "326492ec9f29d9627c7c1bd3b8fd5a557101291acf61c770b1f5f75fa243fcd8"
+hash = "02103568ccec9610f783fcbdb6c42157c744654db93b9458d7da441d466ec08f"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "58051a7f183e91cc5cc1d3528d0ad1d9b3624e041a11f5df2f1ba872ea6bc05c"
+hash = "38b7eadc95e84d29a095bb9be7f601e847518454857dd1c3d4fd9dff8a7a2dcb"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "cfee62e6d0981a7445befd437a15a57d451a20891f99c289a0d5e73c385a99cf"
+hash = "51bdd12bbac22bccf34d54897664aa862ad81c39b58438c3aab67c7eeca57844"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "e419473bcc9a750e2032ca2019cccf650effc2b4ec67d9d458848ac08981b007"
+hash = "8b4545ef0b550ed85cb1e65974bc645bc189c84cecdf312129da4af4ba4c455f"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-resource-packs.dark.txt"
-hash = "4a1fdf7c6ff68686f25e60cabe7ba76b6ef9b7397f25f195ad3a0a6e6e1c2859"
+hash = "3c8ed1b116306b7eb8e528db764851bccf92cbb55e811a87ad4868d8af7cd4ab"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-resource-packs.light.txt"
-hash = "5fc4c5650c653d844ab6da3ed3e35653141d8347ba793df6937d9df3225788ca"
+hash = "73ca5cbe74debf015382764be763cf7a4517852e37e02686959206fa792256de"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "fc82bc4c26250789ca71bfd19a1f0fdbd117cf7f029eff92f7a0de0acfa33335"
+hash = "325f56917d99b35a0abd93467fc0932e5b0582e7771eebb3083407afd44d5dd9"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "1c81a1368ee08b738d52ebe45300529fb1e3a68b20cde223637637fadbeef3d6"
+hash = "93d1101964771a5f927563aec09684071bb75debc9b723f4f8a7317ed53a5e88"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.txt"
-hash = "1fcab9ffbe8825c7ff7f0e2b4494ed6818f1187230b056b3e55fbc8fcdb42d34"
+hash = "dd8e79b69907371ad4a651d5b108ef9394963bc3baba2e2ad466d244e26066e9"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/extensions/fmaudio/config.cfg"
@@ -182,7 +182,7 @@ hash = "a9234869972f6a9482be05ab734cf2192f8ffb3aef1f9d0ee367d1fc11cf7b47"
 
 [[files]]
 file = "config/yosbr/config/lifemc.json"
-hash = "e12742402025c93a2ba84b17bbaec32d19ec311596db0d7bbb089437eb6de3a7"
+hash = "ac28b301a36f24fa7394d6afa7f3122e37cdaaddb4ce57255b1efd57ca58a95a"
 
 [[files]]
 file = "config/yosbr/config/loadmyresources/config.cfg"
@@ -1149,7 +1149,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
 
 [[files]]

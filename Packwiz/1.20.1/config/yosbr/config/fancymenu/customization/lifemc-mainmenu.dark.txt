@@ -87,7 +87,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   action = setbuttonlabel
-  value = 
+  value =
 }
 
 customization {
@@ -126,7 +126,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   action = setbuttonlabel
-  value = 
+  value =
 }
 
 customization {
@@ -170,7 +170,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = setbuttonlabel
-  value = 
+  value =
 }
 
 customization {
@@ -240,7 +240,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   action = setbuttonlabel
-  value = 
+  value =
 }
 
 customization {
@@ -313,30 +313,6 @@ customization {
   shadow = true
   delayappearanceseconds = 1.0
   scale = 1.0
-  source = Minecraft {"placeholder":"mcversion"}
-  text_border = 0
-  case_mode = normal
-  fadein = true
-  source_mode = direct
-  line_spacing = 1
-  fadeinspeed = 1.0
-  x = 6
-  width = 200
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = acf6df98-6593-4a92-a1b9-43553e1e15851686851954482
-  y = -30
-  delayappearance = true
-  alignment = left
-  delayappearanceeverytime = false
-  height = 14
-}
-
-customization {
-  orientation = bottom-left
-  enable_scrolling = false
-  shadow = true
-  delayappearanceseconds = 1.0
-  scale = 1.0
   source = LifeMC - {"placeholder":"json","values":{"source":"config/lifemc.json","json_path":"$.version_number"}}
   text_border = 0
   case_mode = normal
@@ -345,10 +321,10 @@ customization {
   line_spacing = 1
   fadeinspeed = 1.0
   x = 6
-  width = 94
+  width = 120
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = f2e1f4f2-19ea-4223-baf4-bfe7a6d04e9d1686852033056
-  y = -44
+  y = -30
   delayappearance = true
   alignment = left
   delayappearanceeverytime = false
@@ -392,7 +368,7 @@ customization {
   delayappearanceseconds = 1.0
   buttonaction = openlink;https://discord.com/invite/dnVdDSUJFZ%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-discord-on.dark.png
-  label = 
+  label =
   loopbackgroundanimations = true
   fadein = true
   fadeinspeed = 1.0
@@ -429,7 +405,7 @@ customization {
   delayappearanceseconds = 1.0
   buttonaction = set_variable;theme:0%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-light-theme-on.dark.png
-  label = 
+  label =
   loopbackgroundanimations = true
   fadein = true
   fadeinspeed = 1.0
@@ -451,7 +427,7 @@ customization {
   delayappearanceseconds = 1.0
   buttonaction = openlink;https://modrinth.com/modpack/lifemc/versions?g={"placeholder":"mcversion"}%btnaction_splitter_fm%quitgame%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-update-on.dark.png
-  label = 
+  label =
   loopbackgroundanimations = true
   fadein = true
   fadeinspeed = 1.0
@@ -515,3 +491,27 @@ customization {
   height = 14
 }
 
+customization {
+  orientation = bottom-right
+  enable_scrolling = false
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = {"placeholder":"local","values":{"key":"lifemc.btn.update"}}
+  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:73c5094f-6006-47e2-b158-3f64abad0f921687979544461] = ["mode":"equals","text":"{"placeholder":"json","values":{"source":"config/lifemc.json","json_path":"$.version_number"}}","compare_with":"{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/LifeMC-Studios/LifeMC/main/Packwiz/{"placeholder":"mcversion"}/config/yosbr/config/lifemc.json","json_path":"$.version_number"}}"]$
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = -178
+  width = 130
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = ba55f9f2-9967-4953-8821-e9c2f82cba421687979276025
+  y = -39
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = false
+  height = 14
+}
