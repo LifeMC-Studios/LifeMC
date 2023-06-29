@@ -205,6 +205,10 @@ file = "config/yosbr/config/puzzle.json"
 hash = "d1b6dc890e63638f9c472d67b260f7b4c02753e007555f1730ae90e360b248ac"
 
 [[files]]
+file = "config/yosbr/config/rebrand.toml"
+hash = "62003b3842fe9d479183984cc7e7d3d818bc5bfd820e67966bfb503f6bfcbc4e"
+
+[[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-a-z-off.dark.png"
 hash = "4a98c2dfd37482558ea4948f202cb02fb6271387bbd191be44e5d7167803e6aa"
 
@@ -1124,6 +1128,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "c9f705f26e7ef483b2a206351eff4fb6bb0a4326d7f0d3396e7779e0f4d3eb5f"
+metafile = true
+
+[[files]]
+file = "mods/rebrand.pw.toml"
+hash = "d3ad8b40d4ce5850423c7856f4bbbca4371004f8107406c687545ebce6e11512"
 metafile = true
 
 [[files]]
