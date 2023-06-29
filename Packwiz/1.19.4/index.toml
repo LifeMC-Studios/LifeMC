@@ -803,6 +803,11 @@ hash = "a6565a2fac0b79155b0576ff882f88092c02c7c2a5793d760d5bcbada4b79ca8"
 metafile = true
 
 [[files]]
+file = "mods/axolotl-buckets.pw.toml"
+hash = "019577bf41bb3e0d237a011dc1acc0f1089e743a3dbd645dddb366a239289df7"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "296b4e7a1b7eee84117cc64362f27a981a820e9a39c9d8acae9937c0fca99da6"
 metafile = true
