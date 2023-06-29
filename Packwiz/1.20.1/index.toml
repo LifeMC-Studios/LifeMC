@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "220a9ccd21b96fc5ce6c8d8d1acdcb0562699cc16c28901802025dcf3a63071e"
+hash = "2872786202b8fd14b2de0008152e93db25c59d398743c7fc408703a53fe39f9d"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
@@ -211,6 +211,10 @@ hash = "0f5b67d7be1da6cefb4346c7e4c1037b93cf5d3444ef40b5a224af54cbce0811"
 [[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "480794d061b872b10d8b021d7e75715b625db731f986695615789232d3a61ff3"
+
+[[files]]
+file = "config/yosbr/config/rebrand.toml"
+hash = "62003b3842fe9d479183984cc7e7d3d818bc5bfd820e67966bfb503f6bfcbc4e"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-accessibility-off.dark.png"
@@ -1105,6 +1109,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "42153abff17509e85e338e13ffe04ce7792e3efd3c3aba5970782e33b1a4530c"
+metafile = true
+
+[[files]]
+file = "mods/rebrand.pw.toml"
+hash = "f97ac5343b9fbda4c7515a6e698e635d4fa3f6b829fbec51ac2cae7aa5fdcedb"
 metafile = true
 
 [[files]]
