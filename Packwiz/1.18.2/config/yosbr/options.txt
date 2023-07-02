@@ -11,7 +11,7 @@ guiScale:3
 maxFps:260
 graphicsMode:0
 advancedItemTooltips:true
-resourcePacks:["vanilla","Fabric Mods","loadmyresources.hiddenpack","continuity/default","continuity/glass_pane_culling_fix","midnightcontrols/bedrock","file/ReimaginedGUI(Light) 1.18.2.zip","file/ReimaginedGUI(Dark) 1.18.2.zip"]
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","midnightcontrols/bedrock","file/ReimaginedGUI(Light) 1.18.2.zip","file/ReimaginedGUI(Dark) 1.18.2.zip"]
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
