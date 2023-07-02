@@ -823,7 +823,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "d9fbfd705705d9e7e16dfcb7e05e780be85c8f24d5da467b77ffd36704b0e50b"
+hash = "edcb94bb9ab643f84a3014a2aafdf4f8e053ec501aea03dc086e2f3a1d2070fa"
 metafile = true
 
 [[files]]
@@ -938,7 +938,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "32cff441dba71cee026356fe08147e289183532b7215071cdb0dd91af56aa643"
+hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
 metafile = true
 
 [[files]]
