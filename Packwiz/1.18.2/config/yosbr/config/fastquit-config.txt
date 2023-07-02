@@ -1,2 +1,0 @@
-showToasts:true
-backgroundPriority:2
