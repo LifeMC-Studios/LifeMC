@@ -914,7 +914,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b92a08e1bcd540e972238d9744b2b85df361df4eeaeeaec993be62c33507054a"
+hash = "2205239199b4a1e74afcdba1151807d2e4487ce2cf116cee9f62d25f1659a3f5"
 metafile = true
 
 [[files]]
@@ -1084,7 +1084,7 @@ metafile = true
 
 [[files]]
 file = "mods/notebook.pw.toml"
-hash = "e6e91bd018066ec9d443da71d2a2d82792f7ea0acb1feb52ea7d14a7747e8009"
+hash = "b75df70741017dd124bc24a9923da2376819a41bf50ae39870a5290fef604e04"
 metafile = true
 
 [[files]]
@@ -1229,7 +1229,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "8445f71e1d1a5d5574204382fba1c75b5506ccf07b8a7605f0d810574c113d70"
+hash = "ce18d14782c7d414c416de2b2613369c23d39a85c252f81ed1073816d5587b44"
 metafile = true
 
 [[files]]
