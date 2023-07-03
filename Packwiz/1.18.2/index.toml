@@ -157,10 +157,6 @@ file = "config/yosbr/config/fastload.properties"
 hash = "09a3ed56558a4d1db89083f668d4e2336bd2cd95a2b905a787bdbf580a349e39"
 
 [[files]]
-file = "config/yosbr/config/fastquit-config.txt"
-hash = "b7d70766a5a19527ae7838894d069e8732d9844de2852bcc0a93160a764450f4"
-
-[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
