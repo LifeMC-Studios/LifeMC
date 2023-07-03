@@ -919,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fb8d869693d3235ef75c600f277f57b810aa80ddd6ee2dad3a86cf0d0af230e1"
+hash = "8549f8fdb7d2eb89173efd1f03d750e15d1d984c215d075e83ba59a8e115b5b9"
 metafile = true
 
 [[files]]
@@ -1239,7 +1239,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "8445f71e1d1a5d5574204382fba1c75b5506ccf07b8a7605f0d810574c113d70"
+hash = "ce18d14782c7d414c416de2b2613369c23d39a85c252f81ed1073816d5587b44"
 metafile = true
 
 [[files]]
