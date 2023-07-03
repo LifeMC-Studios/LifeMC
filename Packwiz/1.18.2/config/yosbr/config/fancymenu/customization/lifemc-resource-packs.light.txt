@@ -17,9 +17,9 @@ customization {
 customization {
   identifier = %id=2960%
   orientation = bottom-centered
-  x = 122
+  x = 106
   action = movebutton
-  y = -48
+  y = -25
 }
 
 customization {
@@ -41,9 +41,9 @@ customization {
 customization {
   identifier = %id=6720%
   orientation = bottom-centered
-  x = 152
+  x = 136
   action = movebutton
-  y = -48
+  y = -25
 }
 
 customization {
@@ -65,9 +65,9 @@ customization {
 customization {
   identifier = %id=321974%
   orientation = bottom-centered
-  x = 62
+  x = 49
   action = movebutton
-  y = -48
+  y = -25
 }
 
 customization {
@@ -80,7 +80,7 @@ customization {
 customization {
   identifier = %id=321974%
   action = setbuttonlabel
-  value =
+  value = 
 }
 
 customization {
@@ -95,9 +95,9 @@ customization {
 customization {
   identifier = %id=355974%
   orientation = bottom-centered
-  x = 92
+  x = 79
   action = movebutton
-  y = -48
+  y = -25
 }
 
 customization {
@@ -110,7 +110,7 @@ customization {
 customization {
   identifier = %id=355974%
   action = setbuttonlabel
-  value =
+  value = 
 }
 
 customization {
@@ -127,7 +127,7 @@ customization {
   orientation = bottom-centered
   x = 7
   action = movebutton
-  y = -22
+  y = -46
 }
 
 customization {
@@ -149,9 +149,9 @@ customization {
 customization {
   identifier = %id=3219541%
   orientation = bottom-centered
-  x = -180
+  x = -194
   action = movebutton
-  y = -46
+  y = -44
 }
 
 customization {
@@ -162,16 +162,11 @@ customization {
 }
 
 customization {
-  identifier = %id=952952%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=321954%
   orientation = bottom-centered
-  x = -180
+  x = -194
   action = movebutton
-  y = -46
+  y = -44
 }
 
 customization {
@@ -184,9 +179,9 @@ customization {
 customization {
   identifier = %id=525952%
   orientation = bottom-centered
-  x = 30
+  x = -34
   action = movebutton
-  y = -48
+  y = -46
 }
 
 customization {
@@ -199,7 +194,7 @@ customization {
 customization {
   identifier = %id=525952%
   action = setbuttonlabel
-  value =
+  value = 
 }
 
 customization {
@@ -216,7 +211,7 @@ customization {
   orientation = bottom-centered
   x = 106
   action = movebutton
-  y = -22
+  y = -46
 }
 
 customization {
@@ -240,7 +235,7 @@ customization {
   restartbackgroundanimations = true
   buttonaction = set_variable;theme:1%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-dark-theme-on.light.png
-  label =
+  label = 
   loopbackgroundanimations = true
   x = -30
   width = 24
