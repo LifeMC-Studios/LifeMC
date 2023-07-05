@@ -1204,7 +1204,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c324a8a5d30da741732ff1ce9fe561decca934419da381d4d47a698b7df8ff91"
+hash = "bd8b90a79f53542a2421bce844e0e7a01907910146d71d9aac72bf449f107437"
 metafile = true
 
 [[files]]
@@ -1214,7 +1214,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "2b9b902684a7caa72491139d8c4f4788810484e2c53edcddd131be101f1ae6cb"
+hash = "97c33cb3eb9902e53190c6e0814801b67f4e9581cfcd5608aacb50f58244dafe"
 metafile = true
 
 [[files]]
