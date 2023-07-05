@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
-hash = "689b482cd4bcf2250e171e4e5091082b4855a9bd260ef5fc228189ba09740a6d"
+hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
 
 [[files]]
@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/recursiveresources.pw.toml"
-hash = "72c01fe16539d5c10de3ac139fde955f65fa02f16738532bd8b3389e898050e7"
+hash = "a31bc2e0d4721a7d48388c7e2c2bac5f66fa775aee6d4f2e4b4b4c4b340ca2dd"
 metafile = true
 
 [[files]]
@@ -1194,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2cff9d338f25408ade4a747bd11a5d8a328bd007ae4505e70e971113351f0432"
+hash = "796239ec3e198ff16d27b144d24f813da260ee25c7342cf5487f0db0843f1c29"
 metafile = true
 
 [[files]]
@@ -1204,7 +1204,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "2b9b902684a7caa72491139d8c4f4788810484e2c53edcddd131be101f1ae6cb"
+hash = "97c33cb3eb9902e53190c6e0814801b67f4e9581cfcd5608aacb50f58244dafe"
 metafile = true
 
 [[files]]
