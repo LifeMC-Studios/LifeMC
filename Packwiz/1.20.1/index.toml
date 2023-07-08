@@ -774,7 +774,7 @@ hash = "96852af13b8e2138eda75119f0d22d2edd6ea81a9c3f51c41c6c6558639600c7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "05ac5655886661106bb34a8a898d47fd317577f7f44519693be882c7a73c64b8"
+hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
@@ -1104,7 +1104,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "42153abff17509e85e338e13ffe04ce7792e3efd3c3aba5970782e33b1a4530c"
+hash = "9287bf3cac30edd8589cb334b14f8564f3b158622acdb7fb12f46ca845c63b9c"
 metafile = true
 
 [[files]]
