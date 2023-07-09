@@ -153,10 +153,6 @@ file = "config/yosbr/config/fancymenu/user_variables.db"
 hash = "992dc06f1c250c4d1d2586674eaa44f0cc1c70e98e3a977e6f9c76ea07236a46"
 
 [[files]]
-file = "config/yosbr/config/fastload.properties"
-hash = "09a3ed56558a4d1db89083f668d4e2336bd2cd95a2b905a787bdbf580a349e39"
-
-[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
