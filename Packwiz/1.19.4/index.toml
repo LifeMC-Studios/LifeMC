@@ -789,6 +789,11 @@ hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "56c08a19b9257a481269b77cd630c7396a4ce471f0a4f434df41a49a0623a95a"
+metafile = true
+
+[[files]]
 file = "mods/audio-extension-for-fancymenu.pw.toml"
 hash = "77649b0832c0b0701961dc1f6e2ec560dfadfaf319105110a98fc0224adaa5c6"
 metafile = true
