@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "6e70e47ce79a52ece4686adc1c0695a7b85449da46aa19ec4c4d44599343308d"
+hash = "4e54e315ce46ed6dd72b5d6c70bd24bebd6a4e648b80afcbbedc8ef352a06ec7"
 metafile = true
 
 [[files]]
@@ -935,7 +935,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "3a58bb01d7089cb2b58fa5486063f9d4fc9c26f235593857ddd933515960e59f"
+hash = "ed38259e82ea5da07a9786886aa76e985c4603cfd578816b2ccab6f7ed4bc86f"
 metafile = true
 
 [[files]]
