@@ -1,13 +1,13 @@
 name = "Entity Model Features [CEM]"
-filename = "entity_model_features_fabric_1.20-0.2.12.jar"
+filename = "entity_model_features_fabric_1.20-0.2.13.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/ZAuTqMfx/entity_model_features_fabric_1.20-0.2.12.jar"
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/b1pJegrh/entity_model_features_fabric_1.20-0.2.13.jar"
 hash-format = "sha1"
-hash = "d38ed7290ba1e8443b09ea68b2ef8000b59c3e41"
+hash = "51f2b622ba468261c6a8fa92f8273139c87ef014"
 
 [update]
 [update.modrinth]
 mod-id = "4I1XuqiY"
-version = "ZAuTqMfx"
+version = "b1pJegrh"
