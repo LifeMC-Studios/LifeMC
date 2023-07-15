@@ -895,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "08ef08eda8693fb61f6e9069af5bc5aa8702ce66aae3cf3681481acfc0fc14ee"
+hash = "d8636534ec3d6cf8f8380692db19bb4dd660c0e1bd2b865649a485d81482a5d1"
 metafile = true
 
 [[files]]
@@ -1115,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "1f0dbc4ea3d5d8a513b0dbc09657fb2742b16a020460046e66fb442fd4095d2d"
+hash = "daf895c100f1d256fc1df8bf67e8cf4b11c0972b9082c5fbee8f47c4eacf311f"
 metafile = true
 
 [[files]]
