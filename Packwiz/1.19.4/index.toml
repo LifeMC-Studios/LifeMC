@@ -5,6 +5,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "f3694101cdfc03b85efae3934a091f0dd87e57eef3a51e2d43f7f5ea4b53526f"
 
 [[files]]
+file = "config/lifemc.json"
+hash = "b3ed538c773ef33974a22a7d715f93ac61d955d0fc973930aba605f047d528d5"
+
+[[files]]
 file = "config/yosbr/COPYING.md"
 hash = "1139be1f63fc33f083d1c2b84bdb5eab053e6d2f564a2a56fe7ab2d0c71d4254"
 
@@ -171,10 +175,6 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "a9234869972f6a9482be05ab734cf2192f8ffb3aef1f9d0ee367d1fc11cf7b47"
-
-[[files]]
-file = "config/yosbr/config/lifemc.json"
-hash = "b3ed538c773ef33974a22a7d715f93ac61d955d0fc973930aba605f047d528d5"
 
 [[files]]
 file = "config/yosbr/config/loadmyresources/config.cfg"
