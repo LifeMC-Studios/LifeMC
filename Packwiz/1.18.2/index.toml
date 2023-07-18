@@ -954,7 +954,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "45d0507c5519d5d3797f9583338b1d6f09cc3c35dbce5cdc89a7d855c6233e3a"
+hash = "b5ab49d85a98416b5e930f0b674323a45d562822cf05b23065af57f109891f48"
 metafile = true
 
 [[files]]
