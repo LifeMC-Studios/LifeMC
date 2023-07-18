@@ -1174,6 +1174,11 @@ hash = "adcc3a873b6e2df8fae283797f15a859a1c389b1fb2cf24fd6525dbb6a3b4792"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
+metafile = true
+
+[[files]]
 file = "mods/tooltip-scroll.pw.toml"
 hash = "5a878c0c7c9b4476f709d291171bca31701cb6cf3e2b39d9a68aa1cecf2adc64"
 metafile = true
