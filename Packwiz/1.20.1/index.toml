@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f61911d7eb17f5d4b7988eea608ca103bcb4a2b2c0fcea763900200b54efdf41"
+hash = "4f280ef858662831a845c4cd15dd3dfd9c3bd291638a7c2e029c25e0f649cdaf"
 
 [[files]]
 file = "config/lifemc.json"

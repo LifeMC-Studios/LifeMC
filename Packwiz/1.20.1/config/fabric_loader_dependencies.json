@@ -15,11 +15,6 @@
       "-depends": {
         "minecraft": ">=1.20.1"
       }
-    },
-    "rebrand": {
-      "-depends": {
-        "minecraft": ">=1.20.1"
-      }
     }
   }
 }
