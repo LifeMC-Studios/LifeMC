@@ -860,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleardespawn.pw.toml"
-hash = "4d12b22a63d8271e30a8199f05b22657dd4d34ebb9b7c84a2ddf52fecafbde99"
+hash = "fdf0fb9507b144cc345dfb2db33eeb1a8b7c8284d171bac7c1e3d55996ca0a3b"
 metafile = true
 
 [[files]]
@@ -870,7 +870,7 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.pw.toml"
-hash = "1b8b5db9fa8f6c4f842cd70a8350d3a3bfc467bfc284d53ae05c2a45d7adeb80"
+hash = "36dcc358eb4f2b4bc1fcd6ec0c8579bad78a43419c8fe6cde3b60ce2d6264129"
 metafile = true
 
 [[files]]
@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2205239199b4a1e74afcdba1151807d2e4487ce2cf116cee9f62d25f1659a3f5"
+hash = "901f5e42d26508230a41b6f91e1da18910b201aa3730057853d135820f24ec8c"
 metafile = true
 
 [[files]]
@@ -935,7 +935,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "3a86b3417b781abc294b6e41c475e5ac1831944527db6f07f0107a30e5bde0bd"
+hash = "97a743edee2ff1be103f976bb56a23cef3718881da058ba4459f1f30c4cd3156"
 metafile = true
 
 [[files]]
@@ -1120,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/rebrand.pw.toml"
-hash = "f97ac5343b9fbda4c7515a6e698e635d4fa3f6b829fbec51ac2cae7aa5fdcedb"
+hash = "5d58714edfce4fcd38b904fab8fc4e2d6a93370faddae7f317fa30e70bb70edd"
 metafile = true
 
 [[files]]
@@ -1165,7 +1165,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
+hash = "0906da8c52ef97aa073b150915eea98647ed1ad2445c4d2c91512acb32af8a30"
 metafile = true
 
 [[files]]
@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
+hash = "9cd3bad1d6b4e2e1e7be989c94d075cfcc35c14cc0f70466c6d2930583241f5b"
 metafile = true
 
 [[files]]
