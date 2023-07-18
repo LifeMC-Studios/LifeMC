@@ -860,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleardespawn.pw.toml"
-hash = "f55726e64eabcfdcb0b02657c74889f8e135a5424dc423c55450117618a2ad11"
+hash = "a1b43ad6bb503bbe88b9047f28a861c2d5425a4eb3c814c32a96e7aa388ea137"
 metafile = true
 
 [[files]]
@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8549f8fdb7d2eb89173efd1f03d750e15d1d984c215d075e83ba59a8e115b5b9"
+hash = "d553629aabc1e4d6730d5e9206805143622c38a06ac206ecb7caf816ad7689b3"
 metafile = true
 
 [[files]]
@@ -935,7 +935,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "0c49c30afd27b0a2cf79b4487a31143a313e847ad6eede7f9d56d7644313e61c"
+hash = "722d3dfcd83498779a8255cd6a7a36e129f24f5f19406951da5c521e2272bba5"
 metafile = true
 
 [[files]]
