@@ -930,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
 metafile = true
 
 [[files]]
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "e697002e593a54c31759e3849eaae1be9bcdff0d8ffc667c95d7fdf5bf59d979"
+hash = "4f436c8bf85d1ca05bdda4f94aa4e98d037cef42e383c96165238c314fda8e6f"
 metafile = true
 
 [[files]]
@@ -1120,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/rebrand.pw.toml"
-hash = "5d58714edfce4fcd38b904fab8fc4e2d6a93370faddae7f317fa30e70bb70edd"
+hash = "d428d359a69cbb2cd197d421c33a72fb63c3148a8e898337e6b9fa806f670ff1"
 metafile = true
 
 [[files]]
@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "9cd3bad1d6b4e2e1e7be989c94d075cfcc35c14cc0f70466c6d2930583241f5b"
+hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
 metafile = true
 
 [[files]]
