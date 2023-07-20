@@ -949,7 +949,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
 metafile = true
 
 [[files]]
@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "e697002e593a54c31759e3849eaae1be9bcdff0d8ffc667c95d7fdf5bf59d979"
+hash = "4f436c8bf85d1ca05bdda4f94aa4e98d037cef42e383c96165238c314fda8e6f"
 metafile = true
 
 [[files]]
