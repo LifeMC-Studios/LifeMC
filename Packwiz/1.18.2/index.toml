@@ -969,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "0e1117375a2bff919726d28d05aa0dacd31f485df92c124e66cbe6e2fff9c7cb"
+hash = "444c1c814e37e16b8f8662abbfee24937f46ca4c9daf41ff1df1aaf39f048e59"
 metafile = true
 
 [[files]]
@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "4f436c8bf85d1ca05bdda4f94aa4e98d037cef42e383c96165238c314fda8e6f"
+hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
 metafile = true
 
 [[files]]
