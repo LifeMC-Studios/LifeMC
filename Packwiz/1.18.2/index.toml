@@ -873,6 +873,11 @@ hash = "61e83f271c7e16618b26ee427e87d9ced073c2e8edcc94dbdff76aed3f5a8069"
 metafile = true
 
 [[files]]
+file = "mods/cem.pw.toml"
+hash = "727c319290b015a46f54f379fdb32b1a8eeb649c85bb7409fe3b9ffd3ebe5d22"
+metafile = true
+
+[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "01dd9f032dd3e9a23a78e56ca42dc5a0e59de5886f66ea58f0e7c82ec5ce5cd1"
 metafile = true
