@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
+hash = "30a85207c5450d4ca078295c9000e0f4a7d4d3f78f1234ed134babc6f4930169"
 metafile = true
 
 [[files]]
@@ -875,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
 metafile = true
 
 [[files]]
@@ -965,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixbookgui.pw.toml"
-hash = "ff546737f6368601ad612aece127585fb444187b9bf860d430bd57a6d4d47f2c"
+hash = "1ecd25aa57d5a29ef69e3587c05a5f5c9d877b36e8790124b9373edd45010258"
 metafile = true
 
 [[files]]
@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
+hash = "f94769cf1233dd2c919693677be0eb53976d471674b2901a62d6251ceb8c5158"
 metafile = true
 
 [[files]]
@@ -1205,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "796239ec3e198ff16d27b144d24f813da260ee25c7342cf5487f0db0843f1c29"
+hash = "2008716fdfef554660ce44659a3a42acd673a5391af2d4bd94f40654f1f60a1d"
 metafile = true
 
 [[files]]

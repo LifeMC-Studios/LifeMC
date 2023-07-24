@@ -1,13 +1,13 @@
 name = "FixBookGUI"
-filename = "fixbookgui-mc1.20.1-1.4.jar"
+filename = "fixbookgui-mc1.20.1-1.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/myKgAJq6/versions/TOmuEaqb/fixbookgui-mc1.20.1-1.4.jar"
+url = "https://cdn.modrinth.com/data/myKgAJq6/versions/bw79bNtV/fixbookgui-mc1.20.1-1.4.1.jar"
 hash-format = "sha1"
-hash = "ddf9f237f3b5cdc4ad71f4f3a2bb71b7ef95d00b"
+hash = "920d8b03c66fe9b94481db5589b37b28c9cedf3d"
 
 [update]
 [update.modrinth]
 mod-id = "myKgAJq6"
-version = "TOmuEaqb"
+version = "bw79bNtV"
