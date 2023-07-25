@@ -1003,6 +1003,11 @@ hash = "1969ab34f5e00f8f8b2842291f759b0198b35e6df083e7c8516c691a1964a18e"
 metafile = true
 
 [[files]]
+file = "mods/imblocker-original.pw.toml"
+hash = "3de02d584a643ef51bc3feb152d4c787eecaa18127c4e7e71760bc2dcb3b6e17"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "fdebc54ee80be90757fae74011431710cf07d1df5ffaf81678a5c2c8f2d32a2b"
 metafile = true
