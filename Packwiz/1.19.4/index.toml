@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d553629aabc1e4d6730d5e9206805143622c38a06ac206ecb7caf816ad7689b3"
+hash = "e31cff42e6ee7a581f2fdf3a8dfacca2d330ea5b87ec68b7a3dc11cca6e7ea3b"
 metafile = true
 
 [[files]]
@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
+hash = "179812f78725212ef7b049bcd3d96405a1becc6be0573ea98ba49cec4acd9048"
 metafile = true
 
 [[files]]
