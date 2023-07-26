@@ -1234,6 +1234,11 @@ hash = "c154cc5b1e15cf94680e5dc6db5506d01049960e31ad99be101b925056816096"
 metafile = true
 
 [[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "9907708383f7b954db046df0b60b9cd43427e27f0bcc0dfa242e6e4f25749a05"
+metafile = true
+
+[[files]]
 file = "shaderpacks/arc-shader.pw.toml"
 hash = "49a0ee2486d75902dc8d6fd0053f81bbeceecdaf7d7f963a433990bb31d535e7"
 metafile = true
