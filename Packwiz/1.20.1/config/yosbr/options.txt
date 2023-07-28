@@ -11,7 +11,7 @@ guiScale:3
 maxFps:260
 graphicsMode:0
 advancedItemTooltips:true
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","midnightcontrols:bedrock","file/ReimaginedGUI(Light) 1.20.zip","file/ReimaginedGUI(Dark) 1.20.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","midnightcontrols:bedrock","file/ReimaginedGUI(Light) 1.20.zip","file/ReimaginedGUI(Dark) 1.20.zip","file/SodiumTranslations.zip"]
 incompatibleResourcePacks:["midnightcontrols:bedrock"]
 tutorialStep:none
 skipMultiplayerWarning:true
