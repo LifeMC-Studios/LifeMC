@@ -111,8 +111,8 @@
 
 - 🌟 [Reimagined GUI Light](https://modrinth.com/resourcepack/reimaginedguilight) by [AmongstReality](https://www.planetminecraft.com/member/amongstreality/)
 - 🌑 [Reimagined GUI Dark](https://modrinth.com/resourcepack/reimaginedguidark) by [AmongstReality](https://www.planetminecraft.com/member/amongstreality/)
-
 - 🎨 [Dramatic Skys](https://modrinth.com/resourcepack/dramatic-skys) by [thebaum64](https://www.planetminecraft.com/member/thebaum64/)
+- 🌐  [Translations for Sodium](https://modrinth.com/mod/yfDziwn1) by [robotkoer](https://modrinth.com/user/robotkoer)
 
 ## 🎨 Shaders Packs
 
