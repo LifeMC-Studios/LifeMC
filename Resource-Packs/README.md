@@ -29,4 +29,12 @@ The "Dramatic Skys" Resource Packs were created by [thebaum64](https://www.plane
   - ❤️ [Patreon](https://www.patreon.com/thebaum64)
   - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/Dramatic-Skys/Links.txt)
 
+## 🌐 Translations for Sodium
+
+The "Translations for Sodium" Resource Packs were created by [robotkoer](https://modrinth.com/user/robotkoer)
+
+- 🌟 Translations for Sodium: [Modrinth](https://modrinth.com/resourcepack/translations-for-sodium) or [Curseforge](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium)
+  - 📝 [LICENSE](https://github.com/Madis0/sodium-fabric-translations/blob/main/LICENSE.md)
+  - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/Translations-for-Sodium/Links.txt)
+
 > All rights reserved. © 2021-2023 LifeMC Studios
