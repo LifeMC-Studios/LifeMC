@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nukecraft5419/LifeMC/main/assets/images/piggy.png" wight="256px" height="256px"/>
+  <img src="https://raw.githubusercontent.com/Nukecraft5419/LifeMC/main/assets/images/piggy.png" width="256px" height="256px"/>
 </p>
 
 <h1 align="center">LifeMC</h1>
@@ -10,10 +10,50 @@
 [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/modpack/lifemc)
 [![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_64h.png)](https://discord.com/invite/dnVdDSUJFZ)
 [![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/translate/crowdin_64h.png)](https://crowdin.com/project/lifemc)
+[![ghpages](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/ghpages_64h.png)](https://lifemc-studios.github.io/docs)
+[![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitter-plural_64h.png)](https://twitter.com/LifeMCStudios)
 
 </div>
 
+## ⚙️ Installation
+
+List of supported launchers and the functions of these launchers with a guide for each of them on how to install LifeMC
+
+| Functions / Information    | <img src="https://raw.githubusercontent.com/ATLauncher/ATLauncher/master/src/main/resources/assets/image/icon.png" width="24px" height="24px"/> ATLauncher | <img src="https://raw.githubusercontent.com/MultiMC/Website/master/site/themes/multimc/static/images/infinity38.png" width="24px" height="24px"/> MultiMC | <img src="https://raw.githubusercontent.com/PolyMC/PolyMC/develop/program_info/org.polymc.PolyMC.svg" width="24px" height="24px"/> PolyMC | <img src="https://raw.githubusercontent.com/PrismLauncher/prismlauncher.org/main/src/img/logo.svg" width="24px" height="24px"/> Prism Launcher | <img style="filter: invert(60%) sepia(60%) saturate(5198%) hue-rotate(88deg) brightness(124%) contrast(122%);" src="https://raw.githubusercontent.com/modrinth/knossos/master/assets/images/logo.svg" width="24px" height="24px"/> Modrinth Launcher (Beta) |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Modpack installation guide | [Tutorial](lifemc-studios.github.io/docs/)                                                                                                                 | [Tutorial](lifemc-studios.github.io/docs/)                                                                                                                | [Tutorial](lifemc-studios.github.io/docs/)                                                                                                | [Tutorial](lifemc-studios.github.io/docs/)                                                                                                     | [Tutorial](lifemc-studios.github.io/docs/)                                                                                                                                                                                                                  |
+| Ease of updating modpacks  | 🟢 High                                                                                                                                                     | 🟢 High                                                                                                                                                    | 🟢 High                                                                                                                                    | 🟢 High                                                                                                                                         | 🟢 High                                                                                                                                                                                                                                                      |
+| Windows Support            | 🟢                                                                                                                                                          | 🟢                                                                                                                                                         | 🟢                                                                                                                                         | 🟢                                                                                                                                              | 🟢                                                                                                                                                                                                                                                           |
+| MacOS support              | 🟢                                                                                                                                                          | 🟢                                                                                                                                                         | 🟢                                                                                                                                         | 🟢                                                                                                                                              | 🟢                                                                                                                                                                                                                                                           |
+| Linux Support              | 🟢                                                                                                                                                          | 🟢                                                                                                                                                         | 🟢                                                                                                                                         | 🟢                                                                                                                                              | 🟢                                                                                                                                                                                                                                                           |
+| Ease of installation       | 🟢 High                                                                                                                                                     | 🟡 Medium                                                                                                                                                  | 🟢 High                                                                                                                                    | 🟢 High                                                                                                                                         | 🟢 High                                                                                                                                                                                                                                                      |
+| Usable offline             | 🟢                                                                                                                                                          | 🟢                                                                                                                                                         | 🟢                                                                                                                                         | 🟢                                                                                                                                              | 🔴                                                                                                                                                                                                                                                           |
+| Mod support                | 🟢                                                                                                                                                          | 🟢                                                                                                                                                         | 🟢                                                                                                                                         | 🟢                                                                                                                                              | 🟢                                                                                                                                                                                                                                                           |
+| Modpack support            | 🟢                                                                                                                                                          | 🟢                                                                                                                                                         | 🟢                                                                                                                                         | 🟢                                                                                                                                              | 🟢                                                                                                                                                                                                                                                           |
+| Ease of adding mod         | 🟢 High                                                                                                                                                     | 🟢 High                                                                                                                                                    | 🟢 High                                                                                                                                    | 🟢 High                                                                                                                                         | 🟢 High                                                                                                                                                                                                                                                      |
+
+We will expand support for other launchers in the future
+
+## 🔥 Performance
+
+We have improved performance to give the best possible alternative to OptiFine and any other Client/Modpack without sacrificing graphics quality by reducing RAM consumption with a very significant increase in FPS
+
+Some functions you will find in LifeMC:
+
+- Better performance thanks to Sodium the best alternative to OptiFine
+- Free cosmetics thanks to the Cosmetica mod
+- Compatibility with all Shaders even OptiFine ones thanks to the Iris Shaders mod
+- Full compatibility with OptiFine skies thanks to two mod FabricSkyboxes and FabricSkyBoxes Interop
+- Better zoom than OptiFine, thanks to the Logical Zoom mod
+- Merged glass thanks to Continuity
+- Dynamic light
+- Hosting your own world with the e4mc mod
+- Tree leaves better than OptiFine thanks to MoreCulling mod
+- Custom menu with dark and light theme and update notification and more
+
 ## 📦 Mods
+<details>
+<summary>Click to see the complete mod list</summary>
 
 - [3D Skin Layers](https://modrinth.com/mod/zV5r3pPn)
 - [Animatica](https://modrinth.com/mod/PRN43VSY)
@@ -106,6 +146,24 @@
 - [Very Many Players (Fabric)](https://modrinth.com/mod/wnEe9KBa)
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) (only from 1.19+ upwards)
 - [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/WwbubTsV)
+
+</details>
+
+## ❓ Why use LifeMC?
+
+Because, in two simple words performance and reliability, we give you the above features and many other features what are you waiting for install it now to get all these features and the best performance available more than OptiFine and anything else we are so confident with our modpack that if you are not satisfied with the performance you can even uninstall it and go back to OptiFine or the modpacks but none of them give you the above features we at LifeMC Studios strive to have the best modpack available day after day
+
+## ➕ Updates
+
+We recommend to always keep the modpack updated to the latest version available to always have better performance and security and the latest news and always download from Modrinth or from the Launchers we support (listed in the table above). There will always be a notification in the main menu when an update is available. and we recommend to follow the project above modrinth so you will get a notification when an update is available and it would also be useful to put a star to the repository so you can help us to improve
+
+## 🛡️ Security
+
+The modpack is safe, we rely only on the mods available on [Modrinth](https://modrinth.com) being a safe and reliable platform that respects the authors and the modpack is created thanks to [packwiz](https://github.com/packwiz/packwiz) recommended by Modrinth itself, the modpack is controlled by a few reliable people so as to keep the project cleaner and safer, everything is tested before starting the distribution to the public, we recommend to use the modpack as it was given to avoid conflicts with mods or other modifications, if you want mods or features or anything else just open an [issues](https://github.com/LifeMC-Studios/LifeMC/issues) and we will immediately start to discuss it in the team and we will test everything to check if nothing conflicts if it is safe to then put it in the modpack and for other information on security [SECURITY.md](https://github.com/LifeMC-Studios/LifeMC/blob/main/SECURITY.md)
+
+## 🤝 Contributing
+
+You want to help improve LifeMC help us with [Pull Requests](https://github.com/LifeMC-Studios/LifeMC/pulls) to bring the features to the public right away, our team will check everything and test it to make sure it's safe and doesn't conflict with any mods or anything else for more information on how to contribute [CONTRIBUTING.md](https://github.com/LifeMC-Studios/LifeMC/blob/main/CONTRIBUTING.md)
 
 ## 📦 Resource Packs
 
