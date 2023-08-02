@@ -1154,6 +1154,11 @@ hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
+file = "mods/seamless.pw.toml"
+hash = "778b41655c5b5dec62a589560f063e98a76c5e83b5d24c40af997735332bf25f"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "6afddbb9999fbdeb30199a43754c06aef8bab71bebed392f8aa74ace1afbdbc0"
 metafile = true
