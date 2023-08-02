@@ -1174,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "d0bfd40b69505b6e0022fb6033e516eb51b9ca559e75b5cf7ff8f11403a17b08"
+hash = "272aaefae15941d60595f2bd3d48465bb73ef2cd1b9dd48019299039fd3af738"
 metafile = true
 
 [[files]]
@@ -1234,7 +1234,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "97c33cb3eb9902e53190c6e0814801b67f4e9581cfcd5608aacb50f58244dafe"
+hash = "da172147709ca51b1f4ccadf06b6dc5c0da8cd178b3c6f03315a3ea9a1a8c68e"
 metafile = true
 
 [[files]]
