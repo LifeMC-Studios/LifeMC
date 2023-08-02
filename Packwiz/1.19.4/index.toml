@@ -879,6 +879,11 @@ hash = "8c2f025206a96b2537a83f2d1fc10461e2a511e9cdbb8a120024299f88b046f5"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "1ce6d6922564da4116840ce60204adc2d691873059367b09084f9de7e898b4b4"
+metafile = true
+
+[[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "db67fd9448b1e0f1cc881af44f368fa3d36527f79f3c574b8b18e5c50cb1f3d5"
 metafile = true
@@ -1151,6 +1156,11 @@ metafile = true
 [[files]]
 file = "mods/seamless.pw.toml"
 hash = "76cb96cd7d6f615e44cc68b140cbb6ec7ada009d6086e9070b5836c523f06a9f"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "9ada59dae64836137f116799f5e419c898b21dd339054e4454fc85d2c7aed926"
 metafile = true
 
 [[files]]

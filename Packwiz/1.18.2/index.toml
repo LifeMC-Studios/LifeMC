@@ -908,6 +908,11 @@ hash = "d807461a67a231feb0e1a23929aeec7117f6260a565a6010e6cb45b386debdb3"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "ed1739b71b76c89c1495fafcb96256db72030842550a24d44d5457d9d24e7f35"
+metafile = true
+
+[[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "24f565aa231db1b9408f1ff631f31283c9b9800db6778ebe69ae1f86c8a9c1b8"
 metafile = true
