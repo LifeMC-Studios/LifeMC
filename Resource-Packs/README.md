@@ -37,4 +37,20 @@ The "Translations for Sodium" Resource Packs were created by [robotkoer](https:/
   - 📝 [LICENSE](https://github.com/Madis0/sodium-fabric-translations/blob/main/LICENSE.md)
   - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/Translations-for-Sodium/Links.txt)
 
+## 🏡 Faithful 32x
+
+The "Faithful 32x" Resource Packs were created by [Faithful-Resource-Pack](https://modrinth.com/user/Faithful-Resource-Pack)
+
+- 🏡 Faithful 32x: [Modrinth](https://modrinth.com/resourcepack/faithful-32x) or [Curseforge](https://www.curseforge.com/minecraft/texture-packs/faithful-32x)
+  - 📝 [LICENSE](https://github.com/Faithful-Resource-Pack/Faithful-Java-32x/blob/main/LICENSE.txt)
+  - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/Faithful-32x/Links.txt)
+
+## 🏡 Faithful 64x
+
+The "Faithful 64x" Resource Packs were created by [Faithful-Resource-Pack](https://modrinth.com/user/Faithful-Resource-Pack)
+
+- 🏡 Faithful 64x: [Modrinth](https://modrinth.com/resourcepack/faithful-64x) or [Curseforge](https://www.curseforge.com/minecraft/texture-packs/faithful-64x)
+  - 📝 [LICENSE](https://github.com/Faithful-Resource-Pack/Faithful-Java-64x/blob/main/LICENSE.txt)
+  - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/Faithful-64x/Links.txt)
+
 > All rights reserved. © 2021-2023 LifeMC Studios
