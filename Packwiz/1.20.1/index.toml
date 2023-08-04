@@ -10,7 +10,7 @@ hash = "62050b222a0e1ef414a08d6b44b524a82ae4c412b8c8e3da2acdf711b64f4422"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
-hash = "1139be1f63fc33f083d1c2b84bdb5eab053e6d2f564a2a56fe7ab2d0c71d4254"
+hash = "72b7b1ff219aa55b396bfa7452f2e33566b3f26356c34b9ca2ce217b1355a776"
 
 [[files]]
 file = "config/yosbr/LICENSE"
