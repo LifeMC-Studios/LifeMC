@@ -12,6 +12,14 @@ This is a list of supported languages, if you want to help translate use Crowdin
 
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ae.svg" wight="100px" height="100px"/>
 
+## Belarusian → (be_by.json)
+
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/by.svg" wight="100px" height="100px"/>
+
+## Bulgarian → (bg_bg.json)
+
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/bg.svg" wight="100px" height="100px"/>
+
 ##  Catalan → (ca_es.json)
 
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es-ct.svg" wight="100px" height="100px"/>
@@ -43,17 +51,9 @@ This is a list of supported languages, if you want to help translate use Crowdin
 ## English, United Kingdom → (en_gb.json)
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" wight="100px" height="100px"/>
 
-## English, New Zealand → (en_nz.json)
-
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" wight="100px" height="100px"/>
-
 ## Pirate English → (en_pt.json)
 
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/xx.svg" wight="100px" height="100px"/>
-
-## English, United States → (en_us.json)
-
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" wight="100px" height="100px"/>
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/xxì.svg" wight="100px" height="100px"/>
 
 ## English (upside down) → (en_ud.json)
 
@@ -75,6 +75,10 @@ This is a list of supported languages, if you want to help translate use Crowdin
 
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ee.svg" wight="100px" height="100px"/>
 
+## Persian → (fa_ir.json)
+
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ir.svg" wight="100px" height="100px"/>
+
 ## Finnish → (fi_fi.json)
 
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fi.svg" wight="100px" height="100px"/>
@@ -91,6 +95,10 @@ This is a list of supported languages, if you want to help translate use Crowdin
 
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" wight="100px" height="100px"/>
 
+## Hebrew → (he_il.json)
+
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/il.svg" wight="100px" height="100px"/>
+
 ## Hindi → (hi_in.json)
 
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" wight="100px" height="100px"/>
@@ -98,6 +106,10 @@ This is a list of supported languages, if you want to help translate use Crowdin
 ## Croatian  → (hr_hr.json)
 
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/hr.svg" wight="100px" height="100px"/>
+
+## Hungarian → (hu_hu.json)
+
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/hu.svg" wight="100px" height="100px"/>
 
 ## Indonesian  → (id_id.json)
 
@@ -124,8 +136,17 @@ This is a list of supported languages, if you want to help translate use Crowdin
 ## LOLCAT → (lol_us.json)
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/xx.svg"  wight="100px" height="100px"/>
 
+## Lithuanian → (lt_lt.json)
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/lt.svg" wight="100px" height="100px"/>
+
 ## Latvian → (lv_lv.json)
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/lv.svg" wight="100px" height="100px"/>
+
+## Malay → (ms_my.json)
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/my.svg" wight="100px" height="100px"/>
+
+## Dutch → nl_nl.json)
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nl.svg" wight="100px" height="100px"/>
 
 ## Norwegian Nynorsk → (nn_no.json)
 
