@@ -565,6 +565,14 @@ file = "config/yosbr/config/resources/minecraft/lang/ar_sa.json"
 hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
 
 [[files]]
+file = "config/yosbr/config/resources/minecraft/lang/be_by.json"
+hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/bg_bg.json"
+hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
+
+[[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ca_es.json"
 hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
 
@@ -597,10 +605,6 @@ file = "config/yosbr/config/resources/minecraft/lang/en_gb.json"
 hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
 
 [[files]]
-file = "config/yosbr/config/resources/minecraft/lang/en_nz.json"
-hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
-
-[[files]]
 file = "config/yosbr/config/resources/minecraft/lang/en_pt.json"
 hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
 
@@ -629,6 +633,10 @@ file = "config/yosbr/config/resources/minecraft/lang/et_ee.json"
 hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
 
 [[files]]
+file = "config/yosbr/config/resources/minecraft/lang/fa_ir.json"
+hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
+
+[[files]]
 file = "config/yosbr/config/resources/minecraft/lang/fi_fi.json"
 hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
 
@@ -645,11 +653,19 @@ file = "config/yosbr/config/resources/minecraft/lang/fr_fr.json"
 hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
 
 [[files]]
+file = "config/yosbr/config/resources/minecraft/lang/he_il.json"
+hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
+
+[[files]]
 file = "config/yosbr/config/resources/minecraft/lang/hi_in.json"
 hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/hr_hr.json"
+hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/hu_hu.json"
 hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
 
 [[files]]
@@ -681,7 +697,19 @@ file = "config/yosbr/config/resources/minecraft/lang/lol_us.json"
 hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
 
 [[files]]
+file = "config/yosbr/config/resources/minecraft/lang/lt_lt.json"
+hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
+
+[[files]]
 file = "config/yosbr/config/resources/minecraft/lang/lv_lv.json"
+hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/ms_my.json"
+hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/nl_nl.json"
 hash = "7ddee202c12a74091b2266dbbc71e60bc278ab5c9e4013e9aefacdd2c6aca9e3"
 
 [[files]]
