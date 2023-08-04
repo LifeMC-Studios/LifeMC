@@ -12,7 +12,6 @@ maxFps:260
 graphicsMode:0
 advancedItemTooltips:true
 resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","midnightcontrols:bedrock","file/ReimaginedGUI(Light) 1.19.4.zip","file/ReimaginedGUI(Dark) 1.19.4.zip","file/SodiumTranslations.zip"]
-incompatibleResourcePacks:["continuity:glass_pane_culling_fix","continuity:default"]
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
