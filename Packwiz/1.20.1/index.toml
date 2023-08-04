@@ -954,7 +954,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "e48e1afae8805196d8facff0851325f2a461d94f19cedfa6bdb4ef78fd0da5bb"
+hash = "4b3aa2a31aa0ab8c748561418200357b717f1ea9626672aea0653e862964a43f"
 metafile = true
 
 [[files]]
@@ -1204,7 +1204,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "1cb218af33e0eff1014b3e49ea1e0da40f14de23b18f95ed928a5495f3d2c334"
+hash = "7f8fc135366b83aa4021b9a7fe3e13e1449d3dff81dd16e82af06405498f42b8"
 metafile = true
 
 [[files]]
@@ -1299,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "ce18d14782c7d414c416de2b2613369c23d39a85c252f81ed1073816d5587b44"
+hash = "52b2b9aa9245d6ba6e0a22cf96926401535bb722844cb4b0c1ae32a243791241"
 metafile = true
 
 [[files]]
