@@ -1267,6 +1267,16 @@ hash = "da172147709ca51b1f4ccadf06b6dc5c0da8cd178b3c6f03315a3ea9a1a8c68e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "bd9e46ca1daa646b01b630a954c6b3ec811cc8093738eaa4d7c7347fc4d7e3f5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "31874e13fc74832153432cefc275151dc1d8017eb19593efccd436d9baca4eca"
+metafile = true
+
+[[files]]
 file = "resourcepacks/reimaginedguidark.pw.toml"
 hash = "7ab61d22a9caf33f9c410fab92111581364b90b354b2a7147d11ac5bc7e3e005"
 metafile = true
