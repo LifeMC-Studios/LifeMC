@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "d8148a14c8c4aaf7fe3f02315b818a3f653debad734883c6233f060ea438396d"
+hash = "e856608bb1c26f49e9ebcab20b3ff0d8114d5d9fd961e78b7c26bf767ffe0c63"
 metafile = true
 
 [[files]]
@@ -1156,7 +1156,7 @@ metafile = true
 
 [[files]]
 file = "mods/seamless.pw.toml"
-hash = "778b41655c5b5dec62a589560f063e98a76c5e83b5d24c40af997735332bf25f"
+hash = "c2eacf7d940b85f3fc750a206f184f30086ab4b1e0ec3e5db354d1564acaa78e"
 metafile = true
 
 [[files]]
