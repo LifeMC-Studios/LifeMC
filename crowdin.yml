@@ -1,3 +1,3 @@
 files:
-  - source: /Crowdin/lang/*.json
-    translation: '%original_path%%original_file_name%'
+  - source: /Crowdin/lang/en_us.json
+    translation: /%original_path%/%locale_with_underscore%.json
