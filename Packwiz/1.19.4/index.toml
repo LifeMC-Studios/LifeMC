@@ -1022,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "79d1d21e13d99ea72f50dc0d11203b1b7489d34992ace7916b118f69d4322545"
+hash = "65bda31e0649d82ee0dd8dab20fba6219f79cf5a864b9a2c14a8e1e90952c6fc"
 metafile = true
 
 [[files]]
@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "cf6adf4f1a4e8f56e592805ea37d1120b42ab5389da6f423040639cb229f48d0"
+hash = "7de686e705d060b2fd662651b4a18d822d48a8f9c00d10c20e8aa01e555383d3"
 metafile = true
 
 [[files]]
