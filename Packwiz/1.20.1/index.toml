@@ -878,7 +878,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "e856608bb1c26f49e9ebcab20b3ff0d8114d5d9fd961e78b7c26bf767ffe0c63"
+hash = "5d05ff6a4ce3ad876d26a23bbc609bf0089a3bbefd5f433fbbccd6ac00aed8e9"
 metafile = true
 
 [[files]]
@@ -1223,7 +1223,7 @@ metafile = true
 
 [[files]]
 file = "mods/symbol-chat.pw.toml"
-hash = "adcc3a873b6e2df8fae283797f15a859a1c389b1fb2cf24fd6525dbb6a3b4792"
+hash = "8fb8d459a491b6c2680f427f9dba7d39fd1c06a8cc4bcb0e1ae02c6a43331256"
 metafile = true
 
 [[files]]
