@@ -1295,6 +1295,11 @@ hash = "31874e13fc74832153432cefc275151dc1d8017eb19593efccd436d9baca4eca"
 metafile = true
 
 [[files]]
+file = "resourcepacks/pixlli.pw.toml"
+hash = "c48553b11b1e39abaa9ca6072985be502d739e791654d7fc28956e9d8af72a7e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/reimaginedguidark.pw.toml"
 hash = "61b7fd40eac58bec304c87723e5242e22598dc00ab5a051333d168ab3e4fdef0"
 metafile = true
@@ -1302,6 +1307,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/reimaginedguilight.pw.toml"
 hash = "ff90b8b5bfeac51616dbaadbabf00fbbb1ca822ae373b85d89bae5c2435e6860"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rotrblocks.pw.toml"
+hash = "10f9dde6fb51157e3efc4d5f573017ce28067e86a80ed378397cdda285473ede"
 metafile = true
 
 [[files]]
