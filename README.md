@@ -178,6 +178,8 @@ You want to help improve LifeMC help us with [Pull Requests](https://github.com/
 - 🗺️ [Translations for Sodium](https://modrinth.com/mod/yfDziwn1) by [robotkoer](https://modrinth.com/user/robotkoer)
 - 🏡 [Faithful 32x](https://modrinth.com/resourcepack/faithful-32x) by [Faithful-Resource-Pack](https://modrinth.com/user/Faithful-Resource-Pack)
 - 🏡 [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x) by [Faithful-Resource-Pack](https://modrinth.com/user/Faithful-Resource-Pack)
+- 🟨 [Pixlli 128x](https://modrinth.com/resourcepack/pixlli) by [illystray](https://modrinth.com/user/illystray)
+- 🟨 [rotrBLOCKS 128/256x](https://modrinth.com/resourcepack/rotrblocks) by [illystray](https://modrinth.com/user/illystray)
 
 ## ☀️ Shaders
 

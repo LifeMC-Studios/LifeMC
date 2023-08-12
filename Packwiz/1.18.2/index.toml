@@ -1280,6 +1280,11 @@ hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
+file = "resourcepacks/alacrity.pw.toml"
+hash = "0fc41b681d4e839ee484e5d81a7e5f7ff5b7f44c3bdedcf881d8e65f487fc9ab"
+metafile = true
+
+[[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
 hash = "da172147709ca51b1f4ccadf06b6dc5c0da8cd178b3c6f03315a3ea9a1a8c68e"
 metafile = true
@@ -1295,6 +1300,11 @@ hash = "31874e13fc74832153432cefc275151dc1d8017eb19593efccd436d9baca4eca"
 metafile = true
 
 [[files]]
+file = "resourcepacks/pixlli.pw.toml"
+hash = "c48553b11b1e39abaa9ca6072985be502d739e791654d7fc28956e9d8af72a7e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/reimaginedguidark.pw.toml"
 hash = "61b7fd40eac58bec304c87723e5242e22598dc00ab5a051333d168ab3e4fdef0"
 metafile = true
@@ -1302,6 +1312,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/reimaginedguilight.pw.toml"
 hash = "ff90b8b5bfeac51616dbaadbabf00fbbb1ca822ae373b85d89bae5c2435e6860"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rotrblocks.pw.toml"
+hash = "10f9dde6fb51157e3efc4d5f573017ce28067e86a80ed378397cdda285473ede"
 metafile = true
 
 [[files]]
