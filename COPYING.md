@@ -289,6 +289,12 @@ Rights Holder reserves the right to change or amend the terms of this Agreement 
 The User agrees to check periodically for changes in the Agreement and to continue using digital products only if they agree to the updated terms.
 ```
 
+## 🏛️ Alacrity
+
+```
+All rights reserved unless explicitly stated.
+```
+
 ## 🌟 BSL Shaders
 
 ```

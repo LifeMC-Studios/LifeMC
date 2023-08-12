@@ -180,6 +180,7 @@ You want to help improve LifeMC help us with [Pull Requests](https://github.com/
 - 🏡 [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x) by [Faithful-Resource-Pack](https://modrinth.com/user/Faithful-Resource-Pack)
 - 🟨 [Pixlli 128x](https://modrinth.com/resourcepack/pixlli) by [illystray](https://modrinth.com/user/illystray)
 - 🟨 [rotrBLOCKS 128/256x](https://modrinth.com/resourcepack/rotrblocks) by [illystray](https://modrinth.com/user/illystray)
+- 🏛️ [Alacrity](https://modrinth.com/resourcepack/alacrity) by [Satellence](https://modrinth.com/user/Satellence)
 
 ## ☀️ Shaders
 
