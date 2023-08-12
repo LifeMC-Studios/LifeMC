@@ -61,7 +61,7 @@ The "Faithful 64x" Resource Packs were created by [Faithful-Resource-Pack](https
 The "Pixlli 128x" Resource Packs were created by [illystray](https://modrinth.com/user/illystray)
 
 - 🟨 Pixlli 128x: [Modrinth](https://modrinth.com/resourcepack/pixlli) or [Curseforge](https://www.curseforge.com/minecraft/texture-packs/pixlli)
-  - 📝 [LICENSE](https://github.com/Faithful-Resource-Pack/Pixlli-128x/blob/main/LICENSE.txt)
+  - 📝 [LICENSE](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/Pixlli-128x/blob/main/LICENSE.txt)
   - 🗣️ [Discord](https://discord.com/invite/2DGCxzpmBc)
   - ❤️ [Boosty](https://boosty.to/illystray)
   - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/Pixlli-128x/Links.txt)
@@ -71,9 +71,19 @@ The "Pixlli 128x" Resource Packs were created by [illystray](https://modrinth.co
 The "rotrBLOCKS 128/256x" Resource Packs were created by [illystray](https://modrinth.com/user/illystray)
 
 - 🟨 rotrBLOCKS 128/256x: [Modrinth](https://modrinth.com/resourcepack/rotrblocks) or [Curseforge](https://www.curseforge.com/minecraft/texture-packs/rotrblocks)
-  - 📝 [LICENSE](https://github.com/Faithful-Resource-Pack/rotrBLOCKS-128-256x/blob/main/LICENSE.txt)
+  - 📝 [LICENSE](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/rotrBLOCKS-128-256x/LICENSE.txt)
   - 🗣️ [Discord](https://discord.com/invite/2DGCxzpmBc)
   - ❤️ [Boosty](https://boosty.to/illystray)
   - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/rotrBLOCKS-128-256x/Links.txt)
+
+## 🏛️ Alacrity
+
+The "Alacrity" Resource Packs were created by [Satellence](https://modrinth.com/user/Satellence)
+
+- 🏛️ Alacrity: [Modrinth](https://modrinth.com/resourcepack/alacrity) or [Curseforge](https://www.curseforge.com/minecraft/texture-packs/alacrity)
+  - 📝 [LICENSE](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/Alacrity/LICENSE.txt)
+  - 🗣️ [Discord](https://discord.gg/ZAV7uWnt5k)
+  - ❤️ [Boosty](https://boosty.to/alacrity)
+  - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/Alacrity/Links.txt)
 
 > All rights reserved. © 2021-2023 LifeMC Studios
