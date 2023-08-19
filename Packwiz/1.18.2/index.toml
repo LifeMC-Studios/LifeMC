@@ -1301,7 +1301,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pixlli.pw.toml"
-hash = "c48553b11b1e39abaa9ca6072985be502d739e791654d7fc28956e9d8af72a7e"
+hash = "6530a5ec7d890c8a9ba459515c057a52857a289eb11f49088a3cde652c39568a"
 metafile = true
 
 [[files]]
@@ -1316,7 +1316,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rotrblocks.pw.toml"
-hash = "10f9dde6fb51157e3efc4d5f573017ce28067e86a80ed378397cdda285473ede"
+hash = "195b9c2b0b5e60bc4f9d2942412b82ec0fd900167120bfbcd97268b288f651eb"
 metafile = true
 
 [[files]]

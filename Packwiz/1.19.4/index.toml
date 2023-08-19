@@ -1192,7 +1192,7 @@ metafile = true
 
 [[files]]
 file = "mods/seamless.pw.toml"
-hash = "76cb96cd7d6f615e44cc68b140cbb6ec7ada009d6086e9070b5836c523f06a9f"
+hash = "438883d21b5c00ec545972435701a3928bb4ba000a3c0d681940b0123e13feb8"
 metafile = true
 
 [[files]]
@@ -1237,7 +1237,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-scroll.pw.toml"
-hash = "8659c822c42563064e8dfd7f8f9cdd1cc504924cdd11bae257a7527c0c10528e"
+hash = "a76df6454462cf21be9e3962a20bd92dc5c95fc41d2b74875c208562d561db88"
 metafile = true
 
 [[files]]
@@ -1292,7 +1292,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pixlli.pw.toml"
-hash = "c48553b11b1e39abaa9ca6072985be502d739e791654d7fc28956e9d8af72a7e"
+hash = "6530a5ec7d890c8a9ba459515c057a52857a289eb11f49088a3cde652c39568a"
 metafile = true
 
 [[files]]
@@ -1307,7 +1307,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rotrblocks.pw.toml"
-hash = "10f9dde6fb51157e3efc4d5f573017ce28067e86a80ed378397cdda285473ede"
+hash = "195b9c2b0b5e60bc4f9d2942412b82ec0fd900167120bfbcd97268b288f651eb"
 metafile = true
 
 [[files]]
