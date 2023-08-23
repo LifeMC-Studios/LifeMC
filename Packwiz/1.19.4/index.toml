@@ -189,6 +189,10 @@ file = "config/yosbr/config/midnightcontrols.json"
 hash = "5de12b87f77a12f2dc515bc4d0684ff16217c448d05975b62771ca3dcfe24592"
 
 [[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "ca92e91a2d856d42e4a5b1ba1900fbed0e942bcbeddd75c0195a2375ade75695"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "70a2a23045853043a01b9f7fae7a47c65470b498d2fb8bc02bf22e0b56515a6c"
 
@@ -932,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "d8636534ec3d6cf8f8380692db19bb4dd660c0e1bd2b865649a485d81482a5d1"
+hash = "99b1060fa083ca355f35f09fe02ef04832a313cff855de8522fd1766164e0082"
 metafile = true
 
 [[files]]
@@ -952,7 +956,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "416fdc912dd2bbc125eaaa322e5cc3536aaf341264caceebf1ee129df48b9c77"
+hash = "31a3a63897d61718634cd371bf9b2aca8813441978053c25bbfdd9ffa01c30d2"
 metafile = true
 
 [[files]]
@@ -967,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+hash = "5fe6c5b44697001decdc076df1bd09fbd8b6fe223785e14598f695c42e0545e8"
 metafile = true
 
 [[files]]
@@ -1022,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "18f9db9c211d31923f8d81fbc4507fe1a0e36f38474c5b249179c07fbbebb381"
+hash = "a9a955be7b87637b8e748bf37f8c36a7b92e07d435d964d9a0f9a0c9e946f4b1"
 metafile = true
 
 [[files]]
@@ -1108,6 +1112,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f29d10d90e0b8562293d61155c0cb445b83f454d59e9d0c8012fca59399c01be"
 metafile = true
 
 [[files]]
@@ -1352,5 +1361,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "a5ed01e32d65dbd67e9573e1575874284a0e3c64aebbbbb872230d8be9fd0e8e"
+hash = "fde89efa0ba937c2f4d05eba0b0ea1259e7e628b90446da5a74cfb95ea9353c9"
 metafile = true

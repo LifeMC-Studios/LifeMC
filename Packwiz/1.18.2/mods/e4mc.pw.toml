@@ -1,13 +1,13 @@
 name = "e4mc"
-filename = "e4mc-4.0.0+1.18.2-fabric.jar"
+filename = "e4mc-4.0.1+1.18.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/FgvOC1Lq/e4mc-4.0.0%2B1.18.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/2WVvoLhs/e4mc-4.0.1%2B1.18.2-fabric.jar"
 hash-format = "sha1"
-hash = "9dcb18be03f0b7340aa9d3534c718ebcf6c18475"
+hash = "606f2483479000f8801d15b10eca3279792c0970"
 
 [update]
 [update.modrinth]
 mod-id = "qANg5Jrr"
-version = "FgvOC1Lq"
+version = "2WVvoLhs"
