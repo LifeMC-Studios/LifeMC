@@ -189,6 +189,10 @@ file = "config/yosbr/config/midnightcontrols.json"
 hash = "5de12b87f77a12f2dc515bc4d0684ff16217c448d05975b62771ca3dcfe24592"
 
 [[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "ca92e91a2d856d42e4a5b1ba1900fbed0e942bcbeddd75c0195a2375ade75695"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "70a2a23045853043a01b9f7fae7a47c65470b498d2fb8bc02bf22e0b56515a6c"
 
@@ -1108,6 +1112,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f29d10d90e0b8562293d61155c0cb445b83f454d59e9d0c8012fca59399c01be"
 metafile = true
 
 [[files]]
