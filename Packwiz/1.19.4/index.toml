@@ -37,14 +37,6 @@ file = "config/yosbr/config/chatpatches.json"
 hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
 [[files]]
-file = "config/yosbr/config/cosmetica/cosmetica.properties"
-hash = "44d2dbe855e927253548b3fd51c14648c769fd07c39906cd1c69ad5474b773c7"
-
-[[files]]
-file = "config/yosbr/config/cosmetica/default-settings.properties"
-hash = "12933dda27b3298fb89b7a7016ff44487700dca92da6b687c6bc70e533357280"
-
-[[files]]
 file = "config/yosbr/config/drippyloadingscreen/config.cfg"
 hash = "d2b2c35de77f6b1f6e9e0ff1c7b909a8c2c480d74c3b4ac9defc6ffbe932b6a3"
 
@@ -58,7 +50,7 @@ hash = "34f8233c9e93f5b579ade237449901acaac99d12824303c483fc21b76c612393"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "fe60a37eab0d7ffa6cd195a3f8fb2922c43b27f384b06561908ea8f7c959e7e2"
+hash = "768dc65c3729dbfa508d5de839f01aa38203440946939103cebc39ae1e554c49"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
