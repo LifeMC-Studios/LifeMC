@@ -1195,11 +1195,6 @@ hash = "8e8f4112f567c9057d7f6e6de1a84cc3d1de84e58a0fb68b79fc450c208dbdce"
 metafile = true
 
 [[files]]
-file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
-metafile = true
-
-[[files]]
 file = "mods/seamless.pw.toml"
 hash = "438883d21b5c00ec545972435701a3928bb4ba000a3c0d681940b0123e13feb8"
 metafile = true
