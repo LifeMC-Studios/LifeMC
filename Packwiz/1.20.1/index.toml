@@ -1133,11 +1133,6 @@ hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
 metafile = true
 
 [[files]]
-file = "mods/notebook.pw.toml"
-hash = "b75df70741017dd124bc24a9923da2376819a41bf50ae39870a5290fef604e04"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
 metafile = true
