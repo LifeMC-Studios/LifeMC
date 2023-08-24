@@ -1,5 +1,3 @@
 {
-  "sleepDelay": 150,
-  "hitboxLimit": 90,
-  "disableF3": true
+  "sleepDelay": 50
 }

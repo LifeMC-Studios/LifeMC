@@ -2,5 +2,6 @@
   "dollXOffset": 24,
   "dollYOffset": 32,
   "dollLookingSides": 0,
-  "dollLookingUpDown": 0
+  "dollLookingUpDown": 0,
+  "autoHide": true
 }

@@ -37,14 +37,6 @@ file = "config/yosbr/config/chatpatches.json"
 hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
 [[files]]
-file = "config/yosbr/config/cosmetica/cosmetica.properties"
-hash = "44d2dbe855e927253548b3fd51c14648c769fd07c39906cd1c69ad5474b773c7"
-
-[[files]]
-file = "config/yosbr/config/cosmetica/default-settings.properties"
-hash = "12933dda27b3298fb89b7a7016ff44487700dca92da6b687c6bc70e533357280"
-
-[[files]]
 file = "config/yosbr/config/drippyloadingscreen/config.cfg"
 hash = "d2b2c35de77f6b1f6e9e0ff1c7b909a8c2c480d74c3b4ac9defc6ffbe932b6a3"
 
@@ -58,7 +50,7 @@ hash = "34f8233c9e93f5b579ade237449901acaac99d12824303c483fc21b76c612393"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "fe60a37eab0d7ffa6cd195a3f8fb2922c43b27f384b06561908ea8f7c959e7e2"
+hash = "768dc65c3729dbfa508d5de839f01aa38203440946939103cebc39ae1e554c49"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
@@ -206,7 +198,7 @@ hash = "ba46a80e0702c73ae0861a130fb18f0b755b6c57ab9f05a5f582cf25f91d6da2"
 
 [[files]]
 file = "config/yosbr/config/paperdoll.json"
-hash = "0f5b67d7be1da6cefb4346c7e4c1037b93cf5d3444ef40b5a224af54cbce0811"
+hash = "ec4f68f111d8ad9667954c1a9c8bb9b694f98af3aeb7b6a206ea3f3a00f3404d"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -836,11 +828,6 @@ hash = "e8504c09fc7466033c4aa815bfc4a7002915c132c4e45d68e7d861263a13be72"
 metafile = true
 
 [[files]]
-file = "mods/axolotl-buckets.pw.toml"
-hash = "f0d905f176d47c63139e372c9adc0e7538c60f8b4b2d4d359860eb0921b809a6"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -1176,11 +1163,6 @@ hash = "d428d359a69cbb2cd197d421c33a72fb63c3148a8e898337e6b9fa806f670ff1"
 metafile = true
 
 [[files]]
-file = "mods/recursiveresources.pw.toml"
-hash = "a31bc2e0d4721a7d48388c7e2c2bac5f66fa775aee6d4f2e4b4b4c4b340ca2dd"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
@@ -1193,11 +1175,6 @@ metafile = true
 [[files]]
 file = "mods/satin-api.pw.toml"
 hash = "d2cf373e948d483f3cb2bcc9180710a468ece84419dd732e1e8eab8ddcafa36a"
-metafile = true
-
-[[files]]
-file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
