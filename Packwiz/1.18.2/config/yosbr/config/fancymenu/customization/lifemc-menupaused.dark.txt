@@ -16,14 +16,6 @@ customization {
 }
 
 customization {
-  identifier = %id=604330%
-  orientation = mid-centered
-  x = 104
-  action = movebutton
-  y = -10
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
   orientation = mid-centered
   x = -102

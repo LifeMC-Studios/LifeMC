@@ -148,11 +148,6 @@ customization {
 }
 
 customization {
-  identifier = %id=604322%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = bottom-centered
   x = -44
@@ -341,7 +336,6 @@ customization {
   capeurl = http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933
   action = custom_layout_element:fancymenu_customization_player_entity
   actionid = f93cc07f-eba7-4004-b4c6-dff827f31bc41686852497416
-  playername = Nukecraft5419
   delayappearance = true
   bodyrotationx = 0.0
   bodyrotationy = 0.0
