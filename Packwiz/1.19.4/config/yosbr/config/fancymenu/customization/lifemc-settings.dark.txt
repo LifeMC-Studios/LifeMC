@@ -86,7 +86,7 @@ customization {
   orientation = mid-centered
   x = 4
   action = movebutton
-  y = 31
+  y = 32
 }
 
 customization {
