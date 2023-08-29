@@ -54,7 +54,7 @@ hash = "cc1c1a2f3ed0a6a3671daccf6834042819d4ec187deecb8efffd7b023afe17fe"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/config.txt"
-hash = "8d8077727cc7b6a41ce652e3a437f2ef2fba9e3c127466071c6dc42aa9f893e6"
+hash = "01a54f1d6274263af0c9bd304d277d88e23c790adb4850a4a5e438af447e9871"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customizablemenus.txt"
@@ -726,7 +726,7 @@ hash = "7274b750a9257a7134915f43a4ea29554e44e77e36fe7f1d9c0d2e91cf2ed6ab"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d1850cf94a2114012aa475925a38d3b71244a26e9ea1a7003d50305c776d9567"
+hash = "65cd5364bff88297fd05322531aeb4e1a76c62189fdec09b46fcaf5f3483526b"
 
 [[files]]
 file = "config/yosbr/servers.dat"

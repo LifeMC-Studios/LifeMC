@@ -3,7 +3,7 @@ enableVsync:false
 autoJump:false
 snooperEnabled:false
 entityShadows:false
-fullscreen:true
+fullscreen:false
 fov:1.0
 renderDistance:12
 simulationDistance:5
