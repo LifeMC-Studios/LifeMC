@@ -12,7 +12,6 @@ Please ensure that you have received a copy of the GNU General Public Licenses a
 - [CONTRIBUTING.md](https://github.com/LifeMC-Studios/LifeMC/blob/main/CONTRIBUTING.md): If you wish to contribute to the development of this software, please consult this document for information on the contribution process and guidelines for developers.
 - [Issues Page](https://github.com/LifeMC-Studios/LifeMC/issues): If you encounter problems or wish to report bugs or suggestions for improving the software, please visit this page to submit a report.
 
-
 ## 🟨 Phosphor Icons
 
 ```
@@ -38,7 +37,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
 
 ## 🟩 Lunacy by Icons8
 
@@ -154,7 +152,6 @@ If you have questions or comments regarding this Universal Multimedia Licensing
 Tel: + 1 929-445-2737
 ```
 
-
 ## 🎨 Reimagined GUI
 
 ``` 
@@ -180,7 +177,6 @@ Exceptions:
 
 1. If you're doing anything privately and undistributed to my assets (e.g. custom edit for personal use, unpublished add-ons, mod support, using the pack for a small private Minecraft server, or edits either by you or from different packs) you can safely disregard all of these requirements since you are not gaining unfairly from me in any form. 
 ```
-
 
 ## ☁️ Dramatic Skys
 
