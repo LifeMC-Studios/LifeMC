@@ -3,17 +3,12 @@
   "overrides": {
     "fabricloader": {
       "+depends": {
-        "fabricloader": ">=0.14.21"
+        "fabricloader": ">=0.14.22"
       }
     },
     "minecraft": {
       "+recommends": {
         "LifeMC": ">1.0.0+1.18.2"
-      }
-    },
-    "imblocker": {
-      "-depends": {
-        "minecraft": ">=1.18.2"
       }
     }
   }
