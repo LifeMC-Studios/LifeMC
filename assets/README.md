@@ -6,7 +6,7 @@ To create the logo with Piggy I used the resource pack from [The Mobo](https://w
 
 ## ⌨️ Buttons
 
-The buttons were made using [Icons8](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8) icons and their [Lunacy](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8) software
+The buttons were made using the icons from [Phosphor Icons](https://phosphoricons.com/) and the software [Lunacy by Icons8](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8).
 
 ## 🎨 Cosmetica
 
