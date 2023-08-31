@@ -10,7 +10,7 @@ hash = "62050b222a0e1ef414a08d6b44b524a82ae4c412b8c8e3da2acdf711b64f4422"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
-hash = "d62d0b45ac8f63ec33a85d8efebcdc216f7d2485387cf5329a42b01e4df24603"
+hash = "faf2e17579cd9626ea5ec7a8fd1b5b09fa3056e28e0fc58d3e720ca41eedb11c"
 
 [[files]]
 file = "config/yosbr/LICENSE"
@@ -1229,11 +1229,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/rotrblocks.pw.toml"
 hash = "195b9c2b0b5e60bc4f9d2942412b82ec0fd900167120bfbcd97268b288f651eb"
-metafile = true
-
-[[files]]
-file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "42389b100ed9d07329d0f14b04f69ac9768adce4b7c3a1b2b15d0348783eb967"
 metafile = true
 
 [[files]]
