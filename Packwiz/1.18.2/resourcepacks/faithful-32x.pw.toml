@@ -3,11 +3,11 @@ filename = "Faithful 32x - 1.18.2.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/w0TnApzs/versions/wL1EwtPk/Faithful%2032x%20-%201.18.2.zip"
+url = "https://cdn.modrinth.com/data/w0TnApzs/versions/uzXEEThM/Faithful%2032x%20-%201.18.2.zip"
 hash-format = "sha1"
-hash = "d7917c14a92c5a8aa2b42abb86a0ea6aa3efb6a4"
+hash = "8cd4e63ab04d57e0d60c54d3a5c7aa97bfa4ca88"
 
 [update]
 [update.modrinth]
 mod-id = "w0TnApzs"
-version = "wL1EwtPk"
+version = "uzXEEThM"

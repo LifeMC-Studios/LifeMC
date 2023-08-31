@@ -894,7 +894,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5fe6c5b44697001decdc076df1bd09fbd8b6fe223785e14598f695c42e0545e8"
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
 metafile = true
 
 [[files]]
@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "3de02d584a643ef51bc3feb152d4c787eecaa18127c4e7e71760bc2dcb3b6e17"
+hash = "509b70593676a2aced5ca3e0b50cab8768558c9a0b6026ad665ac9d2f9ff19ac"
 metafile = true
 
 [[files]]
@@ -1009,7 +1009,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
@@ -1039,7 +1039,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0b4821c89ce8055cf381f9c33fb6f568e2e7472fa299db061967d2e71fdde53e"
+hash = "be401cd4e87b90883f8c526ff709e65a39958a6da464e6df1b4e35ca6152729b"
 metafile = true
 
 [[files]]
@@ -1184,7 +1184,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
-hash = "5e42cb145d229e3c5933f9dc01e6a412abd0790b3e41fbbb5dd1eee1b55eb34c"
+hash = "95bb38e24570ac47238afbf7a61e2ff287deda6bdb16d4e9830b9946f4370ae4"
 metafile = true
 
 [[files]]
