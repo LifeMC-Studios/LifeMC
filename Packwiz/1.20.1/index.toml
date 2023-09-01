@@ -105,34 +105,6 @@ file = "config/yosbr/config/fancymenu/extensions/fmaudio/locals/en_us.local"
 hash = "6a2de605aaf07a8f635d9df3b589ff2162fbef2f26eb73dbd17d894c0d261349"
 
 [[files]]
-file = "config/yosbr/config/fancymenu/locals/de_de.local"
-hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/en_us.local"
-hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/pl_pl.local"
-hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/pt_br.local"
-hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/ru_ru.local"
-hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/uk_ua.local"
-hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/zh_cn.local"
-hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
-
-[[files]]
 file = "config/yosbr/config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
