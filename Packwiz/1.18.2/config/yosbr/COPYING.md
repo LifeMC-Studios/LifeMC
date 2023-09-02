@@ -12,8 +12,33 @@ Please ensure that you have received a copy of the GNU General Public Licenses a
 - [CONTRIBUTING.md](https://github.com/LifeMC-Studios/LifeMC/blob/main/CONTRIBUTING.md): If you wish to contribute to the development of this software, please consult this document for information on the contribution process and guidelines for developers.
 - [Issues Page](https://github.com/LifeMC-Studios/LifeMC/issues): If you encounter problems or wish to report bugs or suggestions for improving the software, please visit this page to submit a report.
 
+## 🟨 Phosphor Icons
 
-## 🟩 Icons8
+```
+MIT License
+
+Copyright (c) 2020 Phosphor Icons
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+## 🟩 Lunacy by Icons8
 
 ```
 Universal Multimedia License Agreement for Icons8
@@ -127,7 +152,6 @@ If you have questions or comments regarding this Universal Multimedia Licensing
 Tel: + 1 929-445-2737
 ```
 
-
 ## 🎨 Reimagined GUI
 
 ``` 
@@ -154,26 +178,11 @@ Exceptions:
 1. If you're doing anything privately and undistributed to my assets (e.g. custom edit for personal use, unpublished add-ons, mod support, using the pack for a small private Minecraft server, or edits either by you or from different packs) you can safely disregard all of these requirements since you are not gaining unfairly from me in any form. 
 ```
 
-
 ## ☁️ Dramatic Skys
 
 ```
 Legal/TOS:
 Pack is for personal use ONLY. May not be shared, hosted, or posted anywhere. This includes a server having it as a server pack. This is NOT permitted. Please do not steal/modify textures unless for personal uses only! Texture Pack and details belong to thebaum64. Thank you!
-```
-
-## 🗺️ Translations for Sodium
-
-```
-MIT License
-
-Copyright (c) 2023 Unofficial Sodium Translations team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
 ## 🏡 Faithful

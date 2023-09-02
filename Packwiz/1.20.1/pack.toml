@@ -1,12 +1,12 @@
 name = "LifeMC"
-author = "Nukecraft5419"
+author = "LifeMC Studios"
 version = "1.0.0+1.20.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b2e61c7441fa01ae908c48476af10593574190605e333b17c75266e031c7d716"
+hash = "6225e1cbc4a99f62c1b9323127789dd997ecf69428a209e3508cfcc9087ccc36"
 
 [versions]
 fabric = "0.14.22"

@@ -10,7 +10,7 @@ hash = "b3ed538c773ef33974a22a7d715f93ac61d955d0fc973930aba605f047d528d5"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
-hash = "528d6edc08b6766f7ca48c100a4de18f0d1a7958324a7b576e508d00f8aa6635"
+hash = "faf2e17579cd9626ea5ec7a8fd1b5b09fa3056e28e0fc58d3e720ca41eedb11c"
 
 [[files]]
 file = "config/yosbr/LICENSE"
@@ -103,34 +103,6 @@ hash = "f3e260206c13bf58788b0572f453f95a3b7c67066dbf85f1a1118c1126d11d62"
 [[files]]
 file = "config/yosbr/config/fancymenu/extensions/fmaudio/locals/en_us.local"
 hash = "6a2de605aaf07a8f635d9df3b589ff2162fbef2f26eb73dbd17d894c0d261349"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/de_de.local"
-hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/en_us.local"
-hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/pl_pl.local"
-hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/pt_br.local"
-hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/ru_ru.local"
-hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/uk_ua.local"
-hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/locals/zh_cn.local"
-hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/menu_identifiers.db"
@@ -734,7 +706,7 @@ hash = "7274b750a9257a7134915f43a4ea29554e44e77e36fe7f1d9c0d2e91cf2ed6ab"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "bd482e3c6f8bd0347c0941a3200ce88dfc1d40a4345410a6cab4440faac148f8"
+hash = "f45f0e21b366a94e057313d75227a330fe113598033abc94bc125d7d4fa83e1a"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -902,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5fe6c5b44697001decdc076df1bd09fbd8b6fe223785e14598f695c42e0545e8"
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
 metafile = true
 
 [[files]]
@@ -952,12 +924,12 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "753a54deeef4fd0954e395af3ec8faf53ec9ab0587fe7efabf6dc1db86ed5907"
+hash = "dfd99399b289c778f970e8117b8a60eb3e05180a756b6573c3a18df4b9e44acb"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a9a955be7b87637b8e748bf37f8c36a7b92e07d435d964d9a0f9a0c9e946f4b1"
+hash = "09cc84c8d459ab708ac281e47cf76c6cf19cefaed7084ec481334d37875cb500"
 metafile = true
 
 [[files]]
@@ -1017,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
@@ -1047,7 +1019,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f29d10d90e0b8562293d61155c0cb445b83f454d59e9d0c8012fca59399c01be"
+hash = "cb84b71fadc7abf51f5441681a32e934fe551e3d98f33e8f4c60c8563a579c0f"
 metafile = true
 
 [[files]]
@@ -1187,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "106a5a4554f1d79b3158beea97e16108a318b940924e643162444630dbebecab"
+hash = "88c0fc20bad48c7c65dc7394f8dbb00b908c4c4c21323a2160705177ccf10cc3"
 metafile = true
 
 [[files]]
@@ -1207,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
-hash = "bd9e46ca1daa646b01b630a954c6b3ec811cc8093738eaa4d7c7347fc4d7e3f5"
+hash = "56866fa0a8af70c8751e2782a21dd07d60b69166462643bb1fa01d8a368f29b6"
 metafile = true
 
 [[files]]
@@ -1233,11 +1205,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/rotrblocks.pw.toml"
 hash = "195b9c2b0b5e60bc4f9d2942412b82ec0fd900167120bfbcd97268b288f651eb"
-metafile = true
-
-[[files]]
-file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "9907708383f7b954db046df0b60b9cd43427e27f0bcc0dfa242e6e4f25749a05"
 metafile = true
 
 [[files]]
