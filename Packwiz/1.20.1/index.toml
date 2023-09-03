@@ -895,11 +895,6 @@ hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
 metafile = true
 
 [[files]]
-file = "mods/tooltip-scroll.pw.toml"
-hash = "3d55838fcc1155f1e062a203b4fbf15c5f2544e3a6b56ba8d8cddfaf01d62122"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "9b3fd0e07219491269f7977d4b42c3c4c9769f1c99cf1531e612265157ed7071"
 metafile = true
