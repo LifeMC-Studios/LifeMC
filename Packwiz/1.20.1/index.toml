@@ -37,6 +37,14 @@ file = "config/yosbr/config/chatpatches.json"
 hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
 [[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "30727beecbfd2eef4363d029581453e6f7a0f027f366986438aa1bdcf420c95e"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "d047d7c6024ce3c82f299ab5f391ad0e3fa89c33bd3e3c2489dcd8d3d39ac159"
+
+[[files]]
 file = "config/yosbr/config/drippyloadingscreen/config.cfg"
 hash = "d2b2c35de77f6b1f6e9e0ff1c7b909a8c2c480d74c3b4ac9defc6ffbe932b6a3"
 
@@ -139,10 +147,6 @@ hash = "a9234869972f6a9482be05ab734cf2192f8ffb3aef1f9d0ee367d1fc11cf7b47"
 [[files]]
 file = "config/yosbr/config/loadmyresources/config.cfg"
 hash = "1ea0cd71c7e4d5bf0425e1cf966cb197e038a30a3d39b549fc3d1871f12b963f"
-
-[[files]]
-file = "config/yosbr/config/midnightcontrols.json"
-hash = "5de12b87f77a12f2dc515bc4d0684ff16217c448d05975b62771ca3dcfe24592"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -603,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]

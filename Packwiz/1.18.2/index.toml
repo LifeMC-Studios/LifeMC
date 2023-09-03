@@ -29,6 +29,10 @@ file = "config/yosbr/config/chatpatches.json"
 hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
 [[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "3128a2c0d62f4ded07b23fc7482fc522f2510359e700ed409dfe16e73b02c600"
+
+[[files]]
 file = "config/yosbr/config/drippyloadingscreen/config.cfg"
 hash = "d2b2c35de77f6b1f6e9e0ff1c7b909a8c2c480d74c3b4ac9defc6ffbe932b6a3"
 
@@ -594,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "24f565aa231db1b9408f1ff631f31283c9b9800db6778ebe69ae1f86c8a9c1b8"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
 metafile = true
 
 [[files]]
