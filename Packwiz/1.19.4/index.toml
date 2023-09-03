@@ -904,11 +904,6 @@ hash = "a76df6454462cf21be9e3962a20bd92dc5c95fc41d2b74875c208562d561db88"
 metafile = true
 
 [[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "76262ae83e45259425577a35d7ce8c8d65fa3afe67ab16deaac6cbc67efe494e"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "6952301f1ddadd8104cd6e7561c3eed10b75a85dc7f6d5bdb44a334f2bea5a70"
 metafile = true
