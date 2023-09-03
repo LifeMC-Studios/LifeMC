@@ -810,11 +810,6 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
 metafile = true
