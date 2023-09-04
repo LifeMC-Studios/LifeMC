@@ -132,7 +132,6 @@ Some functions you will find in LifeMC:
 - [Krypton](https://modrinth.com/mod/fQEb0iXm)
 - [LazyDFU](https://modrinth.com/mod/hvFnDODi)
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ)
-- [Log Cleaner](https://modrinth.com/mod/hwRo6mwQ)
 - [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD)
 - [MidnightControls](https://modrinth.com/mod/bXX9h73M) (only for 1.18.2)
 - [MidnightLib](https://modrinth.com/mod/codAaoxh)
