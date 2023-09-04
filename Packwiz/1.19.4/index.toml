@@ -49,8 +49,8 @@ file = "config/yosbr/config/drippyloadingscreen/config.cfg"
 hash = "d2b2c35de77f6b1f6e9e0ff1c7b909a8c2c480d74c3b4ac9defc6ffbe932b6a3"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "785646f97635d108847592191d7649ff18e41785c2f9ea702146fd1666aaed54"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
