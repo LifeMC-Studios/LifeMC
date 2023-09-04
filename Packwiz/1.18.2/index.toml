@@ -445,6 +445,10 @@ file = "config/yosbr/config/resources/minecraft/images/piggy.png"
 hash = "7689ddf7ec46d40d629ee7a096b4750e723831810193111dea99c4b3cb8e1201"
 
 [[files]]
+file = "config/yosbr/config/resources/minecraft/lang/en_us.json"
+hash = "3f482bfeacb5eb2d425df07b0a0cefac9d359ce031a5e46b0e5cff56ca4a29ab"
+
+[[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
 hash = "3197150af1019ff69919a3616a7e5326b88cc8800725898f958b04152d276ecb"
 
