@@ -1,13 +1,13 @@
 name = "rotrBLOCKS 128/256x"
-filename = "rotrBLOCKS V47 1.20.1-1.13 128x (OPEN ME).zip"
+filename = "rotrBLOCKS V48 1.20.1-1.13 128x (OPEN ME).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/A8aBf1Xa/versions/HZ8Erh04/rotrBLOCKS%20V47%201.20.1-1.13%20128x%20%28OPEN%20ME%29.zip"
+url = "https://cdn.modrinth.com/data/A8aBf1Xa/versions/PWiskeTh/rotrBLOCKS%20V48%201.20.1-1.13%20128x%20%28OPEN%20ME%29.zip"
 hash-format = "sha1"
-hash = "60345e059e227bb7d6335a579cad77b108597dd4"
+hash = "98a5ea4ac8c4ab3c7709fe399cbc3e4e837086de"
 
 [update]
 [update.modrinth]
 mod-id = "A8aBf1Xa"
-version = "HZ8Erh04"
+version = "PWiskeTh"

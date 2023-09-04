@@ -29,6 +29,10 @@ file = "config/yosbr/config/chatpatches.json"
 hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
 [[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "3128a2c0d62f4ded07b23fc7482fc522f2510359e700ed409dfe16e73b02c600"
+
+[[files]]
 file = "config/yosbr/config/drippyloadingscreen/config.cfg"
 hash = "d2b2c35de77f6b1f6e9e0ff1c7b909a8c2c480d74c3b4ac9defc6ffbe932b6a3"
 
@@ -470,7 +474,7 @@ hash = "7274b750a9257a7134915f43a4ea29554e44e77e36fe7f1d9c0d2e91cf2ed6ab"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1ae430591a305c4d6d08e381397203d5c6efdb8f2c49ce533aa77e37182ff1dd"
+hash = "30da57af2ef45e7d63f15eb6972a0b1ca48ec1e7cead643502b782301a4a3ab3"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -594,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "24f565aa231db1b9408f1ff631f31283c9b9800db6778ebe69ae1f86c8a9c1b8"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
 metafile = true
 
 [[files]]
@@ -747,11 +756,6 @@ hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
 metafile = true
 
 [[files]]
-file = "mods/logical-zoom.pw.toml"
-hash = "ceb6914dc615c4af05e942bb82011dc7d69f8a5051d35ddbaf958419d04b18a3"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
@@ -764,11 +768,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "47c92b4cfd41908adff40fe773908eccebe0332bb94c31072a4382f4f735c599"
-metafile = true
-
-[[files]]
-file = "mods/minecalc.pw.toml"
-hash = "68e788e69756f2ec0a0c1292256db46d3f9399854fc0fa49dd0c406a86c6e9c6"
 metafile = true
 
 [[files]]
@@ -794,11 +793,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "b99c1cae57386de36e5a6dc1d247057d0d5c0e9c5a5563b67d078ea7975919a9"
-metafile = true
-
-[[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
@@ -887,16 +881,6 @@ hash = "2bc388cf7612168bcc083bd2ba7168df99ae6de8294504c755cbfd274161ece6"
 metafile = true
 
 [[files]]
-file = "mods/tooltip-scroll.pw.toml"
-hash = "6d11fb141d71fb5a081746fc444e0036176e7d47f120c65c73e2f93fe3ed9383"
-metafile = true
-
-[[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "3fdc9a7558c912db84c2b62845896e74a1633450a0d2a0721bce6a382b842213"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "273e4674396016743926c2892930c0bd347c15e5c488e97f687dcd447113857e"
 metafile = true
@@ -917,13 +901,18 @@ hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "42653e0671bbbde6f2ac3fa3af3b7068b7c83f2d9f8091dbaa24c758464d7a19"
+metafile = true
+
+[[files]]
 file = "resourcepacks/alacrity.pw.toml"
 hash = "0fc41b681d4e839ee484e5d81a7e5f7ff5b7f44c3bdedcf881d8e65f487fc9ab"
 metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "da172147709ca51b1f4ccadf06b6dc5c0da8cd178b3c6f03315a3ea9a1a8c68e"
+hash = "1f76c1b21b206595c2397ef2fdfb7fb085d6a8f8ef7f5856f077677f475314e2"
 metafile = true
 
 [[files]]
@@ -938,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pixlli.pw.toml"
-hash = "6530a5ec7d890c8a9ba459515c057a52857a289eb11f49088a3cde652c39568a"
+hash = "d19c32e296233f00ae3d057998577346a088f8c1c2060439e2a2a01a1aa43b0a"
 metafile = true
 
 [[files]]
@@ -953,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rotrblocks.pw.toml"
-hash = "195b9c2b0b5e60bc4f9d2942412b82ec0fd900167120bfbcd97268b288f651eb"
+hash = "3976c19fb349af0722322068123b81d3fa6922b7d7bee8edc4d34776ad43784e"
 metafile = true
 
 [[files]]
