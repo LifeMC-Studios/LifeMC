@@ -470,7 +470,7 @@ hash = "62f4abee424de1524e02f5540a53b4c42255bdecfba4bb6c52944b50a41cf5b3"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "e651ba7e205bdc982ebb0b347223f3073fd560be8a219293e1f69d0c883760a3"
+hash = "1fe4c0b96251b366913a5c036dd47538d060982fc08b4060c4f2092f3393213e"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -766,11 +766,6 @@ metafile = true
 [[files]]
 file = "mods/load-my-resources.pw.toml"
 hash = "8356b377c0d753c4677adb9b8697ddd0f4c15cbfffde4dc053164c82bd280926"
-metafile = true
-
-[[files]]
-file = "mods/log-cleaner.pw.toml"
-hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
 metafile = true
 
 [[files]]
