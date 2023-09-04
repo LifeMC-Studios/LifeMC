@@ -73,6 +73,8 @@ Some functions you will find in LifeMC:
 - [CIT Resewn](https://modrinth.com/mod/otVJckYQ)
 - [ClearDespawn](https://modrinth.com/mod/yoJJjRRE)
 - [Continuity](https://modrinth.com/mod/1IjD5062)
+- [Controlify](https://modrinth.com/mod/DOUdJVEm) (only from 1.19+ upwards)
+- [Controlling](https://modrinth.com/mod/xv94TkTM) (only from 1.19+ upwards)
 - [Cosmetica](https://modrinth.com/mod/s9hF9QGp)
 - [Drippy Loading Screen](https://modrinth.com/mod/v3CYg2V9)
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)
@@ -95,11 +97,8 @@ Some functions you will find in LifeMC:
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W)
 - [Language Reload](https://modrinth.com/mod/uLbm7CG6)
 - [Load My Resources](https://modrinth.com/mod/TqCKvqjC)
-- [Logical Zoom](https://modrinth.com/mod/8bOImuGU)
-- [Minecalc](https://modrinth.com/mod/vptsNFMA)
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM)
 - [More Culling](https://modrinth.com/mod/51shyZVL)
-- [No Telemetry](https://modrinth.com/mod/hg77g4Pw)
 - [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C)
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ)
 - [PaperDoll](https://modrinth.com/mod/edwFXb9k)
@@ -114,16 +113,16 @@ Some functions you will find in LifeMC:
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn)
 - [Sodium](https://modrinth.com/mod/AANobbMI)
 - [Symbol Chat](https://modrinth.com/mod/NKvLVQMc)
-- [Tooltip Scroll](https://modrinth.com/mod/wySVd6d8)
-- [ToolTipFix](https://modrinth.com/mod/2RKFTmiB)
 - [Visuality](https://modrinth.com/mod/rI0hvYcd)
 - [Wavey Capes](https://modrinth.com/mod/kYuIpRLv)
+- [Zoomify](https://modrinth.com/mod/w7ThoJFB)
 - [AdvancementInfo](https://modrinth.com/mod/G1epq3jN)
 - [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)
 - [Architectury API](https://modrinth.com/mod/lhGA9TYQ)
 - [Cloth Config API](https://modrinth.com/mod/9s6osm5g)
 - [CompleteConfig](https://modrinth.com/mod/GtqG8z1h)
 - [CraterLib](https://modrinth.com/mod/Nn8Wasaq)
+- [Debugify](https://modrinth.com/mod/QwxR6Gcd)
 - [e4mc](https://modrinth.com/mod/qANg5Jrr)
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH)
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL)
@@ -135,7 +134,7 @@ Some functions you will find in LifeMC:
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ)
 - [Log Cleaner](https://modrinth.com/mod/hwRo6mwQ)
 - [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD)
-- [MidnightControls](https://modrinth.com/mod/bXX9h73M)
+- [MidnightControls](https://modrinth.com/mod/bXX9h73M) (only for 1.18.2)
 - [MidnightLib](https://modrinth.com/mod/codAaoxh)
 - [MixinTrace](https://modrinth.com/mod/sGmHWmeL)
 - [Model Gap Fix](https://modrinth.com/mod/QdG47OkI)
@@ -163,9 +162,43 @@ We recommend to always keep the modpack updated to the latest version available 
 
 The modpack is safe, we rely only on the mods available on [Modrinth](https://modrinth.com) being a safe and reliable platform that respects the authors and the modpack is created thanks to [packwiz](https://github.com/packwiz/packwiz) recommended by Modrinth itself, the modpack is controlled by a few reliable people so as to keep the project cleaner and safer, everything is tested before starting the distribution to the public, we recommend to use the modpack as it was given to avoid conflicts with mods or other modifications, if you want mods or features or anything else just open an [issues](https://github.com/LifeMC-Studios/LifeMC/issues) and we will immediately start to discuss it in the team and we will test everything to check if nothing conflicts if it is safe to then put it in the modpack and for other information on security [SECURITY.md](https://github.com/LifeMC-Studios/LifeMC/blob/main/SECURITY.md)
 
-## 🤝 Contributing
+## ⛔ Terms of Use
 
-You want to help improve LifeMC help us with [Pull Requests](https://github.com/LifeMC-Studios/LifeMC/pulls) to bring the features to the public right away, our team will check everything and test it to make sure it's safe and doesn't conflict with any mods or anything else for more information on how to contribute [CONTRIBUTING.md](https://github.com/LifeMC-Studios/LifeMC/blob/main/CONTRIBUTING.md)
+Dear members of our LifeMC Studios community,
+
+We are excited to welcome you to our immersive modpack for Minecraft, designed to enhance your gaming experience. However, before you embark on your adventure, it is essential that you are fully aware of our Terms of Use. Your safety, privacy, and experience are at the core of everything we do.
+
+### 📜 Importance of the Message
+
+We kindly ask you to take a moment to carefully read this vital message regarding your gaming experience on LifeMC Studios.
+
+### 🌐 Compatibility with Third-Party Servers
+
+Our modpack has been meticulously crafted to ensure maximum compatibility with third-party servers, but it is crucial for all players to understand the responsibilities associated with using this modpack.
+
+### ⚔️ `/ghost` Command
+
+Please pay special attention to the `/ghost` command (provided by AntiGhost). On some servers, this command may be restricted for security reasons. Use it with extreme caution and only when absolutely necessary to overcome blocked situations.
+
+### 🔒 Online Protection and Privacy
+
+We understand the seriousness of concerns regarding online privacy and security. To ensure your protection, we have disabled the collection of analytical data by Mojang and any other features that could jeopardize your privacy or cause confusion.
+
+### 👥 Personal Responsibility
+
+Accepting these Terms of Use implies your awareness and commitment to adhere to them. Every action taken within our modpack is entirely your responsibility.
+
+> [!WARNING]
+> Please remember that this modpack is NOT AN OFFICIAL MINECRAFT PRODUCT and is not affiliated with Mojang or Microsoft in any way.
+
+### 🤝 Let's Collaborate for a Better Experience
+
+Together, we can create a safe and engaging gaming environment for all community members. We invite you to collaborate with us while strictly adhering to these Terms of Use.
+
+Your safety and gaming experience are our top priorities. If you have any questions or need further clarification, please do not hesitate to contact us.
+
+**Best regards,**
+LifeMC Studios
 
 ## 📦 Resource Packs
 
@@ -188,6 +221,10 @@ You want to help improve LifeMC help us with [Pull Requests](https://github.com/
 - 🌟 [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels) by [gri573](https://modrinth.com/user/gri573)
 - 🌟 [Super Duper Vanilla](https://modrinth.com/shader/super-duper-vanilla) by [Eldeston](https://modrinth.com/user/Eldeston)
 - 🌟 [Solas Shader](https://modrinth.com/shader/solas-shader) by [septonious](https://modrinth.com/user/septonious)
+
+## 🤝 Contributing
+
+You want to help improve LifeMC help us with [Pull Requests](https://github.com/LifeMC-Studios/LifeMC/pulls) to bring the features to the public right away, our team will check everything and test it to make sure it's safe and doesn't conflict with any mods or anything else for more information on how to contribute [CONTRIBUTING.md](https://github.com/LifeMC-Studios/LifeMC/blob/main/CONTRIBUTING.md)
 
 ## 📝 License
 
