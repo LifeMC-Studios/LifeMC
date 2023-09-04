@@ -158,7 +158,7 @@ hash = "70a2a23045853043a01b9f7fae7a47c65470b498d2fb8bc02bf22e0b56515a6c"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "39911094473a65091ffe0c482ef3fb0ba22d9b114739df3e5f758275b34bfb39"
+hash = "b2ff60a305956fb2a381c6c61d960d2b220d83d9c7737e2ac4ab34a1f604af56"
 
 [[files]]
 file = "config/yosbr/config/notenoughanimations.json"
