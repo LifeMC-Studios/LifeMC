@@ -454,7 +454,7 @@ hash = "7689ddf7ec46d40d629ee7a096b4750e723831810193111dea99c4b3cb8e1201"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/en_us.json"
-hash = "3f482bfeacb5eb2d425df07b0a0cefac9d359ce031a5e46b0e5cff56ca4a29ab"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
 
 [[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
