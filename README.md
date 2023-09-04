@@ -44,9 +44,9 @@ Some functions you will find in LifeMC:
 - 👕 Free cosmetics thanks to the Cosmetica mod
 - ☀️ Compatibility with all Shaders even OptiFine ones thanks to the Iris Shaders mod
 - 🌅 Full compatibility with OptiFine skies thanks to two mod FabricSkyboxes and FabricSkyBoxes Interop
-- 🔭 Better zoom than OptiFine, thanks to the Logical Zoom mod
+- 🔭 Better zoom than OptiFine, thanks to the Zoomify mod
 - 🔎 Merged glass thanks to Continuity
-- 🕯️ Dynamic light
+- 🕯️ Better Dynamic light  than OptiFine, thanks to the LambDynamicLights mod
 - 🗺️ +56 languages supported to translate the custom menu and other things
 - 🌐 Hosting your own world with the e4mc mod
 - 🌳 Tree leaves better than OptiFine thanks to MoreCulling mod

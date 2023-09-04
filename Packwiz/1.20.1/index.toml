@@ -49,8 +49,8 @@ file = "config/yosbr/config/drippyloadingscreen/config.cfg"
 hash = "d2b2c35de77f6b1f6e9e0ff1c7b909a8c2c480d74c3b4ac9defc6ffbe932b6a3"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "785646f97635d108847592191d7649ff18e41785c2f9ea702146fd1666aaed54"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -158,7 +158,7 @@ hash = "70a2a23045853043a01b9f7fae7a47c65470b498d2fb8bc02bf22e0b56515a6c"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "39911094473a65091ffe0c482ef3fb0ba22d9b114739df3e5f758275b34bfb39"
+hash = "b2ff60a305956fb2a381c6c61d960d2b220d83d9c7737e2ac4ab34a1f604af56"
 
 [[files]]
 file = "config/yosbr/config/notenoughanimations.json"
@@ -451,6 +451,10 @@ hash = "7a6372b1bd3ea25310c65728a0bfb834e31b7d909d97dd165856eaa7e2cc8e8f"
 [[files]]
 file = "config/yosbr/config/resources/minecraft/images/piggy.png"
 hash = "7689ddf7ec46d40d629ee7a096b4750e723831810193111dea99c4b3cb8e1201"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/en_us.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
 
 [[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"

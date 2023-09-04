@@ -150,7 +150,7 @@ hash = "8432c5c63f13833727489036d0507cdd03f847c87656161b5c4e311ddfec790c"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "c7a9f49f606ed01491c039018268ce5da03d551e14e4961be37a887f9b56cc49"
+hash = "541cced87b7a9aa1088b8a6f48870efde31227cfe31b93143de0675eef487175"
 
 [[files]]
 file = "config/yosbr/config/notenoughanimations.json"
@@ -443,6 +443,10 @@ hash = "7a6372b1bd3ea25310c65728a0bfb834e31b7d909d97dd165856eaa7e2cc8e8f"
 [[files]]
 file = "config/yosbr/config/resources/minecraft/images/piggy.png"
 hash = "7689ddf7ec46d40d629ee7a096b4750e723831810193111dea99c4b3cb8e1201"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/en_us.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
 
 [[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
