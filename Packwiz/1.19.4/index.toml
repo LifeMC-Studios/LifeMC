@@ -768,6 +768,11 @@ hash = "d685c47885829bf913aeaf1b736e07818a412d8f980636f3351e244b4f78e79e"
 metafile = true
 
 [[files]]
+file = "mods/map-compass.pw.toml"
+hash = "ef54d3a20e4c82619b353af443790f6448e90e01a9a75e78294be8c5ae240684"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true

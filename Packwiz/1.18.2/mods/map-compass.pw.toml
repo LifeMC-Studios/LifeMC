@@ -1,0 +1,13 @@
+name = "Map Compass"
+filename = "map-compass-1.0.2+1.18.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QJHLAgm2/versions/1.0.2%2B1.18.1/map-compass-1.0.2%2B1.18.1.jar"
+hash-format = "sha1"
+hash = "31b34030c56bf576ea1f26fdeee41cbc7d0bc080"
+
+[update]
+[update.modrinth]
+mod-id = "QJHLAgm2"
+version = "LbHtBN37"
