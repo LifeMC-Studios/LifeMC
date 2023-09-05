@@ -1,24 +1,42 @@
-**Bug Description 🐛:**
-[Insert a brief description of the issue]
+bug_template:
+  - name: "Bug Description 🐛"
+    description: "Insert a brief description of the issue"
 
-**Steps to Reproduce 🔄:**
-1. [Insert the first step]
-2. [Insert the second step]
-3. [And so on...]
+  - name: "Steps to Reproduce 🔄"
+    description: |
+      1. Insert the first step
+      2. Insert the second step
+      3. And so on...
 
-**Current Behavior 📋:**
-[Insert what is currently happening]
+  - name: "Current Behavior 📋"
+    description: "Insert what is currently happening"
 
-**Expected Behavior 🎯:**
-[Insert what should happen]
+  - name: "Expected Behavior 🎯"
+    description: "Insert what should happen"
 
-**Screenshots or Logs 📷📝:**
-[If possible, provide screenshots 📷 or excerpts from logs 📝 that can help understand the issue]
+  - name: "Screenshots or Logs 📷📝"
+    description: "If possible, provide screenshots 📷 or excerpts from logs 📝 that can help understand the issue"
 
-**Environment 🌐:**
-- 💻 Operating System: [Insert your operating system]
-- 🎮 Modpack Version: [Insert the modpack version]
-- 📊 Other Relevant Details: [Insert other pertinent details]
+  - name: "Environment 🌐"
+    description: "Select your operating system and modpack version"
+    options:
+      - name: "Operating System"
+        description: "Select your operating system"
+        type: "dropdown"
+        required: true
+        options:
+          - "Windows"
+          - "Linux"
+          - "MacOS"
 
-**Additional Information ℹ️:**
-[Insert any additional information or details if necessary]
+      - name: "Modpack Version"
+        description: "Select the modpack version from the list"
+        type: "dropdown"
+        required: true
+        options:
+          - "1.0.0+1.18.2"
+          - "1.0.0+1.19.4"
+          - "1.0.0+1.20.1"
+
+  - name: "Additional Information ℹ️"
+    description: "Insert any additional information or details if necessary"
