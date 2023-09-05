@@ -1,0 +1,86 @@
+name: Bug Report
+description: Reporting bugs
+labels: ["Bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please ensure that the issue you're reporting hasn't already been documented.
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: 🐛 Bug Description
+      description: Insert a brief description of the issue
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 🔄 Steps to Reproduce
+      description: Describe step by step how to reproduce what happened
+      placeholder: |
+        1. Insert the first step
+        2. Insert the second step
+        3. And so on...
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: 📝 Relevant log outputs
+      description: Please copy and paste any relevant log output, if the launcher in use does not support a logs hosting provider or you do not know how to upload them from within the launcher use https://mclo.gs/.
+      render: shell
+
+  - type: dropdown
+    id: operating-system
+    attributes:
+      label: 🖥️ Operating System
+      description: What operating system do you use?
+      options:
+        - Windows
+        - Linux
+        - MacOS
+    validations:
+      required: true
+
+  - type: dropdown
+    id: modpack-version
+    attributes:
+      label: 🔢 Modpack Version
+      description: Which version of Modpack do you use?
+      options:
+        - 1.0.0+1.18.2
+        - 1.0.0+1.19.4
+        - 1.0.0+1.20.1
+    validations:
+      required: true
+
+  - type: dropdown
+    id: launcher
+    attributes:
+      label: 🚀 Launcher
+      description: Which Launcher do you use?
+      options:
+        - ATLauncher
+        - MultiMC
+        - PolyMC
+        - Prism Launcher
+        - Modrinth App (Beta)
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: ℹ️ Additional Information
+      description: Insert any additional information or details if necessary
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 📜 Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](../blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow the Code of Conduct of this project
+          required: true

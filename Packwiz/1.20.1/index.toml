@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "2ad872687375d4d3bd8593bd984e8cfa32d0e653be5c895b5df95c2fc8733513"
+hash = "1f49e24c04e3bc0132a3542cd4fc9c0d012515f19f124fb0b48eaff9bb99861c"
 metafile = true
 
 [[files]]
@@ -690,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "88fea54c2bc4c3a0e65ec31a1f96b94ff1792e3362988fe719fa5e9de806f99a"
+hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
 
 [[files]]
@@ -766,6 +766,11 @@ metafile = true
 [[files]]
 file = "mods/load-my-resources.pw.toml"
 hash = "8356b377c0d753c4677adb9b8697ddd0f4c15cbfffde4dc053164c82bd280926"
+metafile = true
+
+[[files]]
+file = "mods/map-compass.pw.toml"
+hash = "1b0fd9f7679f73e360b983cc0c15f42b8ff130c4cdabafa72e6ec96028d2fcd5"
 metafile = true
 
 [[files]]

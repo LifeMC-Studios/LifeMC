@@ -97,6 +97,7 @@ Some functions you will find in LifeMC:
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W)
 - [Language Reload](https://modrinth.com/mod/uLbm7CG6)
 - [Load My Resources](https://modrinth.com/mod/TqCKvqjC)
+- [Map Compass](https://modrinth.com/mod/QJHLAgm2)
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM)
 - [More Culling](https://modrinth.com/mod/51shyZVL)
 - [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C)
