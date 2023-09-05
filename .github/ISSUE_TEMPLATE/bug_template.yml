@@ -1,5 +1,4 @@
 name: Bug Reporting
-value: Bug
 body:
   - type: markdown
     attributes:
