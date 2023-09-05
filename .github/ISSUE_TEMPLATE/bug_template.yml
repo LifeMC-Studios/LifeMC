@@ -1,6 +1,6 @@
 name: Bug Reporting
 description:
-label: Bug
+value: Bug
 body:
   - type: markdown
     attributes:
@@ -9,14 +9,14 @@ body:
 
   - type: textarea
     attributes:
-      label: "🐛 Bug Description"
+      value: "🐛 Bug Description"
       description: "Insert a brief description of the issue"
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: "🔄 Steps to Reproduce"
+      value: "🔄 Steps to Reproduce"
       description: |
         1. Insert the first step
         2. Insert the second step
@@ -26,28 +26,28 @@ body:
 
   - type: textarea
     attributes:
-      label: "📋 Current Behavior"
+      value: "📋 Current Behavior"
       description: "Insert what is currently happening"
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: "🎯 Expected Behavior"
+      value: "🎯 Expected Behavior"
       description: "Insert what should happen"
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: "📷📝 Screenshots or Logs"
+      value: "📷📝 Screenshots or Logs"
       description: "If possible, provide screenshots 📷 or excerpts from logs 📝 that can help understand the issue"
     validations:
       required: true
 
   - type: dropdown
     attributes:
-      label: "🖥️ Operating System"
+      value: "🖥️ Operating System"
       description: "Select your operating system"
       options:
         - Windows
@@ -58,7 +58,7 @@ body:
 
   - type: dropdown
     attributes:
-      label: "🔢 Modpack Version"
+      value: "🔢 Modpack Version"
       description: "Select the modpack version from the list"
       options:
         - 1.0.0+1.18.2
@@ -69,7 +69,7 @@ body:
 
   - type: dropdown
     attributes:
-      label: "🚀 Launcher"
+      value: "🚀 Launcher"
       description: "Select your Launcher"
       options:
         - ATLauncher
@@ -82,7 +82,7 @@ body:
 
   - type: textarea
     attributes:
-      label: "ℹ️ Additional Information"
+      value: "ℹ️ Additional Information"
       description: "Insert any additional information or details if necessary"
     validations:
       required: true
