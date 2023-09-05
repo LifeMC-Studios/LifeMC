@@ -1,0 +1,47 @@
+name: Mod Request
+description: Request to add mod
+labels: ["Mod Request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Make sure that the mod is not already in the modpack or if someone has already requested it and that it is well supported and developed.
+
+  - type: textarea
+    id: mod-name
+    attributes:
+      label: 🧩 Mod Name
+      description: Insert the name of the mod you want to add
+
+  - type: textarea
+    id: mod-description
+    attributes:
+      label: 📖 Mod Description
+      description: Insert a brief description of the mod and its functionalities
+
+  - type: textarea
+    id: mod-link
+    attributes:
+      label: 🔗 Link to Mod on Modrinth
+      description: Insert the link to the mod's page on Modrinth
+
+  - type: textarea
+    id: mod-
+    attributes:
+      label: ❓ Reason for Addition
+      description: Insert the reason for adding this mod to the modpack
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: ℹ️ Additional Information
+      description: Insert any additional information or details if necessary
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 📜 Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](../blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow the Code of Conduct of this project
+          required: true
