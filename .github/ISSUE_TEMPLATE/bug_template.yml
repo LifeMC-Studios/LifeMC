@@ -9,14 +9,14 @@ body:
 
   - type: textarea
     attributes:
-      label: 🐛 Bug Description
-      description: Insert a brief description of the issue
+      label: "🐛 Bug Description"
+      description: "Insert a brief description of the issue"
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: 🔄 Steps to Reproduce
+      label: "🔄 Steps to Reproduce"
       description: |
         1. Insert the first step
         2. Insert the second step
@@ -26,29 +26,29 @@ body:
 
   - type: textarea
     attributes:
-      label: 📋 Current Behavior
-      description: Insert what is currently happening
+      label: "📋 Current Behavior"
+      description: "Insert what is currently happening"
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: 🎯 Expected Behavior
-      description: Insert what should happen
+      label: "🎯 Expected Behavior"
+      description: "Insert what should happen"
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: 📷📝 Screenshots or Logs
-      description: If possible, provide screenshots 📷 or excerpts from logs 📝 that can help understand the issue
+      label: "📷📝 Screenshots or Logs"
+      description: "If possible, provide screenshots 📷 or excerpts from logs 📝 that can help understand the issue"
     validations:
       required: true
 
   - type: dropdown
-    attibutes:
-      label: 🖥️ Operating System
-      description: Select your operating system
+    attributes:
+      label: "🖥️ Operating System"
+      description: "Select your operating system"
       options:
         - Windows
         - Linux
@@ -57,9 +57,9 @@ body:
       required: true
 
   - type: dropdown
-    attibutes:
-      label: 🔢 Modpack Version
-      description: Select the modpack version from the list
+    attributes:
+      label: "🔢 Modpack Version"
+      description: "Select the modpack version from the list"
       options:
         - 1.0.0+1.18.2
         - 1.0.0+1.19.4
@@ -68,9 +68,9 @@ body:
       required: true
 
   - type: dropdown
-    attibutes:
-      label: 🚀 Launcher
-      description: Select your Launcher
+    attributes:
+      label: "🚀 Launcher"
+      description: "Select your Launcher"
       options:
         - ATLauncher
         - MultiMC
@@ -82,7 +82,7 @@ body:
 
   - type: textarea
     attributes:
-      label: ℹ️ Additional Information
-      description: Insert any additional information or details if necessary
+      label: "ℹ️ Additional Information"
+      description: "Insert any additional information or details if necessary"
     validations:
       required: true
