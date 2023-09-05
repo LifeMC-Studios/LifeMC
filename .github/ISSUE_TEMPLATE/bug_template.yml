@@ -1,5 +1,4 @@
 name: Bug Reporting
-description:
 value: Bug
 body:
   - type: markdown
@@ -9,14 +8,14 @@ body:
 
   - type: textarea
     attributes:
-      value: "🐛 Bug Description"
+      label: "🐛 Bug Description"
       description: "Insert a brief description of the issue"
     validations:
       required: true
 
   - type: textarea
     attributes:
-      value: "🔄 Steps to Reproduce"
+      label: "🔄 Steps to Reproduce"
       description: |
         1. Insert the first step
         2. Insert the second step
@@ -26,28 +25,28 @@ body:
 
   - type: textarea
     attributes:
-      value: "📋 Current Behavior"
+      label: "📋 Current Behavior"
       description: "Insert what is currently happening"
     validations:
       required: true
 
   - type: textarea
     attributes:
-      value: "🎯 Expected Behavior"
+      label: "🎯 Expected Behavior"
       description: "Insert what should happen"
     validations:
       required: true
 
   - type: textarea
     attributes:
-      value: "📷📝 Screenshots or Logs"
+      label: "📷📝 Screenshots or Logs"
       description: "If possible, provide screenshots 📷 or excerpts from logs 📝 that can help understand the issue"
     validations:
       required: true
 
   - type: dropdown
     attributes:
-      value: "🖥️ Operating System"
+      label: "🖥️ Operating System"
       description: "Select your operating system"
       options:
         - Windows
@@ -58,7 +57,7 @@ body:
 
   - type: dropdown
     attributes:
-      value: "🔢 Modpack Version"
+      label: "🔢 Modpack Version"
       description: "Select the modpack version from the list"
       options:
         - 1.0.0+1.18.2
@@ -69,7 +68,7 @@ body:
 
   - type: dropdown
     attributes:
-      value: "🚀 Launcher"
+      label: "🚀 Launcher"
       description: "Select your Launcher"
       options:
         - ATLauncher
@@ -82,7 +81,7 @@ body:
 
   - type: textarea
     attributes:
-      value: "ℹ️ Additional Information"
+      label: "ℹ️ Additional Information"
       description: "Insert any additional information or details if necessary"
     validations:
       required: true
