@@ -8,16 +8,17 @@ body:
         Please ensure that the issue you're reporting hasn't already been documented.
 
   - type: textarea
+    id: bug-description
     attributes:
       label: 🐛 Bug Description
       description: Insert a brief description of the issue
-    validations:
-      required: true
 
   - type: textarea
+    id: what-happened
     attributes:
       label: 🔄 Steps to Reproduce
-      description: |
+      description: Describe step by step how to reproduce what happened
+      placeholder: |
         1. Insert the first step
         2. Insert the second step
         3. And so on...
@@ -25,30 +26,17 @@ body:
       required: true
 
   - type: textarea
+    id: logs
     attributes:
-      label: 📋 Current Behavior
-      description: Insert what is currently happening
-    validations:
-      required: true
-
-  - type: textarea
-    attributes:
-      label: 🎯 Expected Behavior
-      description: Insert what should happen
-    validations:
-      required: true
-
-  - type: textarea
-    attributes:
-      label: 📷📝 Screenshots or Logs
-      description: If possible, provide screenshots 📷 or excerpts from logs 📝 that can help understand the issue
-    validations:
-      required: true
+      label: 📝 Relevant log outputs
+      description: Please copy and paste any relevant log output, if the launcher in use does not support a logs hosting provider or you do not know how to upload them from within the launcher use https://mclo.gs/.
+      render: shell
 
   - type: dropdown
+    id: operating-system
     attributes:
       label: 🖥️ Operating System
-      description: Select your operating system
+      description: What operating system do you use?
       options:
         - Windows
         - Linux
@@ -57,9 +45,10 @@ body:
       required: true
 
   - type: dropdown
+    id: modpack-version
     attributes:
       label: 🔢 Modpack Version
-      description: Select the modpack version from the list
+      description: Which version of Modpack do you use?
       options:
         - 1.0.0+1.18.2
         - 1.0.0+1.19.4
@@ -68,9 +57,10 @@ body:
       required: true
 
   - type: dropdown
+    id: launcher
     attributes:
       label: 🚀 Launcher
-      description: Select your Launcher
+      description: Which Launcher do you use?
       options:
         - ATLauncher
         - MultiMC
@@ -81,8 +71,16 @@ body:
       required: true
 
   - type: textarea
+    id: additional-information
     attributes:
       label: ℹ️ Additional Information
       description: Insert any additional information or details if necessary
-    validations:
-      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 📜 Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](../blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow the Code of Conduct of this project
+          required: true
