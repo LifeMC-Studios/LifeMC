@@ -18,11 +18,15 @@ hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "c00aaa2a7ab2ab2e5db8d8200116d1588b4d1e31682e26d1c663efb3ff55f247"
+hash = "2926170be979ac9db7f7183c561a0017532e8d44ead2007d1dfb7c59da8608db"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
+hash = "6024425989029c4c2797583c5e04cfea975884bb5f137da7eaaf4a6a3bf5f9b4"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "f42451a0625d532a6abbf8dfda117bb3851cb1e2e0195eb93f1b6929e7168c4d"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"

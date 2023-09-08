@@ -1,20 +1,18 @@
 {
-  "defaultSigningMode": "PROMPT",
+  "defaultSigningMode": "ON_DEMAND",
   "enableMod": true,
   "showNCRButton": false,
   "showReloadButton": false,
   "verifiedIconEnabled": false,
   "showServerSafety": true,
   "hideInsecureMessageIndicators": true,
-  "hideModifiedMessageIndicators": true,
+  "hideModifiedMessageIndicators": false,
   "hideSystemMessageIndicators": true,
   "hideWarningToast": true,
-  "hideSigningRequestMessage": false,
+  "hideSigningRequestMessage": true,
   "alwaysHideReportButton": false,
   "skipRealmsWarning": false,
-  "disableTelemetry": true,
-  "removeTelemetryButton": true,
-  "demandOnServer": false,
-  "verifiedIconOffsetX": 0,
-  "verifiedIconOffsetY": 0
+  "disableTelemetry": false,
+  "removeTelemetryButton": false,
+  "demandOnServer": false
 }
