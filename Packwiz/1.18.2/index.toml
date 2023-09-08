@@ -130,7 +130,7 @@ hash = "08b789827f7cbfaf5bffd5aedb6dfe9889e216e87be4674299781934658767af"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "a9234869972f6a9482be05ab734cf2192f8ffb3aef1f9d0ee367d1fc11cf7b47"
+hash = "55bf9027df0a3a2594929fc302e20b879f76c093518f583230ed8f1180826cf0"
 
 [[files]]
 file = "config/yosbr/config/loadmyresources/config.cfg"
