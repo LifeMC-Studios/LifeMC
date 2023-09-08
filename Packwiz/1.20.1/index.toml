@@ -883,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "697368cd5e27d6930fe5b7195885f8867347e90122f506aef7afd343d44b2b45"
+hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
 metafile = true
 
 [[files]]
@@ -1028,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
@@ -1228,7 +1228,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "4c3709e69305d1cdfba1ee73bdf239e7298e4eff6e0dbdfc97cc05dd1490fb80"
+hash = "c7c5c5e8ac1a6c646580f60d5a8d484b1ec5d502ca56608c92828383fabb676c"
 metafile = true
 
 [[files]]
