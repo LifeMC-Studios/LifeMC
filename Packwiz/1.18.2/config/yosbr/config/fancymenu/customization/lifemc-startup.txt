@@ -149,10 +149,10 @@ customization {
   width = 30
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 1fde895e-56b3-4db9-9d7e-1bb9ea9044371687033671881
-  y = -16
+  y = -15
   delayappearance = true
   alignment = left
   delayappearanceeverytime = false
-  height = 12
+  height = 14
 }
 
