@@ -885,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1f49e24c04e3bc0132a3542cd4fc9c0d012515f19f124fb0b48eaff9bb99861c"
+hash = "ad214677d7d7b71d0d962d4b3f668d34ba2faa19b30ad007afd89a205256505c"
 metafile = true
 
 [[files]]
@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "307cf5494a399c27691cfa361646574e103c80bc2869373fb8d75cd0e229ad83"
+hash = "88d20126bce44fa2e0998574fbbcd898c6c4524472acaa648cdcb6b14fbeb6a9"
 metafile = true
 
 [[files]]
@@ -945,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2d783e03714ebcdda2d034b9b1697df388dc5b8e26f3bd0f9a610e2d062f1bab"
+hash = "6e11092807655368ba24b6b462d9c1cf6bbc264668c60d044fbed61d15c96e77"
 metafile = true
 
 [[files]]
@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b955450fc7798bd9490f24977a828a06aeee726198aacec1eef16703ab88fbc5"
+hash = "0115f86693696e977523c0137f7951a28577290d5e0e176b257e437e14f3fd5f"
 metafile = true
 
 [[files]]
@@ -1005,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "8bb36bbf7dbac0d531f6c308329109d29d95a83a2c0d972178655efd8afddf4b"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
+hash = "0806fafc99d2bc0d3caf9bbf726367ee3e1a56788a6254b58b45567980dce7f1"
 metafile = true
 
 [[files]]
@@ -1235,17 +1235,17 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "ef5060e4fee094045e79fad89880359d0f3ad6042a63c74314adde206f8f208c"
+hash = "820c7a11a6d105ee6b8e4faaf0b93f807fcdbc803f816437e2170c76c439e38c"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "52b2b9aa9245d6ba6e0a22cf96926401535bb722844cb4b0c1ae32a243791241"
+hash = "e51d06862a5c8191182f4fd7d9870313533afdcacdca3130cb37f8f5fc7bf635"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders-v4.pw.toml"
-hash = "62907b0a98b3ea75b6ab6efb694685751abbd19aa21826f03de0ab4bc4012fbe"
+hash = "356650c70469f8597be3f7a99067ad397202bd091336218b588ebf0bb4856e51"
 metafile = true
 
 [[files]]
