@@ -509,3 +509,46 @@ customization {
   delayappearanceeverytime = false
   height = 14
 }
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
+  buttonaction = openlink;https://github.com/LifeMC-Studios/LifeMC/issues%btnaction_splitter_fm%
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-report-bug-on.light.png
+  label =
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 6
+  width = 24
+  action = addbutton
+  actionid = d73d6d1f-fa3d-48d0-b626-b38f84e884e81694290337336
+  y = -59
+  delayappearance = true
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-report-bug-off.light.png
+  delayappearanceeverytime = false
+  height = 24
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
+  buttonaction = openlink;https://ko-fi.com/lifemcstudios%btnaction_splitter_fm%
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-donation-on.light.png
+  label =
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 39
+  width = 24
+  action = addbutton
+  actionid = 011d6472-0a49-4ea4-a3d7-cb51da5a32e91694290355466
+  y = -59
+  delayappearance = true
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-donation-off.light.png
+  delayappearanceeverytime = false
+  height = 24
+}
+

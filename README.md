@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nukecraft5419/LifeMC/main/assets/images/piggy.png" height="256px"/>
+  <img src="https://raw.githubusercontent.com/LifeMC-Studios/LifeMC/dev_main/assets/images/piggy.png" height="256px"/>
 </p>
 
 <h1 align="center">LifeMC</h1>
@@ -12,6 +12,7 @@
 [![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/translate/crowdin_64h.png)](https://crowdin.com/project/lifemc)
 [![ghpages](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/ghpages_64h.png)](https://lifemc-studios.github.io/docs)
 [![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitter-plural_64h.png)](https://twitter.com/LifeMCStudios)
+[![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/kofi-plural_64h.png)](https://ko-fi.com/lifemcstudios)
 
 </div>
 
@@ -45,13 +46,14 @@ Some functions you will find in LifeMC:
 - ☀️ Compatibility with all Shaders even OptiFine ones thanks to the Iris Shaders mod
 - 🌅 Full compatibility with OptiFine skies thanks to two mod FabricSkyboxes and FabricSkyBoxes Interop
 - 🔭 Better zoom than OptiFine, thanks to the Zoomify mod
-- 🔎 Merged glass thanks to Continuity
+- 🪟 Merged glass thanks to Continuity
 - 🕯️ Better Dynamic light  than OptiFine, thanks to the LambDynamicLights mod
 - 🗺️ +56 languages supported to translate the custom menu and other things
 - 🌐 Hosting your own world with the e4mc mod
 - 🌳 Tree leaves better than OptiFine thanks to MoreCulling mod
 - 🎨 Custom menu with dark and light theme and update notification and more
 - 📦 Very rich list of Shaders and Resource Packs
+- 🎮 Compatibility with controllers, thanks to Controlify (in 1.18.2 we use MidnightControls)
 
 ## 📦 Mods
 <details>

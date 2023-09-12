@@ -18,11 +18,15 @@ hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "c00aaa2a7ab2ab2e5db8d8200116d1588b4d1e31682e26d1c663efb3ff55f247"
+hash = "2926170be979ac9db7f7183c561a0017532e8d44ead2007d1dfb7c59da8608db"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
+hash = "6024425989029c4c2797583c5e04cfea975884bb5f137da7eaaf4a6a3bf5f9b4"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "f42451a0625d532a6abbf8dfda117bb3851cb1e2e0195eb93f1b6929e7168c4d"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -78,11 +82,11 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "4b158ec96eb369dfb6510fadd71ca17ca28cb0c3df8230a32de8fed3362273f5"
+hash = "748c29872067c548f9739ad046d65b6c33b23310ab7ab4e57cdf8ad870f52a2f"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "e60347984239766e017cc034a684394c25baf3b52291bdd707b4539c663f1a99"
+hash = "bbc5aae47ee76bc63f9799d7ed5e3df741a4783a4b425f3a118b605a5f770ba8"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
@@ -94,15 +98,15 @@ hash = "e01f21ba9f77fd900847f14cc596813c55906bfde7a347515e015ba155e7dd12"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "abba29e0cc3387d1c8ab47c9573c593e49ffd478ba348ecbe51e9570bf51f929"
+hash = "a3af36156343b8bb2f881863597ba39e573ba0f9fc63bfe35220195de599c02d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "0afdbea094204de23ae2dc42d33521b4ad099ffc381eb8ba3b0fc9850ee58024"
+hash = "aca982ab3e628601ceb11284ced70dd3ca6e79d8822152a6758db965c5009129"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.txt"
-hash = "dd8e79b69907371ad4a651d5b108ef9394963bc3baba2e2ad466d244e26066e9"
+hash = "d541ea2c41e36c2b16f642bccbe2e43b5bdfe8e74d49ad438f058ceaa43ed530"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/extensions/fmaudio/config.cfg"
@@ -142,7 +146,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "a9234869972f6a9482be05ab734cf2192f8ffb3aef1f9d0ee367d1fc11cf7b47"
+hash = "55bf9027df0a3a2594929fc302e20b879f76c093518f583230ed8f1180826cf0"
 
 [[files]]
 file = "config/yosbr/config/loadmyresources/config.cfg"
@@ -154,7 +158,7 @@ hash = "ca92e91a2d856d42e4a5b1ba1900fbed0e942bcbeddd75c0195a2375ade75695"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "70a2a23045853043a01b9f7fae7a47c65470b498d2fb8bc02bf22e0b56515a6c"
+hash = "2bf1fdee96ff7ac57adf1fa6eb52e5aabb0d97368003c26447b7852a689dc8bd"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -233,6 +237,14 @@ file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-discord-
 hash = "16b5e3ab840f3e60817c9f4102bd0f6ab53a3bd3e9c130d4442217c428ad52d8"
 
 [[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-donation-off.dark.png"
+hash = "29e6b81373722cf10068781e1a34eac5249016df9b07a12ec265f5e2042a59e0"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-donation-on.dark.png"
+hash = "55388d155287eced60e21de7f9da10d96938e7c32d6186641182bcdb29fd704d"
+
+[[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-lang-mainmenu-off.dark.png"
 hash = "fda00985ea23077538f84741c0a38e409c51f2b2dcbaab4faa9ecb077ace7ca2"
 
@@ -287,6 +299,14 @@ hash = "f42944c54335b9ba1a285f9832c0301a28e799c1e1b26223785e35520e551504"
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-packs-on.dark.png"
 hash = "97b9d109e1ed4462b28df1215439e217dd7c3259353760c7414e5e6812220233"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-report-bug-off.dark.png"
+hash = "de20a44777a0ee763cb6069e3af37f8974426d33b951b77d58caa67622b2d448"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-report-bug-on.dark.png"
+hash = "8acc3d26935d9fcc6e544cdd77372bc906a1c57ec1e618e7488d45f1021cbeaa"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-settings-off.dark.png"
@@ -377,6 +397,14 @@ file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-discord
 hash = "6f1bdfe9579582b376115b782bafae7ff8edebf97a1d75ce3cde6e687d627a46"
 
 [[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-donation-off.light.png"
+hash = "8c638182dc3b9d23857086a9e608a9b67033b7bd3e603459ff9b88c0b6f258ed"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-donation-on.light.png"
+hash = "f6599bacec6940a66008ee49ba2c22205ac12972061d18b30cb07ff764731afc"
+
+[[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-lang-mainmenu-off.light.png"
 hash = "d44b67d3e6ad5497e0c58779c0d0c488196c1c030931e2dfc3d4dbe5873af592"
 
@@ -423,6 +451,14 @@ hash = "d85d13aed7d5a524847484a0629397b66ad7500e44582884bf32caa7c374448d"
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-packs-on.light.png"
 hash = "55ca2c258b3f7a21361e179d8992991ccabd43bca6a8934e2cd419a322489a1c"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-report-bug-off.light.png"
+hash = "90eb8af2ca02e1642191c95cf6039451f434b3374ce8610a701a1752386a73d9"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-report-bug-on.light.png"
+hash = "211237112ec035f1ed252b6773a13b215b7718647634eeb84f7d8c690f7fbabe"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-settings-off.light.png"
@@ -849,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1f49e24c04e3bc0132a3542cd4fc9c0d012515f19f124fb0b48eaff9bb99861c"
+hash = "ad214677d7d7b71d0d962d4b3f668d34ba2faa19b30ad007afd89a205256505c"
 metafile = true
 
 [[files]]
@@ -864,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "307cf5494a399c27691cfa361646574e103c80bc2869373fb8d75cd0e229ad83"
+hash = "88d20126bce44fa2e0998574fbbcd898c6c4524472acaa648cdcb6b14fbeb6a9"
 metafile = true
 
 [[files]]
@@ -879,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "697368cd5e27d6930fe5b7195885f8867347e90122f506aef7afd343d44b2b45"
+hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
 metafile = true
 
 [[files]]
@@ -909,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2d783e03714ebcdda2d034b9b1697df388dc5b8e26f3bd0f9a610e2d062f1bab"
+hash = "6e11092807655368ba24b6b462d9c1cf6bbc264668c60d044fbed61d15c96e77"
 metafile = true
 
 [[files]]
@@ -944,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b955450fc7798bd9490f24977a828a06aeee726198aacec1eef16703ab88fbc5"
+hash = "0115f86693696e977523c0137f7951a28577290d5e0e176b257e437e14f3fd5f"
 metafile = true
 
 [[files]]
@@ -969,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "8bb36bbf7dbac0d531f6c308329109d29d95a83a2c0d972178655efd8afddf4b"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
@@ -1024,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
@@ -1084,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/seamless.pw.toml"
-hash = "c2eacf7d940b85f3fc750a206f184f30086ab4b1e0ec3e5db354d1564acaa78e"
+hash = "73e5ce626d364271ce8517a717a3ef39612a587aaaecf66155a00e06edc35721"
 metafile = true
 
 [[files]]
@@ -1199,17 +1235,17 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "ef5060e4fee094045e79fad89880359d0f3ad6042a63c74314adde206f8f208c"
+hash = "820c7a11a6d105ee6b8e4faaf0b93f807fcdbc803f816437e2170c76c439e38c"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "52b2b9aa9245d6ba6e0a22cf96926401535bb722844cb4b0c1ae32a243791241"
+hash = "e51d06862a5c8191182f4fd7d9870313533afdcacdca3130cb37f8f5fc7bf635"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders-v4.pw.toml"
-hash = "62907b0a98b3ea75b6ab6efb694685751abbd19aa21826f03de0ab4bc4012fbe"
+hash = "356650c70469f8597be3f7a99067ad397202bd091336218b588ebf0bb4856e51"
 metafile = true
 
 [[files]]
@@ -1224,7 +1260,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "4c3709e69305d1cdfba1ee73bdf239e7298e4eff6e0dbdfc97cc05dd1490fb80"
+hash = "c7c5c5e8ac1a6c646580f60d5a8d484b1ec5d502ca56608c92828383fabb676c"
 metafile = true
 
 [[files]]

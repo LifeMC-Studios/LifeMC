@@ -19,6 +19,9 @@
     "com_github_llamalad7_mixinextras",
     "pride",
     "sulphate",
-    "optiglue"
+    "optiglue",
+    "craterlib",
+    "auudio",
+    "fmextension_audio"
   ]
 }
