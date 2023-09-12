@@ -1120,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/seamless.pw.toml"
-hash = "c2eacf7d940b85f3fc750a206f184f30086ab4b1e0ec3e5db354d1564acaa78e"
+hash = "73e5ce626d364271ce8517a717a3ef39612a587aaaecf66155a00e06edc35721"
 metafile = true
 
 [[files]]
