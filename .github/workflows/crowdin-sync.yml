@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Synchronize with Crowdin
-        uses: crowdin/github-action@cb33a030bb1675169b76617d5805242aeea6eaec
+        uses: crowdin/github-action@95174a28ceab36cf33d56fd3f7ada7a466bafb18
         with:
           upload_sources: true
           upload_translations: false
