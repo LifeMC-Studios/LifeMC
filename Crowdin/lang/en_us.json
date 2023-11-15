@@ -83,7 +83,6 @@
   "sodium.console.pojav_launcher": "PojavLauncher is not supported when using Sodium.\n  * You are very likely to run into extreme performance issues, graphical bugs, and crashes.\n  * You will be on your own if you decide to continue -- we will not help you with any bugs or crashes!",
   "modmenu.summaryTranslation.sodium": "Modern rendering engine and client-side optimization mod for Minecraft",
   "modmenu.descriptionTranslation.sodium": "Sodium is a free and open-source optimization mod for Minecraft which improves frame rates and reduces lag spikes.",
-  "sodium.resource_pack.unofficial": "§7Unofficial translations for Sodium§r",
   "rso.search_bar_empty": "Search options...",
   "modmenu.summaryTranslation.reeses-sodium-options": "Replaces Sodium's Options Screen",
   "modmenu.descriptionTranslation.reeses-sodium-options": "Replaces Sodium's Options Screen with intention of improving UX"
