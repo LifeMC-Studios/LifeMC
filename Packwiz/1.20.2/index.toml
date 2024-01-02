@@ -1,0 +1,1269 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "9ca04f6c9239be821eccb956279f91cbd282a7907dbf3c60789903ffdd21d52d"
+
+[[files]]
+file = "config/lifemc.json"
+hash = "62050b222a0e1ef414a08d6b44b524a82ae4c412b8c8e3da2acdf711b64f4422"
+
+[[files]]
+file = "config/yosbr/COPYING.md"
+hash = "faf2e17579cd9626ea5ec7a8fd1b5b09fa3056e28e0fc58d3e720ca41eedb11c"
+
+[[files]]
+file = "config/yosbr/LICENSE"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "2926170be979ac9db7f7183c561a0017532e8d44ead2007d1dfb7c59da8608db"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "6024425989029c4c2797583c5e04cfea975884bb5f137da7eaaf4a6a3bf5f9b4"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "f42451a0625d532a6abbf8dfda117bb3851cb1e2e0195eb93f1b6929e7168c4d"
+
+[[files]]
+file = "config/yosbr/config/bobby.conf"
+hash = "bae545e423c7ab1bb0f1f6661232a35c3e220e5d901575d3abb560da81426c9f"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
+
+[[files]]
+file = "config/yosbr/config/chatpatches.json"
+hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
+
+[[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "30727beecbfd2eef4363d029581453e6f7a0f027f366986438aa1bdcf420c95e"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "d047d7c6024ce3c82f299ab5f391ad0e3fa89c33bd3e3c2489dcd8d3d39ac159"
+
+[[files]]
+file = "config/yosbr/config/drippyloadingscreen/config.cfg"
+hash = "d2b2c35de77f6b1f6e9e0ff1c7b909a8c2c480d74c3b4ac9defc6ffbe932b6a3"
+
+[[files]]
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "785646f97635d108847592191d7649ff18e41785c2f9ea702146fd1666aaed54"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "34f8233c9e93f5b579ade237449901acaac99d12824303c483fc21b76c612393"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "768dc65c3729dbfa508d5de839f01aa38203440946939103cebc39ae1e554c49"
+
+[[files]]
+file = "config/yosbr/config/exordium.json"
+hash = "0a2bae8ca65427496fd86581e2f2f957ad59acf90a20f7c65e7cd872e0057ff3"
+
+[[files]]
+file = "config/yosbr/config/fabrishot.properties"
+hash = "cc1c1a2f3ed0a6a3671daccf6834042819d4ec187deecb8efffd7b023afe17fe"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/config.txt"
+hash = "01a54f1d6274263af0c9bd304d277d88e23c790adb4850a4a5e438af447e9871"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customizablemenus.txt"
+hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
+hash = "748c29872067c548f9739ad046d65b6c33b23310ab7ab4e57cdf8ad870f52a2f"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
+hash = "bbc5aae47ee76bc63f9799d7ed5e3df741a4783a4b425f3a118b605a5f770ba8"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
+hash = "a6c74cc870470f326484cd4c7a68885fd2ef296aa6ad195f06f0a9d3d7c2091a"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
+hash = "e01f21ba9f77fd900847f14cc596813c55906bfde7a347515e015ba155e7dd12"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
+hash = "a3af36156343b8bb2f881863597ba39e573ba0f9fc63bfe35220195de599c02d"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
+hash = "aca982ab3e628601ceb11284ced70dd3ca6e79d8822152a6758db965c5009129"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/lifemc-startup.txt"
+hash = "d541ea2c41e36c2b16f642bccbe2e43b5bdfe8e74d49ad438f058ceaa43ed530"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/extensions/fmaudio/config.cfg"
+hash = "f3e260206c13bf58788b0572f453f95a3b7c67066dbf85f1a1118c1126d11d62"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/extensions/fmaudio/locals/en_us.local"
+hash = "6a2de605aaf07a8f635d9df3b589ff2162fbef2f26eb73dbd17d894c0d261349"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "4410df910e52225a7b267d97644fdddad7c5ab7c37ffdcdf71e097a8ba4b56a7"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "fa9f23e2e2f0e6939138496d35dc37340011cb7839d374740b79063ca2f19f8b"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/user_variables.db"
+hash = "992dc06f1c250c4d1d2586674eaa44f0cc1c70e98e3a977e6f9c76ea07236a46"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "60c0760390bdff670ccd012bd890eb35e5537be1222e94f7aaa91c4cc8d0e931"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "55bf9027df0a3a2594929fc302e20b879f76c093518f583230ed8f1180826cf0"
+
+[[files]]
+file = "config/yosbr/config/loadmyresources/config.cfg"
+hash = "1ea0cd71c7e4d5bf0425e1cf966cb197e038a30a3d39b549fc3d1871f12b963f"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "ca92e91a2d856d42e4a5b1ba1900fbed0e942bcbeddd75c0195a2375ade75695"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "2bf1fdee96ff7ac57adf1fa6eb52e5aabb0d97368003c26447b7852a689dc8bd"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "b2ff60a305956fb2a381c6c61d960d2b220d83d9c7737e2ac4ab34a1f604af56"
+
+[[files]]
+file = "config/yosbr/config/notenoughanimations.json"
+hash = "ba46a80e0702c73ae0861a130fb18f0b755b6c57ab9f05a5f582cf25f91d6da2"
+
+[[files]]
+file = "config/yosbr/config/paperdoll.json"
+hash = "ec4f68f111d8ad9667954c1a9c8bb9b694f98af3aeb7b6a206ea3f3a00f3404d"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "480794d061b872b10d8b021d7e75715b625db731f986695615789232d3a61ff3"
+
+[[files]]
+file = "config/yosbr/config/rebrand.toml"
+hash = "62003b3842fe9d479183984cc7e7d3d818bc5bfd820e67966bfb503f6bfcbc4e"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-accessibility-off.dark.png"
+hash = "629fa37ac132221852955ae3d6fec6bacfff83c168bd35a339a35ef47d8be42a"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-accessibility-on.dark.png"
+hash = "e7799c0a2b6d7afc6ad4cd95ffca4f85124a9e0f5fdb59d4cc110044c59f7dbe"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-audio-off.dark.png"
+hash = "ef0fb2b9eaad888c426e25b0b9f3d18e2eb0a3a4dcb703380aac2887e08d07f1"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-audio-on.dark.png"
+hash = "c64962e785ae77f5791233a473983098a816c0774bd37f2ff8c6fbe422efc10c"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-chat-off.dark.png"
+hash = "ec9f6f927798760c1bfc75f5a1f35f703dbe88e86082710d13e7645004593902"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-chat-on.dark.png"
+hash = "c16634a34f57da835652df589001e7a4070b959bd3a39ae611d97b1305a42bb4"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-close-off.dark.png"
+hash = "3ded449f9a8db6779cd7cb9a8ed3fef607ea644339ae8c0fbe8d0bb382a219a2"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-close-on.dark.png"
+hash = "db184239217f9093d7cff0f7b92862cbcf5aa9282899d0646ef8b518e1f95212"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-controls-off.dark.png"
+hash = "5be76983d119664c732f8bbafb5306b19a1e35c1e26a97c0fda66fa8d99c8cd4"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-controls-on.dark.png"
+hash = "f7636e559bda1814805380c872afd01da4891a2a884eeda2a2d41c242b5638b4"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-cosmetica-off.dark.png"
+hash = "a9b8a5c43e5dd763a46a5ed14e018c6625b56d9fb84d792e0fc34ead054b623a"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-cosmetica-on.dark.png"
+hash = "5002bb6e1ee0bd8a1819afe087e075f4bdeedb070c26a3c79a6b343b8a450ba1"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-discord-off.dark.png"
+hash = "c71ba4bdfdb0165625309fd17ca7b22e9f1c2a2960dd79e1b0659b305c92cd44"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-discord-on.dark.png"
+hash = "16b5e3ab840f3e60817c9f4102bd0f6ab53a3bd3e9c130d4442217c428ad52d8"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-donation-off.dark.png"
+hash = "29e6b81373722cf10068781e1a34eac5249016df9b07a12ec265f5e2042a59e0"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-donation-on.dark.png"
+hash = "55388d155287eced60e21de7f9da10d96938e7c32d6186641182bcdb29fd704d"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-lang-mainmenu-off.dark.png"
+hash = "fda00985ea23077538f84741c0a38e409c51f2b2dcbaab4faa9ecb077ace7ca2"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-lang-mainmenu-on.dark.png"
+hash = "074f4661f76f0871ac8dcc475de5c67dab8bd180e3e9d3a225115074038e02ae"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-lang-off.dark.png"
+hash = "2cf3b7fb6b64bd9f3953804188e226ee023c9cf89985ad032dc4555942b85dde"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-lang-on.dark.png"
+hash = "e17f3a55c182c89e48bff0981d8a8e76d7388bc93a912fb3590da6b16e356f70"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-light-theme-off.dark.png"
+hash = "150057f70837a0505a8cc331e690add2b36ee6ac1a14a3617c4b451fd2796944"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-light-theme-on.dark.png"
+hash = "9ec016f905154c523dfca0ec3e0fd128d973ab952210af9d4e55543214f97ea7"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-mods-off.dark.png"
+hash = "c9885b29bcbe552b36b7ab3a6e1549df57cc671607c5802efac63c84a5dbbb2f"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-mods-on.dark.png"
+hash = "ce7d9685088c093671e1f1ceb392b87c82fa32510d97046fc1f9d48a72be7e74"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-normal-off.dark.png"
+hash = "884263d1fbc5c2600dcb4144baf22e304d9313f59e25d724f3afbe271ff373fc"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-normal-on.dark.png"
+hash = "18e07998b96fa79f7a5fe8a9777ecc45bf78f8444d1982f2b4d4322488807763"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-online-off.dark.png"
+hash = "7cde45eed9e4031eba74d0b30bd650044b6cfc0a80b81a9287777017eff235a0"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-online-on.dark.png"
+hash = "566a96787eecdb7f7c488ffddf7c91bcfecfae44892f861171ea29a449945a60"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-packs-off.dark.png"
+hash = "f42944c54335b9ba1a285f9832c0301a28e799c1e1b26223785e35520e551504"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-packs-on.dark.png"
+hash = "97b9d109e1ed4462b28df1215439e217dd7c3259353760c7414e5e6812220233"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-report-bug-off.dark.png"
+hash = "de20a44777a0ee763cb6069e3af37f8974426d33b951b77d58caa67622b2d448"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-report-bug-on.dark.png"
+hash = "8acc3d26935d9fcc6e544cdd77372bc906a1c57ec1e618e7488d45f1021cbeaa"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-settings-off.dark.png"
+hash = "56e2274d78dda486132791055091867567b5a00e34e355e0808cb7693391b8fc"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-settings-on.dark.png"
+hash = "8ae72de7b328f64c40a4d9947c730af80c65f3798a179a79afd872b865fa218d"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-update-off.dark.png"
+hash = "ffc80f83fe904a3e63fce7f69b44a926b2edde6e80f05b41fc80bdf0ae1503fd"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-update-on.dark.png"
+hash = "2dd13544d0a662a6e3aafa9662620be8d27a53353a0f21537921d70c43fd6773"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-video-settings-off.dark.png"
+hash = "eb967b5890996edb9f15df8ebce441f74bfcaceb823ca43eba742e1204968225"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-video-settings-on.dark.png"
+hash = "a85caa245c0611fae84ccccb5da78f08028181455f0244d3956bb9552963590e"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-accessibility-off.light.png"
+hash = "48c9ded71920412fe0d67dac93bf0f07cb65be1f28d2287c070266d2e284865a"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-accessibility-on.light.png"
+hash = "42f10b5b677525b91b9f359c45a994a0b8b5fac2efcc518917833d020d496f55"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-audio-off.light.png"
+hash = "ba518c5fa68833f50ef2d81c1df10796822fb590e45986d5ef410326dd88a73c"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-audio-on.light.png"
+hash = "80113e88bf8af1ba7a275c0b46d264b0e300fac4d7ca1f1e08a9f2bb1f351050"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-chat-off.light.png"
+hash = "c925c1f77fde195438563d05be0c9a6f46e570425b275962a0dba11a2a0f5fd1"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-chat-on.light.png"
+hash = "58b7b3d28c8f739bc2aaa80368f65a603067ef97a243737752c5a9c219a0cafb"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-close-off.light.png"
+hash = "3f8d5e4b6be3f0f11d24b81802508429ef4f5ab92c55390a022bec870b004641"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-close-on.light.png"
+hash = "87213e1cdcebbf56f10f85dd56ca27b163a11f3a025a8810dca8661270e1c1b7"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-controls-off.light.png"
+hash = "4bc15e823edf2ff3c9f54c7e3d1eb207743a5d642b48e707cfc9c9dba2e2b6fe"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-controls-on.light.png"
+hash = "829f90ee410b3eb61c31e2fe2c93049ad374389fdb977b5f7e115be88b826316"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-cosmetica-off.light.png"
+hash = "29a46de64d2dfbaf8a3c91d4e44019cd6c69e7d6807613fd7c23896c72c213f3"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-cosmetica-on.light.png"
+hash = "4c83bb1b0519da9f4926e7ab9ba67bc2bdea9ef351a0d6533f33720d188323c8"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-dark-theme-off.light.png"
+hash = "544627654b246d3185fa0ffd5b4c4799dd4d8f5ed7b1dc40e9b8acfcd67c9cdd"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-dark-theme-on.light.png"
+hash = "4ca62cefb037a35f10f597bd851e1db09d97f2f41a4b5bafed47d302e425b32c"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-discord-off.light.png"
+hash = "2f75decf0cab7117ea44360f346568875fc2db4cd8d6e2b0a5c7cfa86ca5a945"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-discord-on.light.png"
+hash = "6f1bdfe9579582b376115b782bafae7ff8edebf97a1d75ce3cde6e687d627a46"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-donation-off.light.png"
+hash = "8c638182dc3b9d23857086a9e608a9b67033b7bd3e603459ff9b88c0b6f258ed"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-donation-on.light.png"
+hash = "f6599bacec6940a66008ee49ba2c22205ac12972061d18b30cb07ff764731afc"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-lang-mainmenu-off.light.png"
+hash = "d44b67d3e6ad5497e0c58779c0d0c488196c1c030931e2dfc3d4dbe5873af592"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-lang-mainmenu-on.light.png"
+hash = "992eadb471d366af36d989a28f73856438fffe4f253c89ec11f457f0fa5a9a92"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-lang-off.light.png"
+hash = "c630d07c80744b717ebd8ea092e07760fb12fd80c90b7afffd2e585813034543"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-lang-on.light.png"
+hash = "d9d7dc32d1b58f5a5bb2bd5373062ff48661e9f083357cf9ae345216464f0b8a"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-mods-off.light.png"
+hash = "1caebfbdee13f250979133958e6250153c004cf2971929c1054f1414f86486b7"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-mods-on.light.png"
+hash = "54dca4e0178e2ee343a14f9809a93bff98a675fcda4fea39cb9b4efd5fa4c674"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-normal-off.light.png"
+hash = "dbfba746e8b3da3e95eb69dff33a283e4dadba232a95d702fbdb93b77e659f12"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-normal-on.light.png"
+hash = "18e07998b96fa79f7a5fe8a9777ecc45bf78f8444d1982f2b4d4322488807763"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-online-off.light.png"
+hash = "bbb9deb80d746a90101549557dd6f003e2310b7b6b55494b65a3dc45816ef27a"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-online-on.light.png"
+hash = "3bc24e0ce5dd6e21fc34f3dcd1b7f3d57d1266d30ec7b337eb0a10339a7c2123"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-packs-off.light.png"
+hash = "d85d13aed7d5a524847484a0629397b66ad7500e44582884bf32caa7c374448d"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-packs-on.light.png"
+hash = "55ca2c258b3f7a21361e179d8992991ccabd43bca6a8934e2cd419a322489a1c"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-report-bug-off.light.png"
+hash = "90eb8af2ca02e1642191c95cf6039451f434b3374ce8610a701a1752386a73d9"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-report-bug-on.light.png"
+hash = "211237112ec035f1ed252b6773a13b215b7718647634eeb84f7d8c690f7fbabe"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-settings-off.light.png"
+hash = "d944388ef7b42760a6fefc9fdaf17cf74b5601cd836b0bc482099fe85fee131f"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-settings-on.light.png"
+hash = "aae16361ded4eff5b1f387cc4a76402b4a50c9b838a8b207aa78c4d180785062"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-update-off.light.png"
+hash = "67299d9f01476daaa390199b9f7f06861a66dc92e8ff8809aeaa448f8a49c71c"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-update-on.light.png"
+hash = "a1b9b8c75c3eefc048b50e033d68b35bfde8901d6acc6bb8a5abb1ffeb96cf45"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-video-settings-off.light.png"
+hash = "bea93165a764fc46311c75a6b5b88d9c78bdc83e34b7e7dfa67ac604fb3bb6d1"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-video-settings-on.light.png"
+hash = "7a6372b1bd3ea25310c65728a0bfb834e31b7d909d97dd165856eaa7e2cc8e8f"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/images/piggy.png"
+hash = "7689ddf7ec46d40d629ee7a096b4750e723831810193111dea99c4b3cb8e1201"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/af_za.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/ar_sa.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/be_by.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/bg_bg.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/ca_es.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/cs_cz.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/cy_gb.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/da_dk.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/de_ch.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/de_de.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/el_gr.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/en_gb.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/en_pt.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/en_ud.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/en_us.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/eo_uy.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/es_ar.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/es_es.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/et_ee.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/fa_ir.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/fi_fi.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/fil_ph.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/fr_ca.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/fr_fr.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/he_il.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/hi_in.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/hr_hr.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/hu_hu.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/id_id.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/is_is.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/it_it.json"
+hash = "db84a5bfc3e3cb8e1eb8a46c3305d38ecf13151c8da253efc7b7241f2625c1c4"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/it_lt.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/ja_jp.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/ka_ge.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/ko_kr.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/lol_us.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/lv_lv.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/ms_my.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/nl_nl.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/nn_no.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/no_no.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/pl_pl.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/pt_br.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/pt_pt.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/ro_ro.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/ru_ru.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/sk_sk.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/sl_si.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/sq_al.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/sv_se.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/th_th.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/tr_tr.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/tt_ru.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/uk_ua.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/vi_vn.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/zh_cn.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/lang/zh_tw.json"
+hash = "d774260c9726c52a79435d5c38a44049685749e26ff0dabfba052c7d8e8b9618"
+
+[[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "3197150af1019ff69919a3616a7e5326b88cc8800725898f958b04152d276ecb"
+
+[[files]]
+file = "config/yosbr/config/simple-rpc/server-entries.toml"
+hash = "dbc9c6a5c1504ba47a6406e6341dac032788c2af1561328af351129b806a3584"
+
+[[files]]
+file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
+hash = "62f4abee424de1524e02f5540a53b4c42255bdecfba4bb6c52944b50a41cf5b3"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "1fe4c0b96251b366913a5c036dd47538d060982fc08b4060c4f2092f3393213e"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "45fe768e3777b6d9021c7f159cc19a6e28e8db760be84b1ffae403bfdc2962a9"
+
+[[files]]
+file = "config/yosbr/config/waveycapes.json"
+hash = "7274b750a9257a7134915f43a4ea29554e44e77e36fe7f1d9c0d2e91cf2ed6ab"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "72c0fe74be961eef51cff12bb9a2567e6bc8c61cc0901493e52e9a7f64e615b3"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "96852af13b8e2138eda75119f0d22d2edd6ea81a9c3f51c41c6c6558639600c7"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
+metafile = true
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "9f22660d287a6a3ded24f5df8f944972933f04651cb30c9acb2e62132f3ffcd2"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/audio-extension-for-fancymenu.pw.toml"
+hash = "2312049a9c3bc94f7d5345847d8f6736fc79e7da820037e25a9b8bdbb4088954"
+metafile = true
+
+[[files]]
+file = "mods/auudio.pw.toml"
+hash = "e8504c09fc7466033c4aa815bfc4a7002915c132c4e45d68e7d861263a13be72"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
+metafile = true
+
+[[files]]
+file = "mods/better-name-visibility.pw.toml"
+hash = "aebf926e5fdfabaefe4355f6bc37ed957befd8b8e1bb70383852fa4d1242477b"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "edcb94bb9ab643f84a3014a2aafdf4f8e053ec501aea03dc086e2f3a1d2070fa"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
+metafile = true
+
+[[files]]
+file = "mods/boathud.pw.toml"
+hash = "f351f6d8436e6148b06f381bfa00796537feeec943735179695beea6fbed1101"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "5d05ff6a4ce3ad876d26a23bbc609bf0089a3bbefd5f433fbbccd6ac00aed8e9"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
+
+[[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "fdf0fb9507b144cc345dfb2db33eeb1a8b7c8284d171bac7c1e3d55996ca0a3b"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "2b880a4be1a624e956fafaea89834828c58b0c512e611e6746c3fb8d9e93b260"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "a1659dc663c6e42f1e410b1833594e8f36cd4f7f2dbfc40068f9ed65676af691"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "2b28d1339f3853d3568d2e48096cac9c75745e93d484c36d03345bcaa3b7c3a9"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "cdc29be5184744f749227975db823805269c5cab7f9814b91590c5f10b921606"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ad214677d7d7b71d0d962d4b3f668d34ba2faa19b30ad007afd89a205256505c"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "99b1060fa083ca355f35f09fe02ef04832a313cff855de8522fd1766164e0082"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "88d20126bce44fa2e0998574fbbcd898c6c4524472acaa648cdcb6b14fbeb6a9"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "31713296359c70914a4fc56d32a61f41620af105819f826bbffbb234591d34fe"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "9fdc94bdc879ee8e5a0dc7eccb9370ee85c90c2491f1e6b38c56cc95d900fd53"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8f7e28eb56a3f538cf2be43c03aea1c5b3017a5fe0429a6b67b052e0f6c0b5d4"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "894d979ff26d8c7ee75d47a318f41873974a25f232c323980c0a82fa5999e93a"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "66b982a755b4d812e9792502e96672f2ef2d8ce4ef702d2bf86cf45d99a7ece0"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "6e11092807655368ba24b6b462d9c1cf6bbc264668c60d044fbed61d15c96e77"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/fixbookgui.pw.toml"
+hash = "1ecd25aa57d5a29ef69e3587c05a5f5c9d877b36e8790124b9373edd45010258"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "ee779202ba08c0832c35aa1e073e0d3afbbc21cfe7bc5228253c3c1954a25d17"
+metafile = true
+
+[[files]]
+file = "mods/graphutil.pw.toml"
+hash = "55f4d0115d754837e873f0cf24a64409f96c5966c87b19978cb5e348bb4cf6ea"
+metafile = true
+
+[[files]]
+file = "mods/imblocker-original.pw.toml"
+hash = "276db619d95371cdf9206ad5cacbeb03c9becaa7701f43dd7b4ef85fbf860404"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "0115f86693696e977523c0137f7951a28577290d5e0e176b257e437e14f3fd5f"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "678d1c7827d30fbe8c225e7f2b8ddc29f1dd69cced29335ee5a670477a0728a2"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "8634fda31069fb5fb246126bef5a273c01845f74b4c0ad0ba394698df815e678"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "409d820a08baf91ace8443e3abb9ef8914083b053e1e24cb989419aaef8b3f5d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/load-my-resources.pw.toml"
+hash = "8356b377c0d753c4677adb9b8697ddd0f4c15cbfffde4dc053164c82bd280926"
+metafile = true
+
+[[files]]
+file = "mods/map-compass.pw.toml"
+hash = "1b0fd9f7679f73e360b983cc0c15f42b8ff130c4cdabafa72e6ec96028d2fcd5"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "bc79745faf3cfec5d60e239817905c2bebfb692f8ae3ff3671fc8afd4800227e"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "e5f92dc07f3f57d187c366dc98c1d16d75df5cf47775b1c2d8589f5a01900536"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
+metafile = true
+
+[[files]]
+file = "mods/paperdoll.pw.toml"
+hash = "52ab3f860ef6e149877c8371c21e314f3f497cb491bb2ab11eb9d26364de4b4e"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "7843c9f45563df3fab3779f6771316b679d32694085d5626b2a060453fbe4e03"
+metafile = true
+
+[[files]]
+file = "mods/rebrand.pw.toml"
+hash = "d428d359a69cbb2cd197d421c33a72fb63c3148a8e898337e6b9fa806f670ff1"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "e96bb13c530a62100ad228f1c59f0fc37ceb91ec3e622a0a5d0e32cbe5d95424"
+metafile = true
+
+[[files]]
+file = "mods/satin-api.pw.toml"
+hash = "d2cf373e948d483f3cb2bcc9180710a468ece84419dd732e1e8eab8ddcafa36a"
+metafile = true
+
+[[files]]
+file = "mods/seamless.pw.toml"
+hash = "73e5ce626d364271ce8517a717a3ef39612a587aaaecf66155a00e06edc35721"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "fcb1434a5c0b42eea5b27d0eb5a2160cf438d941e4f7f9d88a969cf4d819123d"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "6afddbb9999fbdeb30199a43754c06aef8bab71bebed392f8aa74ace1afbdbc0"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "528cfa4ab8def3ed78b472ac38da0553d546c44eb9713fb6f21ed46be61f5993"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
+metafile = true
+
+[[files]]
+file = "mods/symbol-chat.pw.toml"
+hash = "d54c8655b93f5b267605b77505f9e4dc63c479b300aae97a88e163029d65b6fc"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "9b3fd0e07219491269f7977d4b42c3c4c9769f1c99cf1531e612265157ed7071"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "ac4c88a8647ad645252469b50b3fef48030edca97f0ed5d31058ea6b71340d84"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/alacrity.pw.toml"
+hash = "0fc41b681d4e839ee484e5d81a7e5f7ff5b7f44c3bdedcf881d8e65f487fc9ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "1f76c1b21b206595c2397ef2fdfb7fb085d6a8f8ef7f5856f077677f475314e2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "793f8f2437f0d66cc12496e300016bee115e6d74873dbf83008e37b63d533403"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "f4a591edee7b9e24db0e5118e0c634d60d2736c2898de1a8cffacfab185b9a1a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pixlli.pw.toml"
+hash = "d19c32e296233f00ae3d057998577346a088f8c1c2060439e2a2a01a1aa43b0a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reimaginedguidark.pw.toml"
+hash = "4459edd7a397e3a076fbb2a533e1e8b6ffc3047f35e09192c854cbf5ea2fde3c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reimaginedguilight.pw.toml"
+hash = "f8784b1a13230b6c8a802534b205633c90905add7640096c8e4518cdd4838545"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rotrblocks.pw.toml"
+hash = "3976c19fb349af0722322068123b81d3fa6922b7d7bee8edc4d34776ad43784e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/arc-shader.pw.toml"
+hash = "49a0ee2486d75902dc8d6fd0053f81bbeceecdaf7d7f963a433990bb31d535e7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "820c7a11a6d105ee6b8e4faaf0b93f807fcdbc803f816437e2170c76c439e38c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "e51d06862a5c8191182f4fd7d9870313533afdcacdca3130cb37f8f5fc7bf635"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-shaders-v4.pw.toml"
+hash = "356650c70469f8597be3f7a99067ad397202bd091336218b588ebf0bb4856e51"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "1f2ec0bcd3a5e8e5a4070b141654039f726812ae0a76acf2b6b5e309da24dc0e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/shrimple.pw.toml"
+hash = "8ac2d1149c4f622902e258e2049e1c10e479c64a16112f44bcfb741b13ad25ea"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "c7c5c5e8ac1a6c646580f60d5a8d484b1ec5d502ca56608c92828383fabb676c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "fde89efa0ba937c2f4d05eba0b0ea1259e7e628b90446da5a74cfb95ea9353c9"
+metafile = true

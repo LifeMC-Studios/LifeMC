@@ -1,0 +1,13 @@
+name = "GraphUtil"
+filename = "graphutil-fabric-1.0.0-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cpBmCs66/versions/zmHteWGB/graphutil-fabric-1.0.0-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "3375973b93f5424997ef2af7d947dc6b3163054d"
+
+[update]
+[update.modrinth]
+mod-id = "cpBmCs66"
+version = "zmHteWGB"
