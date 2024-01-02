@@ -1,13 +1,13 @@
 name = "Dramatic Skys"
-filename = "Dramatic Skys Demo 1.5.3.12.zip"
+filename = "Dramatic Skys Demo 1.5.3.14.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2YyNMled/versions/nqGeQAus/Dramatic%20Skys%20Demo%201.5.3.12.zip"
+url = "https://cdn.modrinth.com/data/2YyNMled/versions/bE4i1wfJ/Dramatic%20Skys%20Demo%201.5.3.14.zip"
 hash-format = "sha1"
-hash = "b2704c1e131c9990c67335311e8211d47bcda4f1"
+hash = "6e03101a05accd51f5a99f74fb959ed2b5fbbf47"
 
 [update]
 [update.modrinth]
 mod-id = "2YyNMled"
-version = "nqGeQAus"
+version = "bE4i1wfJ"
