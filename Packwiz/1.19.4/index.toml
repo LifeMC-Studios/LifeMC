@@ -754,7 +754,7 @@ hash = "96852af13b8e2138eda75119f0d22d2edd6ea81a9c3f51c41c6c6558639600c7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "bba339161e6ea7338fb94c241e4ef3841b498030e544ea0302a0f5d77c103bee"
+hash = "5266adaa56f7e459f4cbb2ccba4b83babf8b3f15621a011ea58e627e925b65a5"
 metafile = true
 
 [[files]]
@@ -1014,7 +1014,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "68e797f5a5f2d3cc33802148bd4199bc846e6afa9bff3217b19d220ad7518499"
+hash = "26674dfd50f3669906050f6730d83baf3440797757e9d1bf8c2482e0e52f3ea4"
 metafile = true
 
 [[files]]
@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "bda29c42156bd11f8f2de896ca19a1e3e0813a4218f233f66f4aa1f3e35e94b1"
+hash = "26a890cb07c7867973f274847fd12b78eff4b1875b8f33015b6c2db44ed6c733"
 metafile = true
 
 [[files]]
@@ -1179,12 +1179,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alacrity.pw.toml"
-hash = "0fc41b681d4e839ee484e5d81a7e5f7ff5b7f44c3bdedcf881d8e65f487fc9ab"
+hash = "97d5fad7731f02047ce647a36c9ec679d4e7cec63e9c11436c138e4101b2edc1"
 metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "75a4e42b70c4d0256c1e4af20749934490e3b6859ca0a14eb263cc434ed2530d"
+hash = "279f25f37069557d94ae305d47e1a311430bc62ea226d3df2b1c53d2b193698c"
 metafile = true
 
 [[files]]
