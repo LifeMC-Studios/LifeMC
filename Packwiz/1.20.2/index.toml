@@ -750,7 +750,7 @@ hash = "96852af13b8e2138eda75119f0d22d2edd6ea81a9c3f51c41c6c6558639600c7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "0943cdeaa011b27f21a6ca2e3d36724e671d2a4a9df03b44ae56326cc6329568"
+hash = "2f8e590465a03517595deb5d1fa8624c8baf8f01ada448c60cd6a51fb38a064e"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "5d43eed32234d78cd4bfde2c8bb90200946940f6001c06e54cfa23c2450fb807"
+hash = "139c6b7a011caf0794521532f0a1a606411732ee56af73aef5b8e55567490c22"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "8cb64502dedd0e82a99f898885522e8dcbd9e962daa0b4a4eb5d93d964bf776b"
+hash = "84555f31a74e5e85a8bb83e623b0a2c41b9eded52a3c3822df249337f8ff55f2"
 metafile = true
 
 [[files]]
@@ -890,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "29c60d0662e717c2dbb248d5177d9d397a592988edbe5ad8252392b645c1ffdc"
+hash = "94d311e863d8de5b572b29c1a52f2971510382b4e00749a05679f7a014d51a03"
 metafile = true
 
 [[files]]
@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5e351f182c2aae09834c49d55248703c853d224afb0d4a88502b1e91f16db7d6"
+hash = "ac6c3d4e36400abad7a4df8289f0d27d271f43b19250b4848d2a78f0a85490b1"
 metafile = true
 
 [[files]]
@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "b0ac4eea0182de620ab8b7cba600ab51bb6ecef053d4a2d1f8584900c0c6d065"
+hash = "bd885cef955a8940948099b9b623fc8d6323aafc714a654f6d5ba2e25c6aa072"
 metafile = true
 
 [[files]]
@@ -1015,7 +1015,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
@@ -1045,7 +1045,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
+hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
 metafile = true
 
 [[files]]
@@ -1055,7 +1055,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "fbab079e97ad9d05574071f0586494ded680553d460533bdb99d85d2cdb57bdf"
+hash = "45aa6827e1cf2b1b941dbe69ea83dfe68f031aa96d9a16c886c9c1224306717a"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "c4753390eec4bbda04730ef675fdbd5ee08244d359637b93ad7521e2a3bc78d2"
+hash = "c9a99090e6a8e60a2a445ab1b653dd74107e4b010ad210916ab64a62373817be"
 metafile = true
 
 [[files]]
@@ -1175,12 +1175,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alacrity.pw.toml"
-hash = "0fc41b681d4e839ee484e5d81a7e5f7ff5b7f44c3bdedcf881d8e65f487fc9ab"
+hash = "97d5fad7731f02047ce647a36c9ec679d4e7cec63e9c11436c138e4101b2edc1"
 metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "75a4e42b70c4d0256c1e4af20749934490e3b6859ca0a14eb263cc434ed2530d"
+hash = "279f25f37069557d94ae305d47e1a311430bc62ea226d3df2b1c53d2b193698c"
 metafile = true
 
 [[files]]
