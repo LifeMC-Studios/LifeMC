@@ -789,11 +789,6 @@ hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
 
 [[files]]
-file = "mods/better-name-visibility.pw.toml"
-hash = "aebf926e5fdfabaefe4355f6bc37ed957befd8b8e1bb70383852fa4d1242477b"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "34b2735eaf65217b5fe22562cd02e0c73c15b6c42bcbad3bbf340e748969dc26"
 metafile = true
