@@ -1046,6 +1046,11 @@ hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "327842741f149ad231c86747dadfcecdac04bd26a9cdf71c3c5810c458a272e8"
+metafile = true
+
+[[files]]
 file = "mods/paperdoll.pw.toml"
 hash = "9c504542028f06392e9c10243676f06254b97023ce18becf666ade86251b8612"
 metafile = true
