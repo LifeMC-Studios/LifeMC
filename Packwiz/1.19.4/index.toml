@@ -813,11 +813,6 @@ hash = "48ceaab5d82bb798606cd8518ba4042f9495b027893984ed320160c36204aafa"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "d42b950fa761275d1680cf51c3edace320f93c8089a59deb3772fab67dad1a15"
-metafile = true
-
-[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
 metafile = true
