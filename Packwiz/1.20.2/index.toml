@@ -754,11 +754,6 @@ hash = "0943cdeaa011b27f21a6ca2e3d36724e671d2a4a9df03b44ae56326cc6329568"
 metafile = true
 
 [[files]]
-file = "mods/advancementinfo.pw.toml"
-hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
