@@ -29,6 +29,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "f42451a0625d532a6abbf8dfda117bb3851cb1e2e0195eb93f1b6929e7168c4d"
 
 [[files]]
+file = "config/yosbr/config/PaginatedAdvancements.json5"
+hash = "151c2f7d5c2ca2836a98093f0328ad32970ed71610f2b450707b3b2fdd1c3c6b"
+
+[[files]]
 file = "config/yosbr/config/bobby.conf"
 hash = "bae545e423c7ab1bb0f1f6661232a35c3e220e5d901575d3abb560da81426c9f"
 
