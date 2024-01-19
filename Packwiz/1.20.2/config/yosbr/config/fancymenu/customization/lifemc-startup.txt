@@ -1,0 +1,158 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 187
+  width = 480
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 92978bd2-f5fa-4a2b-99c0-ae9eba0aa7c01681473668771
+  y = 180
+  height = 120
+}
+
+customization {
+  custom_color_hex = AAD576
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = ca0a4a59-9046-480b-ae5e-d4e5169fdb501681473668771
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 187
+  width = 480
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 97c1d5ce-2bd0-4e7a-9141-e090ee2dce681681473668771
+  y = 394
+  height = 10
+}
+
+customization {
+  orientation = bottom-centered
+  delayappearanceseconds = 1.0
+  progress_for_element_orientation = true
+  background_color = 7FBB3E
+  fadein = true
+  fadeinspeed = 1.0
+  x = -1280
+  width = 2559
+  bar_color = 538D22
+  action = custom_layout_element:drippy_custom_loading_bar
+  actionid = 21b5cba4-5970-4ba1-9423-49d7807d849b1681485499010
+  y = -20
+  delayappearance = true
+  delayappearanceeverytime = false
+  direction = right
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 1.0
+  path = config/resources/minecraft/images/piggy.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -46
+  width = 92
+  action = addtexture
+  actionid = 217327c9-7275-4cf3-8eb1-8da81512497d1683484298112
+  y = -65
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 130
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = false
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = {"placeholder":"local","values":{"key":"lifemc.copying"}}
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = -175
+  width = 350
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 40bd09a2-a947-482e-9b24-8a0047babb911686992083973
+  y = -37
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = false
+  height = 14
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = false
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = LifeMC - {"placeholder":"json","values":{"source":"config/lifemc.json","json_path":"$.version_number"}}
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = -60
+  width = 120
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 62081365-2f4a-4ce4-8662-09b1b56dd7b71686992145169
+  y = -51
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = false
+  height = 14
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = false
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = {"placeholder":"drippy_gl_percent"}%
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = -9
+  width = 30
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 1fde895e-56b3-4db9-9d7e-1bb9ea9044371687033671881
+  y = -15
+  delayappearance = true
+  alignment = left
+  delayappearanceeverytime = false
+  height = 14
+}
+

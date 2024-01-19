@@ -1,0 +1,306 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_429
+  randomgroup = 1
+  renderorder = foreground
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:1f140763-5c9f-4c4c-a8cd-4d676f437bfc1683317060495] = theme:0
+  randommode = false
+  custom_menu_title =
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505154%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = -80
+}
+
+customization {
+  identifier = %id=505154%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=505154%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-online-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-online-off.light.png
+}
+
+customization {
+  identifier = %id=345280%
+  orientation = mid-centered
+  x = -154
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=345280%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-packs-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-packs-off.light.png
+}
+
+customization {
+  identifier = %id=3452081%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=3452081%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-cosmetica-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-cosmetica-off.light.png
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = mid-centered
+  x = -154
+  action = movebutton
+  y = -80
+}
+
+customization {
+  identifier = %id=505280%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=505280%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-accessibility-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-accessibility-off.light.png
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 61
+}
+
+customization {
+  identifier = %id=400334%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-normal-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-normal-off.light.png
+}
+
+customization {
+  identifier = %id=345256%
+  orientation = mid-centered
+  x = -154
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=345256%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-lang-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-lang-off.light.png
+}
+
+customization {
+  identifier = %id=505256%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=505256%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-chat-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-chat-off.light.png
+}
+
+customization {
+  identifier = %id=345232%
+  orientation = mid-centered
+  x = -154
+  action = movebutton
+  y = -50
+}
+
+customization {
+  identifier = %id=345232%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-video-settings-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-video-settings-off.light.png
+}
+
+customization {
+  identifier = %id=505232%
+  orientation = mid-centered
+  x = -154
+  action = movebutton
+  y = -24
+}
+
+customization {
+  identifier = %id=505232%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-controls-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-controls-off.light.png
+}
+
+customization {
+  identifier = %id=635154%
+  orientation = mid-centered
+  x = 156
+  action = movebutton
+  y = -80
+}
+
+customization {
+  identifier = %id=345208%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345208%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=345208%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-cosmetica-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-cosmetica-off.light.png
+}
+
+customization {
+  identifier = %id=345304%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505208%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = -50
+}
+
+customization {
+  identifier = %id=505208%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-audio-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-audio-off.light.png
+}
+
+customization {
+  path = config/resources/minecraft/images/piggy.png
+  orientation = top-centered
+  x = -46
+  width = 92
+  action = addtexture
+  actionid = 5fb08e6c-715d-4c6f-b90c-6e0a99ce07601686866197769
+  y = 10
+  height = 130
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"local","values":{"key":"lifemc.copying"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 6
+  width = 350
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 758a4840-5f7a-41c0-8b31-abe9c9b9ae341686991215939
+  y = -16
+  alignment = left
+  height = 14
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = LifeMC - {"placeholder":"json","values":{"source":"config/lifemc.json","json_path":"$.version_number"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 6
+  width = 120
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = b7ab23ca-29c7-4c70-9e2e-f8f99a7f59001686991311090
+  y = -30
+  alignment = left
+  height = 14
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  buttonaction = set_variable;theme:1%btnaction_splitter_fm%
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-dark-theme-on.light.png
+  label =
+  loopbackgroundanimations = true
+  x = -30
+  width = 24
+  action = addbutton
+  actionid = 99aeee07-45e9-4954-a736-393d02ce3bb51686992938726
+  y = -30
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-dark-theme-off.light.png
+  height = 24
+}
+
+customization {
+  identifier = %id=505304%
+  action = hidebutton
+}

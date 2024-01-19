@@ -535,7 +535,7 @@ customization {
   orientation = bottom-left
   restartbackgroundanimations = true
   delayappearanceseconds = 1.0
-  buttonaction = openlink;https://ko-fi.com/lifemcstudios%btnaction_splitter_fm%
+  buttonaction = openlink;https://patreon.com/LifeMCStudios%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-donation-on.dark.png
   label =
   loopbackgroundanimations = true

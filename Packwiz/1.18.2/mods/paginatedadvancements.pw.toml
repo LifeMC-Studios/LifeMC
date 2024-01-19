@@ -1,0 +1,13 @@
+name = "Paginated Advancements & Custom Frames"
+filename = "paginatedadvancements-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pJogNFap/versions/1.1.0-1.18.2/paginatedadvancements-1.1.0.jar"
+hash-format = "sha1"
+hash = "14da2a13568cc006219b7d04df986305954fdca5"
+
+[update]
+[update.modrinth]
+mod-id = "pJogNFap"
+version = "cqjw7MUW"
