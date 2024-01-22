@@ -152,17 +152,6 @@ customization {
 }
 
 customization {
-  path = config/resources/minecraft/images/piggy.png
-  orientation = top-centered
-  x = -46
-  width = 92
-  action = addtexture
-  actionid = 1b16d2cf-d7c6-4ce4-86ce-dc29918b9d5f1686858602626
-  y = 10
-  height = 130
-}
-
-customization {
   orientation = bottom-right
   restartbackgroundanimations = true
   buttonaction = set_variable;theme:0%btnaction_splitter_fm%

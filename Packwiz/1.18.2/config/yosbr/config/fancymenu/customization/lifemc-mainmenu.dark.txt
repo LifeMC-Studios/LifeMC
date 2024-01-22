@@ -380,14 +380,14 @@ customization {
 customization {
   orientation = top-centered
   delayappearanceseconds = 1.0
-  path = config/resources/minecraft/images/piggy.png
+  path = config/resources/minecraft/images/lifemc_logo.png
   fadein = true
   fadeinspeed = 1.0
-  x = -46
-  width = 92
+  x = -65
+  width = 130
   action = addtexture
   actionid = 94ca028e-47bf-48d4-a288-b70d208b55931686853321724
-  y = 10
+  y = 50
   delayappearance = true
   delayappearanceeverytime = false
   height = 130

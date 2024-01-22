@@ -209,17 +209,6 @@ customization {
 }
 
 customization {
-  path = config/resources/minecraft/images/piggy.png
-  orientation = top-centered
-  x = -46
-  width = 92
-  action = addtexture
-  actionid = 5fb08e6c-715d-4c6f-b90c-6e0a99ce07601686866197769
-  y = 10
-  height = 130
-}
-
-customization {
   orientation = bottom-left
   enable_scrolling = false
   shadow = true
