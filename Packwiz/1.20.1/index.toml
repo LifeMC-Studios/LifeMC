@@ -126,11 +126,11 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "4410df910e52225a7b267d97644fdddad7c5ab7c37ffdcdf71e097a8ba4b56a7"
+hash = "24ff86a3227385ab97e7136e6fcc30857ba386ff9222fc8d81b9f354878ecfaa"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "fa9f23e2e2f0e6939138496d35dc37340011cb7839d374740b79063ca2f19f8b"
+hash = "6b11a865b16cb91668544699c84f32f7e8fa1f5b155b0b30cbfdead97617b174"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/user_variables.db"
@@ -489,8 +489,8 @@ file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-video-s
 hash = "7a6372b1bd3ea25310c65728a0bfb834e31b7d909d97dd165856eaa7e2cc8e8f"
 
 [[files]]
-file = "config/yosbr/config/resources/minecraft/images/piggy.png"
-hash = "7689ddf7ec46d40d629ee7a096b4750e723831810193111dea99c4b3cb8e1201"
+file = "config/yosbr/config/resources/minecraft/images/lifemc_logo.png"
+hash = "d4ef6a3c8e283f22f601b49eaf4626e72b4b55f8e1573b73295e5b617222a650"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/af_za.json"
