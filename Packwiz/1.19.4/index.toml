@@ -842,11 +842,6 @@ hash = "506e65b514f4b6c5ad80820a8ee741b0ba66f874fd2a68255b8ee306049e42d2"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "c5582efdd851e697d7ea30eb67dce6e49fe436046062f35f32dae95ea6e9b1a1"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1ce6d6922564da4116840ce60204adc2d691873059367b09084f9de7e898b4b4"
 metafile = true
@@ -1009,6 +1004,11 @@ metafile = true
 [[files]]
 file = "mods/map-compass.pw.toml"
 hash = "ef54d3a20e4c82619b353af443790f6448e90e01a9a75e78294be8c5ae240684"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "d97835725d856abc4f120717c0d30cffebbabbb9151427abf295ae4852e1ce5a"
 metafile = true
 
 [[files]]
