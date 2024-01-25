@@ -814,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "1533424bd7d0136901c1170026fef1d236c312160ba3393d891010cecf801eb8"
+hash = "5a69dcb8f3c684e4581000753c1872ef8b4f5b6dd2f98bf1ea3c70e0bf7c987d"
 metafile = true
 
 [[files]]
@@ -904,7 +904,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "32ee0de1b38a22f9c21aeef3e22d760381b85bb2736ef53e527c68226ae25b0c"
+hash = "f02d05f8543f4b2c6aecaa7f070da84b08bccab0441fb2c3408fafde69fd8914"
 metafile = true
 
 [[files]]
@@ -1039,7 +1039,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
+hash = "1b839c6aa5ffd9c07f02e55d408b1c1a8d5dcd1561bedb9e782b61c20de032ba"
 metafile = true
 
 [[files]]
@@ -1169,12 +1169,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alacrity.pw.toml"
-hash = "97d5fad7731f02047ce647a36c9ec679d4e7cec63e9c11436c138e4101b2edc1"
+hash = "97a3df9625fd192c720369a0f6cafb599dc2b4937244edf572977cdbdf822d1f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "3cdfbdefa11831d9b7cafe3d45a6887d5f3c017e6984262da5c9e4034c456b9f"
+hash = "3a6b6eebe14ab4ebcf1727f2d0c59a1dd9317019dff32eee5494b5d4fccad700"
 metafile = true
 
 [[files]]
