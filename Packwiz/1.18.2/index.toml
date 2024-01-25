@@ -1070,6 +1070,11 @@ hash = "340753cc88ec9db69e6f17a0ccd0eee24caaef85ad81e074bf44fb6cec7c787e"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "d6a1997d77e3e1a0f5b24a2e919db7f369bd5f8329e24ee3662117e9cec82ebf"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "bd8896daa232540e8ce5bdffdd662e0c0bd291a02155678b1a9f799005d9d726"
 metafile = true
