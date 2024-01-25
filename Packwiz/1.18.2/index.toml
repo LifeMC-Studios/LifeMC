@@ -1146,12 +1146,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/alacrity.pw.toml"
-hash = "97d5fad7731f02047ce647a36c9ec679d4e7cec63e9c11436c138e4101b2edc1"
+hash = "97a3df9625fd192c720369a0f6cafb599dc2b4937244edf572977cdbdf822d1f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "3cdfbdefa11831d9b7cafe3d45a6887d5f3c017e6984262da5c9e4034c456b9f"
+hash = "3a6b6eebe14ab4ebcf1727f2d0c59a1dd9317019dff32eee5494b5d4fccad700"
 metafile = true
 
 [[files]]
