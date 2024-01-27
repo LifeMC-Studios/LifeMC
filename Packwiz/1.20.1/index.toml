@@ -726,11 +726,11 @@ hash = "3197150af1019ff69919a3616a7e5326b88cc8800725898f958b04152d276ecb"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/server-entries.toml"
-hash = "dbc9c6a5c1504ba47a6406e6341dac032788c2af1561328af351129b806a3584"
+hash = "ddbb32cf3d1660cb691b80851879121a4c8c5ada79995da0b7cd3f6535ed9c1c"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "62f4abee424de1524e02f5540a53b4c42255bdecfba4bb6c52944b50a41cf5b3"
+hash = "bd690555fd6dfba751d0e1af72204903a682aca8854624d79ad39f1078cda5a3"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"

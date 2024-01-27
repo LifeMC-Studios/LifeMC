@@ -43,6 +43,14 @@ largeImageText = ""
 smallImageKey = [""]
 smallImageText = ""
 [[entry]]
+ip = "mc.reax.ink"
+description = "Playing on ReaX Network"
+state = "IP: mc.reax.ink"
+largeImageKey = [""]
+largeImageText = ""
+smallImageKey = [""]
+smallImageText = ""
+[[entry]]
 ip = "localhost"
 description = "Local test server"
 state = ""
