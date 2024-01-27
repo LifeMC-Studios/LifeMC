@@ -750,7 +750,7 @@ hash = "69eb5eef61e7d3c7f9183c6db0de5935f843c1b615f57836c07240cd061a89b0"
 
 [[files]]
 file = "config/yosbr/servers.dat"
-hash = "96852af13b8e2138eda75119f0d22d2edd6ea81a9c3f51c41c6c6558639600c7"
+hash = "a221c915e5f4b26bfac5a22f85fc8f888deedc30ad7d4158301e6c5fdcb48cbb"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
