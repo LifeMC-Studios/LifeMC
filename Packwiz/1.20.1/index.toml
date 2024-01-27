@@ -737,6 +737,10 @@ file = "config/yosbr/config/resources/minecraft/lang/zh_tw.json"
 hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
 
 [[files]]
+file = "config/yosbr/config/screenshot_viewer-client.json"
+hash = "537f744fdbd7f9120d572064fb81e82071b31e779c7ef0f4b6cd2e7f9ca18c37"
+
+[[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
 hash = "3197150af1019ff69919a3616a7e5326b88cc8800725898f958b04152d276ecb"
 
@@ -1116,6 +1120,11 @@ metafile = true
 [[files]]
 file = "mods/satin-api.pw.toml"
 hash = "d2cf373e948d483f3cb2bcc9180710a468ece84419dd732e1e8eab8ddcafa36a"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "1193a88dacbf316c03bc63cedea97d4584483b04f7f71983b7a235a6620f24bd"
 metafile = true
 
 [[files]]
