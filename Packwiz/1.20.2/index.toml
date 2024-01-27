@@ -313,6 +313,14 @@ file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-report-b
 hash = "8acc3d26935d9fcc6e544cdd77372bc906a1c57ec1e618e7488d45f1021cbeaa"
 
 [[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-screenshot-menu-off.dark.png"
+hash = "77f0f48d8ccaa20a76c080bf927ce948bbb5717d0e393ce9c493c7206385e92c"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-screenshot-menu-on.dark.png"
+hash = "abb511f0d514718f3e0d0df92c8a755508aac87dd78f008caa48259a01df2623"
+
+[[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-settings-off.dark.png"
 hash = "56e2274d78dda486132791055091867567b5a00e34e355e0808cb7693391b8fc"
 
@@ -322,11 +330,11 @@ hash = "8ae72de7b328f64c40a4d9947c730af80c65f3798a179a79afd872b865fa218d"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-update-off.dark.png"
-hash = "ffc80f83fe904a3e63fce7f69b44a926b2edde6e80f05b41fc80bdf0ae1503fd"
+hash = "32423a9e13b7fc5c01c6d2dd3fa7d6206a2f11cb5e802de7817bebc8155f1e50"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-update-on.dark.png"
-hash = "2dd13544d0a662a6e3aafa9662620be8d27a53353a0f21537921d70c43fd6773"
+hash = "8de1cf6c8671af4199ea65875aac806cc16d508c378907d3fc763977aec136a3"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-video-settings-off.dark.png"
@@ -465,6 +473,14 @@ file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-report-
 hash = "211237112ec035f1ed252b6773a13b215b7718647634eeb84f7d8c690f7fbabe"
 
 [[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-screenshot-menu-off.light.png"
+hash = "e11c26a1712fcc94b0fe99de7f67a31931f88acd958e5211bb8d549b6595c774"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-screenshot-menu-on.light.png"
+hash = "cded02c656d459c0859d379bdbd5e6af877d4f2aced8596001fe8b6b49778d70"
+
+[[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-settings-off.light.png"
 hash = "d944388ef7b42760a6fefc9fdaf17cf74b5601cd836b0bc482099fe85fee131f"
 
@@ -474,11 +490,11 @@ hash = "aae16361ded4eff5b1f387cc4a76402b4a50c9b838a8b207aa78c4d180785062"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-update-off.light.png"
-hash = "67299d9f01476daaa390199b9f7f06861a66dc92e8ff8809aeaa448f8a49c71c"
+hash = "4f9cad398b3499e1e3a9e3be91a67e23e10ebc5e142ef8bed65c28cc2f4565c2"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-update-on.light.png"
-hash = "a1b9b8c75c3eefc048b50e033d68b35bfde8901d6acc6bb8a5abb1ffeb96cf45"
+hash = "67f21b32de6a905449d82cf4aa8e2483fd8e7b74891236c616d6f62ae3ce1a9f"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-video-settings-off.light.png"
