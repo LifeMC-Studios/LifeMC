@@ -72,6 +72,36 @@ customization {
 }
 
 customization {
+  identifier = %id=606258%
+  orientation = bottom-right
+  x = -63
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=606258%
+  width = 23
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=606258%
+  action = setbuttonlabel
+  value =
+}
+
+customization {
+  identifier = %id=606258%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-screenshot-menu-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-screenshot-menu-off.light.png
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
   orientation = mid-centered
   x = -102

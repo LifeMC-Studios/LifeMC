@@ -97,6 +97,36 @@ customization {
 }
 
 customization {
+  identifier = %id=606258%
+  orientation = bottom-right
+  x = -63
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=606258%
+  width = 23
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=606258%
+  action = setbuttonlabel
+  value =
+}
+
+customization {
+  identifier = %id=606258%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-screenshot-menu-on.dark.png
+  backgroundnormal = config/resources/minecraft/buttons/dark/lifemc-btn-screenshot-menu-off.dark.png
+}
+
+customization {
   identifier = %id=504306%
   loopbackgroundanimations = true
   restartbackgroundanimations = true
