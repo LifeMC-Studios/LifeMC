@@ -121,7 +121,7 @@ smallImageText = ""
 
 [[single_player.buttons]]
 label = "Discord - Join Now"
-url = "https://discord.com/invite/dnVdDSUJFZ"
+url = "https://discord.com/invite/XRcdUqrY9R"
 
 [[single_player.buttons]]
 label = "Modrinth - Download Now"
@@ -147,7 +147,7 @@ smallImageText = ""
 
 [[multi_player.buttons]]
 label = "Discord - Join Now"
-url = "https://discord.com/invite/dnVdDSUJFZ"
+url = "https://discord.com/invite/XRcdUqrY9R"
 
 [[multi_player.buttons]]
 label = "Modrinth - Download Now"
@@ -189,7 +189,7 @@ smallImageText = ""
 
 [[generic.buttons]]
 label = "Discord - Join Now"
-url = "https://discord.com/invite/dnVdDSUJFZ"
+url = "https://discord.com/invite/XRcdUqrY9R"
 
 [[generic.buttons]]
 label = "Modrinth - Download Now"

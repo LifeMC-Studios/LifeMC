@@ -433,7 +433,7 @@ customization {
   orientation = bottom-centered
   restartbackgroundanimations = true
   delayappearanceseconds = 1.0
-  buttonaction = openlink;https://discord.com/invite/dnVdDSUJFZ%btnaction_splitter_fm%
+  buttonaction = openlink;https://discord.com/invite/XRcdUqrY9R%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-discord-on.dark.png
   label =
   loopbackgroundanimations = true

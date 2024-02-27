@@ -86,11 +86,11 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "c8de90ba810db1c3a9cbfdcd729457fa9c5003b937dd2d8562b85dcbf7de398f"
+hash = "6468eaa9c355ac7e118f6f81a05d5158b65ec2dc3d57346f5ada14ee4fa521c6"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "b118c5a7ca0b2d2e2322edfec69d49b37276377dc6615d5a9e42a9f82dfbaac8"
+hash = "f5fbc62fac1e8c1d84e0bbcbfecbdc1eb7348ca0fd68516a489b7b6503734f28"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
@@ -750,7 +750,7 @@ hash = "ddbb32cf3d1660cb691b80851879121a4c8c5ada79995da0b7cd3f6535ed9c1c"
 
 [[files]]
 file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "bd690555fd6dfba751d0e1af72204903a682aca8854624d79ad39f1078cda5a3"
+hash = "68dc7f4684e773644fa0d8cb50132bb9b2db4aefb269ce5b7b9a733334ae4db5"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
