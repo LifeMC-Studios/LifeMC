@@ -71,11 +71,11 @@ customization {
 customization {
   orientation = mid-centered
   delayappearanceseconds = 1.0
-  path = config/resources/minecraft/images/piggy.png
+  path = config/resources/minecraft/images/lifemc_logo.png
   fadein = true
   fadeinspeed = 1.0
-  x = -46
-  width = 92
+  x = -65
+  width = 130
   action = addtexture
   actionid = 217327c9-7275-4cf3-8eb1-8da81512497d1683484298112
   y = -65

@@ -84,6 +84,36 @@ customization {
 }
 
 customization {
+  identifier = %id=606258%
+  orientation = bottom-right
+  x = -63
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=606258%
+  width = 23
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=606258%
+  action = setbuttonlabel
+  value =
+}
+
+customization {
+  identifier = %id=606258%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-screenshot-menu-on.dark.png
+  backgroundnormal = config/resources/minecraft/buttons/dark/lifemc-btn-screenshot-menu-off.dark.png
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
   orientation = mid-centered
   x = -102
@@ -149,17 +179,6 @@ customization {
   action = setbuttontexture
   backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-normal-on.dark.png
   backgroundnormal = config/resources/minecraft/buttons/dark/lifemc-btn-normal-off.dark.png
-}
-
-customization {
-  path = config/resources/minecraft/images/piggy.png
-  orientation = top-centered
-  x = -46
-  width = 92
-  action = addtexture
-  actionid = 1b16d2cf-d7c6-4ce4-86ce-dc29918b9d5f1686858602626
-  y = 10
-  height = 130
 }
 
 customization {
