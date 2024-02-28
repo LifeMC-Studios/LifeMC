@@ -545,7 +545,7 @@ customization {
   orientation = bottom-left
   restartbackgroundanimations = true
   delayappearanceseconds = 1.0
-  buttonaction = openlink;https://patreon.com/LifeMCStudios%btnaction_splitter_fm%
+  buttonaction = openlink;https://github.com/LifeMC-Studios/LifeMC/blob/main/CONTRIBUTING.md%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-donation-on.light.png
   label =
   loopbackgroundanimations = true
