@@ -78,4 +78,4 @@ The "Alacrity" Resource Packs were created by [Satellence](https://modrinth.com/
   - ❤️ [Boosty](https://boosty.to/alacrity)
   - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/Alacrity/Links.txt)
 
-> All rights reserved. © 2021-2023 LifeMC Studios
+> All rights reserved. © 2021-2024 LifeMC Studios

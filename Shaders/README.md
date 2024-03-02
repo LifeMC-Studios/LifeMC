@@ -83,4 +83,4 @@ The 'Solas Shader' shaders was created by [septonious](https://modrinth.com/user
   - 🗣️ [Discord](https://discord.com/invite/4uTAUQR2xu)
   - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Shaders/Solas-Shader/Links.txt)
 
-> All rights reserved. © 2021-2023 LifeMC Studios
+> All rights reserved. © 2021-2024 LifeMC Studios

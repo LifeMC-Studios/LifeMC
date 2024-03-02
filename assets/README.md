@@ -20,4 +20,4 @@ The badges used come from an opensource library called Devin's Badges made by [D
 
 The flag icons used come from an opensource library called flag-icons made by [Lipis](https://github.com/lipis/flag-icons)
 
-> All rights reserved. © 2021-2023 LifeMC Studios
+> All rights reserved. © 2021-2024 LifeMC Studios
