@@ -33,6 +33,10 @@ file = "config/yosbr/config/chatpatches.json"
 hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
 [[files]]
+file = "config/yosbr/config/cosmetica/default-settings.properties"
+hash = "5e274dba80a23916d9e2f2dfba72c5a190aadcefc1fb4cec0d40af3c753ee3c7"
+
+[[files]]
 file = "config/yosbr/config/debugify.json"
 hash = "3128a2c0d62f4ded07b23fc7482fc522f2510359e700ed409dfe16e73b02c600"
 
