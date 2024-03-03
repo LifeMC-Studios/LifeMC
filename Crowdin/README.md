@@ -225,4 +225,4 @@ This is a list of supported languages, if you want to help translate use Crowdin
 
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb-wls.svg" wight="100px" height="100px"/>
 
-> All rights reserved. © 2021-2023 LifeMC Studios
+> All rights reserved. © 2021-2024 LifeMC Studios

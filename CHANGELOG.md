@@ -14,4 +14,4 @@ We are thrilled to embark on this exciting journey with you. After 2 years of de
 
 We are thrilled to embark on this exciting journey with you. After 2 years of development and various challenges, we are finally releasing the first version of the modpack! 🚀🎉😃
 
-> All rights reserved. © 2021-2023 LifeMC Studios
+> All rights reserved. © 2021-2024 LifeMC Studios

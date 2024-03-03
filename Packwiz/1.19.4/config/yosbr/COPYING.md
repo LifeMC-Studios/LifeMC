@@ -703,4 +703,4 @@ project.
 by this projects author.
 ```
 
-> All rights reserved. © 2021-2023 LifeMC Studios
+> All rights reserved. © 2021-2024 LifeMC Studios

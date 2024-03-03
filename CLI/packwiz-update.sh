@@ -13,13 +13,13 @@ show_intro() {
     echo " | |___| |  _|  __/ |  | | |___   ___) | |_| |_| | (_| | | (_) \__ \\"
     echo " |_____|_|_|  \___|_|  |_|\____| |____/ \__|\__,_|\__,_|_|\___/|___/"
     echo -e "\e[0m"
-
+    
     echo -e "\e[33m"
     echo "This script was created by LifeMC Studios for internal use in our project."
     echo "It is open-source and intended to simplify specific operations within our team."
     echo "You can use it within our project without restrictions."
     echo ""
-    echo "> All rights reserved. © 2021-2023 LifeMC Studios."
+    echo "> All rights reserved. © 2021-2024 LifeMC Studios."
     echo -e "\e[0m"
 }
 
@@ -62,7 +62,7 @@ update_modpack() {
     echo -e "\e[0m"
     sleep 1
     cd "$packwiz_dir/$selected_version"
-
+    
     # Update the modpack
     pw update --all -y &
     loading_animation $!
@@ -78,7 +78,7 @@ while true; do
     show_intro
     show_menu
     read -p "Enter version (1-5): " choice
-
+    
     case "$choice" in
         1)
             update_modpack "1.18.2"
@@ -116,8 +116,8 @@ while true; do
             sleep 1
         ;;
     esac
-
+    
     echo
 done
 
-# > All rights reserved. © 2021-2023 LifeMC Studios
+# > All rights reserved. © 2021-2024 LifeMC Studios

@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9fe310d33fdf3b519f1dd506f49ea32cc6ed636c336d741eb4a79071b5361945"
+hash = "ba8777a721ddf8f10a78be82a1056a809d9aaec2d9c9219a92ec3fc0f0aa243d"
 
 [[files]]
 file = "config/lifemc.json"
-hash = "c8ed1c3fb468c1508810b7b968ee71835fc0eebdcfb8d4d1886b085c9fb7ca9a"
+hash = "e267abb093c1d5f8a66fd7b1fc1c957cd7eb9c2d3362e2c3b0e7dfcae5d4e6b2"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
-hash = "faf2e17579cd9626ea5ec7a8fd1b5b09fa3056e28e0fc58d3e720ca41eedb11c"
+hash = "3e1ce061223ce179e0980003d4f63edd9e2e055b48c5f41d28b92a9741a9b87a"
 
 [[files]]
 file = "config/yosbr/LICENSE"
@@ -43,6 +43,14 @@ hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
+
+[[files]]
+file = "config/yosbr/config/cosmetica/cosmetica.properties"
+hash = "4167fa41a33ceb2e925e5561be5dd1b0e530f0cbae4d1a173773681fab5c0cc7"
+
+[[files]]
+file = "config/yosbr/config/cosmetica/default-settings.properties"
+hash = "5e274dba80a23916d9e2f2dfba72c5a190aadcefc1fb4cec0d40af3c753ee3c7"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -510,231 +518,231 @@ hash = "d4ef6a3c8e283f22f601b49eaf4626e72b4b55f8e1573b73295e5b617222a650"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/af_za.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ar_sa.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/be_by.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/bg_bg.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ca_es.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/cs_cz.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/cy_gb.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/da_dk.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/de_ch.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/de_de.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/el_gr.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/en_gb.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/en_pt.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/en_ud.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/en_us.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/eo_uy.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/es_ar.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/es_es.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/et_ee.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/fa_ir.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/fi_fi.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/fil_ph.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/fr_ca.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/fr_fr.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/he_il.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/hi_in.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/hr_hr.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/hu_hu.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/id_id.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/is_is.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/it_it.json"
-hash = "1470b348be1d4f9f024a99c1528e7867e0f3288b189a98850cbda951605c4c1e"
+hash = "624093a9dc9ab5c4582117e3df77396d621440e8486629c911e56dbe66e9beb7"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/it_lt.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ja_jp.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ka_ge.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ko_kr.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/lol_us.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/lv_lv.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ms_my.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/nl_nl.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/nn_no.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/no_no.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/pl_pl.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/pt_br.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/pt_pt.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ro_ro.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ru_ru.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/sk_sk.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/sl_si.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/sq_al.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/sv_se.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/th_th.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/tr_tr.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/tt_ru.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/uk_ua.json"
-hash = "37ea9b65aab0bb22b15ef6a3a0e0fd1644696e5535e3e7266903257525089ca3"
+hash = "6d5cf6ca173505d27627f9b8a2a498e5f9f8e46203839e97e25d4df285b965b5"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/vi_vn.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/zh_cn.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/zh_tw.json"
-hash = "cc786e0dd16efa4b4475581f6ff154749d7fe2e8ce222961438bb9909a6666a7"
+hash = "6c484bfc05443d56d47d4a8b69d96a460520fa0dd15b0d2b6374e9d8b5872e76"
 
 [[files]]
 file = "config/yosbr/config/screenshot_viewer-client.json"
