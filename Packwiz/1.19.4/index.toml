@@ -801,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "56c08a19b9257a481269b77cd630c7396a4ce471f0a4f434df41a49a0623a95a"
+hash = "c51d80190d95b680b53fda254e5919ae1a7a02f23f10099870c56d72750975b5"
 metafile = true
 
 [[files]]
@@ -891,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "4a0723bc27c02e13d42ca1d46fe953464962f1f91ad95d3503d4fcd1d833c996"
+hash = "c6b4f2b23f37dcbbc8ca75ee87e8dd5942a50f244a6d2627de7cd58a2c191fbc"
 metafile = true
 
 [[files]]
@@ -906,7 +906,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "eb28fac00a9e2e043e1050930fdff1f89f220ae7129069efe89c641f43c0b6ac"
+hash = "1dbe47015d8af389ad3d4644b723120e206c741ebccf642a358f7cb820235ffb"
 metafile = true
 
 [[files]]
@@ -916,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "eb31a9bc20995c98ae2a9fa9bf76d5681d1ab6d2fefaf46b13664212429991f3"
+hash = "683d84c667019427bcdf2bd17285175a42e01c05a95dc61ef22e864a10e2e16c"
 metafile = true
 
 [[files]]
@@ -931,7 +931,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8baeeb84d1a761697821062244e4f181462f02f7c476e0f8e3fc18b133ee8f72"
+hash = "4bd4f88209c599cfa23510f4c10e0c8246cd92f5286861b97783592ab1da05a3"
 metafile = true
 
 [[files]]
@@ -1076,7 +1076,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "26674dfd50f3669906050f6730d83baf3440797757e9d1bf8c2482e0e52f3ea4"
+hash = "4ade92b68eb963ad78a9eb5085205368a1e1399fdea67718b70de21f3eeb8453"
 metafile = true
 
 [[files]]
@@ -1091,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/paperdoll.pw.toml"
-hash = "e671feaeccd5a6191fa0dc9310d51317e4612769fd1d2ff9cf84d82ff066224c"
+hash = "5d5399f1b6cdbacef8c6e7c738e03f6329a7ae8807e70d3acabeb3417b0c9d5b"
 metafile = true
 
 [[files]]
@@ -1101,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "05ff4ab03006b372707d5604590675ea0fb19107f0193460b67c80004ed9c5b3"
+hash = "48667d4892b21c7a21f96af49cdd2d93e39965ff0054637c5c35b7b9e049a0ee"
 metafile = true
 
 [[files]]
@@ -1116,7 +1116,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "50672704a7fd8ace7d60ca301a359536f517261ce0c7e7449a239095a080d3fe"
+hash = "b974c01ccf84be2b6844f6d501f06c343f515662c32b11f0de5047a37959f88d"
 metafile = true
 
 [[files]]
@@ -1191,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "0206ee5316f22e23b319eff6e31eb328908bb0ad8b57463be202175061a4a7dc"
+hash = "bc9e05240c560ac14c1c1a3427ace0c685bcb565b97e9e2e42b6aa5df1841fa1"
 metafile = true
 
 [[files]]
@@ -1221,7 +1221,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
-hash = "ca66401c4f4c6919ae9588c18861d5a5bb33d37befd8c3b67af579bcad9b05e1"
+hash = "e51a170a3403f369b07608ad5388354708f9fa633b443e821a65ea5a3a0e9937"
 metafile = true
 
 [[files]]
@@ -1231,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pixlli.pw.toml"
-hash = "0e5a3fc23c2b69b076c82d06fc3c5140a1293405f268bd56dd44569feb2bcb82"
+hash = "d8c25ec29d0bb6ce3408fe16748d9a184ca67d04fd3af2ce7ce306eca5385af6"
 metafile = true
 
 [[files]]
@@ -1246,7 +1246,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rotrblocks.pw.toml"
-hash = "5f51890a165f4fe6c36754c73ad37705b1d022fceced9d95995d7a8c6f38e579"
+hash = "97eabe333e9fcb3f85478a86fa266ae01cb2b2804e4110c6a2eaa24d82c7f6d0"
 metafile = true
 
 [[files]]
@@ -1256,7 +1256,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "107b8b43e9fdd45cc38780875db8e4b976fadacc261f45cb39addd4e0ddb576a"
+hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
 metafile = true
 
 [[files]]
@@ -1281,7 +1281,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "31cafccd47faddc208d0187511e5e7329fdca3d7c55d089a9046ad91f2bec1d5"
+hash = "50ca37438eae5a655f61902d7e498469f0cceddbb6ea42b4648001be50d3af5e"
 metafile = true
 
 [[files]]
