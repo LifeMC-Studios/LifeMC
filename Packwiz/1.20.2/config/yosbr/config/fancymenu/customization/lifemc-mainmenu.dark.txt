@@ -95,12 +95,17 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  delayappearanceeverytime = false
-  fadein = true
-  fadeinspeed = 1.0
-  delayappearance = true
   backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-screenshot-menu-on.dark.png
   backgroundnormal = config/resources/minecraft/buttons/dark/lifemc-btn-screenshot-menu-off.dark.png
+}
+
+customization {
+  identifier = %id=628382%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
 }
 
 customization {
