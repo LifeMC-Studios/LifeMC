@@ -105,14 +105,6 @@ file = "config/yosbr/config/fancymenu/customization/lifemc-startup.txt"
 hash = "3ac51612c789ca9f217c89f6e9ef6f51189d24f9f01f89a1f095e5c2ca2a97ca"
 
 [[files]]
-file = "config/yosbr/config/fancymenu/extensions/fmaudio/config.cfg"
-hash = "f3e260206c13bf58788b0572f453f95a3b7c67066dbf85f1a1118c1126d11d62"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/extensions/fmaudio/locals/en_us.local"
-hash = "d1a39200e583c953b6f56d972ffa0361fc5740e4f69809c22cf2e76486100396"
-
-[[files]]
 file = "config/yosbr/config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
@@ -793,16 +785,6 @@ hash = "ad57f7c9c1168767a8f64c4f2bc115c11ebe31fa08d0a3527820ba6567f481a1"
 metafile = true
 
 [[files]]
-file = "mods/audio-extension-for-fancymenu.pw.toml"
-hash = "8fdfbe37ec57f0d7704cd1175753c111e2fa91996abe01354630dd65dab24995"
-metafile = true
-
-[[files]]
-file = "mods/auudio.pw.toml"
-hash = "fd527af24f3bc91639510447f48d74d9ad101d624fd5b4c9ad053633c1b54e4d"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
@@ -1020,6 +1002,11 @@ metafile = true
 [[files]]
 file = "mods/map-compass.pw.toml"
 hash = "0e20a191b62cc01f4083b749da52ae19dab38b0fdd56ba05691038877ee14cf2"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "2a56c2bea463274d47ec49b91460f3b80973ce8a553adead6a3c990765b448e0"
 metafile = true
 
 [[files]]
