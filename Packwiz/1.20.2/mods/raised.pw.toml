@@ -1,13 +1,13 @@
 name = "Raised"
-filename = "raised-fabric-1.20.4-3.1.1.jar"
+filename = "raised-fabric-1.20.2-3.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/UGlyrR8o/raised-fabric-1.20.4-3.1.1.jar"
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/l9ZAm4Gj/raised-fabric-1.20.2-3.1.2.jar"
 hash-format = "sha1"
-hash = "50bf27440901831755ec8baf7c2d77f74f2d80c1"
+hash = "1febcf20056349c76e16512c7c3be87ba5cc8868"
 
 [update]
 [update.modrinth]
 mod-id = "nCQRBEiR"
-version = "UGlyrR8o"
+version = "l9ZAm4Gj"
