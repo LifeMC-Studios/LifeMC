@@ -106,7 +106,7 @@ customization {
 
 customization {
   identifier = %id=606258%
-  width = 23
+  width = 24
   action = resizebutton
   height = 24
 }
