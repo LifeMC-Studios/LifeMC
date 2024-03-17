@@ -33,10 +33,6 @@ file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "151c2f7d5c2ca2836a98093f0328ad32970ed71610f2b450707b3b2fdd1c3c6b"
 
 [[files]]
-file = "config/yosbr/config/bobby.conf"
-hash = "bae545e423c7ab1bb0f1f6661232a35c3e220e5d901575d3abb560da81426c9f"
-
-[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
 

@@ -21,10 +21,6 @@ file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "151c2f7d5c2ca2836a98093f0328ad32970ed71610f2b450707b3b2fdd1c3c6b"
 
 [[files]]
-file = "config/yosbr/config/bobby.conf"
-hash = "bae545e423c7ab1bb0f1f6661232a35c3e220e5d901575d3abb560da81426c9f"
-
-[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
 
@@ -439,10 +435,6 @@ hash = "fdf171b76afc014baff0dce7a00413f025dd5a522bce1594f0d87dd3fbd9bf88"
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.txt"
 hash = "eb4bf1c028a5a781274259ed7bba0079248b207bb2c50e33f7c323fe0d542bf9"
-
-[[files]]
-file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/legacy_checklist.txt"
