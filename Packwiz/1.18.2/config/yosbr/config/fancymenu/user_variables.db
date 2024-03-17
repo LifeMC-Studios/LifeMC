@@ -1,6 +1,8 @@
-type = cached_variables
+type = user_variables
 
-variables {
-  theme = 1
+variable {
+  name = theme
+  value = 1
+  reset_on_launch = false
 }
 
