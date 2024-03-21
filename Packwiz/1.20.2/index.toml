@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d8291ef76bfcf70248585e90763fe7934dfe4bad2d9af6b3ae38e1fd18c9bdb1"
+hash = "eccc2f8882fbedc040f727157a8a77348a5a2edcd62dd89e22232aff68b7ea9d"
 
 [[files]]
 file = "config/lifemc.json"
-hash = "30424b80ad8fb1a31765dad66bc30d888ae1acdaf7142a8fde93396a6ebd6a76"
+hash = "db318df6c9632b8e152d3328d2919bedfcae3a2cd9b1147de248b5a8dd55fc43"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
