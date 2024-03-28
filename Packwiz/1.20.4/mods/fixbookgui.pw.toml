@@ -1,0 +1,13 @@
+name = "FixBookGUI"
+filename = "fixbookgui-mc1.20.2-1.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/myKgAJq6/versions/7Ry9C1Of/fixbookgui-mc1.20.2-1.5.jar"
+hash-format = "sha1"
+hash = "86eaf3f93ce8b19bf539bee0faa0f51100bd7e7d"
+
+[update]
+[update.modrinth]
+mod-id = "myKgAJq6"
+version = "7Ry9C1Of"

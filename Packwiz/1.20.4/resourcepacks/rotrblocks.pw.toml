@@ -1,0 +1,13 @@
+name = "rotrBLOCKS 128/256x"
+filename = "rotrBLOCKS V56 1.21-1.13 128x (OPEN ME).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A8aBf1Xa/versions/66pvL2KK/rotrBLOCKS%20V56%201.21-1.13%20128x%20%28OPEN%20ME%29.zip"
+hash-format = "sha1"
+hash = "6577b40d63ce89efee1ae1e380982bd5ec44b93c"
+
+[update]
+[update.modrinth]
+mod-id = "A8aBf1Xa"
+version = "66pvL2KK"

@@ -1,0 +1,13 @@
+name = "Pixlli 128x"
+filename = "Pixlli V28 1.20.4-1.13 128x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/E8fGzGhh/versions/iJB9SMM4/Pixlli%20V28%201.20.4-1.13%20128x.zip"
+hash-format = "sha1"
+hash = "c3f2fe2934ea1ce852a7338b4609eeee6d2919a2"
+
+[update]
+[update.modrinth]
+mod-id = "E8fGzGhh"
+version = "iJB9SMM4"
