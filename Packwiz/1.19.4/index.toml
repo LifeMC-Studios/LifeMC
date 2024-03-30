@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "91beb527da7d6498b0debee0bab13ce0c3e6a11c8b7a07cbf69223658fb56ea8"
+hash = "b30bfce43a5b4c2ba750988ea4d765d116d682c6f4ec801ec52fdfaa06a1a8f2"
 
 [[files]]
 file = "config/lifemc.json"
-hash = "54be75995bc1b4f33fbec91270c6d4df40c39afd3b437f6f7a5649e63d7c5a7a"
+hash = "7db67fd4f9e336ded47630384af3e5c6c08dda3381a852947f68e64f20501e9c"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
@@ -566,7 +566,7 @@ hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/en_ud.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "20cb9c4e22a6dc1e47f855b7ad3b755e94f2c36e2c9a8256fe0802940bcf081f"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/en_us.json"
@@ -690,7 +690,7 @@ hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ro_ro.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "94977a3232c09f09989ad058e26a409b590f09aa7d3c7b4ffb972b31ec9b296e"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ru_ru.json"
@@ -972,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "dfd99399b289c778f970e8117b8a60eb3e05180a756b6573c3a18df4b9e44acb"
+hash = "1bd36bfd8b36da2d969f488ee0e2f8a0316f504091cd98f87b720347fb60b69f"
 metafile = true
 
 [[files]]
@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "48667d4892b21c7a21f96af49cdd2d93e39965ff0054637c5c35b7b9e049a0ee"
+hash = "772ab68e94479c46c6159573be12bde56111d664952a9a538bc72af3e961dbcf"
 metafile = true
 
 [[files]]
@@ -1182,7 +1182,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "bc9e05240c560ac14c1c1a3427ace0c685bcb565b97e9e2e42b6aa5df1841fa1"
+hash = "ceb94edfc5b41ff9b41a96a0aa17463841be9ff000fb1e5c4e37331cab4c9048"
 metafile = true
 
 [[files]]
@@ -1207,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "3a6b6eebe14ab4ebcf1727f2d0c59a1dd9317019dff32eee5494b5d4fccad700"
+hash = "69fef7a3d0df54b2f553955e226abbeffb2db8e1784eb92c305eca8f76ec2a89"
 metafile = true
 
 [[files]]
@@ -1247,7 +1247,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
+hash = "67b9869a6115164afaa3747142a4a971a09789b6d89d2451888ab31d7ab5bfb8"
 metafile = true
 
 [[files]]
@@ -1267,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/shrimple.pw.toml"
-hash = "49e6dfd941f8111e02f515b314516dfaddf70b9410429330e56ef69828d31394"
+hash = "5278e03c761883c72be4f3afb5c06119e2cfc333ed80a1608734d922e070619f"
 metafile = true
 
 [[files]]

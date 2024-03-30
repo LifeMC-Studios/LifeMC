@@ -49,8 +49,10 @@ show_menu() {
     echo "2. 1.19.4"
     echo "3. 1.20.1"
     echo "4. 1.20.2"
-    echo "5. All versions"
-    echo "6. Close"
+    echo "5. 1.20.4"
+    echo "6. 1.20.5"
+    echo "7. All versions"
+    echo "8. Close"
     echo -e "\e[0m"
 }
 
@@ -93,6 +95,12 @@ while true; do
             update_modpack "1.20.2"
         ;;
         5)
+            update_modpack "1.20.4"
+        ;;
+        6)
+            update_modpack "1.20.5"
+        ;;
+        7)
             echo -e "\e[32m"
             echo "You have selected All versions"
             echo -e "\e[0m"
@@ -101,8 +109,10 @@ while true; do
             update_modpack "1.19.4"
             update_modpack "1.20.1"
             update_modpack "1.20.2"
+            update_modpack "1.20.4"
+            update_modpack "1.20.5"
         ;;
-        6)
+        8)
             echo -e "\e[31m"
             echo "Closure..."
             echo -e "\e[0m"

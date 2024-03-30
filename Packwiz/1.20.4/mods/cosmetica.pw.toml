@@ -1,0 +1,13 @@
+name = "Cosmetica"
+filename = "cosmetica-1.20.4-1.2.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s9hF9QGp/versions/vxwA3Qjc/cosmetica-1.20.4-1.2.8.jar"
+hash-format = "sha1"
+hash = "b5b80bcb0e389b86719c2a5e7e22b3fc0212a2f1"
+
+[update]
+[update.modrinth]
+mod-id = "s9hF9QGp"
+version = "vxwA3Qjc"

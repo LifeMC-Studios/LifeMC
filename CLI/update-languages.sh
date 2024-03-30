@@ -3,6 +3,9 @@
 # Define the Packwiz modpack directory
 packwiz_dir="../Packwiz"
 
+# Define the common resource folder
+resources_dir="../Crowdin/lang/"
+
 # Function to display the script's introduction
 show_intro() {
     clear
@@ -44,31 +47,37 @@ loading_animation() {
 # Function to display the version selection menu
 show_menu() {
     echo -e "\e[34m"
-    echo "Which version would you like to update?"
+    echo "Which version do you want to update the languages to?"
     echo "1. 1.18.2"
     echo "2. 1.19.4"
     echo "3. 1.20.1"
     echo "4. 1.20.2"
-    echo "5. All versions"
-    echo "6. Close"
+    echo "5. 1.20.4"
+    echo "6. 1.20.5"
+    echo "7. All versions"
+    echo "8. Close"
     echo -e "\e[0m"
 }
 
-# Function to update the modpack for the selected version
-update_modpack() {
+# Function to update resources for the selected version
+update_languages() {
     local selected_version="$1"
+    
+    # Target directory for the selected version
+    local version_dir="$packwiz_dir/$selected_version/config/yosbr/config/resources/minecraft/lang/"
     echo -e "\e[32m"
-    echo "You have selected: $selected_version"
+    echo "You have selected $selected_version"
     echo -e "\e[0m"
     sleep 1
-    cd "$packwiz_dir/$selected_version"
     
-    # Update the modpack
-    pw update --all -y &
+    # Copying resources to the selected version
+    cp -r "$resources_dir"/* "$version_dir" &
+    cd "$packwiz_dir/$selected_version"
+    pw refresh &
     loading_animation $!
     cd -
     echo -e "\e[32m"
-    echo "Modpack update completed!"
+    echo "Copying of all languages completed!"
     echo -e "\e[0m"
     sleep 1
 }
@@ -81,28 +90,36 @@ while true; do
     
     case "$choice" in
         1)
-            update_modpack "1.18.2"
+            update_languages "1.18.2"
         ;;
         2)
-            update_modpack "1.19.4"
+            update_languages "1.19.4"
         ;;
         3)
-            update_modpack "1.20.1"
+            update_languages "1.20.1"
         ;;
         4)
-            update_modpack "1.20.2"
+            update_languages "1.20.2"
         ;;
         5)
+            update_languages "1.20.4"
+        ;;
+        6)
+            update_languages "1.20.5"
+        ;;
+        7)
             echo -e "\e[32m"
             echo "You have selected All versions"
             echo -e "\e[0m"
             sleep 1
-            update_modpack "1.18.2"
-            update_modpack "1.19.4"
-            update_modpack "1.20.1"
-            update_modpack "1.20.2"
+            update_languages "1.18.2"
+            update_languages "1.19.4"
+            update_languages "1.20.1"
+            update_languages "1.20.2"
+            update_languages "1.20.4"
+            update_languages "1.20.5"
         ;;
-        6)
+        8)
             echo -e "\e[31m"
             echo "Closure..."
             echo -e "\e[0m"
@@ -117,12 +134,6 @@ while true; do
         ;;
     esac
     
-    echo
-done
-
-# > All rights reserved. © 2021-2024 LifeMC Studios
-    esac
-
     echo
 done
 
