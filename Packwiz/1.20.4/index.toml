@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3de6a9a87321ef09485badfc733966fda3913dd0781f32f97ef534acc6e4c3fb"
+hash = "78b224bef2d831a703e9ae10047f036966c6f77cfd658d83e9b5e63046773caa"
 
 [[files]]
 file = "config/lifemc.json"
@@ -805,16 +805,6 @@ hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
-file = "mods/audio-extension-for-fancymenu.pw.toml"
-hash = "da99376b9cdf1e7160f837583b184c5899f062d1b0f4665c4b35412c316c39e6"
-metafile = true
-
-[[files]]
-file = "mods/auudio.pw.toml"
-hash = "e8504c09fc7466033c4aa815bfc4a7002915c132c4e45d68e7d861263a13be72"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -1042,6 +1032,11 @@ metafile = true
 [[files]]
 file = "mods/map-compass.pw.toml"
 hash = "1b0fd9f7679f73e360b983cc0c15f42b8ff130c4cdabafa72e6ec96028d2fcd5"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
