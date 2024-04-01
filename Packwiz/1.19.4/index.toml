@@ -86,11 +86,11 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "76ec4be1ba6a677b18f2467d4749754c2a747d151d4bcfe83966162498d716e0"
+hash = "486eb2079a1bc636635a8fb3e054e7539ad7fec3e687e06fb433347b819e608d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "6c037103c1d9f24b8f9fbd17117900331e80f869839eee8f2462074d36d1932e"
+hash = "c15a0ac5dff49e682f933866f224f82bc321df871079289913b734383db64c93"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
@@ -102,11 +102,11 @@ hash = "ebc6d5de39b35eb16842b202e88e1ef4afc1eb32017d08b1962b2cf2bda69dd7"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "1ad39c4d4742a845e1602931442f83f3e31095fca9340edd8f6d5d5a3d7cd5e7"
+hash = "c6ee0bb5680c5846c542f530377e8af5d1175600fd5488609f5f7bcf5a001995"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "733ef536fc77bc885e7a5a04f39fd17caa2a136b889e5f2e29aa7558c3acbe70"
+hash = "7cf96e2182b318431fbd69822f6439ce6e5110d47c915180c961b0e4aeb1d1e1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.txt"
@@ -131,6 +131,62 @@ hash = "24ff86a3227385ab97e7136e6fcc30857ba386ff9222fc8d81b9f354878ecfaa"
 [[files]]
 file = "config/yosbr/config/fancymenu/minecraftwindow/icons/icon32x32.png"
 hash = "6b11a865b16cb91668544699c84f32f7e8fa1f5b155b0b30cbfdead97617b174"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_0.png"
+hash = "163697497db84f47dec644f2a7f40001dc56545f75c09339ec16d95b95365d69"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_1.png"
+hash = "c5dbb67c46f0320231689dc3e1b180e3d259afc647e2a405d1f4e69bdc5c0d95"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_2.png"
+hash = "fbe4ca37aa38cb84eff565028cc0a433b3eb1a916aadd7be81b31330060ba19f"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_3.png"
+hash = "d4c4e936c081edaaf222f70d50766a3fc602906f32fb80c80f791df9f0ff7303"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_4.png"
+hash = "4357f9abd15f61c834a8733542f46dfdf11eaa57e581ffb6941cc349b38673ff"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_5.png"
+hash = "464774286fc3f57d948864efc05e1f1c3794f40df2be1f4b439f5b2f8c3ef20f"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/properties.txt"
+hash = "452eb4a8bea6d3bee52eded4301414baa74de3e1c6d63b19fead8f2836efa9aa"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_0.png"
+hash = "81d52039098c7b45ec0b1d6280b03199f6d9967babea7283c4732cbb00160281"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_1.png"
+hash = "49c33e224db8a10405c4e69d47ac3dd03461f1453a7579c4139e8ff53bb97b5f"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_2.png"
+hash = "a7193e7e4702c3c54e9fc339d72fb1d56a6ff6a9bc267b74143c94af5298c297"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_3.png"
+hash = "a85cbd503a9abf3d2b67bb577156b141ee22c0c15fb25856a44aad9b059e6460"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_4.png"
+hash = "77c035f42e28d616fbb6e70b190fdf59390041a876577f8f966eff9e4515f132"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_5.png"
+hash = "c327223d8da91e0d1bedb73bc95557d1856cc7d6074c8394deb5d52175b984d9"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/properties.txt"
+hash = "732cbd580784441461aa430ff2bd45421a20daefabc50e5caa5377f3489b1ce0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/user_variables.db"
@@ -847,7 +903,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "eb6cb8a8cde5c16bfe3c1f14353f362bc857621a9703579ff9aac154c8c975e9"
+hash = "ee22c2ce83b4fad6231b3a3004751a6ef66d093b7e1fe0436210c54ead71e68a"
 metafile = true
 
 [[files]]
@@ -872,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
-hash = "7656e6a251bde9caad4f498019631b8080e72019198fbfa825aed1de435795c4"
+hash = "3031ef1f53254993532cb4570b8862b770947db0d54eb0c3cc578ed3ae0cf8b2"
 metafile = true
 
 [[files]]
