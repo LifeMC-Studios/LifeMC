@@ -426,11 +426,11 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "9876e9944d8d2364637148f1693fdc495ca397cdb306795b836127a8c9749af8"
+hash = "95d34f8da0499c52b85d741a2398087d5799d4090c1a9e4b9b12fdaefa488ebb"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "e0ab6d18200b696a606c8109da3efb1848bb9974ffe53c23ad772d225529be06"
+hash = "0ace9c4cb3ac9d846c3c9b920d83f173db42200459bbcc5e9a5012ccb251c7f1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
@@ -442,11 +442,11 @@ hash = "0d32b8860b55002ad346dd267489bc33b84a7e27e2caf16c8a749e2f1c32b7a5"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "5459e9162841c8d77e09f64a28c68d3489b1926cc3ca6bf30abf50d382a0734b"
+hash = "7a9c42a69c883863e4d16d12e017007ff0496bf26c05df148e225f90251a4020"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "9bc9ce3c98312d9e6f476a4131b1ca6c153b1de87382643b34ee57eaa41be88a"
+hash = "cfb5a6cf41c09ae2d1da3f60b659390365e3898fb3ab0bdaf03d507fcd96572c"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.txt"
@@ -459,6 +459,62 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 [[files]]
 file = "config/yosbr/config/fancymenu/options.txt"
 hash = "57d4e2bf31c1077ae89990614540427e6b3fbc834e43126acc3e5decd078e4b7"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_0.png"
+hash = "f821e1b623811e9f227b631b97e4c1405868f3fb6e0c46a0f24b877a00682b5f"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_1.png"
+hash = "f9cfb31dd0fd7eeeffc1be91b3636f9c81b8ab1f01b1408f18449c7afbfc157d"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_2.png"
+hash = "a37a284534002e47bd5dca6a02649ffc096c14b1a578f94a980beb7bea391686"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_3.png"
+hash = "45448c4d4ede829bcb8081a344239486bc84335b173d63ce5e0e528b742c6ae1"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_4.png"
+hash = "9c161d0947c46fe66f351137956a1651b8452dd26dc3b85e2953b99b02962434"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_5.png"
+hash = "207b8c5fd09525263f2c2e05be96671581ef1e3f7d23c47ee3ab5146188d52fb"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/properties.txt"
+hash = "452eb4a8bea6d3bee52eded4301414baa74de3e1c6d63b19fead8f2836efa9aa"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_0.png"
+hash = "5c70315d8cde1763cf3061160013645594fa48ccee52375188cea5fca27f6f80"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_1.png"
+hash = "8016991d7bf62786ef3bf891109ac1d5a4db6b7db7f05f759fc4424f81d3c567"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_2.png"
+hash = "bc9ef6b12b5f814f109dfad3947d4348d028b583b25ed990aff392a6afbea028"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_3.png"
+hash = "f284c1460c7dccac623546f0a5481a2e419817bc25e32c13cd00b612a55054d3"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_4.png"
+hash = "d4784eec916d74b09eb98be46923d3238062d88dc6d910ba076b6c74181c26cc"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_5.png"
+hash = "234481e6152f66eec543bbe126a7f38248d55ac9f9f2fc302b9f042a38bc7699"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/properties.txt"
+hash = "732cbd580784441461aa430ff2bd45421a20daefabc50e5caa5377f3489b1ce0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/ui_themes/dark.json"
