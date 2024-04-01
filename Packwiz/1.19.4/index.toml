@@ -886,11 +886,6 @@ hash = "087cd9e4abcf36693938e9243916064bde52ab9885251e7d11b40a7f24569542"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "c6b4f2b23f37dcbbc8ca75ee87e8dd5942a50f244a6d2627de7cd58a2c191fbc"
-metafile = true
-
-[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "99b1060fa083ca355f35f09fe02ef04832a313cff855de8522fd1766164e0082"
 metafile = true
@@ -973,11 +968,6 @@ metafile = true
 [[files]]
 file = "mods/imblocker-original.pw.toml"
 hash = "1bd36bfd8b36da2d969f488ee0e2f8a0316f504091cd98f87b720347fb60b69f"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "4bd4f88209c599cfa23510f4c10e0c8246cd92f5286861b97783592ab1da05a3"
 metafile = true
 
 [[files]]
