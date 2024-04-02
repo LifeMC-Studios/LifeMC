@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3de6a9a87321ef09485badfc733966fda3913dd0781f32f97ef534acc6e4c3fb"
+hash = "3e348e96775f2c50ba14b6809d4e176658ed3f40b674881ad0bedaa9da5ac230"
 
 [[files]]
 file = "config/lifemc.json"
-hash = "98f23e6c5975fa9a6b148020009345c312df01c09220b8ca2d02ebf62e0c1b6d"
+hash = "1de4297d00423d1c5f270ab2aee801145c5f2de30add7a9287b2f6750d141864"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
@@ -426,11 +426,11 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "9876e9944d8d2364637148f1693fdc495ca397cdb306795b836127a8c9749af8"
+hash = "95d34f8da0499c52b85d741a2398087d5799d4090c1a9e4b9b12fdaefa488ebb"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "e0ab6d18200b696a606c8109da3efb1848bb9974ffe53c23ad772d225529be06"
+hash = "0ace9c4cb3ac9d846c3c9b920d83f173db42200459bbcc5e9a5012ccb251c7f1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
@@ -442,11 +442,11 @@ hash = "0d32b8860b55002ad346dd267489bc33b84a7e27e2caf16c8a749e2f1c32b7a5"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "5459e9162841c8d77e09f64a28c68d3489b1926cc3ca6bf30abf50d382a0734b"
+hash = "7a9c42a69c883863e4d16d12e017007ff0496bf26c05df148e225f90251a4020"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "9bc9ce3c98312d9e6f476a4131b1ca6c153b1de87382643b34ee57eaa41be88a"
+hash = "cfb5a6cf41c09ae2d1da3f60b659390365e3898fb3ab0bdaf03d507fcd96572c"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.txt"
@@ -459,6 +459,62 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 [[files]]
 file = "config/yosbr/config/fancymenu/options.txt"
 hash = "57d4e2bf31c1077ae89990614540427e6b3fbc834e43126acc3e5decd078e4b7"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_0.png"
+hash = "163697497db84f47dec644f2a7f40001dc56545f75c09339ec16d95b95365d69"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_1.png"
+hash = "c5dbb67c46f0320231689dc3e1b180e3d259afc647e2a405d1f4e69bdc5c0d95"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_2.png"
+hash = "fbe4ca37aa38cb84eff565028cc0a433b3eb1a916aadd7be81b31330060ba19f"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_3.png"
+hash = "d4c4e936c081edaaf222f70d50766a3fc602906f32fb80c80f791df9f0ff7303"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_4.png"
+hash = "4357f9abd15f61c834a8733542f46dfdf11eaa57e581ffb6941cc349b38673ff"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_5.png"
+hash = "464774286fc3f57d948864efc05e1f1c3794f40df2be1f4b439f5b2f8c3ef20f"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/dark/properties.txt"
+hash = "452eb4a8bea6d3bee52eded4301414baa74de3e1c6d63b19fead8f2836efa9aa"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_0.png"
+hash = "81d52039098c7b45ec0b1d6280b03199f6d9967babea7283c4732cbb00160281"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_1.png"
+hash = "49c33e224db8a10405c4e69d47ac3dd03461f1453a7579c4139e8ff53bb97b5f"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_2.png"
+hash = "a7193e7e4702c3c54e9fc339d72fb1d56a6ff6a9bc267b74143c94af5298c297"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_3.png"
+hash = "a85cbd503a9abf3d2b67bb577156b141ee22c0c15fb25856a44aad9b059e6460"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_4.png"
+hash = "77c035f42e28d616fbb6e70b190fdf59390041a876577f8f966eff9e4515f132"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/panorama/panorama_5.png"
+hash = "c327223d8da91e0d1bedb73bc95557d1856cc7d6074c8394deb5d52175b984d9"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/light/properties.txt"
+hash = "732cbd580784441461aa430ff2bd45421a20daefabc50e5caa5377f3489b1ce0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/ui_themes/dark.json"
@@ -778,7 +834,7 @@ hash = "7274b750a9257a7134915f43a4ea29554e44e77e36fe7f1d9c0d2e91cf2ed6ab"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "303f12e948cb49591e041d061744beedd1224bdec29a0095ad4060255a9645b9"
+hash = "f90e00b95946ee1675ae33f199c4faf3e41b654f74fc2c6e66de04e8759656f0"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -805,23 +861,13 @@ hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
-file = "mods/audio-extension-for-fancymenu.pw.toml"
-hash = "da99376b9cdf1e7160f837583b184c5899f062d1b0f4665c4b35412c316c39e6"
-metafile = true
-
-[[files]]
-file = "mods/auudio.pw.toml"
-hash = "e8504c09fc7466033c4aa815bfc4a7002915c132c4e45d68e7d861263a13be72"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "ba323f0fd2157073c090535471b947e52204088c52523c08df88a93340c6d682"
+hash = "51a6cd5546888bff48efeb1721ca4bd7d43652d12106e7b5518a784964fd1c4f"
 metafile = true
 
 [[files]]
@@ -851,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "0bc1aaea2e65a92777e44bdac60def232a39efe642c453ec290ec14e6a266bf6"
+hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
 metafile = true
 
 [[files]]
@@ -871,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6b194262129acc2b899cc417034a12ec896bf83f6f52d7a2f86c0aa504375d0c"
+hash = "4b76308c338df7554b2849b2a4c1b951ecc9a208f19f9b9b8c792034259c152b"
 metafile = true
 
 [[files]]
@@ -891,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "60d43521b68e4639ad7e258a8d10759e70a22e543aa0050727283a848466d0b9"
+hash = "b42f1dc7a2d11031a7b296055ac7e32637be00e7d52cd37254a8b500a5afcb7b"
 metafile = true
 
 [[files]]
@@ -1045,6 +1091,11 @@ hash = "1b0fd9f7679f73e360b983cc0c15f42b8ff130c4cdabafa72e6ec96028d2fcd5"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "bd6d19a7233f79f0dc0330f68e20a9e2cc2baeb6c7d0f0a54f97d95a7c2020f7"
 metafile = true
@@ -1181,12 +1232,12 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "5ff3f8eb488d24fc70830b805da7a33d8fa9ffa1b45d858bf60189060c56093c"
+hash = "84760358262cc7ab63eefbaf3dc3286f2b27497e1c5a224ea3d82f80889d17d7"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7dfbf79bf874dcfdb27e4bbc92da56cdab2ffdbee459dfd2eee5a57dacb59ed2"
+hash = "d5fa0e898cb2233b7928c1b6109d041e3f0a507bdbdca6aefabbb4462044d9c6"
 metafile = true
 
 [[files]]
@@ -1271,7 +1322,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "a3428a3954ff0029d90c7184047d81c7f2091ac679e500aace22290c32010472"
+hash = "d1591fa168a7e075122ab354fe31000866ec7bbc55991d267674445cd1c4e237"
 metafile = true
 
 [[files]]

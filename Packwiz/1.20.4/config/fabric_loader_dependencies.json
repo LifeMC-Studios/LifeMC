@@ -8,7 +8,12 @@
     },
     "minecraft": {
       "+recommends": {
-        "LifeMC": ">1.0.4+1.20.4"
+        "LifeMC": ">1.0.5+1.20.4"
+      }
+    },
+    "rebrand": {
+      "-depends": {
+        "minecraft": ">=1.20.4"
       }
     }
   }

@@ -13,9 +13,14 @@ layout-meta {
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:fca46937-70a4-4944-a7e3-db07c51eecfd1683252598175] = theme:0
 }
 
+menu_background {
+  panorama_name = light
+  background_type = panorama
+}
+
 customization {
   action = backgroundoptions
-  keepaspectratio = false
+  keepaspectratio = true
 }
 
 scroll_list_customization {
@@ -121,7 +126,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 983d5e5c-870a-4f71-bb45-0847c6207abd1686852879420
@@ -176,7 +181,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = f74f3230-090e-4b05-8b08-4a6a889345c31686853468245
@@ -199,7 +204,7 @@ element {
 element {
   button_element_executable_block_identifier = ea76f356-0ba8-4c47-bba0-d5c13109a531-1711663743573
   [executable_action_instance:2954528e-a8b7-4196-896a-09f37f96da1a-1711663743573][action_type:openlink] = https://modrinth.com/modpack/lifemc/versions?g={"placeholder":"mcversion"}
-  [executable_action_instance:67613e6a-d243-42f2-9888-723eaedceed7-1711663743573][action_type:quitgame] = 
+  [executable_action_instance:67613e6a-d243-42f2-9888-723eaedceed7-1711663743573][action_type:quitgame] =
   [executable_block:ea76f356-0ba8-4c47-bba0-d5c13109a531-1711663743573][type:generic] = [executables:2954528e-a8b7-4196-896a-09f37f96da1a-1711663743573;67613e6a-d243-42f2-9888-723eaedceed7-1711663743573;]
   backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-update-off.light.png
   backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-update-on.light.png
@@ -209,7 +214,7 @@ element {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   description = {"placeholder":"local","values":{"key":"lifemc.btn.update"}}
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 0a82d1ec-9544-4d7e-be74-46c199c2fdfb1686853479674
@@ -298,7 +303,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = d73d6d1f-fa3d-48d0-b626-b38f84e884e81694290337336
@@ -329,7 +334,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 011d6472-0a49-4ea4-a3d7-cb51da5a32e91694290355466
@@ -360,7 +365,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 17f6b09b-ce6d-49c3-9796-3aca6c90c9be-1711752895035
@@ -456,7 +461,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = modmenu_titlescreen_mods_button
@@ -523,7 +528,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = 376382
@@ -592,7 +597,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = 628382
@@ -627,7 +632,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_options_button
@@ -694,7 +699,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_quit_button

@@ -10,10 +10,14 @@ customization-meta {
 }
 
 customization {
-  keepaspectratio = false
-  action = backgroundoptions
+  name = light
+  action = setbackgroundpanorama
 }
 
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
   orientation = bottom-right

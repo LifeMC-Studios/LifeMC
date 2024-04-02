@@ -13,9 +13,14 @@ layout-meta {
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:fca46937-70a4-4944-a7e3-db07c51eecfd1683252598175] = theme:1
 }
 
+menu_background {
+  panorama_name = dark
+  background_type = panorama
+}
+
 customization {
   action = backgroundoptions
-  keepaspectratio = false
+  keepaspectratio = true
 }
 
 scroll_list_customization {
@@ -121,7 +126,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 983d5e5c-870a-4f71-bb45-0847c6207abd1686852879420
@@ -176,7 +181,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = f74f3230-090e-4b05-8b08-4a6a889345c31686853468245
@@ -199,7 +204,7 @@ element {
 element {
   button_element_executable_block_identifier = e954a0e4-40f4-4898-9025-344f4bbb2804-1711663743558
   [executable_action_instance:9d9cf298-df93-4867-b6df-2b52bbf528e8-1711663743558][action_type:openlink] = https://modrinth.com/modpack/lifemc/versions?g={"placeholder":"mcversion"}
-  [executable_action_instance:d3c29b14-6e7a-489f-a1d3-0cab6e4ea286-1711663743558][action_type:quitgame] = 
+  [executable_action_instance:d3c29b14-6e7a-489f-a1d3-0cab6e4ea286-1711663743558][action_type:quitgame] =
   [executable_block:e954a0e4-40f4-4898-9025-344f4bbb2804-1711663743558][type:generic] = [executables:9d9cf298-df93-4867-b6df-2b52bbf528e8-1711663743558;d3c29b14-6e7a-489f-a1d3-0cab6e4ea286-1711663743558;]
   backgroundnormal = [source:local]config/fancymenu/assets/buttons/dark/lifemc-btn-update-off.dark.png
   backgroundhovered = [source:local]config/fancymenu/assets/buttons/dark/lifemc-btn-update-on.dark.png
@@ -209,7 +214,7 @@ element {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   description = {"placeholder":"local","values":{"key":"lifemc.btn.update"}}
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 0a82d1ec-9544-4d7e-be74-46c199c2fdfb1686853479674
@@ -298,7 +303,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 009daf3e-e82f-485c-abb7-f884c89df4331694264770551
@@ -329,7 +334,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 0c625b3d-e5a3-458a-bcc3-8ebebc48302f1694265191358
@@ -360,7 +365,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 4801ba41-9f49-4816-93dc-7cb982d800d3-1711733125812
@@ -458,7 +463,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = 376382
@@ -525,7 +530,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_quit_button
@@ -592,7 +597,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_options_button
@@ -627,7 +632,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = modmenu_titlescreen_mods_button
@@ -662,7 +667,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = 628382
