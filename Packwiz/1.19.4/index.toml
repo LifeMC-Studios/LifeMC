@@ -887,11 +887,6 @@ hash = "8f39c1f9a2a5856bc40ccfd3414f8d0e0ec90429dadf4aaf2333790bdcb727cb"
 metafile = true
 
 [[files]]
-file = "mods/boathud.pw.toml"
-hash = "48ceaab5d82bb798606cd8518ba4042f9495b027893984ed320160c36204aafa"
-metafile = true
-
-[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
 metafile = true
