@@ -62,12 +62,9 @@ element {
 
 element {
   copy_client_player = true
-  playername = Nukecraft5419
   auto_skin = false
   auto_cape = false
   slim = false
-  skin_source = Nukecraft5419
-  cape_source = Nukecraft5419
   scale = 30
   parrot = false
   parrot_left_shoulder = false
