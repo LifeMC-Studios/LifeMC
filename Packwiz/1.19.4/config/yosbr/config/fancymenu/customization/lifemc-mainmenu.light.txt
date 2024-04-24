@@ -76,6 +76,11 @@ customization {
 
 customization {
   identifier = %id=628382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=628382%
   orientation = bottom-left
   x = 72
   action = movebutton
@@ -92,7 +97,7 @@ customization {
 customization {
   identifier = %id=628382%
   action = setbuttonlabel
-  value =
+  value = 
 }
 
 customization {
@@ -115,6 +120,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = bottom-centered
   x = -12
   action = movebutton
@@ -131,7 +141,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   action = setbuttonlabel
-  value =
+  value = 
 }
 
 customization {
@@ -154,6 +164,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = bottom-centered
   x = 53
   action = movebutton
@@ -170,7 +185,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   action = setbuttonlabel
-  value =
+  value = 
 }
 
 customization {
@@ -193,6 +208,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = bottom-centered
   x = -44
   action = movebutton
@@ -209,7 +229,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = setbuttonlabel
-  value =
+  value = 
 }
 
 customization {
@@ -263,6 +283,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   orientation = bottom-centered
   x = 20
   action = movebutton
@@ -279,7 +304,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   action = setbuttonlabel
-  value =
+  value = 
 }
 
 customization {
@@ -380,6 +405,7 @@ customization {
   capeurl = http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933
   action = custom_layout_element:fancymenu_customization_player_entity
   actionid = f93cc07f-eba7-4004-b4c6-dff827f31bc41686852497416
+  playername = Nukecraft5419
   delayappearance = true
   bodyrotationx = 0.0
   bodyrotationy = 0.0
@@ -406,7 +432,7 @@ customization {
   delayappearanceseconds = 1.0
   buttonaction = openlink;https://discord.com/invite/XRcdUqrY9R%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-discord-on.light.png
-  label =
+  label = 
   loopbackgroundanimations = true
   fadein = true
   fadeinspeed = 1.0
@@ -431,7 +457,7 @@ customization {
   width = 130
   action = addtexture
   actionid = 94ca028e-47bf-48d4-a288-b70d208b55931686853321724
-  y = 50
+  y = 10
   delayappearance = true
   delayappearanceeverytime = false
   height = 130
@@ -442,8 +468,8 @@ customization {
   restartbackgroundanimations = true
   delayappearanceseconds = 1.0
   buttonaction = set_variable;theme:1%btnaction_splitter_fm%
-  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-dark-theme-on.light.png
-  label =
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-theme-on.light.png
+  label = 
   loopbackgroundanimations = true
   fadein = true
   fadeinspeed = 1.0
@@ -453,7 +479,7 @@ customization {
   actionid = f74f3230-090e-4b05-8b08-4a6a889345c31686853468245
   y = -45
   delayappearance = true
-  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-dark-theme-off.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-theme-off.light.png
   delayappearanceeverytime = false
   height = 24
 }
@@ -466,7 +492,7 @@ customization {
   buttonaction = openlink;https://modrinth.com/modpack/lifemc/versions?g={"placeholder":"mcversion"}%btnaction_splitter_fm%quitgame%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-update-on.light.png
   description = {"placeholder":"local","values":{"key":"lifemc.btn.update"}}
-  label =
+  label = 
   loopbackgroundanimations = true
   fadein = true
   fadeinspeed = 1.0
@@ -536,7 +562,7 @@ customization {
   delayappearanceseconds = 1.0
   buttonaction = openlink;https://github.com/LifeMC-Studios/LifeMC/issues%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-report-bug-on.light.png
-  label =
+  label = 
   loopbackgroundanimations = true
   fadein = true
   fadeinspeed = 1.0
@@ -556,8 +582,8 @@ customization {
   restartbackgroundanimations = true
   delayappearanceseconds = 1.0
   buttonaction = openlink;https://github.com/LifeMC-Studios/LifeMC/blob/main/CONTRIBUTING.md%btnaction_splitter_fm%
-  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-donation-on.light.png
-  label =
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-contribution-on.light.png
+  label = 
   loopbackgroundanimations = true
   fadein = true
   fadeinspeed = 1.0
@@ -567,7 +593,112 @@ customization {
   actionid = 011d6472-0a49-4ea4-a3d7-cb51da5a32e91694290355466
   y = -59
   delayappearance = true
-  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-donation-off.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-contribution-off.light.png
+  delayappearanceeverytime = false
+  height = 24
+}
+
+customization {
+  orientation = bottom-left
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
+  buttonaction = mimicbutton;net.minecraft.class_442:628382%btnaction_splitter_fm%
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-screenshot-menu-on.light.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 72
+  width = 24
+  action = addbutton
+  actionid = e2f18015-8af5-422b-a3d4-091fcd8176221713534946098
+  y = -59
+  delayappearance = true
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-screenshot-menu-off.light.png
+  delayappearanceeverytime = false
+  height = 24
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_language_button%btnaction_splitter_fm%
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-lang-mainmenu-on.light.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = -44
+  width = 24
+  action = addbutton
+  actionid = e9cf76b4-c20d-4aa3-ab11-e0a23d80c7601713555650365
+  y = -43
+  delayappearance = true
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-lang-mainmenu-off.light.png
+  delayappearanceeverytime = false
+  height = 24
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_options_button%btnaction_splitter_fm%
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-settings-on.light.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = -12
+  width = 24
+  action = addbutton
+  actionid = bf8e86ac-6c50-45b3-beab-0a6b392f2d861713555732785
+  y = -43
+  delayappearance = true
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-settings-off.light.png
+  delayappearanceeverytime = false
+  height = 24
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
+  buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:modmenu_titlescreen_mods_button%btnaction_splitter_fm%
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-mods-on.light.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 20
+  width = 24
+  action = addbutton
+  actionid = a407e18d-bea3-43cf-a6b7-49e80951bbb61713555804817
+  y = -43
+  delayappearance = true
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-mods-off.light.png
+  delayappearanceeverytime = false
+  height = 24
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
+  buttonaction = quitgame;net.minecraft.class_442:button_compatibility_id:modmenu_titlescreen_mods_button%btnaction_splitter_fm%
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-close-on.light.png
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 53
+  width = 24
+  action = addbutton
+  actionid = d835ff71-1488-4089-9d90-d4cb50300ced1713555841051
+  y = -43
+  delayappearance = true
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-close-off.light.png
   delayappearanceeverytime = false
   height = 24
 }
