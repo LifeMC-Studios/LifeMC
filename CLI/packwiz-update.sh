@@ -47,8 +47,6 @@ show_menu() {
     echo "Which version would you like to update?"
     echo "1. 1.18.2"
     echo "2. 1.19.4"
-    echo "3. 1.20.1"
-    echo "4. 1.20.2"
     echo "5. 1.20.4"
     echo "6. 1.20.5"
     echo "7. All versions"
@@ -87,12 +85,6 @@ while true; do
         ;;
         2)
             update_modpack "1.19.4"
-        ;;
-        3)
-            update_modpack "1.20.1"
-        ;;
-        4)
-            update_modpack "1.20.2"
         ;;
         5)
             update_modpack "1.20.4"
