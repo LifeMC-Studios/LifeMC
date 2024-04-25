@@ -33,10 +33,6 @@ file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "151c2f7d5c2ca2836a98093f0328ad32970ed71610f2b450707b3b2fdd1c3c6b"
 
 [[files]]
-file = "config/yosbr/config/borderlessmining.json"
-hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
-
-[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
@@ -78,27 +74,27 @@ hash = "8e5bc3b2bc75fa0c497e7d9c935b6b39b8b0bf2a4959a540282464efcabdc404"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/config.txt"
-hash = "bf1446e04901bfa69f0c39aafa4fbb6e9d95e5913fe48fdf019f42c54a6ad73c"
+hash = "57a3e28e2c19150a3ec629b386f38d625945b05a9ecf3d2481c2d4e28ab9123d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customizablemenus.txt"
-hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
+hash = "e9317c2934e6a086ecd78c64d688a453227b1c4532bf68eea306601887afa1b1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "e0fb60e21140a197eecb3eec14452fd19f5f95009d42ce731870687eed542742"
+hash = "9ae220ae8785b9c9b048e21f6e1f7c1f31cdd85f081a63abbfe20768101a5844"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "18d41ab566e54001ae274e5ca02024733bcfabf126dd5fb64ce9a519444acc0c"
+hash = "d9e51c2868b9fd9d96a3a99b4a0ca162591b91befc728f550a8772f665e079ca"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "f6eddb4292a00b48da664c93d72780183f66de5beedb99502157818de765e2b0"
+hash = "8b2bbb8c23d9668182d883478d591df0a1efc4c776816ee6d67c0654954c7d7f"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "2a51d4e4c254e8d2c5da0df5e7e31ed0dfa60a2cb77b8e1778ab9f2019cfc247"
+hash = "d7d74adfb25c6e9a4bd67cb0c6f1156117bb0062a4e7d79130cc5753c0f376cf"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
@@ -109,8 +105,12 @@ file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
 hash = "1c0570f39b0854a9fb571cc4f8fdd27eb69bf2f38b5a49318c584a795de42a40"
 
 [[files]]
-file = "config/yosbr/config/fancymenu/customization/lifemc-startup.txt"
-hash = "3ac51612c789ca9f217c89f6e9ef6f51189d24f9f01f89a1f095e5c2ca2a97ca"
+file = "config/yosbr/config/fancymenu/customization/lifemc-startup.dark.txt"
+hash = "0a8b89281b8fae73df17e873a721e4a01ed9eab2d54eb409f42c4b4b1fd0bc97"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/lifemc-startup.light.txt"
+hash = "1b8eac20b30aa44a53cb41edc954395487af9cd9a2a6247ae8ab370b82857554"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/extensions/fmaudio/config.cfg"
@@ -119,6 +119,34 @@ hash = "f3e260206c13bf58788b0572f453f95a3b7c67066dbf85f1a1118c1126d11d62"
 [[files]]
 file = "config/yosbr/config/fancymenu/extensions/fmaudio/locals/en_us.local"
 hash = "6a2de605aaf07a8f635d9df3b589ff2162fbef2f26eb73dbd17d894c0d261349"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/en_us.local"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/menu_identifiers.db"
@@ -190,7 +218,7 @@ hash = "732cbd580784441461aa430ff2bd45421a20daefabc50e5caa5377f3489b1ce0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/user_variables.db"
-hash = "992dc06f1c250c4d1d2586674eaa44f0cc1c70e98e3a977e6f9c76ea07236a46"
+hash = "431e2830baad1fb09a2bd883d3ff10d041365ffebda1393a7e5b34009e8f20a9"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -948,6 +976,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "3031ef1f53254993532cb4570b8862b770947db0d54eb0c3cc578ed3ae0cf8b2"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "30838e885da70fc5bcfa8ab865a72895adfa3f617ce9284b26f0e340a59979f0"
 metafile = true
 
 [[files]]
