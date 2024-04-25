@@ -458,11 +458,11 @@ hash = "171dbe289c90769acadfef242fb168902f4203aa99274781e546dd93ae21673e"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "da0079d56c20d662756fd7dc74eda52709e4d2f8fb44939a0336ec0b656ed474"
+hash = "afb7e6b9718eb1720cac6d443ef6a077825e85d63902a5460332cd3aa0330c02"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "a6b0a63b57a9938596449a2d4c3c0df17acb7a43aa4dff4d06df5080c6c47da5"
+hash = "69d1d62e54430b9cdcb62ef873d027017f9e3e544761dc02b495dc668f0f7a70"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
@@ -1180,6 +1180,11 @@ metafile = true
 [[files]]
 file = "mods/paperdoll.pw.toml"
 hash = "2b8aee95d9a1a876d428f05594acdddfc72ea3ac7fa64843e40a61cad712799d"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "3d893dfadfa820f509be9d34f6f302f31a89e824f522e5957e609985de35c591"
 metafile = true
 
 [[files]]

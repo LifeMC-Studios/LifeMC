@@ -434,27 +434,27 @@ hash = "ad0fbbe867026bd91901bb9e0304a3d32e03a49273e9139a423fdcee4b9230c5"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "40792c5ad50c39f46c56f62c1958e634c47b050188a23640d224183c0e363c62"
+hash = "33a76b39bd6dd9c86024f876f8971010a3c0609d9b66f0ceff2a6c9716b419b6"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "c7a43e69e6b91a94884fbe0054c6fdea945ef82d6a4a316b02b2ba6b5cfee8f4"
+hash = "7f6e3fd5bf893379185013c2f75909892a9ba68d057b2c609595d1db63d45fd1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "33352e6d844e9b99bf34d2559feecddf887b0144dd1be46455511a8f06318071"
+hash = "463bca6382d08c0c21d197c8412c9b129cda1dd419b91a30760f18e77e504377"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "c869c5130395ccccc15a88deb1669a1db197ba49fd721ab2163453be60190722"
+hash = "7c9827c7e5b15e3f5c379ac221881cd03bbebdd337831dfc3bbd564508378806"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "bb670633d06d63a0d70eeead3ca6c7e7ecd79a53c6e80ff5f75976a6e154c0ba"
+hash = "c4cd0c59da39ec2617f8b63ae25cc880542f8bf7bce78bfa4e80b4d43296e1d3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "bd6a2898891b3ab127fec48c670ad39a83bc600ea90403b34ce623ae7e2d0427"
+hash = "ec258eabc0d2ffa54d3b49ec969778e7623c031209688027d1a197c23eca3330"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.dark.txt"
@@ -463,6 +463,10 @@ hash = "7f90e2cc95005b98c0bbd8b7a8dc135b0d9ee1bc9d616bf76b87b63c4431d407"
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.light.txt"
 hash = "aefa7ed9ff546ef3b23112b2db231eeee836845a6cf577b1714428407524b1f6"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/legacy_checklist.txt"
@@ -1153,6 +1157,11 @@ metafile = true
 [[files]]
 file = "mods/paperdoll.pw.toml"
 hash = "630bc0c797c47e5205ac79401d31aae08d73dad01868d159820e58d866a4641e"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "b01bcb1058a07dc53e801d8529a9a94ee51189577d3c9dc0efb2d7bc766fa703"
 metafile = true
 
 [[files]]
