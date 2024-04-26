@@ -866,7 +866,7 @@ hash = "a221c915e5f4b26bfac5a22f85fc8f888deedc30ad7d4158301e6c5fdcb48cbb"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a963abcf7e87e626b30520ba3bf3357b5390eb37e6c7431a028dde88c00c2218"
+hash = "a296a8a5aae6a7a4dfdc792a6f24e531fe7ce8ddf1cbb03a977d3850d310267f"
 metafile = true
 
 [[files]]
@@ -946,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
-hash = "66369fe706dda932873b93826233a3415200f53599329a58ed5bb5c2b6e8b15a"
+hash = "65fffd1bd781eb0fc3ec6e0d98117c882116b8b33f3a77b7db8bd4125f5c798b"
 metafile = true
 
 [[files]]
@@ -961,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "2fbbcfe805c02f2f7529f78a29a2cbe509a71499022ffbeeae3ae8190807692c"
+hash = "5504d683b26ab5417ab8960fc1de90642943fa6749e2df353b83555c5a86a76b"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8243d7c6cd687b33ba4ff61fef8c2d4d22c3c6b285169975bdf0caaeafe688ba"
+hash = "fb2c4c5e71a3b55e97699bcc806e123fecc91367f6a77dd00b079f00fe52eb5f"
 metafile = true
 
 [[files]]
@@ -1016,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "c1daf94de80784870eb7b0180e87d8c6e20353d3cc42e8fa635011fce72d8632"
+hash = "f07b4524f0edbc5d00d2406a4483ba7247fc6ad2ab6f163c85d63c3f8ba11f0f"
 metafile = true
 
 [[files]]
@@ -1126,7 +1126,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5f5eb1fa693c88b2b9581c31bed06ac10be5be71b22d8a6fa65af06f1a69378a"
+hash = "00f45b44a9ea99e24445aa430df43e1ca339d488939fef16c6cb87d6b05b63d4"
 metafile = true
 
 [[files]]
@@ -1141,7 +1141,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ccb964a4a0eb6b046c908fea40a6756dfda274b995eaf0a6907c884bb3997f16"
+hash = "e091e4504eee68faf2a596a85f63e13aa18c06ff87ee6908ad3fd5d465cf4169"
 metafile = true
 
 [[files]]
@@ -1186,7 +1186,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "82e1b3d47f447e52c59d7a606da28647addd9181df43e2a5fe7ebfec172b005d"
+hash = "5da67c7cfa184136f6497333901c78261c6912d1497bac1df94df8560500cea9"
 metafile = true
 
 [[files]]
@@ -1251,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "accd32e3965f04fadc1fc87199005c5e5788253fbed617c29a28284fff4fc84f"
+hash = "b62ee11265b72c1389f5b6a05a60f4f69ce0ab75f221e3476a42b1e94600c44f"
 metafile = true
 
 [[files]]
@@ -1271,7 +1271,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "69fef7a3d0df54b2f553955e226abbeffb2db8e1784eb92c305eca8f76ec2a89"
+hash = "d763db86e1f8e7363ef4822ed187ee7bf3baf383bb7ccc4ffffc9bd6a6f2476a"
 metafile = true
 
 [[files]]
@@ -1286,7 +1286,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pixlli.pw.toml"
-hash = "d8c25ec29d0bb6ce3408fe16748d9a184ca67d04fd3af2ce7ce306eca5385af6"
+hash = "134db76b877c7087f8c57ee97e2640a38db61166e950dcb5ab52b06d23353bc8"
 metafile = true
 
 [[files]]
