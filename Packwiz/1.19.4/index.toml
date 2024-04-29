@@ -33,6 +33,10 @@ file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "151c2f7d5c2ca2836a98093f0328ad32970ed71610f2b450707b3b2fdd1c3c6b"
 
 [[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
@@ -976,11 +980,6 @@ metafile = true
 [[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "3031ef1f53254993532cb4570b8862b770947db0d54eb0c3cc578ed3ae0cf8b2"
-metafile = true
-
-[[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "30838e885da70fc5bcfa8ab865a72895adfa3f617ce9284b26f0e340a59979f0"
 metafile = true
 
 [[files]]
