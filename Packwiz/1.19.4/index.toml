@@ -894,7 +894,7 @@ hash = "a221c915e5f4b26bfac5a22f85fc8f888deedc30ad7d4158301e6c5fdcb48cbb"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "5266adaa56f7e459f4cbb2ccba4b83babf8b3f15621a011ea58e627e925b65a5"
+hash = "1869f392bc248b0699838ee62fdca07386db10398930a2df2d0c76384df04c61"
 metafile = true
 
 [[files]]
@@ -979,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
-hash = "3031ef1f53254993532cb4570b8862b770947db0d54eb0c3cc578ed3ae0cf8b2"
+hash = "ef21d3fb65609b82b481218991b7d2d4039dcb79c549ded2c2e7f6ea07d4b383"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "1dbe47015d8af389ad3d4644b723120e206c741ebccf642a358f7cb820235ffb"
+hash = "d230b414850bab2828f609984db998d1cbb0332d4073a4d845a9e180bf60d4cc"
 metafile = true
 
 [[files]]
@@ -1014,7 +1014,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "683d84c667019427bcdf2bd17285175a42e01c05a95dc61ef22e864a10e2e16c"
+hash = "830e624e5d524333af08910b3b7ec318e97a076eb0e1f98110f272f9256253b2"
 metafile = true
 
 [[files]]
@@ -1169,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "4ade92b68eb963ad78a9eb5085205368a1e1399fdea67718b70de21f3eeb8453"
+hash = "a9f01e311a82907d5733561ea54f23fedcca74554afd976891a535786f08923e"
 metafile = true
 
 [[files]]
@@ -1209,7 +1209,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "b974c01ccf84be2b6844f6d501f06c343f515662c32b11f0de5047a37959f88d"
+hash = "cce4a0e481f15e63e067f2a571fb53cf4b8d30a63c06a70c5e76792eb48a4c77"
 metafile = true
 
 [[files]]
@@ -1279,7 +1279,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "ceb94edfc5b41ff9b41a96a0aa17463841be9ff000fb1e5c4e37331cab4c9048"
+hash = "c45a96085535a7afd19820a1a2547dc5c3a732b85650b854b7a573a92958ef4a"
 metafile = true
 
 [[files]]
@@ -1304,7 +1304,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "69fef7a3d0df54b2f553955e226abbeffb2db8e1784eb92c305eca8f76ec2a89"
+hash = "d763db86e1f8e7363ef4822ed187ee7bf3baf383bb7ccc4ffffc9bd6a6f2476a"
 metafile = true
 
 [[files]]
@@ -1319,7 +1319,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pixlli.pw.toml"
-hash = "d8c25ec29d0bb6ce3408fe16748d9a184ca67d04fd3af2ce7ce306eca5385af6"
+hash = "134db76b877c7087f8c57ee97e2640a38db61166e950dcb5ab52b06d23353bc8"
 metafile = true
 
 [[files]]
