@@ -222,7 +222,7 @@ hash = "732cbd580784441461aa430ff2bd45421a20daefabc50e5caa5377f3489b1ce0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/user_variables.db"
-hash = "431e2830baad1fb09a2bd883d3ff10d041365ffebda1393a7e5b34009e8f20a9"
+hash = "992dc06f1c250c4d1d2586674eaa44f0cc1c70e98e3a977e6f9c76ea07236a46"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"

@@ -1,6 +1,6 @@
 type = cached_variables
 
 variables {
-  theme = 0
+  theme = 1
 }
 
