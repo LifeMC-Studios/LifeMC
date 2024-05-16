@@ -489,6 +489,7 @@ customization {
   delayappearanceseconds = 1.0
   buttonaction = mimicbutton;net.minecraft.class_442:376298%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-update-on.dark.png
+  description = {"placeholder":"local","values":{"key":"lifemc.btn.update"}}
   label =
   loopbackgroundanimations = true
   fadein = true
