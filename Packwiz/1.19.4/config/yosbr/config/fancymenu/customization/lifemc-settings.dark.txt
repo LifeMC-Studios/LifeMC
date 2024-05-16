@@ -264,7 +264,7 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = LifeMC - {"placeholder":"json","values":{"source":"config/lifemc.json","json_path":"$.version_number"}}
+  source = LifeMC - {"placeholder":"mpuc:current-modpack-version"}
   text_border = 0
   case_mode = normal
   source_mode = direct

@@ -377,7 +377,7 @@ customization {
   shadow = true
   delayappearanceseconds = 1.0
   scale = 1.0
-  source = LifeMC - {"placeholder":"json","values":{"source":"config/lifemc.json","json_path":"$.version_number"}}
+  source = LifeMC - {"placeholder":"mpuc:current-modpack-version"}
   text_border = 0
   case_mode = normal
   fadein = true
@@ -485,13 +485,11 @@ customization {
 }
 
 customization {
-  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:711f9231-1a68-4e77-9469-961bbae0dfa81686854794333] = ["mode":"equals","text":"{"placeholder":"json","values":{"source":"config/lifemc.json","json_path":"$.version_number"}}","compare_with":"{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/LifeMC-Studios/LifeMC/main/Packwiz/{"placeholder":"mcversion"}/config/lifemc.json","json_path":"$.version_number"}}"]$
   orientation = bottom-right
   restartbackgroundanimations = true
   delayappearanceseconds = 1.0
-  buttonaction = openlink;https://modrinth.com/modpack/lifemc/versions?g={"placeholder":"mcversion"}%btnaction_splitter_fm%quitgame%btnaction_splitter_fm%
+  buttonaction = mimicbutton;net.minecraft.class_442:376298%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-update-on.dark.png
-  description = {"placeholder":"local","values":{"key":"lifemc.btn.update"}}
   label = 
   loopbackgroundanimations = true
   fadein = true
@@ -505,31 +503,6 @@ customization {
   backgroundnormal = config/resources/minecraft/buttons/dark/lifemc-btn-update-off.dark.png
   delayappearanceeverytime = false
   height = 24
-}
-
-customization {
-  orientation = bottom-right
-  enable_scrolling = false
-  shadow = true
-  delayappearanceseconds = 1.0
-  scale = 1.0
-  source = {"placeholder":"local","values":{"key":"lifemc.notification.update"}}
-  [loading_requirement:fancymenu_visibility_requirement_is_text][requirement_mode:if_not][req_id:2ac10699-e0cf-447e-9680-640d1f3531d91686854420143] = ["mode":"equals","text":"{"placeholder":"json","values":{"source":"config/lifemc.json","json_path":"$.version_number"}}","compare_with":"{"placeholder":"json","values":{"source":"https://raw.githubusercontent.com/LifeMC-Studios/LifeMC/main/Packwiz/{"placeholder":"mcversion"}/config/lifemc.json","json_path":"$.version_number"}}"]$
-  text_border = 0
-  case_mode = normal
-  fadein = true
-  source_mode = direct
-  line_spacing = 1
-  fadeinspeed = 1.0
-  x = -306
-  width = 300
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = bb384612-b43e-43ce-8f20-a1bb6928d74a1686853976968
-  y = -60
-  delayappearance = true
-  alignment = right
-  delayappearanceeverytime = false
-  height = 14
 }
 
 customization {
@@ -701,5 +674,10 @@ customization {
   backgroundnormal = config/resources/minecraft/buttons/dark/lifemc-btn-close-off.dark.png
   delayappearanceeverytime = false
   height = 24
+}
+
+customization {
+  identifier = %id=376298%
+  action = hidebutton
 }
 
