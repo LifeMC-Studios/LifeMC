@@ -10,7 +10,7 @@ hash = "802d9b7dea156dc26dfc76d108c93dcbf6665cc6e6d7adf3b1cc80a3e68516ab"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
-hash = "1ccc28dee91a27968ecd1a38f62143bf921e83e5427de2fba7dbceb54300cfba"
+hash = "9c7417bc00aa2061d94a4c46b13873950bfb307937aeaf4d4782b5eaa219a63f"
 
 [[files]]
 file = "config/yosbr/LICENSE"
@@ -1278,31 +1278,6 @@ hash = "42653e0671bbbde6f2ac3fa3af3b7068b7c83f2d9f8091dbaa24c758464d7a19"
 metafile = true
 
 [[files]]
-file = "resourcepacks/alacrity.pw.toml"
-hash = "97a3df9625fd192c720369a0f6cafb599dc2b4937244edf572977cdbdf822d1f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "d763db86e1f8e7363ef4822ed187ee7bf3baf383bb7ccc4ffffc9bd6a6f2476a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/faithful-32x.pw.toml"
-hash = "b4ffde9332a623b385307e7e0cab4b1ac9740f422009584dc5dd4391f94cadf4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/faithful-64x.pw.toml"
-hash = "31874e13fc74832153432cefc275151dc1d8017eb19593efccd436d9baca4eca"
-metafile = true
-
-[[files]]
-file = "resourcepacks/pixlli.pw.toml"
-hash = "134db76b877c7087f8c57ee97e2640a38db61166e950dcb5ab52b06d23353bc8"
-metafile = true
-
-[[files]]
 file = "resourcepacks/reimaginedguidark.pw.toml"
 hash = "61b7fd40eac58bec304c87723e5242e22598dc00ab5a051333d168ab3e4fdef0"
 metafile = true
@@ -1310,39 +1285,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/reimaginedguilight.pw.toml"
 hash = "ff90b8b5bfeac51616dbaadbabf00fbbb1ca822ae373b85d89bae5c2435e6860"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rotrblocks.pw.toml"
-hash = "97eabe333e9fcb3f85478a86fa266ae01cb2b2804e4110c6a2eaa24d82c7f6d0"
-metafile = true
-
-[[files]]
-file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "67b9869a6115164afaa3747142a4a971a09789b6d89d2451888ab31d7ab5bfb8"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "93cc3c55259d0adef692cb4dda0ec348dab9f99b66b39e67f365ab5a1f070da2"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-shaders-v4.pw.toml"
-hash = "c3b7d6c27249a7727712d1a884e40e3837d692de32d357d747fcabdded23d649"
-metafile = true
-
-[[files]]
-file = "shaderpacks/shrimple.pw.toml"
-hash = "5278e03c761883c72be4f3afb5c06119e2cfc333ed80a1608734d922e070619f"
-metafile = true
-
-[[files]]
-file = "shaderpacks/solas-shader.pw.toml"
-hash = "50ca37438eae5a655f61902d7e498469f0cceddbb6ea42b4648001be50d3af5e"
-metafile = true
-
-[[files]]
-file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "1683c77bd28b838c8e79222036a0ecd0ae040d07f61f752faab6fbdf3672f1fb"
 metafile = true
