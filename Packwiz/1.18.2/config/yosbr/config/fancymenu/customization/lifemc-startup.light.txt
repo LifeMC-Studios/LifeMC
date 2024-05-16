@@ -85,7 +85,7 @@ element {
 }
 
 element {
-  source = LifeMC - {"placeholder":"json","values":{"source":"config/lifemc.json","json_path":"$.version_number"}}
+  source = LifeMC - {"placeholder":"mpuc:current-modpack-version"}
   source_mode = direct
   shadow = true
   case_mode = normal

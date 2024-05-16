@@ -9,7 +9,7 @@ layout-meta {
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  custom_menu_title = 
+  custom_menu_title =
   [loading_requirement_container_meta:59b03f6c-3b98-4965-b9e1-7db7adf84ccd-1713112210651] = [groups:][instances:1f140763-5c9f-4c4c-a8cd-4d676f437bfc1683317060495;]
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:1f140763-5c9f-4c4c-a8cd-4d676f437bfc1683317060495] = theme:1
 }
@@ -62,7 +62,7 @@ element {
 }
 
 element {
-  source = LifeMC - {"placeholder":"json","values":{"source":"config/lifemc.json","json_path":"$.version_number"}}
+  source = LifeMC - {"placeholder":"mpuc:current-modpack-version"}
   source_mode = direct
   shadow = true
   case_mode = normal
@@ -100,7 +100,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 99aeee07-45e9-4954-a736-393d02ce3bb51686992938726
