@@ -1,5 +1,0 @@
-Sites where you can download the shaders pack:
-Discord: https://discord.com/invite/E74tMFuuAA
-Patreon: https://www.patreon.com/null511
-Modrinth: https://modrinth.com/shader/arc-shader
-CurseForge: https://legacy.curseforge.com/minecraft/customization/arc-shader
