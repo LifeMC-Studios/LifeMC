@@ -90,10 +90,13 @@ Your safety and gaming experience are our top priorities. If you have any questi
 **Best regards,**
 LifeMC Studios
 
-## 📦 Resource Packs
+## 📦 Resource Packs included
 
 - 🌟 [Reimagined GUI Light](https://modrinth.com/resourcepack/reimaginedguilight) by [AmongstReality](https://www.planetminecraft.com/member/amongstreality/)
 - 🌑 [Reimagined GUI Dark](https://modrinth.com/resourcepack/reimaginedguidark) by [AmongstReality](https://www.planetminecraft.com/member/amongstreality/)
+
+## 📦 Recommended Resource Packs
+
 - 🎨 [Dramatic Skys](https://modrinth.com/resourcepack/dramatic-skys) by [thebaum64](https://www.planetminecraft.com/member/thebaum64/)
 - 🏡 [Faithful 32x](https://modrinth.com/resourcepack/faithful-32x) by [Faithful-Resource-Pack](https://modrinth.com/user/Faithful-Resource-Pack)
 - 🏡 [Faithful 64x](https://modrinth.com/resourcepack/faithful-64x) by [Faithful-Resource-Pack](https://modrinth.com/user/Faithful-Resource-Pack)
@@ -101,13 +104,12 @@ LifeMC Studios
 - 🟨 [rotrBLOCKS 128/256x](https://modrinth.com/resourcepack/rotrblocks) by [illystray](https://modrinth.com/user/illystray)
 - 🏛️ [Alacrity](https://modrinth.com/resourcepack/alacrity) by [Satellence](https://modrinth.com/user/Satellence)
 
-## ☀️ Shaders
+## ☀️ Recommended Shaders
 
 - 🌟 [BSL Shaders](https://modrinth.com/shader/bsl-shaders) by [CaptTatsu](https://bitslablab.com/)
 - 🌟 [Complementary Shaders v4](https://modrinth.com/shader/complementary-shaders-v4) by [EminGT](https://www.complementary.dev/)
 - 🌟 [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) by [EminGT](https://www.complementary.dev/)
 - 🌟 [Shrimple](https://modrinth.com/shader/shrimple) by [Null](https://modrinth.com/user/Null)
-- 🌟 [Arc Shader](https://modrinth.com/shader/arc-shader) by [Null](https://modrinth.com/user/Null)
 - 🌟 [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels) by [gri573](https://modrinth.com/user/gri573)
 - 🌟 [Super Duper Vanilla](https://modrinth.com/shader/super-duper-vanilla) by [Eldeston](https://modrinth.com/user/Eldeston)
 - 🌟 [Solas Shader](https://modrinth.com/shader/solas-shader) by [septonious](https://modrinth.com/user/septonious)

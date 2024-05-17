@@ -264,7 +264,7 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = LifeMC - {"placeholder":"json","values":{"source":"config/lifemc.json","json_path":"$.version_number"}}
+  source = LifeMC - {"placeholder":"mpuc:current-modpack-version"}
   text_border = 0
   case_mode = normal
   source_mode = direct
@@ -282,7 +282,7 @@ customization {
   orientation = bottom-right
   restartbackgroundanimations = true
   buttonaction = set_variable;theme:0%btnaction_splitter_fm%
-  backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-light-theme-on.dark.png
+  backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-theme-on.dark.png
   label =
   loopbackgroundanimations = true
   x = -30
@@ -290,7 +290,7 @@ customization {
   action = addbutton
   actionid = 99aeee07-45e9-4954-a736-393d02ce3bb51686992938726
   y = -30
-  backgroundnormal = config/resources/minecraft/buttons/dark/lifemc-btn-light-theme-off.dark.png
+  backgroundnormal = config/resources/minecraft/buttons/dark/lifemc-btn-theme-off.dark.png
   height = 24
 }
 

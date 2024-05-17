@@ -1,0 +1,198 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = drippy_loading_overlay
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1713052895583
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:991974de-f90a-472d-860a-61b93790cd26-1713052876716] = [groups:][instances:48128516-aefe-4c87-8b46-77eb5e6d3256-1712996051442;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:48128516-aefe-4c87-8b46-77eb5e6d3256-1712996051442] = theme:1
+}
+
+menu_background {
+  panorama_name = dark
+  background_type = panorama
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = true
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  source = [source:local]config/fancymenu/assets/img/lifemc_logo.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 217327c9-7275-4cf3-8eb1-8da81512497d1683484298112
+  appearance_delay = first_time
+  appearance_delay_seconds = 1.0
+  fade_in = true
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -65
+  y = -65
+  width = 130
+  height = 130
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 457ae9d2-68ce-479d-ab35-625c9df13cab-1711663743578
+  [loading_requirement_container_meta:457ae9d2-68ce-479d-ab35-625c9df13cab-1711663743578] = [groups:][instances:]
+}
+
+element {
+  source = {"placeholder":"local","values":{"key":"lifemc.copying"}}
+  source_mode = direct
+  shadow = true
+  case_mode = normal
+  scale = 1.0
+  alignment = centered
+  text_border = 0
+  line_spacing = 1
+  enable_scrolling = false
+  element_type = fancymenu_customization_item_text
+  instance_identifier = 40bd09a2-a947-482e-9b24-8a0047babb911686992083973
+  appearance_delay = first_time
+  appearance_delay_seconds = 1.0
+  fade_in = true
+  fade_in_speed = 1.0
+  anchor_point = bottom-centered
+  x = -175
+  y = -43
+  width = 350
+  height = 14
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 1a2eba8b-f8fb-4bef-9e74-3efd27be18f8-1712994477070
+  [loading_requirement_container_meta:1a2eba8b-f8fb-4bef-9e74-3efd27be18f8-1712994477070] = [groups:][instances:]
+}
+
+element {
+  source = LifeMC - {"placeholder":"mpuc:current-modpack-version"}
+  source_mode = direct
+  shadow = true
+  case_mode = normal
+  scale = 1.0
+  alignment = centered
+  text_border = 0
+  line_spacing = 1
+  enable_scrolling = false
+  element_type = fancymenu_customization_item_text
+  instance_identifier = 62081365-2f4a-4ce4-8662-09b1b56dd7b71686992145169
+  appearance_delay = first_time
+  appearance_delay_seconds = 1.0
+  fade_in = true
+  fade_in_speed = 1.0
+  anchor_point = bottom-centered
+  x = -60
+  y = -57
+  width = 120
+  height = 14
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 641660ac-a5e1-47ba-be1c-cd4f59b22c2c-1712994477070
+  [loading_requirement_container_meta:641660ac-a5e1-47ba-be1c-cd4f59b22c2c-1712994477070] = [groups:][instances:]
+}
+
+element {
+  color = #7FBB3E
+  element_type = drippy_vanilla_bar
+  instance_identifier = 4ee2641c-1b41-46d0-b05a-436a088b0610-1712994974609
+  appearance_delay = first_time
+  appearance_delay_seconds = 1.0
+  fade_in = true
+  fade_in_speed = 1.0
+  anchor_point = bottom-centered
+  x = -185
+  y = -20
+  width = 370
+  height = 10
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = dc0a5b16-7821-4275-9cb1-7fcd06838136-1712994974609
+  [loading_requirement_container_meta:dc0a5b16-7821-4275-9cb1-7fcd06838136-1712994974609] = [groups:][instances:]
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 96b07b61-8263-4c0d-aae9-afa65b550399-1711663743578
+  [executable_block:96b07b61-8263-4c0d-aae9-afa65b550399-1711663743578][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  element_type = vanilla_button
+  instance_identifier = mojang_logo
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 187
+  y = 180
+  width = 480
+  height = 120
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = d306a3a8-059b-42ac-8b35-00ac26e01319-1711663743578
+  [loading_requirement_container_meta:d306a3a8-059b-42ac-8b35-00ac26e01319-1711663743578] = [groups:][instances:]
+  is_hidden = true
+  automated_button_clicks = 0
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = bc0ad4db-b05d-49ee-8d7d-2dba4b51096d-1711663743578
+  [executable_block:bc0ad4db-b05d-49ee-8d7d-2dba4b51096d-1711663743578][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  element_type = vanilla_button
+  instance_identifier = progress_bar
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 187
+  y = 394
+  width = 480
+  height = 10
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = e6862898-6269-4a3e-afa4-a68948399f16-1711663743578
+  [loading_requirement_container_meta:e6862898-6269-4a3e-afa4-a68948399f16-1711663743578] = [groups:][instances:]
+  is_hidden = true
+  automated_button_clicks = 0
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+}
+

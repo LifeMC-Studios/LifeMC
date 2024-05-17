@@ -9,14 +9,14 @@ layout-meta {
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  custom_menu_title = 
+  custom_menu_title =
   [loading_requirement_container_meta:0ffe86b3-32a5-4a44-8c78-f1c52bd76d79-1711753148510] = [groups:][instances:308c399e-75e4-48a6-b2ce-fffc827a4a171683317405359;]
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:308c399e-75e4-48a6-b2ce-fffc827a4a171683317405359] = theme:0
 }
 
 customization {
   action = backgroundoptions
-  keepaspectratio = false
+  keepaspectratio = true
 }
 
 scroll_list_customization {
@@ -32,14 +32,14 @@ element {
   button_element_executable_block_identifier = 7030b86c-32ed-4bac-a471-5e2960a9977b-1711663743575
   [executable_action_instance:3aa83eb5-8fb3-432a-b12f-578c9cb75a83-1711663743575][action_type:set_variable] = theme:1
   [executable_block:7030b86c-32ed-4bac-a471-5e2960a9977b-1711663743575][type:generic] = [executables:3aa83eb5-8fb3-432a-b12f-578c9cb75a83-1711663743575;]
-  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-dark-theme-off.light.png
-  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-dark-theme-on.light.png
+  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-theme-off.light.png
+  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-theme-on.light.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 1656aa09-e5e6-494f-9f21-9859a8ef09c41686860018903
@@ -88,7 +88,7 @@ element {
 }
 
 element {
-  source = LifeMC - {"placeholder":"json","values":{"source":"config/lifemc.json","json_path":"$.version_number"}}
+  source = LifeMC - {"placeholder":"mpuc:current-modpack-version"}
   source_mode = direct
   shadow = true
   case_mode = normal
@@ -126,7 +126,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 201d9219-dd0c-440c-aac9-1ff515181140-1711753034687
@@ -156,7 +156,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = 606258
@@ -184,8 +184,8 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 5f0ba9d7-5222-4f5a-8b02-68c9387365af-1711663743575
   [executable_block:5f0ba9d7-5222-4f5a-8b02-68c9387365af-1711663743575][type:generic] = [executables:]
-  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-off.light.png
-  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-on.light.png
+  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-small-off.light.png
+  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-small-on.light.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
@@ -286,8 +286,8 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 620c9835-6957-4a8e-8b4d-cb1c07b232b3-1711663743575
   [executable_block:620c9835-6957-4a8e-8b4d-cb1c07b232b3-1711663743575][type:generic] = [executables:]
-  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-off.light.png
-  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-on.light.png
+  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-small-off.light.png
+  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-small-on.light.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
@@ -320,8 +320,8 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = fcd7ddc5-4155-4f90-be9e-2bcf08f6a023-1711663743575
   [executable_block:fcd7ddc5-4155-4f90-be9e-2bcf08f6a023-1711663743575][type:generic] = [executables:]
-  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-off.light.png
-  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-on.light.png
+  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-small-off.light.png
+  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-small-on.light.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
@@ -354,8 +354,8 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 4d6e8504-844a-48bd-b255-e4a83777d26f-1711663743575
   [executable_block:4d6e8504-844a-48bd-b255-e4a83777d26f-1711663743575][type:generic] = [executables:]
-  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-off.light.png
-  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-on.light.png
+  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-small-off.light.png
+  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-small-on.light.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
@@ -420,8 +420,8 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 934225c7-db6c-42e3-adef-212b79bd3a10-1711663743575
   [executable_block:934225c7-db6c-42e3-adef-212b79bd3a10-1711663743575][type:generic] = [executables:]
-  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-off.light.png
-  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-on.light.png
+  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-small-off.light.png
+  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-small-on.light.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false
@@ -454,8 +454,8 @@ vanilla_button {
 vanilla_button {
   button_element_executable_block_identifier = 69ac9737-16cf-4d92-971d-96bf97323da3-1711663743575
   [executable_block:69ac9737-16cf-4d92-971d-96bf97323da3-1711663743575][type:generic] = [executables:]
-  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-off.light.png
-  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-on.light.png
+  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-small-off.light.png
+  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-small-on.light.png
   restartbackgroundanimations = true
   loopbackgroundanimations = true
   nine_slice_custom_background = false

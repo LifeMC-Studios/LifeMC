@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1e5444383a23f51ec02ddce8b6cfe39bfdc4753a987bc057df6f4453d41548fe"
+hash = "0e6dd474fb7219e24ab5c07c33af7a652f2bf901c71f353d4ce6565607adb41e"
 
 [[files]]
 file = "config/lifemc.json"
-hash = "a6545837ab5349f6a7cf50bd4a3be03c1ec709cd48a76e12e7be617cad96ca19"
+hash = "6a24416926771df460db702154d1dd1910dd4e2d77b0a56135da1cd599322592"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
-hash = "3e1ce061223ce179e0980003d4f63edd9e2e055b48c5f41d28b92a9741a9b87a"
+hash = "9c7417bc00aa2061d94a4c46b13873950bfb307937aeaf4d4782b5eaa219a63f"
 
 [[files]]
 file = "config/yosbr/LICENSE"
@@ -78,39 +78,43 @@ hash = "8e5bc3b2bc75fa0c497e7d9c935b6b39b8b0bf2a4959a540282464efcabdc404"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/config.txt"
-hash = "01a54f1d6274263af0c9bd304d277d88e23c790adb4850a4a5e438af447e9871"
+hash = "57a3e28e2c19150a3ec629b386f38d625945b05a9ecf3d2481c2d4e28ab9123d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customizablemenus.txt"
-hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
+hash = "e9317c2934e6a086ecd78c64d688a453227b1c4532bf68eea306601887afa1b1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "486eb2079a1bc636635a8fb3e054e7539ad7fec3e687e06fb433347b819e608d"
+hash = "f347588231c8600a6d1c8e360cb179e8f5e6472ae2c746dce7140f43b62f824f"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "c15a0ac5dff49e682f933866f224f82bc321df871079289913b734383db64c93"
+hash = "851361e3257cb931120d15e20d3807f2ad84ab2cbae4ca9e30bd7753645cac0e"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "c9564654e83f2044cc581da30a385cb28fbecc6c78574a85b856b89dcc4df1fc"
+hash = "a1f487da10efa7531d9791a783861c26521357e6336bd66249689b09f6a7005c"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "ebc6d5de39b35eb16842b202e88e1ef4afc1eb32017d08b1962b2cf2bda69dd7"
+hash = "5b8584d1868302f2225adb39675dbed2032e7afd6f57616ddb77fb0833010118"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "c6ee0bb5680c5846c542f530377e8af5d1175600fd5488609f5f7bcf5a001995"
+hash = "a5b38b64bef1fa045d8e8565a2a023d6558807edfa9e31dc2725053ed9973198"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "7cf96e2182b318431fbd69822f6439ce6e5110d47c915180c961b0e4aeb1d1e1"
+hash = "710bdfb5344d0fc5652059cc612993418d8dace8da739c2bb9166298ca2fd330"
 
 [[files]]
-file = "config/yosbr/config/fancymenu/customization/lifemc-startup.txt"
-hash = "3ac51612c789ca9f217c89f6e9ef6f51189d24f9f01f89a1f095e5c2ca2a97ca"
+file = "config/yosbr/config/fancymenu/customization/lifemc-startup.dark.txt"
+hash = "373204e1aa4a3d208cc2ae116e580c402e299fff1ff8767c6ebabb1aa140171e"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/lifemc-startup.light.txt"
+hash = "3e1308dd4ae45b482a623809b156c703152beeddd126868f455a93d14e233e7d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/extensions/fmaudio/config.cfg"
@@ -119,6 +123,34 @@ hash = "f3e260206c13bf58788b0572f453f95a3b7c67066dbf85f1a1118c1126d11d62"
 [[files]]
 file = "config/yosbr/config/fancymenu/extensions/fmaudio/locals/en_us.local"
 hash = "6a2de605aaf07a8f635d9df3b589ff2162fbef2f26eb73dbd17d894c0d261349"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/en_us.local"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/menu_identifiers.db"
@@ -225,6 +257,14 @@ file = "config/yosbr/config/modmenu.json"
 hash = "2bf1fdee96ff7ac57adf1fa6eb52e5aabb0d97368003c26447b7852a689dc8bd"
 
 [[files]]
+file = "config/yosbr/config/modpack-update-checker-info.txt"
+hash = "b202d3ec38e74882983208de991c4a3669f4f51eda2710c6e5f6fc247401bce1"
+
+[[files]]
+file = "config/yosbr/config/modpack-update-checker/config.json"
+hash = "2cbf09aa6c354a8151bdde4de33784e6a4a552a1d1753934a09e1a813e770e1f"
+
+[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "b2ff60a305956fb2a381c6c61d960d2b220d83d9c7737e2ac4ab34a1f604af56"
 
@@ -246,323 +286,347 @@ hash = "62003b3842fe9d479183984cc7e7d3d818bc5bfd820e67966bfb503f6bfcbc4e"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-accessibility-off.dark.png"
-hash = "629fa37ac132221852955ae3d6fec6bacfff83c168bd35a339a35ef47d8be42a"
+hash = "7422c9ece76b77518fe78f19bcd2bef49b8c03c007bee86a81782be63f1a9ac8"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-accessibility-on.dark.png"
-hash = "e7799c0a2b6d7afc6ad4cd95ffca4f85124a9e0f5fdb59d4cc110044c59f7dbe"
+hash = "ae91459a0f5d8668703ab0635101e1ebefb6855735d68459a58f14f0bca66b60"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-audio-off.dark.png"
-hash = "ef0fb2b9eaad888c426e25b0b9f3d18e2eb0a3a4dcb703380aac2887e08d07f1"
+hash = "b3f60b09ca0fa0f3ea4825c87a9bd4098be8dc4e307d98bd2b400c04e5dc6403"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-audio-on.dark.png"
-hash = "c64962e785ae77f5791233a473983098a816c0774bd37f2ff8c6fbe422efc10c"
+hash = "fe04fb261b32e8dd9020217f674ff26bf02a1b97da86fca3192f04b4a87ddd0f"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-chat-off.dark.png"
-hash = "ec9f6f927798760c1bfc75f5a1f35f703dbe88e86082710d13e7645004593902"
+hash = "baa6affa2f6452ecaa6de29436d22fe2a8a8556695b5a74c7ee16a0e46bc078d"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-chat-on.dark.png"
-hash = "c16634a34f57da835652df589001e7a4070b959bd3a39ae611d97b1305a42bb4"
+hash = "a270d6e160a67bc202ab0ce5031dbbe64e4f50203c2cb1ebe0c8c2095cd1d763"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-close-off.dark.png"
-hash = "3ded449f9a8db6779cd7cb9a8ed3fef607ea644339ae8c0fbe8d0bb382a219a2"
+hash = "e7a43a6354bc77f441560d8461b44e3576d351f81050d2f4bafd893c89479d9e"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-close-on.dark.png"
-hash = "db184239217f9093d7cff0f7b92862cbcf5aa9282899d0646ef8b518e1f95212"
+hash = "7f8f638de1538881d84788f1ef6200630e01572374cb5c946cb69ded0dbd6a8f"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-contribution-off.dark.png"
+hash = "a7e610233ee57bb06fa167ed8dbc5612c4db14e7df239297a6af9f5243c8f27e"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-contribution-on.dark.png"
+hash = "7d9947016ebc2cc8918d13dbc9870c5b6dcf940175b52258b856e1cad8c0498e"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-controls-off.dark.png"
-hash = "5be76983d119664c732f8bbafb5306b19a1e35c1e26a97c0fda66fa8d99c8cd4"
+hash = "d52e840cc65d4bd9d47f24773c1cd87e2e32ad00371552846876dbe2736963d4"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-controls-on.dark.png"
-hash = "f7636e559bda1814805380c872afd01da4891a2a884eeda2a2d41c242b5638b4"
+hash = "3e14302e83141a2ce10e1baea17cb280b648b60e0f45f13bd1f3fa9576ba8af5"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-cosmetica-off.dark.png"
-hash = "a9b8a5c43e5dd763a46a5ed14e018c6625b56d9fb84d792e0fc34ead054b623a"
+hash = "8147db1f43bb5a0e5bd48fc1f5b239a1274301caf71fd2d7c686af80de592fd5"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-cosmetica-on.dark.png"
-hash = "5002bb6e1ee0bd8a1819afe087e075f4bdeedb070c26a3c79a6b343b8a450ba1"
+hash = "7f832f3cf686211c44554ef3b92ddcbbd6e92b6a3b4ea790313b1a707da10431"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-discord-off.dark.png"
-hash = "c71ba4bdfdb0165625309fd17ca7b22e9f1c2a2960dd79e1b0659b305c92cd44"
+hash = "3fca7e615d1e48a8753b9f3f85aa89a36a95e6747a2620e9d676cdac2b3d4d28"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-discord-on.dark.png"
-hash = "16b5e3ab840f3e60817c9f4102bd0f6ab53a3bd3e9c130d4442217c428ad52d8"
-
-[[files]]
-file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-donation-off.dark.png"
-hash = "29e6b81373722cf10068781e1a34eac5249016df9b07a12ec265f5e2042a59e0"
-
-[[files]]
-file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-donation-on.dark.png"
-hash = "55388d155287eced60e21de7f9da10d96938e7c32d6186641182bcdb29fd704d"
+hash = "df99be13b34b098dd54a89bddf7c926f9f3d5e1800cd1a6601a374f4beef7999"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-lang-mainmenu-off.dark.png"
-hash = "fda00985ea23077538f84741c0a38e409c51f2b2dcbaab4faa9ecb077ace7ca2"
+hash = "eb76948dffaaea82eab06950cefee679017b10b6200beaad36fdcff7c812177d"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-lang-mainmenu-on.dark.png"
-hash = "074f4661f76f0871ac8dcc475de5c67dab8bd180e3e9d3a225115074038e02ae"
+hash = "a94ac3b4b83f5fd1aa650241026697e4e08a3619c352df1c861ed8fdbf8822c8"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-lang-off.dark.png"
-hash = "2cf3b7fb6b64bd9f3953804188e226ee023c9cf89985ad032dc4555942b85dde"
+hash = "fb799eda02c2a331585b7bccc6a95d4affeb94e840f1b521ce7e335f5ebd884e"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-lang-on.dark.png"
-hash = "e17f3a55c182c89e48bff0981d8a8e76d7388bc93a912fb3590da6b16e356f70"
-
-[[files]]
-file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-light-theme-off.dark.png"
-hash = "150057f70837a0505a8cc331e690add2b36ee6ac1a14a3617c4b451fd2796944"
-
-[[files]]
-file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-light-theme-on.dark.png"
-hash = "9ec016f905154c523dfca0ec3e0fd128d973ab952210af9d4e55543214f97ea7"
+hash = "2f01c129f3f385fd42a192a93f865f48b0e48efb85cd23dedca46bd0245679cf"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-mods-off.dark.png"
-hash = "c9885b29bcbe552b36b7ab3a6e1549df57cc671607c5802efac63c84a5dbbb2f"
+hash = "701ec1f76133d7ec36dfe4747ae0e95446e1aaee82fe5dae713dda3ac90b29d3"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-mods-on.dark.png"
-hash = "ce7d9685088c093671e1f1ceb392b87c82fa32510d97046fc1f9d48a72be7e74"
+hash = "da8e79f4fa36ea5e6bbe64cb353a325dfc2b737ff2540e00e6b9ba9aa2911f28"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-normal-off.dark.png"
-hash = "884263d1fbc5c2600dcb4144baf22e304d9313f59e25d724f3afbe271ff373fc"
+hash = "afe59824ba937238ee4e7e1a073cb9cc298be11bf5cb764878a8ca0b6a44c393"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-normal-on.dark.png"
-hash = "18e07998b96fa79f7a5fe8a9777ecc45bf78f8444d1982f2b4d4322488807763"
+hash = "67bcca3faa9fd65fc7b9ca933a8916feb9a100204f975a16996e63aaf6e79b13"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-online-off.dark.png"
-hash = "7cde45eed9e4031eba74d0b30bd650044b6cfc0a80b81a9287777017eff235a0"
+hash = "4f5748e43a59c0db28fc75169ca6db844a07d201061fb65220a25115fddeae2a"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-online-on.dark.png"
-hash = "566a96787eecdb7f7c488ffddf7c91bcfecfae44892f861171ea29a449945a60"
+hash = "c5be83b47a6d452514d8f9e3bc3ca4171aa3ed8c0219218156adc25c0743f01e"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-packs-off.dark.png"
-hash = "f42944c54335b9ba1a285f9832c0301a28e799c1e1b26223785e35520e551504"
+hash = "20b86f8e8a0b327cea16a9b3986cdd2f1d986d3dc3329e230e1d08b2c372227c"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-packs-on.dark.png"
-hash = "97b9d109e1ed4462b28df1215439e217dd7c3259353760c7414e5e6812220233"
+hash = "cd5eb9be95199b8a3e8e40358c112c871bbab9eff200dededf169ffc33c0c942"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-report-bug-off.dark.png"
-hash = "de20a44777a0ee763cb6069e3af37f8974426d33b951b77d58caa67622b2d448"
+hash = "0b381effab7d759896837ccb608eb71e2716b199f3aaf0a9861959b62f376ee7"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-report-bug-on.dark.png"
-hash = "8acc3d26935d9fcc6e544cdd77372bc906a1c57ec1e618e7488d45f1021cbeaa"
+hash = "91eb4942915e63ae459386eef8915ef8f3b74972b78fb272b395a8b4fd1c8052"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-screenshot-menu-off.dark.png"
-hash = "77f0f48d8ccaa20a76c080bf927ce948bbb5717d0e393ce9c493c7206385e92c"
+hash = "73cbd0cf6a93b52b824b42203b2870c9633dacc0287a4b4e2e5f98bf6187c16f"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-screenshot-menu-on.dark.png"
-hash = "abb511f0d514718f3e0d0df92c8a755508aac87dd78f008caa48259a01df2623"
+hash = "8708d17333a9aaa6340e7e223e02b393d7fb95887b313436cf60777634e870d3"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-settings-off.dark.png"
-hash = "56e2274d78dda486132791055091867567b5a00e34e355e0808cb7693391b8fc"
+hash = "d8121972bf0da5a78f0b74ababb42e6d57edb7fd27a623ca9a23e6ce085d27e4"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-settings-on.dark.png"
-hash = "8ae72de7b328f64c40a4d9947c730af80c65f3798a179a79afd872b865fa218d"
+hash = "5acc2d5d66f0030aea0cbeabac4a30a51d4e8dcabfb18e6bce876fab1ea89481"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-small-inactive.dark.png"
+hash = "c21bd204b2423a522ab19b94274267017ea6cc59bb12bd0ffce706e9c89f62f7"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-small-off.dark.png"
+hash = "8e2c24acb2f557552a70bedd4802776fd5d51510b4b9b13b2fa351724a84d398"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-small-on.dark.png"
+hash = "b11764dcb2406f2af605a486a4a84bec072e7c755882d8dd11396719d87c5bd2"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-theme-off.dark.png"
+hash = "bb5703b548347ab2164c5bc316abd7bdc973b371c1ca99c33aaeef925eb4c9be"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-theme-on.dark.png"
+hash = "4b43970129b599407c3b8c059f881719861df8c7f1f88f456c644e62f8a1c04f"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-update-off.dark.png"
-hash = "32423a9e13b7fc5c01c6d2dd3fa7d6206a2f11cb5e802de7817bebc8155f1e50"
+hash = "fcf3af2c98182774a5455c850b8949f1bda7aff8f528a9e1053459576255c752"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-update-on.dark.png"
-hash = "8de1cf6c8671af4199ea65875aac806cc16d508c378907d3fc763977aec136a3"
+hash = "14af98c08ec37c36683c401b85ee4a81ab79628c856a7479b38f6de147acfaf9"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-video-settings-off.dark.png"
-hash = "eb967b5890996edb9f15df8ebce441f74bfcaceb823ca43eba742e1204968225"
+hash = "e5591782cb497bb545949dbd220d13eb13848f829432e761c2b4407691656058"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/dark/lifemc-btn-video-settings-on.dark.png"
-hash = "a85caa245c0611fae84ccccb5da78f08028181455f0244d3956bb9552963590e"
+hash = "625796be6f98a844901f061b1aca71d0cfd59dcb6e3f4e80c189aba2670e7419"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-accessibility-off.light.png"
-hash = "48c9ded71920412fe0d67dac93bf0f07cb65be1f28d2287c070266d2e284865a"
+hash = "af41bde6b5f31509482e438275d45dc457f73181c49040e5b444855a7e0a7a45"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-accessibility-on.light.png"
-hash = "42f10b5b677525b91b9f359c45a994a0b8b5fac2efcc518917833d020d496f55"
+hash = "ea0e3a5db0b23464dd45b57952cb3fee7cabf9c3d64a402772f4ffae4482bdd6"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-audio-off.light.png"
-hash = "ba518c5fa68833f50ef2d81c1df10796822fb590e45986d5ef410326dd88a73c"
+hash = "5f37905011449beb4446197145e9be3fae9bbdb77297961c29714caef0658a8a"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-audio-on.light.png"
-hash = "80113e88bf8af1ba7a275c0b46d264b0e300fac4d7ca1f1e08a9f2bb1f351050"
+hash = "46a86adf5552386c27c0e977f1765ecf28cc9d4b499d95f102c38e286d7db7e8"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-chat-off.light.png"
-hash = "c925c1f77fde195438563d05be0c9a6f46e570425b275962a0dba11a2a0f5fd1"
+hash = "530f36fbaddd6d8987dea162ba4120b88b9899a90cb2765ba4f8a6d81b9f70de"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-chat-on.light.png"
-hash = "58b7b3d28c8f739bc2aaa80368f65a603067ef97a243737752c5a9c219a0cafb"
+hash = "c6c270b7536f90b0147a6c60689ff4d2605a31d5b744071433a67cdbe8fe5763"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-close-off.light.png"
-hash = "3f8d5e4b6be3f0f11d24b81802508429ef4f5ab92c55390a022bec870b004641"
+hash = "62b185efecda4bad371fd8c844d4f2fb082a04b8346c9c80a436be0e534f9ac3"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-close-on.light.png"
-hash = "87213e1cdcebbf56f10f85dd56ca27b163a11f3a025a8810dca8661270e1c1b7"
+hash = "bf40fea78b5c8f80009e9de2effe310eb20b692016fc182896723a9a6137b568"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-contribution-off.light.png"
+hash = "b958af87623052a550e3cda927324b5dca7401048f44855d169ea8d2c364052f"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-contribution-on.light.png"
+hash = "f3becfa2e17ebda22526b1044acd98207d62daed6d89847b004774320eb0cd31"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-controls-off.light.png"
-hash = "4bc15e823edf2ff3c9f54c7e3d1eb207743a5d642b48e707cfc9c9dba2e2b6fe"
+hash = "ebbcf24a2d714b6c1795a4872e5ca2d0212e18069fb89257f870808aeb7a8034"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-controls-on.light.png"
-hash = "829f90ee410b3eb61c31e2fe2c93049ad374389fdb977b5f7e115be88b826316"
+hash = "6feba045a41a8be1494b0f605cefade6b90c9d9fa0fd85d4ff3251a64f32994f"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-cosmetica-off.light.png"
-hash = "29a46de64d2dfbaf8a3c91d4e44019cd6c69e7d6807613fd7c23896c72c213f3"
+hash = "9da4c2b24e2c244d312738a6da4b0be42e9765eed1c9320c173d4a0d0e1409fe"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-cosmetica-on.light.png"
-hash = "4c83bb1b0519da9f4926e7ab9ba67bc2bdea9ef351a0d6533f33720d188323c8"
-
-[[files]]
-file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-dark-theme-off.light.png"
-hash = "544627654b246d3185fa0ffd5b4c4799dd4d8f5ed7b1dc40e9b8acfcd67c9cdd"
-
-[[files]]
-file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-dark-theme-on.light.png"
-hash = "4ca62cefb037a35f10f597bd851e1db09d97f2f41a4b5bafed47d302e425b32c"
+hash = "130287f44fa5d58c72336b0e17f9dd57028f7ff6e4d7ac4c0d84d33a431ed109"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-discord-off.light.png"
-hash = "2f75decf0cab7117ea44360f346568875fc2db4cd8d6e2b0a5c7cfa86ca5a945"
+hash = "2f17e9b1dca362e1ab97761e892ffa7919d69dda3532c205ebf09e585b8b26cc"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-discord-on.light.png"
-hash = "6f1bdfe9579582b376115b782bafae7ff8edebf97a1d75ce3cde6e687d627a46"
-
-[[files]]
-file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-donation-off.light.png"
-hash = "8c638182dc3b9d23857086a9e608a9b67033b7bd3e603459ff9b88c0b6f258ed"
-
-[[files]]
-file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-donation-on.light.png"
-hash = "f6599bacec6940a66008ee49ba2c22205ac12972061d18b30cb07ff764731afc"
+hash = "73f0d275cd47da1de751d6f1004a9dfc56e19569b41a4e89890ce6949c6e377d"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-lang-mainmenu-off.light.png"
-hash = "d44b67d3e6ad5497e0c58779c0d0c488196c1c030931e2dfc3d4dbe5873af592"
+hash = "0f10608c140cc82d021171710e3b8e28ef501f08a3139b3877633eb17dfb112b"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-lang-mainmenu-on.light.png"
-hash = "992eadb471d366af36d989a28f73856438fffe4f253c89ec11f457f0fa5a9a92"
+hash = "807f5a23b30d32a8c3c87d11c4b02a39ac6167ff729e3eb305b875ee828693b1"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-lang-off.light.png"
-hash = "c630d07c80744b717ebd8ea092e07760fb12fd80c90b7afffd2e585813034543"
+hash = "3699b24b4e931d3a4e7b9132823c41c31c2d55a0043548770183fbcd464a750f"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-lang-on.light.png"
-hash = "d9d7dc32d1b58f5a5bb2bd5373062ff48661e9f083357cf9ae345216464f0b8a"
+hash = "abbd6a864444c29082d4a7ee653792660bda155461678b5564db8ca5ef71f62d"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-mods-off.light.png"
-hash = "1caebfbdee13f250979133958e6250153c004cf2971929c1054f1414f86486b7"
+hash = "8b320674ee006cb812eb48f45c784f1fde5907e65a97e8a7b8cea1111c47631f"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-mods-on.light.png"
-hash = "54dca4e0178e2ee343a14f9809a93bff98a675fcda4fea39cb9b4efd5fa4c674"
+hash = "f0b601e31a6eadb0adc1db09a50a892ace0d80f23c49e4c2aa299ee647fc70a0"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-normal-off.light.png"
-hash = "dbfba746e8b3da3e95eb69dff33a283e4dadba232a95d702fbdb93b77e659f12"
+hash = "33c238411cf636c4bf434b711e2d77e494ea091f44a0dd7affbe565bd04cad17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-normal-on.light.png"
-hash = "18e07998b96fa79f7a5fe8a9777ecc45bf78f8444d1982f2b4d4322488807763"
+hash = "9096f32a233fb330eb7a5631f2c26d7103b291efa833bf42d29b80b0a919b113"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-online-off.light.png"
-hash = "bbb9deb80d746a90101549557dd6f003e2310b7b6b55494b65a3dc45816ef27a"
+hash = "6ac0e614228280e74c216e1d0282d424a173369cc9d871f24899e50c9d6424d8"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-online-on.light.png"
-hash = "3bc24e0ce5dd6e21fc34f3dcd1b7f3d57d1266d30ec7b337eb0a10339a7c2123"
+hash = "a6674ec20b15bc467522f4f8023b8cb5d3087a85930751fd59586dc16b0cb4ae"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-packs-off.light.png"
-hash = "d85d13aed7d5a524847484a0629397b66ad7500e44582884bf32caa7c374448d"
+hash = "ff6e4bac0e4ffe75203c740143765e5bb26267eddd0cf0a8799edd767102651a"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-packs-on.light.png"
-hash = "55ca2c258b3f7a21361e179d8992991ccabd43bca6a8934e2cd419a322489a1c"
+hash = "9373cc5fdc3344447e736ce8d1abfb4d75948f14627fe4f9dd4baf064379e166"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-report-bug-off.light.png"
-hash = "90eb8af2ca02e1642191c95cf6039451f434b3374ce8610a701a1752386a73d9"
+hash = "211062402362949e7ea2d6aabb5ff4bfbd83317d04b9848af464efdfa1b9ec69"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-report-bug-on.light.png"
-hash = "211237112ec035f1ed252b6773a13b215b7718647634eeb84f7d8c690f7fbabe"
+hash = "64897ab6fe1cb72019d7dc18fe6eec04b8c5efeba344be4bee9caf6c4ef0873a"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-screenshot-menu-off.light.png"
-hash = "e11c26a1712fcc94b0fe99de7f67a31931f88acd958e5211bb8d549b6595c774"
+hash = "073a964cce751e45dbcaed8291ca800b903345aff746541d8267aaee66608697"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-screenshot-menu-on.light.png"
-hash = "cded02c656d459c0859d379bdbd5e6af877d4f2aced8596001fe8b6b49778d70"
+hash = "a583e5bfd0d10c34536f8ece57de924ec3d05dec0662296aa6ae4a5686b79fbe"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-settings-off.light.png"
-hash = "d944388ef7b42760a6fefc9fdaf17cf74b5601cd836b0bc482099fe85fee131f"
+hash = "06ec246f83f50f6128b187226fa14b5638745e027c6ff2e7be03fb5a47394d8f"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-settings-on.light.png"
-hash = "aae16361ded4eff5b1f387cc4a76402b4a50c9b838a8b207aa78c4d180785062"
+hash = "9ed4d9ff42c1ef12ac2a7bcd74d4c3c3fa7cae293cdeeca2de1a01b48a00c787"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-small-inactive.light.png"
+hash = "3052cef3868a0fa758009ad08e5e64865449c780ab26100f8af935c0982f94a0"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-small-off.light.png"
+hash = "b54e07cdd2f615cb011847f64e7d573b32a35d7212f041d8ea8dfbb37622c49b"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-small-on.light.png"
+hash = "e4b1fd8d0c1b2f957f5f88fa32b683e3ee781e286521af89928eceafb82a6836"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-theme-off.light.png"
+hash = "61d8047da6c51a1a5b5c2d9039f02662a96f74ae3581348921777694ab28a5d8"
+
+[[files]]
+file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-theme-on.light.png"
+hash = "c148aa2690cec3f830e98748ad1c97d634fbf037f8540a0eb78517bd8523e213"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-update-off.light.png"
-hash = "4f9cad398b3499e1e3a9e3be91a67e23e10ebc5e142ef8bed65c28cc2f4565c2"
+hash = "de8b9b4ec411075364598a9f206ad33e0a3931af636d06a99a12d2ad17c2fd29"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-update-on.light.png"
-hash = "67f21b32de6a905449d82cf4aa8e2483fd8e7b74891236c616d6f62ae3ce1a9f"
+hash = "f18335f86dc69b2a895a242f3ac560c1d12602ec32fb883e26e71ff93d755b53"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-video-settings-off.light.png"
-hash = "bea93165a764fc46311c75a6b5b88d9c78bdc83e34b7e7dfa67ac604fb3bb6d1"
+hash = "1cc7e062f1a68a474a1da2efd36adff314efc55d33a8f0d664acaa536c994a16"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-video-settings-on.light.png"
-hash = "7a6372b1bd3ea25310c65728a0bfb834e31b7d909d97dd165856eaa7e2cc8e8f"
+hash = "76f0df39e544463f9255796df7b9b3086ca4ba1160a321fff91c2a46b971bf55"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/images/lifemc_logo.png"
@@ -570,231 +634,231 @@ hash = "d4ef6a3c8e283f22f601b49eaf4626e72b4b55f8e1573b73295e5b617222a650"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/af_za.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ar_sa.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/be_by.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/bg_bg.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ca_es.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/cs_cz.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/cy_gb.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/da_dk.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/de_ch.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/de_de.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/el_gr.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/en_gb.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/en_pt.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/en_ud.json"
-hash = "20cb9c4e22a6dc1e47f855b7ad3b755e94f2c36e2c9a8256fe0802940bcf081f"
+hash = "e5949d17f5ebbdd58eafe24f52abc24ca5ad7a5154f3e580454e0a2b82f43037"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/en_us.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/eo_uy.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/es_ar.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/es_es.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/et_ee.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/fa_ir.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/fi_fi.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/fil_ph.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/fr_ca.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/fr_fr.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/he_il.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/hi_in.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/hr_hr.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/hu_hu.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/id_id.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/is_is.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/it_it.json"
-hash = "ac6c83db9230bf2e738a96beb18e5ed61ac97a0f46c5c56471a42327e09aad22"
+hash = "2d4ccc8b719c14ba22d670a04ce27d1a95d34e7d6c27b7e72cf98959c54e92f1"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/it_lt.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ja_jp.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ka_ge.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ko_kr.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/lol_us.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/lv_lv.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ms_my.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/nl_nl.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/nn_no.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/no_no.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/pl_pl.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/pt_br.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/pt_pt.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ro_ro.json"
-hash = "94977a3232c09f09989ad058e26a409b590f09aa7d3c7b4ffb972b31ec9b296e"
+hash = "47fd5ece552ebba7fecf67f79682da18704622077537c65f15b2d7144eb92d0e"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/ru_ru.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/sk_sk.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/sl_si.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/sq_al.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/sv_se.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/th_th.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/tr_tr.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/tt_ru.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/uk_ua.json"
-hash = "5afefab79dafd2bebe44c7227d333d0739b09fa3f64e389de6a43e52e36819aa"
+hash = "e0fd98d1ac5931597d4b50229ba63f49bd7804fbedda94d3ba1c5685ca45891a"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/vi_vn.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/zh_cn.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/resources/minecraft/lang/zh_tw.json"
-hash = "3facd973bc80c3b0ff17c0ff285b26c5a1de03ac7f7d7cd7385c2fd8b3c14fd6"
+hash = "a5d816b1288585aa353325f6023ee00d2e6e5ef0568adeb343a267f384b83c17"
 
 [[files]]
 file = "config/yosbr/config/screenshot_viewer-client.json"
@@ -830,7 +894,7 @@ hash = "7274b750a9257a7134915f43a4ea29554e44e77e36fe7f1d9c0d2e91cf2ed6ab"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "27c72f1a655fe190622c59be167c63a4206abc8cefab88f89b38784fb5e2a664"
+hash = "b653163623d1435a19b5353f754bc4c7aff9885cc53e76ad456efcac698f9797"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -838,7 +902,7 @@ hash = "a221c915e5f4b26bfac5a22f85fc8f888deedc30ad7d4158301e6c5fdcb48cbb"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "5266adaa56f7e459f4cbb2ccba4b83babf8b3f15621a011ea58e627e925b65a5"
+hash = "1869f392bc248b0699838ee62fdca07386db10398930a2df2d0c76384df04c61"
 metafile = true
 
 [[files]]
@@ -887,11 +951,6 @@ hash = "8f39c1f9a2a5856bc40ccfd3414f8d0e0ec90429dadf4aaf2333790bdcb727cb"
 metafile = true
 
 [[files]]
-file = "mods/boathud.pw.toml"
-hash = "48ceaab5d82bb798606cd8518ba4042f9495b027893984ed320160c36204aafa"
-metafile = true
-
-[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
 metafile = true
@@ -928,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetica.pw.toml"
-hash = "3031ef1f53254993532cb4570b8862b770947db0d54eb0c3cc578ed3ae0cf8b2"
+hash = "ef21d3fb65609b82b481218991b7d2d4039dcb79c549ded2c2e7f6ea07d4b383"
 metafile = true
 
 [[files]]
@@ -953,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "1dbe47015d8af389ad3d4644b723120e206c741ebccf642a358f7cb820235ffb"
+hash = "d230b414850bab2828f609984db998d1cbb0332d4073a4d845a9e180bf60d4cc"
 metafile = true
 
 [[files]]
@@ -963,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "683d84c667019427bcdf2bd17285175a42e01c05a95dc61ef22e864a10e2e16c"
+hash = "830e624e5d524333af08910b3b7ec318e97a076eb0e1f98110f272f9256253b2"
 metafile = true
 
 [[files]]
@@ -1107,6 +1166,11 @@ hash = "d18d104455a86bebd3f29deaf3458258674ea053d96e7b8fb5711cfea227fc20"
 metafile = true
 
 [[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "ca7d025ee67dab1786330bb59acfc1f264ce5c447bde2c82448296efd5359127"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
 metafile = true
@@ -1118,7 +1182,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "4ade92b68eb963ad78a9eb5085205368a1e1399fdea67718b70de21f3eeb8453"
+hash = "a9f01e311a82907d5733561ea54f23fedcca74554afd976891a535786f08923e"
 metafile = true
 
 [[files]]
@@ -1158,7 +1222,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "b974c01ccf84be2b6844f6d501f06c343f515662c32b11f0de5047a37959f88d"
+hash = "cce4a0e481f15e63e067f2a571fb53cf4b8d30a63c06a70c5e76792eb48a4c77"
 metafile = true
 
 [[files]]
@@ -1228,7 +1292,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "ceb94edfc5b41ff9b41a96a0aa17463841be9ff000fb1e5c4e37331cab4c9048"
+hash = "c45a96085535a7afd19820a1a2547dc5c3a732b85650b854b7a573a92958ef4a"
 metafile = true
 
 [[files]]
@@ -1247,31 +1311,6 @@ hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true
 
 [[files]]
-file = "resourcepacks/alacrity.pw.toml"
-hash = "97a3df9625fd192c720369a0f6cafb599dc2b4937244edf572977cdbdf822d1f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "69fef7a3d0df54b2f553955e226abbeffb2db8e1784eb92c305eca8f76ec2a89"
-metafile = true
-
-[[files]]
-file = "resourcepacks/faithful-32x.pw.toml"
-hash = "e51a170a3403f369b07608ad5388354708f9fa633b443e821a65ea5a3a0e9937"
-metafile = true
-
-[[files]]
-file = "resourcepacks/faithful-64x.pw.toml"
-hash = "31874e13fc74832153432cefc275151dc1d8017eb19593efccd436d9baca4eca"
-metafile = true
-
-[[files]]
-file = "resourcepacks/pixlli.pw.toml"
-hash = "d8c25ec29d0bb6ce3408fe16748d9a184ca67d04fd3af2ce7ce306eca5385af6"
-metafile = true
-
-[[files]]
 file = "resourcepacks/reimaginedguidark.pw.toml"
 hash = "7ab61d22a9caf33f9c410fab92111581364b90b354b2a7147d11ac5bc7e3e005"
 metafile = true
@@ -1279,49 +1318,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/reimaginedguilight.pw.toml"
 hash = "c154cc5b1e15cf94680e5dc6db5506d01049960e31ad99be101b925056816096"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rotrblocks.pw.toml"
-hash = "97eabe333e9fcb3f85478a86fa266ae01cb2b2804e4110c6a2eaa24d82c7f6d0"
-metafile = true
-
-[[files]]
-file = "shaderpacks/arc-shader.pw.toml"
-hash = "49a0ee2486d75902dc8d6fd0053f81bbeceecdaf7d7f963a433990bb31d535e7"
-metafile = true
-
-[[files]]
-file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "67b9869a6115164afaa3747142a4a971a09789b6d89d2451888ab31d7ab5bfb8"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "93cc3c55259d0adef692cb4dda0ec348dab9f99b66b39e67f365ab5a1f070da2"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-shaders-v4.pw.toml"
-hash = "c3b7d6c27249a7727712d1a884e40e3837d692de32d357d747fcabdded23d649"
-metafile = true
-
-[[files]]
-file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "a3428a3954ff0029d90c7184047d81c7f2091ac679e500aace22290c32010472"
-metafile = true
-
-[[files]]
-file = "shaderpacks/shrimple.pw.toml"
-hash = "5278e03c761883c72be4f3afb5c06119e2cfc333ed80a1608734d922e070619f"
-metafile = true
-
-[[files]]
-file = "shaderpacks/solas-shader.pw.toml"
-hash = "50ca37438eae5a655f61902d7e498469f0cceddbb6ea42b4648001be50d3af5e"
-metafile = true
-
-[[files]]
-file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "1683c77bd28b838c8e79222036a0ecd0ae040d07f61f752faab6fbdf3672f1fb"
 metafile = true
