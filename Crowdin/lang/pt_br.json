@@ -1,4 +1,7 @@
 {
+  "lifemc.copying": "All rights reserved. © 2021-2024 LifeMC Studios.",
+  "sodium.option_impact.low": "Low",
+  "sodium.option_impact.medium": "Medium",
   "sodium.option_impact.high": "High",
   "sodium.option_impact.extreme": "Extreme",
   "sodium.option_impact.varies": "Varies",
