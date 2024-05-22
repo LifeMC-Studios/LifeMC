@@ -91,12 +91,14 @@ body:
       label: 🚀 Launcher
       description: Which Launcher do you use?
       options:
+        - LifeMC Launcher (In development)
         - MultiMC
-        - PolyMC
-        - Prism Launcher
+        - GDLauncher
         - ATLauncher
-        - Modrinth App (Beta)
+        - PrismLauncher
         - BakaXL
+        - Modrinth App
+        - Other
     validations:
       required: true
 
