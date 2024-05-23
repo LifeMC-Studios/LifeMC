@@ -874,7 +874,7 @@ hash = "a221c915e5f4b26bfac5a22f85fc8f888deedc30ad7d4158301e6c5fdcb48cbb"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a296a8a5aae6a7a4dfdc792a6f24e531fe7ce8ddf1cbb03a977d3850d310267f"
+hash = "a59f0bbb86b7622aa6f547ceceab1154a707458ecf2d7a46bcb9b86e2829e41f"
 metafile = true
 
 [[files]]
@@ -989,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "fb2c4c5e71a3b55e97699bcc806e123fecc91367f6a77dd00b079f00fe52eb5f"
+hash = "7e15872917ab8c80d5e9fa20fe98325bd8a90321d6fcb9c1dc44f72af93b912c"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -1024,7 +1024,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "f07b4524f0edbc5d00d2406a4483ba7247fc6ad2ab6f163c85d63c3f8ba11f0f"
+hash = "c9bd5e366b534e7cb010f08d62ed232f23afd4d95603ddba95cdcea68ca797bf"
 metafile = true
 
 [[files]]
@@ -1154,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e091e4504eee68faf2a596a85f63e13aa18c06ff87ee6908ad3fd5d465cf4169"
+hash = "9d4da3c5d463e55a7b7874d2ee86229adb1646a82f435b00b8fb7cf635e72241"
 metafile = true
 
 [[files]]
@@ -1199,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "5da67c7cfa184136f6497333901c78261c6912d1497bac1df94df8560500cea9"
+hash = "bde17e08dc64ae3fcadfd255eb3201d78b7604941878f5009fc7d0f5454e3fcc"
 metafile = true
 
 [[files]]
@@ -1264,7 +1264,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "b62ee11265b72c1389f5b6a05a60f4f69ce0ab75f221e3476a42b1e94600c44f"
+hash = "52141e0402aaf7bb8c8e75612fd6d8f866da4263e18856d540346062d0f4c17e"
 metafile = true
 
 [[files]]
@@ -1279,10 +1279,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguidark.pw.toml"
-hash = "61b7fd40eac58bec304c87723e5242e22598dc00ab5a051333d168ab3e4fdef0"
+hash = "5920ccad99363794a0c3ca26eb822e241bf9aced47ffbde653068e36aa6b604c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguilight.pw.toml"
-hash = "ff90b8b5bfeac51616dbaadbabf00fbbb1ca822ae373b85d89bae5c2435e6860"
+hash = "33764f58448e31b3b4f3bec12d28587697e731a781b798b15cbf8d8f8c8b5784"
 metafile = true
