@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "overrides": {
+    "fabricloader": {
+      "+depends": {
+        "fabricloader": ">=0.15.11"
+      }
+    },
+    "minecraft": {
+      "+recommends": {
+        "LifeMC": ">1.0.7+1.20.4"
+      }
+    },
+    "rebrand": {
+      "-depends": {
+        "minecraft": ">=1.20.4"
+      }
+    }
+  }
+}
