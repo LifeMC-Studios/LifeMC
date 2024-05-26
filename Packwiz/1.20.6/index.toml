@@ -586,7 +586,7 @@ hash = "b202d3ec38e74882983208de991c4a3669f4f51eda2710c6e5f6fc247401bce1"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "8680b3c53eaf2e02339d990c92a6aa71621b56409ac45593d8289a9d04136d7e"
+hash = "ca09e11c7f3dad13f17cb51462422bc6eaa6150bbac944f8bb2c487a7b0932e2"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
