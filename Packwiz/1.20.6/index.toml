@@ -1118,11 +1118,6 @@ hash = "d43bd7ab1861c7aed8a8dd243488bf64b07f70fbc24c207cb2e86cff86dc0e09"
 metafile = true
 
 [[files]]
-file = "mods/map-compass.pw.toml"
-hash = "1b0fd9f7679f73e360b983cc0c15f42b8ff130c4cdabafa72e6ec96028d2fcd5"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "bf4de1e2d9035914c21eaa28a66be9c790abc4ffba852f80181a3224d16e3999"
 metafile = true
