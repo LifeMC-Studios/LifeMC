@@ -458,11 +458,11 @@ hash = "e86403aaa5a5662a69fdef1f820461fc29573e2485a53284af021e142c75966d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.dark.txt"
-hash = "1728005b240d3168f4f71674721c9929acaf4f3898fdbd153df3b77f0fa68cac"
+hash = "e8ed20de90e9f4cac9c1feb4fa02c5a6ae9a58ce5af691a00cf93a42b1c7c1b9"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.light.txt"
-hash = "4e7b674f5debac875ea9bbf0965d1a7069d56eaa91c087349f40085d1d79a2dc"
+hash = "9e4b59f52f874b80397758063668a7c34578378ca7fdf8706b982ad410fc77ff"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"

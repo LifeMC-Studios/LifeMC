@@ -101,7 +101,7 @@ element {
   fade_in = true
   fade_in_speed = 1.0
   anchor_point = bottom-centered
-  x = -60
+  x = -80
   y = -57
   width = 160
   height = 14
