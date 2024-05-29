@@ -103,7 +103,7 @@ element {
   anchor_point = bottom-centered
   x = -60
   y = -57
-  width = 120
+  width = 160
   height = 14
   stretch_x = false
   stretch_y = false

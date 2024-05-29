@@ -86,35 +86,35 @@ hash = "e9317c2934e6a086ecd78c64d688a453227b1c4532bf68eea306601887afa1b1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "f347588231c8600a6d1c8e360cb179e8f5e6472ae2c746dce7140f43b62f824f"
+hash = "b089588f5c07b013860d9d21ce7dfba07a7ee242e27ec98b2604cd8185d6c627"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "851361e3257cb931120d15e20d3807f2ad84ab2cbae4ca9e30bd7753645cac0e"
+hash = "cc656291423adfe73631e1130e9c7c4f92c0d2a5b4f8653aac39a230c91db3d0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "a1f487da10efa7531d9791a783861c26521357e6336bd66249689b09f6a7005c"
+hash = "e08d954e0a9f6aba4dd51c292e8c94daf86238037e918f7fc75f4f1f0c0f9e99"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "5b8584d1868302f2225adb39675dbed2032e7afd6f57616ddb77fb0833010118"
+hash = "d9a418c5a1aac41e799d8a45885e5dd65c58fd9406f3eba1a6a24ca13262e480"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "a5b38b64bef1fa045d8e8565a2a023d6558807edfa9e31dc2725053ed9973198"
+hash = "eead42fd2d9a8e87db1cc6d54ed2007ab12ed28b08fecb6a810922ca6aafd2b3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "710bdfb5344d0fc5652059cc612993418d8dace8da739c2bb9166298ca2fd330"
+hash = "c758ef4c30b7450ac4e1b1283a9628dd13783eb976cc285c785d92be266e4042"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.dark.txt"
-hash = "373204e1aa4a3d208cc2ae116e580c402e299fff1ff8767c6ebabb1aa140171e"
+hash = "2b165bf1be54407c2bb3bca076f7fac1415f64deb9fa591f4c1a0220882978b7"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.light.txt"
-hash = "3e1308dd4ae45b482a623809b156c703152beeddd126868f455a93d14e233e7d"
+hash = "30b4dde465c5edb3c181532dcbdfbd89810824e03427009e23d7e4340813e9d9"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/extensions/fmaudio/config.cfg"

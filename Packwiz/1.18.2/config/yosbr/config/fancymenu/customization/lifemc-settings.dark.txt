@@ -80,7 +80,7 @@ element {
   anchor_point = bottom-left
   x = 6
   y = -30
-  width = 120
+  width = 160
   height = 14
   stretch_x = false
   stretch_y = false

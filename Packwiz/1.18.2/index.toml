@@ -434,35 +434,35 @@ hash = "ad0fbbe867026bd91901bb9e0304a3d32e03a49273e9139a423fdcee4b9230c5"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "e547cc3e0ca7cc2f2d040b8ef5ea221ee3d655c215b74927df490c81d8c9bdf9"
+hash = "59e54304c83e6baa273067ea1aea5b1dfacae9f0da0a3d2e41d4663aa8b102e1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "fbc2afa0ed1ad8d4ee641992b071b616b2cec126eff4c9e5c2f82f820ecb8cf1"
+hash = "52b305f76e2a6f6c56d10ad65e8f45eeaa1a22770c0b5fdc4befbf6f88dd3b0e"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "97b5d817550290591e42637b9a8b859900e4ccbcd7bcddcd0f5a9bcb7d4f524c"
+hash = "31c17ac80f5c6b63a2b9cdeeab06327168af4f3cbe6ca833f5fa56220929e154"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "6419612a3d44bc99a4c2f6eb2cac7231d7d05150393251a18340c5e260965b50"
+hash = "f47c24779d51a373a166def4e38cd0d5c6f217ea0b95ae59d91b92b7bf8d06e2"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "b8fb54ca098404e99148cbd2f105bb8b12f5b3eef0ea29b076ff0b5d074f1e8f"
+hash = "fe19a5ab034ec55264a4f8878e7f45825440304c877e52844433a877855e2d35"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "f887cb38c019161727d74e77a8b0bd998f75be6054be1beffc97207242fd8704"
+hash = "e86403aaa5a5662a69fdef1f820461fc29573e2485a53284af021e142c75966d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.dark.txt"
-hash = "8f98d6d0802537f6c96eb988d7b97d499203d83a3dac4b3c952816856cba3290"
+hash = "1728005b240d3168f4f71674721c9929acaf4f3898fdbd153df3b77f0fa68cac"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.light.txt"
-hash = "98ebdb9356d208292dc56fb08cf667b6e37021a67fdbca1fdbcc8f7cfe5717e9"
+hash = "4e7b674f5debac875ea9bbf0965d1a7069d56eaa91c087349f40085d1d79a2dc"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
