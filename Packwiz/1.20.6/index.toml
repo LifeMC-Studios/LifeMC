@@ -1138,11 +1138,6 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
-file = "mods/moddetectionpreventer.pw.toml"
-hash = "afab2fbd384fd1f093b7b6d1500d3227c129223b4a6e2ee62ed43b63bfae8f1d"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
 metafile = true
