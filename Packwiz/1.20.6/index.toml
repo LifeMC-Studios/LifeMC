@@ -691,11 +691,6 @@ hash = "31f20c01eee180bdadebe7e3ac6c94a2292124cc121a9ae8a0557a0568532c66"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
 metafile = true
@@ -756,11 +751,6 @@ hash = "99b1060fa083ca355f35f09fe02ef04832a313cff855de8522fd1766164e0082"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7bc062e46f4919feb0edac897a5db36ee1073abff7de2e90cd18301f8df0bb98"
 metafile = true
@@ -773,11 +763,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "6cab3a465a9eda189b2fe3d3bbc2c1f3348e02d71c854758d84c51aa78f94b53"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
-hash = "350e3aa46726c4ce33c9c383c673ab131c76c9015b5aa8c5532521beed1dfca4"
 metafile = true
 
 [[files]]
@@ -858,11 +843,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "1b02ffc524987017adbc0a9413f2b53285f4c55247a0943d7de121c68d714a1f"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "d398662ae6e9d87e89384ba50a9787dbeb9425902a18b0cd8239efd0b966b453"
 metafile = true
 
 [[files]]
@@ -956,11 +936,6 @@ hash = "8be9dbb2abf2cdd5fb92f8fb64884a109fff9669c21e7f2c0aa1c31196ffd868"
 metafile = true
 
 [[files]]
-file = "mods/raised.pw.toml"
-hash = "a39d62fa0ae0067676767e1dd45c2cd46d85ee0d6b1784778a0eb0d9ad4ca3c0"
-metafile = true
-
-[[files]]
 file = "mods/rebrand.pw.toml"
 hash = "000bc414377c0729cbc228b41857c7d01437723439280747f79e3639b1ab4b59"
 metafile = true
@@ -998,11 +973,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "726fa7814c0b34a0e86130485e5ba36b37ebd70947c48b8da2c62d039d43f7d8"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "0a3f1684a1e8dd6e46bfc75e1e4de5d441ef9c07e821b23a0fc9fc62f4972209"
 metafile = true
 
 [[files]]
