@@ -1,13 +1,13 @@
 name = "LifeMC"
 author = "LifeMC Studios"
-version = "1.0.6+1.19.4"
+version = "1.0.7+1.19.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e8996e4aa5d2706db82584c70bf7d858db0d9fd07ab8483169f90e76c77b041f"
+hash = "edcd94697a990db7ac322f646c0fb9a79e8b083380f26060c03c0f730f9eee2e"
 
 [versions]
-fabric = "0.15.10"
+fabric = "0.15.11"
 minecraft = "1.19.4"

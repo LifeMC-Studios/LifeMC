@@ -3,11 +3,11 @@ filename = "ReimaginedGUI(Light) 1.19.4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6seZEdkp/versions/4DBGHENu/ReimaginedGUI%28Light%29%201.19.4.zip"
+url = "https://cdn.modrinth.com/data/6seZEdkp/versions/5rKgnbdv/ReimaginedGUI%28Light%29%201.19.4.zip"
 hash-format = "sha1"
-hash = "be64a4fbf001d2db5fb2d415c01ba7b80aac99f7"
+hash = "6838b16e85ef20a861f7222ffe86503ea63f2544"
 
 [update]
 [update.modrinth]
 mod-id = "6seZEdkp"
-version = "4DBGHENu"
+version = "5rKgnbdv"

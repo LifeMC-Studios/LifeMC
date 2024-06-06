@@ -270,7 +270,7 @@ customization {
   source_mode = direct
   line_spacing = 1
   x = 6
-  width = 120
+  width = 160
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = b7ab23ca-29c7-4c70-9e2e-f8f99a7f59001686991311090
   y = -30

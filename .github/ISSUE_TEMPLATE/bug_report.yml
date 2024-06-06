@@ -78,6 +78,10 @@ body:
         - 1.0.6+1.18.2
         - 1.0.6+1.19.4
         - 1.0.6+1.20.4
+        - 1.0.7+1.18.2
+        - 1.0.7+1.19.4
+        - 1.0.7+1.20.4
+        - 1.0.7+1.20.6-alpha.1
     validations:
       required: true
 
@@ -87,12 +91,14 @@ body:
       label: 🚀 Launcher
       description: Which Launcher do you use?
       options:
+        - LifeMC Launcher (In development)
         - MultiMC
-        - PolyMC
-        - Prism Launcher
+        - GDLauncher
         - ATLauncher
-        - Modrinth App (Beta)
+        - PrismLauncher
         - BakaXL
+        - Modrinth App
+        - Other
     validations:
       required: true
 
