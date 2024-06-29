@@ -986,11 +986,6 @@ hash = "6d21a347378e31e1c7c07a682a52c6797291d9f756c2989501ccf99cf935f2e6"
 metafile = true
 
 [[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "ffc76d7edec9ba9277e5cdc015b70de327b8ed485a8da87efb27ca9b02db9c24"
-metafile = true
-
-[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "98bed93269e490532d84cf27cff645a531d0d27a1088816298517e5f1afcd621"
 metafile = true

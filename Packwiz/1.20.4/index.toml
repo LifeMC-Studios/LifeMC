@@ -1005,11 +1005,6 @@ hash = "f784aa3d8fe36cdf2ea5f2539a779b988c587ed03e5864935822552befdf0591"
 metafile = true
 
 [[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "0a3f1684a1e8dd6e46bfc75e1e4de5d441ef9c07e821b23a0fc9fc62f4972209"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true
