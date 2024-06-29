@@ -730,6 +730,11 @@ hash = "c3662cbc5442ed5602e7aa3752ed8d52d39df267ddfad5f7658235824d71bcc0"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "ff6bcf0e9c1c730e13992405c3745dcab21cc249fd48b695310b559d38922cc9"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "4b8bc0f4df623f14f6777a67f4855c2aba710312daff3466e0b9947f79d27141"
 metafile = true
