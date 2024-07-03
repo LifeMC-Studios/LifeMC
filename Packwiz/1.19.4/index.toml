@@ -49,6 +49,10 @@ file = "config/yosbr/config/cosmetica/default-settings.properties"
 hash = "5e274dba80a23916d9e2f2dfba72c5a190aadcefc1fb4cec0d40af3c753ee3c7"
 
 [[files]]
+file = "config/yosbr/config/craftpresence.json"
+hash = "2978ec0aa7000ba48167e435500baeae170d07d9abeebbb6084b57edffe122d3"
+
+[[files]]
 file = "config/yosbr/config/debugify.json"
 hash = "20152e1b2a84814d1a7be8e1f83095c40358ef7d5f19e65edfd7c716e7d8efd4"
 
@@ -639,14 +643,6 @@ hash = "537f744fdbd7f9120d572064fb81e82071b31e779c7ef0f4b6cd2e7f9ca18c37"
 [[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
 hash = "3197150af1019ff69919a3616a7e5326b88cc8800725898f958b04152d276ecb"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/server-entries.toml"
-hash = "ddbb32cf3d1660cb691b80851879121a4c8c5ada79995da0b7cd3f6535ed9c1c"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "68dc7f4684e773644fa0d8cb50132bb9b2db4aefb269ce5b7b9a733334ae4db5"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"

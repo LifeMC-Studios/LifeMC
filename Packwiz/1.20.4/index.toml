@@ -617,14 +617,6 @@ file = "config/yosbr/config/shulkerboxtooltip.json5"
 hash = "3197150af1019ff69919a3616a7e5326b88cc8800725898f958b04152d276ecb"
 
 [[files]]
-file = "config/yosbr/config/simple-rpc/server-entries.toml"
-hash = "ddbb32cf3d1660cb691b80851879121a4c8c5ada79995da0b7cd3f6535ed9c1c"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "68dc7f4684e773644fa0d8cb50132bb9b2db4aefb269ce5b7b9a733334ae4db5"
-
-[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "1fe4c0b96251b366913a5c036dd47538d060982fc08b4060c4f2092f3393213e"
 
