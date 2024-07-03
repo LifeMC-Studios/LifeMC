@@ -726,11 +726,6 @@ hash = "2fed31299b2a00847b50a85a0980b8232c034d852004cefb46d437134797e6cf"
 metafile = true
 
 [[files]]
-file = "mods/craterlib.pw.toml"
-hash = "4b8bc0f4df623f14f6777a67f4855c2aba710312daff3466e0b9947f79d27141"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
