@@ -3,11 +3,11 @@ filename = "ReimaginedGUI(Dark) 1.19.4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8olVtpyI/versions/gsCfiyo5/ReimaginedGUI%28Dark%29%201.19.4.zip"
+url = "https://cdn.modrinth.com/data/8olVtpyI/versions/PDGsK1n1/ReimaginedGUI%28Dark%29%201.19.4.zip"
 hash-format = "sha1"
-hash = "23f80f4f421d5272efba0cd3a43934a079293c83"
+hash = "f49410898f853425f4e18a820f1b16cc9250e75e"
 
 [update]
 [update.modrinth]
 mod-id = "8olVtpyI"
-version = "gsCfiyo5"
+version = "PDGsK1n1"
