@@ -14,11 +14,6 @@ layout-meta {
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:1f140763-5c9f-4c4c-a8cd-4d676f437bfc1683317060495] = theme:1
 }
 
-menu_background {
-  panorama_name = dark
-  background_type = panorama
-}
-
 customization {
   action = backgroundoptions
   keepaspectratio = true
