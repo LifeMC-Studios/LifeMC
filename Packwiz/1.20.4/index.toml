@@ -681,11 +681,6 @@ hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "5cc5a514cc9b8567abda1d5860a8ac3afdf868906caf9bd24c6c534943e1fb4c"
-metafile = true
-
-[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "56858401a04d2a60d3f7cd26e54be4dc4414b5e439e989733ccd9b8ba7fc7ec2"
 metafile = true
