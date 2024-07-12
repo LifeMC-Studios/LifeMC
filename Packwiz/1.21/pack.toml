@@ -1,6 +1,6 @@
 name = "LifeMC"
 author = "LifeMC Studios"
-version = "1.0.8+1.20.6-alpha.2"
+version = "1.0.8+1.21-alpha.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "233999a9788e22b3aca842c4a334b321277fba33d82013789c0ef4870608a883"
 
 [versions]
 fabric = "0.15.11"
-minecraft = "1.20.6"
+minecraft = "1.21"
