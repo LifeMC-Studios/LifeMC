@@ -1,13 +1,13 @@
 name = "Visuality"
-filename = "visuality-0.7.4+1.20.5.jar"
+filename = "visuality-0.7.6+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/MmBz7L5w/visuality-0.7.4%2B1.20.5.jar"
+url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/SFpPG1Nz/visuality-0.7.6%2B1.21.jar"
 hash-format = "sha1"
-hash = "ebc201ad791dd780d31d1d90f7004217c5dd4355"
+hash = "a75ab215d54011b669146a47d84b75c1fa9eabe4"
 
 [update]
 [update.modrinth]
 mod-id = "rI0hvYcd"
-version = "MmBz7L5w"
+version = "SFpPG1Nz"
