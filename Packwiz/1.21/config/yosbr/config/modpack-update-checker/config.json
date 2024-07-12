@@ -1,10 +1,10 @@
 {
   "schemaVersion": 7,
-  "currentVersion": "1.0.8+1.20.6-alpha.2",
+  "currentVersion": "1.0.8+1.21-alpha.1",
   "modpackName": "LifeMC",
   "modpackAuthor": "LifeMC Studios",
   "modpackReleaseType": "alpha",
-  "updateCheckerId": "https://raw.githubusercontent.com/LifeMC-Studios/Modpack-Update-Versions/main/1.20.6/",
+  "updateCheckerId": "https://raw.githubusercontent.com/LifeMC-Studios/Modpack-Update-Versions/main/1.21/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
