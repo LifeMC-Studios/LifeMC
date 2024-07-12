@@ -747,6 +747,11 @@ hash = "e72107c4e4156546f3ad34e0c8c759438e0971b3d096ca2be00cfd81d1570d6d"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "316c9b6fa7e755915125409bd2a0a8b3f732534f794e8db4a5b2feac91ad573e"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3fe83af238470ff52ceeeca5c9da3f894d21312b300b4afe9e46f30d8147ebd3"
 metafile = true
@@ -924,6 +929,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "8be9dbb2abf2cdd5fb92f8fb64884a109fff9669c21e7f2c0aa1c31196ffd868"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "944704ba09406e56e6af5c38bc5b721be5e5c9a59e74f223468a26e601b414d2"
 metafile = true
 
 [[files]]
