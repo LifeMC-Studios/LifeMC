@@ -1,0 +1,13 @@
+name = "CompleteConfig"
+filename = "completeconfig-2.5.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GtqG8z1h/versions/cpUXa32T/completeconfig-2.5.4.jar"
+hash-format = "sha1"
+hash = "8d8beb424ba8130b3730ff623e1a15cc5ffe4a3e"
+
+[update]
+[update.modrinth]
+mod-id = "GtqG8z1h"
+version = "cpUXa32T"
