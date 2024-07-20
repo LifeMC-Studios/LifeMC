@@ -663,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "d5d5a84d3e69d104b1353246de2a886f374417b21c0bb07c828fe3fe0bda9207"
+hash = "e84cfa4dae34fe7464b6ec4e2a500da8224c390569d87c7332b10d09bd4e5789"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "7494ae8e888e32baf72312266fdf53419c5f3b52908fde66dc0a160cdbed4e2c"
+hash = "11699829fc65c378c5bcccbea9375304ce6194aed18d2f02ee733ed44879efb4"
 metafile = true
 
 [[files]]
@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "e72107c4e4156546f3ad34e0c8c759438e0971b3d096ca2be00cfd81d1570d6d"
+hash = "970a31dfcdfcea353fbd2b79fd5a21dc4e1b15113fb7f26e6b8caecd7d0ca354"
 metafile = true
 
 [[files]]
@@ -763,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
 metafile = true
 
 [[files]]
@@ -868,7 +868,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6c4021c5cf9017223bbc5dc0c735087baf39aa67a2d2f86e22c64b999e9efe79"
+hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
 metafile = true
 
 [[files]]
@@ -883,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "9d76e9b5d107004c51e91c33404a9e22f03770420e3cf6a49bc1393b6f9fe3c3"
+hash = "cce89b418e7dd00df7d58eb6556472385aff2f2934c4bfde1b7a2dcd3b1d17cc"
 metafile = true
 
 [[files]]
@@ -908,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/paperdoll.pw.toml"
-hash = "a995d19c6d9d1f98948f34df27ede8f1deef80baa8f85637a097947b8e24ed23"
+hash = "b8d27757f743c9e14037061fc53a8e0d6b1f614ea910c197086c8d6c051418fb"
 metafile = true
 
 [[files]]
@@ -933,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
+hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
 metafile = true
 
 [[files]]
@@ -963,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "1266b1060e6eb2ee5abea378b641849afb6cd8eec11e8831789285b6b5c5dfb7"
+hash = "a209ef61887a056dbefb45bd8ee316e770afa85c3b96ac95f13846761764f6d3"
 metafile = true
 
 [[files]]
@@ -978,12 +978,12 @@ metafile = true
 
 [[files]]
 file = "mods/symbol-chat.pw.toml"
-hash = "28d434abedadaace5ab79a7d16a54b76fb5b8f1aaa1e35618efb0fd26e387aa8"
+hash = "3df49ec1caa376a7889a84d4e4f7c758a4aac4085a199e4988e952650ae7b117"
 metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "2252104afddb9f597d4e3daacc780506b3bb693a514ca24bba63527e45629f1b"
+hash = "9ce0d6322b997a5ab5dd2bd66f9491e0baf714b35f42d67adfecc75b9620af08"
 metafile = true
 
 [[files]]
@@ -993,7 +993,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "55f70f181fe81201201f2a1e82f462c67ef103e02e3b7b79c17369ca2a6ad6bc"
+hash = "6cb2a4cd4eb40eaf19bbb54a6d8fa23643470147e86e19fe04b820e170998ed3"
 metafile = true
 
 [[files]]
@@ -1033,5 +1033,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-lifemc.pw.toml"
-hash = "815be1f9eb13d7a29a1cee8c16718a5e578cd9090812aac207aded58fc6f1ded"
+hash = "a70bc2c80c4d585e32608f608d58a11561c59c967a3ea34b6f0ddbd660f1b0c5"
 metafile = true
