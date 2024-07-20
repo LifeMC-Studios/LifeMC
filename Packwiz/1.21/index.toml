@@ -647,11 +647,6 @@ hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
 
 [[files]]
-file = "mods/antighost.pw.toml"
-hash = "a1323e5f66dc9600ab40612bf705472425daf7f4ccf1037b921c25ddade0dac7"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
 metafile = true
@@ -669,11 +664,6 @@ metafile = true
 [[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "c8af4c8bd0a07e4eef4d9c2ad3756b2ca2f8d9ed84e76608626096a9309341dc"
-metafile = true
-
-[[files]]
-file = "mods/boat-item-view.pw.toml"
-hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
 metafile = true
 
 [[files]]
@@ -704,11 +694,6 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "45b274a21c31e0150f8984479ade9ad970d6dea8af8b65109ac711d946817568"
-metafile = true
-
-[[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "23d47a8dd394dfd847a4b59f7813798765439a9c2bdcb54bb98fd7a96eac123b"
 metafile = true
 
 [[files]]
@@ -789,11 +774,6 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "e93c516f9469293e640ce54f0c2955014951b3aa0d0ef8110f94bc96fd4dd946"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "7004d6d04c19eaa92fda0b47ac70b7c85987c47cc1431313014c5e9367679173"
 metafile = true
 
 [[files]]
@@ -922,11 +902,6 @@ hash = "b36d95833b8ec416f259a52e367f9e31e5f2b770be844f08abec6553335205c2"
 metafile = true
 
 [[files]]
-file = "mods/raised.pw.toml"
-hash = "944704ba09406e56e6af5c38bc5b721be5e5c9a59e74f223468a26e601b414d2"
-metafile = true
-
-[[files]]
 file = "mods/rebrand.pw.toml"
 hash = "000bc414377c0729cbc228b41857c7d01437723439280747f79e3639b1ab4b59"
 metafile = true
@@ -944,16 +919,6 @@ metafile = true
 [[files]]
 file = "mods/satin-api.pw.toml"
 hash = "b3c5a875a20aa12e1567bba1e95c099c5248917776a6118ef50ea74d1613a5c2"
-metafile = true
-
-[[files]]
-file = "mods/screenshot-viewer.pw.toml"
-hash = "23430c2394c8537cdc8e3072296beca671a5926ea53312f3d53f3e5c1d0338e5"
-metafile = true
-
-[[files]]
-file = "mods/seamless.pw.toml"
-hash = "be222778d10e4959d2ae852a2d7d21b200e728302e4c4fa9527699c40077ca21"
 metafile = true
 
 [[files]]
@@ -984,11 +949,6 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "9ce0d6322b997a5ab5dd2bd66f9491e0baf714b35f42d67adfecc75b9620af08"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
 metafile = true
 
 [[files]]
