@@ -651,8 +651,7 @@
       }
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png",
-      "Nukecraft5419": "https://mc-heads.net/avatar/cfc1614bac8f4dd1a4de5b172173abe4"
+      "default": "https://via.placeholder.com/256.png"
     },
     "dynamicVariables": {
       "default": "Example Text",

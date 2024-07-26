@@ -46,7 +46,7 @@ hash = "5e274dba80a23916d9e2f2dfba72c5a190aadcefc1fb4cec0d40af3c753ee3c7"
 
 [[files]]
 file = "config/yosbr/config/craftpresence.json"
-hash = "f1a7bcbb626211dbf93183f4ad997a6997ff95f2e6acb89d8db04a00491a95f5"
+hash = "38bb1a419af37fc2b21b0805bee47eea31d698e54b2f09bbf10e119da066c8ea"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
