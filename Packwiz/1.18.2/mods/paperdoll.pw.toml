@@ -1,13 +1,13 @@
 name = "PaperDoll"
-filename = "paperdoll-fabric-1.2.0-mc1.18.2.jar"
+filename = "paperdoll-fabric-1.2.1-mc1.18.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/edwFXb9k/versions/kwUJSRAo/paperdoll-fabric-1.2.0-mc1.18.2.jar"
+url = "https://cdn.modrinth.com/data/edwFXb9k/versions/1XfZw8om/paperdoll-fabric-1.2.1-mc1.18.2.jar"
 hash-format = "sha1"
-hash = "f0d055299383f75018c70a3d8205baeed55e6670"
+hash = "38cfe01611ad9bca26ee2dae3007bdebbc514beb"
 
 [update]
 [update.modrinth]
 mod-id = "edwFXb9k"
-version = "kwUJSRAo"
+version = "1XfZw8om"

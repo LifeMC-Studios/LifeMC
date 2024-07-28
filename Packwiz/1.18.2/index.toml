@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "dffa8b3c3c7e3a173750ace932d27632c6ecd6f110c6b0c9cf066dd1b34a9e1b"
+hash = "8471bf6cb95d3ecfea9157db71da38d09c8f842e25fd493b1e2bc9c403beb012"
 
 [[files]]
 file = "config/lifemc.json"
-hash = "792af2b8d6ce27b53e1db35d83811ba4eee1fc9f5447f1add4d6afbf3a1c8bdf"
+hash = "9d9c3c6d348783b001b6e4af98d5b7b3f9a0a4e6081a5d9c95595ae21415d19f"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
@@ -35,6 +35,10 @@ hash = "4167fa41a33ceb2e925e5561be5dd1b0e530f0cbae4d1a173773681fab5c0cc7"
 [[files]]
 file = "config/yosbr/config/cosmetica/default-settings.properties"
 hash = "5e274dba80a23916d9e2f2dfba72c5a190aadcefc1fb4cec0d40af3c753ee3c7"
+
+[[files]]
+file = "config/yosbr/config/craftpresence.json"
+hash = "26eb4284e99b11313269aed61f5c1d5e3e7f76b836d7cf5f0d5a37e0ab63a71a"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -450,11 +454,11 @@ hash = "f47c24779d51a373a166def4e38cd0d5c6f217ea0b95ae59d91b92b7bf8d06e2"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "fe19a5ab034ec55264a4f8878e7f45825440304c877e52844433a877855e2d35"
+hash = "d71d01f5588c7abb09c422160427f7861e2516c1d7c2e0e353ebbbf7039974fa"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "e86403aaa5a5662a69fdef1f820461fc29573e2485a53284af021e142c75966d"
+hash = "5f93d58f7b730610da0b7146f79e221a27575869dc38859a2b5ee6edb5a14091"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.dark.txt"
@@ -474,7 +478,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/options.txt"
-hash = "af27ef73c2c52748425f9c497605fd7fab8d89fb40ddf24e0bbbdf4b4e788156"
+hash = "18a2fa86b354395fef214a16659552adb12023964cc8a6cddeb1154a683e7c7d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_0.png"
@@ -578,7 +582,7 @@ hash = "b202d3ec38e74882983208de991c4a3669f4f51eda2710c6e5f6fc247401bce1"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "2c3a1fb7c35e81ada1d6c35f7f8ef2105dedb85bd31d97fce09287ba92e2ba8a"
+hash = "e9e6e90d7bec402a5d8962b6b042dd1b9628ee8b5cb5cf90bc341f854cd5c954"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -609,14 +613,6 @@ file = "config/yosbr/config/shulkerboxtooltip.json5"
 hash = "3197150af1019ff69919a3616a7e5326b88cc8800725898f958b04152d276ecb"
 
 [[files]]
-file = "config/yosbr/config/simple-rpc/server-entries.toml"
-hash = "ddbb32cf3d1660cb691b80851879121a4c8c5ada79995da0b7cd3f6535ed9c1c"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "68dc7f4684e773644fa0d8cb50132bb9b2db4aefb269ce5b7b9a733334ae4db5"
-
-[[files]]
 file = "config/yosbr/config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
@@ -642,7 +638,7 @@ hash = "4bc7888df93a73dd6638a3893cb082c4efc3b98d01755a5f80435fe845ae457f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a59f0bbb86b7622aa6f547ceceab1154a707458ecf2d7a46bcb9b86e2829e41f"
+hash = "63400d25e56df7e4806fafd9ef1f91ba170d688448781b8c04cadd6ebf45d200"
 metafile = true
 
 [[files]]
@@ -726,6 +722,11 @@ hash = "65fffd1bd781eb0fc3ec6e0d98117c882116b8b33f3a77b7db8bd4125f5c798b"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "8943ee4b2193c87c92bc45f87f1883d025d75ad38dea5ab48ec415ef88cc75c7"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
 metafile = true
@@ -737,12 +738,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "5504d683b26ab5417ab8960fc1de90642943fa6749e2df353b83555c5a86a76b"
+hash = "076281ce0d9300fe5b3eac95680435a3afd2e30a7b4b34cef731ddc66cabb25a"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "752c962382ff998d9e31a959c124c3a922fd79922b745b0aec52145bea7aa007"
+hash = "e72107c4e4156546f3ad34e0c8c759438e0971b3d096ca2be00cfd81d1570d6d"
 metafile = true
 
 [[files]]
@@ -813,11 +814,6 @@ metafile = true
 [[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "c738d6b16833d8516cd6bcb163964f0e84244944e01e66346fa6747c1a1a817a"
-metafile = true
-
-[[files]]
-file = "mods/imblocker-original.pw.toml"
-hash = "509b70593676a2aced5ca3e0b50cab8768558c9a0b6026ad665ac9d2f9ff19ac"
 metafile = true
 
 [[files]]
@@ -897,7 +893,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "00f45b44a9ea99e24445aa430df43e1ca339d488939fef16c6cb87d6b05b63d4"
+hash = "b5d6e5bb8d74b24d393c1501ca838226d16b7aa5a212b0ceea49b081485b1fb0"
 metafile = true
 
 [[files]]
@@ -907,7 +903,7 @@ metafile = true
 
 [[files]]
 file = "mods/modpack-update-checker.pw.toml"
-hash = "a546a599d8997632d8f09d81196a649525c96dd3b404841634b6c1714d65e5a9"
+hash = "70cf271622c4e5496deb5adeecc332fe9dd776ff8b2e99c189cd61baf3f62db9"
 metafile = true
 
 [[files]]
@@ -917,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "9d4da3c5d463e55a7b7874d2ee86229adb1646a82f435b00b8fb7cf635e72241"
+hash = "5a2955c112a3ded9cbc417fdf9bde29a33615adb4de7fdf1dd10a0fa5b0ff0fc"
 metafile = true
 
 [[files]]
@@ -932,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "mods/paperdoll.pw.toml"
-hash = "630bc0c797c47e5205ac79401d31aae08d73dad01868d159820e58d866a4641e"
+hash = "f9c0d3660203753fc7421da996073f017cdacffa3a7204127cfab3263d0ff5c5"
 metafile = true
 
 [[files]]
@@ -962,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "bde17e08dc64ae3fcadfd255eb3201d78b7604941878f5009fc7d0f5454e3fcc"
+hash = "46135a6773602ddc3adffc09c3da33a4e83128c9f1ee1bdc26b43ce98e5f261c"
 metafile = true
 
 [[files]]
@@ -983,11 +979,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "6d21a347378e31e1c7c07a682a52c6797291d9f756c2989501ccf99cf935f2e6"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "ffc76d7edec9ba9277e5cdc015b70de327b8ed485a8da87efb27ca9b02db9c24"
 metafile = true
 
 [[files]]
@@ -1027,7 +1018,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "52141e0402aaf7bb8c8e75612fd6d8f866da4263e18856d540346062d0f4c17e"
+hash = "ce7e3b3e4cf618bdf24e54c3859019051b9c7112730b8bf6f4df9af42af4cafc"
 metafile = true
 
 [[files]]
@@ -1042,12 +1033,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguidark.pw.toml"
-hash = "5920ccad99363794a0c3ca26eb822e241bf9aced47ffbde653068e36aa6b604c"
+hash = "cf42dcfed03f394e9e8231fb6cc64ece5395242efbbb8eefd9507bfdb748b747"
 metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguilight.pw.toml"
-hash = "33764f58448e31b3b4f3bec12d28587697e731a781b798b15cbf8d8f8c8b5784"
+hash = "ea85e72fe4288651474efd01f7c837ad786ff08a0a2e03a6c54ce1b73e60e7bc"
 metafile = true
 
 [[files]]

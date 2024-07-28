@@ -1,0 +1,669 @@
+{
+  "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
+  "_SOURCE": "https://gitlab.com/CDAGaming/CraftPresence",
+  "_schemaVersion": 6,
+  "_lastMCVersionId": 765,
+  "generalSettings": {
+    "detectATLauncherInstance": true,
+    "detectCurseManifest": false,
+    "detectMultiMCManifest": true,
+    "detectMCUpdaterInstance": false,
+    "detectTechnicPack": false,
+    "detectModrinthPack": true,
+    "detectBiomeData": true,
+    "detectDimensionData": true,
+    "detectWorldData": true,
+    "clientId": "1098488201179562065",
+    "defaultIcon": "lifemc_logo",
+    "enableJoinRequests": false,
+    "partyPrivacyLevel": 1,
+    "preferredClientLevel": 3,
+    "resetTimeOnInit": false,
+    "autoRegister": false
+  },
+  "biomeSettings": {
+    "fallbackBiomeIcon": "unknown",
+    "biomeData": {
+      "default": {
+        "textOverride": "Playing in {biome.name}"
+      }
+    }
+  },
+  "dimensionSettings": {
+    "fallbackDimensionIcon": "unknown",
+    "dimensionData": {
+      "default": {
+        "textOverride": "In the {dimension.name}"
+      }
+    }
+  },
+  "serverSettings": {
+    "fallbackServerIcon": "default",
+    "fallbackServerName": "Minecraft Server",
+    "fallbackServerMotd": "A Minecraft Server",
+    "serverData": {
+      "localhost": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Local test server",
+          "gameState": "",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "default": {
+        "textOverride": "Playing on {server.motd.raw}",
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on {server.name}",
+          "gameState": "Playing online",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "button_2": {
+              "label": "Modrinth - Download Now",
+              "url": "https://modrinth.com/modpack/lifemc"
+            },
+            "button_1": {
+              "label": "Discord - Join Now",
+              "url": "https://discord.com/invite/XRcdUqrY9R"
+            },
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "mc.hypixel.net": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on Hypixel Network",
+          "gameState": "IP: mc.hypixel.net",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "hub.mc-complex.com": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on Complex Gaming",
+          "gameState": "IP: hub.mc-complex.com",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "play.pvplegacy.net": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on PvP Legacy",
+          "gameState": "IP: play.pvplegacy.net",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "GommeHD.net": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on GommeHD",
+          "gameState": "IP: GommeHD.net",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "play.opblocks.com": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on OPBlocks",
+          "gameState": "IP: play.opblocks.com",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "mc.netherite.gg": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on Netherite",
+          "gameState": "IP: mc.netherite.gg",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "fmc.wynncraft.com": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on WynnCraft",
+          "gameState": "IP: fmc.wynncraft.com",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "find.manacube.com": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on ManaCube",
+          "gameState": "IP: find.manacube.com",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "hoplite.gg": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on Hoplite",
+          "gameState": "IP: hoplite.gg",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "play.cubecraft.net": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on CubeCraft",
+          "gameState": "IP: play.cubecraft.net",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "mcl.oplegends.com": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on OPLegends",
+          "gameState": "IP: mcl.oplegends.com",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "fms.mccisland.net": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Playing on MCC Island",
+          "gameState": "IP: fms.mccisland.net",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
+      "127.0.0.1": {
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "details": "Local test server",
+          "gameState": "",
+          "largeImageKey": "lifemc_logo",
+          "largeImageText": "LifeMC - {general.version}",
+          "smallImageKey": "{player.icon}",
+          "smallImageText": "",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      }
+    }
+  },
+  "statusMessages": {
+    "mainMenuData": {
+      "textOverride": "In the Main Menu",
+      "data": {
+        "enabled": false,
+        "useAsMain": true,
+        "details": "{player.name} is currently lazy",
+        "gameState": "Chilling in the menu",
+        "largeImageKey": "mclogonew",
+        "largeImageText": "It's Minecraft {general.version}, but modded",
+        "smallImageKey": "mclogo",
+        "smallImageText": "{general.mods} mods installed",
+        "startTimestamp": "{data.general.time}",
+        "endTimestamp": "",
+        "buttons": {
+          "default": {
+            "label": "Example Text",
+            "url": "https://google.com"
+          }
+        }
+      }
+    },
+    "loadingData": {
+      "textOverride": "Loading...",
+      "data": {
+        "enabled": false,
+        "useAsMain": true,
+        "details": "Minecraft is loading",
+        "gameState": "Game Starting...",
+        "largeImageKey": "mclogonew",
+        "largeImageText": "It's Minecraft {general.version}, but modded",
+        "smallImageKey": "mclogo",
+        "smallImageText": "{general.mods} mods installed",
+        "startTimestamp": "{data.general.time}",
+        "endTimestamp": "",
+        "buttons": {
+          "default": {
+            "label": "Example Text",
+            "url": "https://google.com"
+          }
+        }
+      }
+    },
+    "lanData": {
+      "textOverride": "Playing on a LAN Server"
+    },
+    "singleplayerData": {
+      "textOverride": "Playing Singleplayer",
+      "data": {
+        "enabled": true,
+        "useAsMain": true,
+        "details": "Currently In Singleplayer",
+        "gameState": "Playing lonely mode",
+        "largeImageKey": "lifemc_logo",
+        "largeImageText": "LifeMC - {general.version}",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "startTimestamp": "{data.general.time}",
+        "endTimestamp": "",
+        "buttons": {
+          "button_2": {
+            "label": "Modrinth - Download Now",
+            "url": "https://modrinth.com/modpack/lifemc"
+          },
+          "button_1": {
+            "label": "Discord - Join Now",
+            "url": "https://discord.com/invite/XRcdUqrY9R"
+          },
+          "default": {
+            "label": "Example Text",
+            "url": "https://google.com"
+          }
+        }
+      }
+    },
+    "realmData": {
+      "textOverride": "Playing on {server.motd.raw}",
+      "data": {
+        "enabled": false,
+        "useAsMain": true,
+        "details": "Playing on {server.name}",
+        "gameState": "Playing on a Realm",
+        "largeImageKey": "mclogonew",
+        "largeImageText": "It's Minecraft {general.version}, but modded",
+        "smallImageKey": "mclogo",
+        "smallImageText": "{server.motd.raw}",
+        "startTimestamp": "{data.general.time}",
+        "endTimestamp": "",
+        "buttons": {
+          "default": {
+            "label": "Example Text",
+            "url": "https://google.com"
+          }
+        }
+      }
+    }
+  },
+  "advancedSettings": {
+    "enablePerGui": true,
+    "enablePerItem": false,
+    "enablePerEntity": false,
+    "formatWords": true,
+    "debugMode": false,
+    "verboseMode": false,
+    "refreshRate": 2,
+    "allowPlaceholderPreviews": false,
+    "guiSettings": {
+      "fallbackGuiIcon": "unknown",
+      "guiData": {
+        "default": {
+          "textOverride": "In {screen.name}"
+        },
+        "class_4905": {
+          "data": {
+            "enabled": false,
+            "useAsMain": true,
+            "details": "{player.name} is looking for a Realm",
+            "gameState": "Browsing Realms",
+            "largeImageKey": "mclogonew",
+            "largeImageText": "It's Minecraft {general.version}, but modded",
+            "smallImageKey": "mclogo",
+            "smallImageText": "{general.mods} mods installed",
+            "startTimestamp": "{data.general.time}",
+            "endTimestamp": "",
+            "buttons": {
+              "default": {
+                "label": "Example Text",
+                "url": "https://google.com"
+              }
+            }
+          }
+        },
+        "class_500": {
+          "data": {
+            "enabled": false,
+            "useAsMain": true,
+            "details": "{player.name} is looking for a server",
+            "gameState": "Searching for friends",
+            "largeImageKey": "mclogonew",
+            "largeImageText": "It's Minecraft {general.version}, but modded",
+            "smallImageKey": "mclogo",
+            "smallImageText": "{general.mods} mods installed",
+            "startTimestamp": "{data.general.time}",
+            "endTimestamp": "",
+            "buttons": {
+              "default": {
+                "label": "Example Text",
+                "url": "https://google.com"
+              }
+            }
+          }
+        },
+        "class_434": {
+          "data": {
+            "enabled": false,
+            "useAsMain": true,
+            "details": "{player.name} is joining a game",
+            "gameState": "Joining Game",
+            "largeImageKey": "mclogonew",
+            "largeImageText": "It's Minecraft {general.version}, but modded",
+            "smallImageKey": "mclogo",
+            "smallImageText": "{general.mods} mods installed",
+            "startTimestamp": "{data.general.time}",
+            "endTimestamp": "",
+            "buttons": {
+              "default": {
+                "label": "Example Text",
+                "url": "https://google.com"
+              }
+            }
+          }
+        },
+        "class_3928": {
+          "data": {
+            "enabled": false,
+            "useAsMain": true,
+            "details": "{player.name} is joining a game",
+            "gameState": "Joining Game",
+            "largeImageKey": "mclogonew",
+            "largeImageText": "It's Minecraft {general.version}, but modded",
+            "smallImageKey": "mclogo",
+            "smallImageText": "{general.mods} mods installed",
+            "startTimestamp": "{data.general.time}",
+            "endTimestamp": "",
+            "buttons": {
+              "default": {
+                "label": "Example Text",
+                "url": "https://google.com"
+              }
+            }
+          }
+        }
+      }
+    },
+    "itemMessages": {
+      "default": "Holding {item.message.holding}"
+    },
+    "entitySettings": {
+      "fallbackEntityIcon": "unknown",
+      "targetData": {
+        "default": {
+          "textOverride": "Targeting {entity.target.name}"
+        }
+      },
+      "ridingData": {
+        "default": {
+          "textOverride": "Riding {entity.riding.name}"
+        }
+      }
+    },
+    "allowEndpointIcons": true,
+    "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
+    "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
+    "allowDuplicatePackets": false,
+    "maxConnectionAttempts": 10,
+    "enableClassGraph": false
+  },
+  "accessibilitySettings": {
+    "tooltipBackground": {
+      "start": {
+        "red": 16,
+        "green": 0,
+        "blue": 16,
+        "alpha": 240
+      }
+    },
+    "tooltipBorder": {
+      "start": {
+        "red": 80,
+        "green": 0,
+        "blue": 255,
+        "alpha": 80
+      },
+      "end": {
+        "red": 40,
+        "green": 0,
+        "blue": 127,
+        "alpha": 80
+      }
+    },
+    "guiBackground": {
+      "start": {
+        "red": 64,
+        "green": 64,
+        "blue": 64,
+        "alpha": 255
+      },
+      "texLocation": "minecraft:textures/gui/options_background.png"
+    },
+    "altGuiBackground": {
+      "start": {
+        "red": 16,
+        "green": 16,
+        "blue": 16,
+        "alpha": 192
+      },
+      "end": {
+        "red": 16,
+        "green": 16,
+        "blue": 16,
+        "alpha": 208
+      }
+    },
+    "languageId": "en_us",
+    "stripTranslationColors": false,
+    "stripTranslationFormatting": false,
+    "stripExtraGuiElements": false,
+    "renderTooltips": true,
+    "configKeyCode": 96
+  },
+  "displaySettings": {
+    "presenceData": {
+      "enabled": true,
+      "useAsMain": true,
+      "details": "Playing Minecraft {general.version}",
+      "gameState": "",
+      "largeImageKey": "lifemc_logo",
+      "largeImageText": "LifeMC - {general.version}",
+      "smallImageKey": "",
+      "smallImageText": "",
+      "startTimestamp": "{data.general.time}",
+      "endTimestamp": "",
+      "buttons": {
+        "button_2": {
+          "label": "Modrinth - Download Now",
+          "url": "https://modrinth.com/modpack/lifemc"
+        },
+        "button_1": {
+          "label": "Discord - Join Now",
+          "url": "https://discord.com/invite/XRcdUqrY9R"
+        },
+        "default": {
+          "label": "Example Text",
+          "url": "https://google.com"
+        }
+      }
+    },
+    "dynamicIcons": {
+      "default": "https://via.placeholder.com/256.png"
+    },
+    "dynamicVariables": {
+      "default": "Example Text",
+      "mods": "{general.mods} Mod(s)",
+      "player_info_coordinate": "At {player.position.x}, {player.position.z}",
+      "players": "{server.players.current} / {server.players.max} Players",
+      "player_info_in": "({custom.player_info.health})",
+      "player_info_items": "Items: {item.main_hand.message}",
+      "player_info_out": "As {player.name}",
+      "player_info_health": "Health: {player.health.current}/{player.health.max}",
+      "world_info": "On {world.name}",
+      "pack": "{pack.name}"
+    }
+  }
+}

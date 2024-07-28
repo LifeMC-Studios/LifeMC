@@ -11,11 +11,6 @@ customization-meta {
 }
 
 customization {
-  name = dark
-  action = setbackgroundpanorama
-}
-
-customization {
   keepaspectratio = true
   action = backgroundoptions
 }
