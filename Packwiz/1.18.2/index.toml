@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8471bf6cb95d3ecfea9157db71da38d09c8f842e25fd493b1e2bc9c403beb012"
+hash = "cd022f57e6e34c1e98a938e2e1d41b1ce84b39c81d843475e1fe9b3acf38149e"
 
 [[files]]
 file = "config/lifemc.json"
@@ -582,7 +582,7 @@ hash = "b202d3ec38e74882983208de991c4a3669f4f51eda2710c6e5f6fc247401bce1"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "e9e6e90d7bec402a5d8962b6b042dd1b9628ee8b5cb5cf90bc341f854cd5c954"
+hash = "58cb05fbef4d37483c55bebfd2416db5f99de7f5213eb09ae39e94d049046f3e"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
