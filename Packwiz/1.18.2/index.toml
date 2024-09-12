@@ -577,12 +577,12 @@ file = "config/yosbr/config/modmenu.json"
 hash = "9500f4cde6bc48aca8c31ece468d697105469fc53172bf69cd6ff8819d6ba315"
 
 [[files]]
-file = "config/yosbr/config/modpack-update-checker-info.txt"
-hash = "b202d3ec38e74882983208de991c4a3669f4f51eda2710c6e5f6fc247401bce1"
+file = "config/yosbr/config/modpack-update-checker/config.json"
+hash = "bbe3be451710707540793fa00263e24f30354a05958c5d239afa0a17a2f524a9"
 
 [[files]]
-file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "58cb05fbef4d37483c55bebfd2416db5f99de7f5213eb09ae39e94d049046f3e"
+file = "config/yosbr/config/modpack-update-checker/modpack-info.txt"
+hash = "02f7d6098d97328eb71f4dd97e62280c2152bf37dc169fbee729301fc00c9d19"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
