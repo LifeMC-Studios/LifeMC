@@ -638,7 +638,7 @@ hash = "4bc7888df93a73dd6638a3893cb082c4efc3b98d01755a5f80435fe845ae457f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "63400d25e56df7e4806fafd9ef1f91ba170d688448781b8c04cadd6ebf45d200"
+hash = "d7eac5a1b374284472d7bb0da96c68ec25e4376f1b88c0a73586e105d7e9dfa0"
 metafile = true
 
 [[files]]
@@ -723,7 +723,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "8943ee4b2193c87c92bc45f87f1883d025d75ad38dea5ab48ec415ef88cc75c7"
+hash = "a5852efb744f8b7bd9e920844c5fcb8ea5183f9a74b473e4e8f4da70b9cce92f"
 metafile = true
 
 [[files]]
@@ -738,12 +738,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "076281ce0d9300fe5b3eac95680435a3afd2e30a7b4b34cef731ddc66cabb25a"
+hash = "5302e0301e3353c22c645630357e8d5634923c55779a26c1a410dba074c3d6a5"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "e72107c4e4156546f3ad34e0c8c759438e0971b3d096ca2be00cfd81d1570d6d"
+hash = "8249dea5896a9acef25574c541bf34e0077cc8bd299cae88f4b7145762bd1e24"
 metafile = true
 
 [[files]]
@@ -773,7 +773,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
 metafile = true
 
 [[files]]
@@ -903,7 +903,7 @@ metafile = true
 
 [[files]]
 file = "mods/modpack-update-checker.pw.toml"
-hash = "70cf271622c4e5496deb5adeecc332fe9dd776ff8b2e99c189cd61baf3f62db9"
+hash = "2f53c1ad9f8717ac28ab5754d2744681c18ff64783fe4d376e6c2ab552d0bc4e"
 metafile = true
 
 [[files]]
@@ -913,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "5a2955c112a3ded9cbc417fdf9bde29a33615adb4de7fdf1dd10a0fa5b0ff0fc"
+hash = "7e5741572d20b8b87832ef09ff27eef49f001864395d7145e38c75ab0cfe9acb"
 metafile = true
 
 [[files]]
@@ -928,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "mods/paperdoll.pw.toml"
-hash = "f9c0d3660203753fc7421da996073f017cdacffa3a7204127cfab3263d0ff5c5"
+hash = "981970f1a91ed964b90c1c6cbf8a54839b7b952037994a366fd26520cd2970d3"
 metafile = true
 
 [[files]]
@@ -943,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "4e0d60aef63124bf88ead6a6f4877254d685bf2afc922fc25a9cad45e36bc759"
+hash = "2ebe7ae4c777b892a2f5780ed7d9d65030d33f5be4d8a4b14f427b73a9f331a7"
 metafile = true
 
 [[files]]
@@ -958,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "46135a6773602ddc3adffc09c3da33a4e83128c9f1ee1bdc26b43ce98e5f261c"
+hash = "e0adae26744492204205a2a279f9b8c5e26d833bec5a865b584f3b821618d2b8"
 metafile = true
 
 [[files]]
@@ -978,7 +978,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "6d21a347378e31e1c7c07a682a52c6797291d9f756c2989501ccf99cf935f2e6"
+hash = "23c3ef63412fde7a3bc5dc0f92f70dec4baef6c94638c93b60232f3c2b01711a"
 metafile = true
 
 [[files]]
@@ -1018,7 +1018,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "ce7e3b3e4cf618bdf24e54c3859019051b9c7112730b8bf6f4df9af42af4cafc"
+hash = "a3ee3dc64bc513f68a9f393df84e81d3194c6f0e2c54530e9ba24c49a92bb448"
 metafile = true
 
 [[files]]
@@ -1033,15 +1033,15 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguidark.pw.toml"
-hash = "cf42dcfed03f394e9e8231fb6cc64ece5395242efbbb8eefd9507bfdb748b747"
+hash = "08f70a6a2c27e8a1dd6ad82496a3c48cc603d395e3203cc6d71956475e3fce4e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguilight.pw.toml"
-hash = "ea85e72fe4288651474efd01f7c837ad786ff08a0a2e03a6c54ce1b73e60e7bc"
+hash = "fd45c6b38c7d8ecc93454954c6ccb5b2c0261005b5998d3d3353a91ef233adb8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-lifemc.pw.toml"
-hash = "815be1f9eb13d7a29a1cee8c16718a5e578cd9090812aac207aded58fc6f1ded"
+hash = "93cc6925257608910abbcf87df9392255dc4909938ca18494bffa11d7c74d023"
 metafile = true
