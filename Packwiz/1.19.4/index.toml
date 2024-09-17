@@ -5,10 +5,6 @@ file = "config/fabric_loader_dependencies.json"
 hash = "025f304f6dcad1c1387836758606272a509c5730493dd1344495fcc400385fd8"
 
 [[files]]
-file = "config/lifemc.json"
-hash = "ecd6e70f8f973b908079da246f590dd71469d830c9f5cf525a18f21aa8076694"
-
-[[files]]
 file = "config/yosbr/COPYING.md"
 hash = "9c7417bc00aa2061d94a4c46b13873950bfb307937aeaf4d4782b5eaa219a63f"
 
