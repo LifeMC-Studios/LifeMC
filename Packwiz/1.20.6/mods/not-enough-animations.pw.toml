@@ -1,13 +1,13 @@
 name = "Not Enough Animations"
-filename = "notenoughanimations-fabric-1.7.4-mc1.20.6.jar"
+filename = "notenoughanimations-fabric-1.7.6-mc1.20.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/NsmQb7nR/notenoughanimations-fabric-1.7.4-mc1.20.6.jar"
-hash-format = "sha1"
-hash = "2dfec77f1176d27cc3ae0a56d3b3c15c61b9b2b0"
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/GpgBVAyE/notenoughanimations-fabric-1.7.6-mc1.20.6.jar"
+hash-format = "sha512"
+hash = "9e9e1ca410c54661216e7b59e3ec125d4afe67358f4dee387ab8ac419a9b827569d547eac361d05e5981faeab295b345f5767dd1dd33af4b24e5ba56c4e1ea11"
 
 [update]
 [update.modrinth]
 mod-id = "MPCX6s5C"
-version = "NsmQb7nR"
+version = "GpgBVAyE"
