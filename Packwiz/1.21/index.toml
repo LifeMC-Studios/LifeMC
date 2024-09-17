@@ -902,6 +902,11 @@ hash = "d0033f886c2e43f9b1aeb36b4bdef4252e422d932fdd13a4f095f6331d8751e1"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "d1cc4e47b16e8d010ad3c0555553479200292407b3991b96a57e92241afcb8df"
+metafile = true
+
+[[files]]
 file = "mods/rebrand.pw.toml"
 hash = "000bc414377c0729cbc228b41857c7d01437723439280747f79e3639b1ab4b59"
 metafile = true
