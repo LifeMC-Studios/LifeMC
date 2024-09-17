@@ -962,6 +962,11 @@ hash = "1b02ebac642ccf7870fd24e7935072bf7446450e54bd455216751859b2fcf8a5"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "d4c6c2ce084480523f1ede65b03c21493a555fc9cd430252e737206c298f0345"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "6cb2a4cd4eb40eaf19bbb54a6d8fa23643470147e86e19fe04b820e170998ed3"
 metafile = true
