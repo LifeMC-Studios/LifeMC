@@ -1,13 +1,13 @@
 name = "Seamless"
-filename = "seamless-2.2.2-fabric-1.20.4.jar"
+filename = "seamless-2.3.0-fabric-1.20.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rhyHyQke/versions/s553RPXp/seamless-2.2.2-fabric-1.20.4.jar"
-hash-format = "sha1"
-hash = "52a093a0375d0f525e689137dd792a345f66bf4f"
+url = "https://cdn.modrinth.com/data/rhyHyQke/versions/1mXWMTKK/seamless-2.3.0-fabric-1.20.4.jar"
+hash-format = "sha512"
+hash = "cd6e1d677611ceac08ddfcfa819350a2e0b41b9277075cbd409822377bd138e4d8211a4bdb651b810ac3c39ce091de48824d24b2fa3c7543ddbddb6b3a7426ae"
 
 [update]
 [update.modrinth]
 mod-id = "rhyHyQke"
-version = "s553RPXp"
+version = "1mXWMTKK"
