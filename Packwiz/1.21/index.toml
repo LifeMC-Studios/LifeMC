@@ -669,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "6314ecd4ec33177a193d41e44ff552d12bf6cdb72959d81ecd691b8688735a19"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
@@ -815,6 +815,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "1cb5b5b0d189704a1d010bf2dbe68a9c3f9d46113ee2711bb7a94a2ab52a46a7"
 metafile = true
 
 [[files]]
