@@ -69,10 +69,6 @@ file = "config/yosbr/config/entityculling.json"
 hash = "768dc65c3729dbfa508d5de839f01aa38203440946939103cebc39ae1e554c49"
 
 [[files]]
-file = "config/yosbr/config/exordium.json"
-hash = "0a2bae8ca65427496fd86581e2f2f957ad59acf90a20f7c65e7cd872e0057ff3"
-
-[[files]]
 file = "config/yosbr/config/fabrishot.properties"
 hash = "8e5bc3b2bc75fa0c497e7d9c935b6b39b8b0bf2a4959a540282464efcabdc404"
 
@@ -764,11 +760,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "b649f7560518b80344f8b2381110dd6dfc7ce2bf4aa09c849434b921d8bec2e2"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
-hash = "350e3aa46726c4ce33c9c383c673ab131c76c9015b5aa8c5532521beed1dfca4"
 metafile = true
 
 [[files]]

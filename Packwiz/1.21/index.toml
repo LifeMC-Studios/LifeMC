@@ -69,10 +69,6 @@ file = "config/yosbr/config/entityculling.json"
 hash = "768dc65c3729dbfa508d5de839f01aa38203440946939103cebc39ae1e554c49"
 
 [[files]]
-file = "config/yosbr/config/exordium.json"
-hash = "0a2bae8ca65427496fd86581e2f2f957ad59acf90a20f7c65e7cd872e0057ff3"
-
-[[files]]
 file = "config/yosbr/config/fabrishot.properties"
 hash = "8e5bc3b2bc75fa0c497e7d9c935b6b39b8b0bf2a4959a540282464efcabdc404"
 
