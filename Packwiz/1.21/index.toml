@@ -967,6 +967,11 @@ hash = "d4c6c2ce084480523f1ede65b03c21493a555fc9cd430252e737206c298f0345"
 metafile = true
 
 [[files]]
+file = "mods/viewboboptions.pw.toml"
+hash = "31142080f81d478ef52758f19b3c00d469a1aeccd59670f035f604c514a50dce"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "6cb2a4cd4eb40eaf19bbb54a6d8fa23643470147e86e19fe04b820e170998ed3"
 metafile = true
