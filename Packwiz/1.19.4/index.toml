@@ -766,6 +766,11 @@ hash = "087cd9e4abcf36693938e9243916064bde52ab9885251e7d11b40a7f24569542"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "486e03ea8c77b5c3ea62d31dfe968039d141eaf9f1ff1da624022353098f4d89"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "8249dea5896a9acef25574c541bf34e0077cc8bd299cae88f4b7145762bd1e24"
 metafile = true
