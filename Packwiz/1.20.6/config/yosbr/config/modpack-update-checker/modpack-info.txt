@@ -1,1 +1,1 @@
-A lightweight open-source client-side modpack. 1.20.6, 1.21, 1.21.1 beta 1 is out!
+A lightweight open-source client-side modpack. 1.20.6, 1.21, 1.21.1 is out!

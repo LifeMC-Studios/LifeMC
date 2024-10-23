@@ -1,9 +1,9 @@
 {
   "schemaVersion": 9,
-  "currentVersion": "1.0.9+1.20.6-beta.1",
+  "currentVersion": "1.0.9+1.20.6",
   "modpackName": "LifeMC",
   "modpackAuthor": "LifeMC Studios",
-  "modpackReleaseType": "beta",
+  "modpackReleaseType": "stable",
   "updateCheckerId": "https://raw.githubusercontent.com/LifeMC-Studios/Modpack-Update-Versions/main/1.20.6/",
   "advanced": {
     "bccEnabled": false,
