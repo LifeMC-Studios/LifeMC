@@ -715,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "a5852efb744f8b7bd9e920844c5fcb8ea5183f9a74b473e4e8f4da70b9cce92f"
+hash = "6f2740889139720263a323e1d1235640010c9c7fe3ecbdd5d265e4a4cb7d3a44"
 metafile = true
 
 [[files]]
@@ -725,17 +725,17 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "0ad1cf97393c36a15ccf31ef4255eecd3ade208a96696a4c6f8089d6158b8857"
+hash = "842fa3b00047bd74ed5a7b3277729073cfc3dfa873d57b76259f545a18e789d0"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "5302e0301e3353c22c645630357e8d5634923c55779a26c1a410dba074c3d6a5"
+hash = "cd70499d0357a6625aca7d0e83bd018c5b633e220e34d6af557acc33269d9307"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "8249dea5896a9acef25574c541bf34e0077cc8bd299cae88f4b7145762bd1e24"
+hash = "d88e8b3d5f8c8038a6b2046ca7f746a2e55d941eb083082eec23b2624942f255"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "c9bd5e366b534e7cb010f08d62ed232f23afd4d95603ddba95cdcea68ca797bf"
+hash = "b34d5e8286c1eb82d7369e4a2b73926fdb3013c70f21b3926eeca4e772caff4c"
 metafile = true
 
 [[files]]
@@ -945,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "e0adae26744492204205a2a279f9b8c5e26d833bec5a865b584f3b821618d2b8"
+hash = "7d032181bbbf214b6695dbc08d7b83a08d3cc0b3c2da0d788c3451dc0e52d639"
 metafile = true
 
 [[files]]
@@ -995,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "2bbc53f244271ab61c2245edafe4cb3fecf72cfc24438b8e1e42bec5b3aba99b"
+hash = "077c0fbf6ff9135d56238e1c5d6b971da07938acae5a221f0c81ef83cf3cf727"
 metafile = true
 
 [[files]]
@@ -1010,7 +1010,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "a3ee3dc64bc513f68a9f393df84e81d3194c6f0e2c54530e9ba24c49a92bb448"
+hash = "90bd34d9ef0ae453cb4397cb781775e694b8d14ca3cd75729869b9f13c05df65"
 metafile = true
 
 [[files]]
