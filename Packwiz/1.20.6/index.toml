@@ -663,11 +663,6 @@ hash = "0cf3b2f5d5f84f28fb509c6e4a791792c71f41be5f8d578a454840b4206ac58c"
 metafile = true
 
 [[files]]
-file = "mods/boat-item-view.pw.toml"
-hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
-metafile = true
-
-[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "a3adb1164bd2360d0b4e2568dd87c520875afe61884f890100b895ecadd41215"
 metafile = true
