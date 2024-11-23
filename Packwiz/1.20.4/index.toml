@@ -978,6 +978,11 @@ hash = "39e8df5422640e5aa5f1c433c2b61f4d6fe37fae181621ea3758c595d19bed4e"
 metafile = true
 
 [[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "4d2619fc493b8ed73997bf4874719b5d899fc9d2d60629c4d608b070d985c60a"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
 metafile = true
