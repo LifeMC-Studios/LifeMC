@@ -66,10 +66,6 @@ We kindly ask you to take a moment to carefully read this vital message regardin
 
 Our modpack has been meticulously crafted to ensure maximum compatibility with third-party servers, but it is crucial for all players to understand the responsibilities associated with using this modpack.
 
-### ⚔️ `/ghost` Command
-
-Please pay special attention to the `/ghost` command (provided by AntiGhost). On some servers, this command may be restricted for security reasons. Use it with extreme caution and only when absolutely necessary to overcome blocked situations.
-
 ### 🔒 Online Protection and Privacy
 
 We understand the seriousness of concerns regarding online privacy and security. To ensure your protection, we have disabled the collection of analytical data by Mojang and any other features that could jeopardize your privacy or cause confusion.

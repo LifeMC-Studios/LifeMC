@@ -643,11 +643,6 @@ hash = "cf58ed92e55a7f2175d0f7f3859ca7c0a4813c804515e3612664bbe3be745245"
 metafile = true
 
 [[files]]
-file = "mods/antighost.pw.toml"
-hash = "a1323e5f66dc9600ab40612bf705472425daf7f4ccf1037b921c25ddade0dac7"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea4c8757cbc72739729f878472768d0d07cde302c8f5292014e88a299d5bad31"
 metafile = true
