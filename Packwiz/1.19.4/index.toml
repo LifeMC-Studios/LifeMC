@@ -29,6 +29,10 @@ file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "151c2f7d5c2ca2836a98093f0328ad32970ed71610f2b450707b3b2fdd1c3c6b"
 
 [[files]]
+file = "config/yosbr/config/bettergrass.json5"
+hash = "1e48d214f0186f634fba7b62e9b4e4ed155e10a2906d7e7db35ff963dcaa8b96"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
 
@@ -693,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "2f867261971e897b5bc68bcd48d29d5805dccbe260286eaad2a0356d2748388a"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "c925eae48aa5bf9724b6f5bfb52d8c7778c33cb4cfb619e77cb27778475fb066"
 metafile = true
 
 [[files]]

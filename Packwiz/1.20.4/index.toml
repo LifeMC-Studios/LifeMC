@@ -29,6 +29,10 @@ file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "151c2f7d5c2ca2836a98093f0328ad32970ed71610f2b450707b3b2fdd1c3c6b"
 
 [[files]]
+file = "config/yosbr/config/bettergrass.json5"
+hash = "1e48d214f0186f634fba7b62e9b4e4ed155e10a2906d7e7db35ff963dcaa8b96"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
@@ -655,6 +659,11 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "ce346f386a6fb248faca8de4afc616e17dc88ccae668a86d0ca60aaed4d1a255"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "86d288dacf282b4d5428b7ef449b56dfd7826615b63c3581592c917dcd8a5ee9"
 metafile = true
 
 [[files]]

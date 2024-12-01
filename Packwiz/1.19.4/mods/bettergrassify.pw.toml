@@ -1,0 +1,13 @@
+name = "BetterGrassify"
+filename = "FabricBetterGrass-1.0.2+1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/iyqseZ5V/FabricBetterGrass-1.0.2%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "2a53b1dd0c56d8341f9c102aead4a123a927cdb2dbd77d7b43cc9805fba8bf106570838260bff6035114df632de12269fb9c235dfc003d709e52961bcbeaa8ac"
+
+[update]
+[update.modrinth]
+mod-id = "m5T5xmUy"
+version = "iyqseZ5V"
