@@ -38,7 +38,7 @@ hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
-hash = "30727beecbfd2eef4363d029581453e6f7a0f027f366986438aa1bdcf420c95e"
+hash = "fc040dcb2c1fa20c5c3556dbebbdb5d754d739b562dfa9c62aa681cbaa47946b"
 
 [[files]]
 file = "config/yosbr/config/cosmetica/cosmetica.properties"
