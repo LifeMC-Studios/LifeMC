@@ -1,0 +1,13 @@
+name = "Translations for LifeMC"
+filename = "Translations for LifeMC.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6EMOKrMb/versions/a0Qgw2Wp/Translations%20for%20LifeMC.zip"
+hash-format = "sha1"
+hash = "84b3a0921173ed1fa1953210a29dd2fdc09fc984"
+
+[update]
+[update.modrinth]
+mod-id = "6EMOKrMb"
+version = "a0Qgw2Wp"
