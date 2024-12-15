@@ -1,0 +1,13 @@
+{
+  "disabledIntegrations": [
+    "citresewn",
+    "continuity",
+    "entity_texture_features",
+    "iris",
+    "lambdynlights",
+    "dynamicfps"
+  ],
+  "enablePuzzleButton": false,
+  "checkUpdates": false,
+  "showPuzzleInfo": false
+}
