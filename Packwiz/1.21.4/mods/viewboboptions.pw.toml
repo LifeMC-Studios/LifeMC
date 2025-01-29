@@ -1,13 +1,13 @@
 name = "View Bobbing Options"
-filename = "viewboboptions-0.3.1+1.21.jar"
+filename = "viewboboptions-0.3.1+1.21.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Yr9J16k6/versions/Pcx8KAbA/viewboboptions-0.3.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/Yr9J16k6/versions/jiRgDiug/viewboboptions-0.3.1%2B1.21.2.jar"
 hash-format = "sha512"
-hash = "0be67d1e9dffa22002a92aadbfcaf0526438180d30acfc9c17e0c2325fda3f5dad3929e7b5fb7a16eb4769946e86a8ce0baa77eccb6bb48fb50124dc8ec7a5f9"
+hash = "75b1ef02a830d6f056868254654827f991b323e999b68fefb7ad6867f81bbed9def134b161f5f4629bf0c094d079c1ef031a005d3c55e4488f0c35d97a36cb93"
 
 [update]
 [update.modrinth]
 mod-id = "Yr9J16k6"
-version = "Pcx8KAbA"
+version = "jiRgDiug"
