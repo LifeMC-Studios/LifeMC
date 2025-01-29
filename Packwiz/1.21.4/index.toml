@@ -642,11 +642,6 @@ hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "126a1b72c154478d7d18d733fcc5e79bae93df7e37ee3f0b6e00db1b1ea66ac5"
 metafile = true
@@ -667,18 +662,8 @@ hash = "3abafd7524e53c4c2fb25e2812f1a6f44150dba9667f5e8d68b2aa5e65d5f46e"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "220fc15e0a3a754b478ffd714890c70892b925955dfe4757abdf78e3a824a066"
-metafile = true
-
-[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "c6ff2d3ab280f2808e579ec8ccdfec7e2483650717a931bcebecd1c183d49ffd"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
@@ -764,16 +749,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "9baaaf98f919bf3258f50ae0b8552a53c16d298650cb90d48cbec6f96d1ef556"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "1f6c74d7140e368e85df87d1bdbb4b533052488dcee7e23ecc1f699dfd2efe82"
 metafile = true
 
 [[files]]
@@ -934,11 +909,6 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "14948a17a7f41a3d28b049b71f28322c46545c1315cedf5577cba464000469bc"
-metafile = true
-
-[[files]]
-file = "mods/satin-api.pw.toml"
-hash = "b3c5a875a20aa12e1567bba1e95c099c5248917776a6118ef50ea74d1613a5c2"
 metafile = true
 
 [[files]]
