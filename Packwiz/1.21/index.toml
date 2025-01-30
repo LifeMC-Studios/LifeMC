@@ -54,7 +54,7 @@ hash = "38bb1a419af37fc2b21b0805bee47eea31d698e54b2f09bbf10e119da066c8ea"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "d42416693c9d3a6664b5bbc87893b2ac7cd0bfd78759c679c8e06ee245a3e86d"
+hash = "213553a7df9396b645e3592136721e2b1ed194c4508bb2d7bb094158c3366977"
 
 [[files]]
 file = "config/yosbr/config/drippyloadingscreen/options.txt"
