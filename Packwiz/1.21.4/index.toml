@@ -662,6 +662,11 @@ hash = "3abafd7524e53c4c2fb25e2812f1a6f44150dba9667f5e8d68b2aa5e65d5f46e"
 metafile = true
 
 [[files]]
+file = "mods/blur-plus.pw.toml"
+hash = "cc912eb68ff7a6c0b7a39ddfecc5f41916e90bcb12a6239d70a1b14dc2ab238a"
+metafile = true
+
+[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "c6ff2d3ab280f2808e579ec8ccdfec7e2483650717a931bcebecd1c183d49ffd"
 metafile = true
