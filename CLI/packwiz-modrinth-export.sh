@@ -13,7 +13,7 @@ show_intro() {
     echo " | |___| |  _|  __/ |  | | |___   ___) | |_| |_| | (_| | | (_) \__ \\"
     echo " |_____|_|_|  \___|_|  |_|\____| |____/ \__|\__,_|\__,_|_|\___/|___/"
     echo -e "\e[0m"
-
+    
     echo -e "\e[33m"
     echo "This script was created by LifeMC Studios for internal use in our project."
     echo "It is open-source and intended to simplify specific operations within our team."
@@ -65,7 +65,7 @@ export_modpack() {
     echo -e "\e[0m"
     sleep 1
     cd "$packwiz_dir/$selected_version"
-
+    
     # Export the modpack
     pw mr export &
     loading_animation $!
@@ -80,8 +80,8 @@ export_modpack() {
 while true; do
     show_intro
     show_menu
-    read -p "Enter version (1-5): " choice
-
+    read -p "Enter version (1-8): " choice
+    
     case "$choice" in
         1)
             export_modpack "1.18.2"
@@ -131,7 +131,7 @@ while true; do
             sleep 1
         ;;
     esac
-
+    
     echo
 done
 
