@@ -19,7 +19,7 @@ show_intro() {
     echo "It is open-source and intended to simplify specific operations within our team."
     echo "You can use it within our project without restrictions."
     echo ""
-    echo "> All rights reserved. © 2021-2024 LifeMC Studios."
+    echo "> All rights reserved. © 2021-2025 LifeMC Studios."
     echo -e "\e[0m"
 }
 
