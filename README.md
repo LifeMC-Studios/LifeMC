@@ -120,4 +120,4 @@ This project is distributed under the GNU General Public Licence v3.0. For furth
 
 For information on intellectual property and copyright, please refer to the [COPYING.md](https://github.com/LifeMC-Studios/LifeMC/blob/main/COPYING.md) file.
 
-> All rights reserved. © 2021-2024 LifeMC Studios.
+> All rights reserved. © 2021-2025 LifeMC Studios.

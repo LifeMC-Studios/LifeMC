@@ -28,4 +28,4 @@ We take the security of LifeMC seriously and take several measures to ensure the
 
 🙏 Thank you for helping us keep LifeMC secure!
 
-> All rights reserved. © 2021-2024 LifeMC Studios
+> All rights reserved. © 2021-2025 LifeMC Studios

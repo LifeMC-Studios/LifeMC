@@ -446,4 +446,4 @@ Exceptions:
 ```
 ---
 
-> All rights reserved. © 2021-2024 LifeMC Studios
+> All rights reserved. © 2021-2025 LifeMC Studios

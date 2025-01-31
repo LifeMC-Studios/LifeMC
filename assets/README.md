@@ -2,15 +2,15 @@
 
 ## 🖌️ Logo
 
-To create the logo with Piggy I used the resource pack from [The Mobo](https://www.planetminecraft.com/data-pack/muddy-pigs-datapack/) I imported it into [Blockbench](https://www.blockbench.net/) then exported it to a GLTF template and imported into [Blender](https://www.blender.org/) then exported and edited with [GIMP](https://www.gimp.org/) to make 2 versions one for discord and one general
+To create the logo I used [Gemini](https://gemini.google.com), then it was upscaled using [Upscayl](https://upscayl.org/) and I removed the background using [GIMP](https://www.gimp.org/)
 
 ## ⌨️ Buttons
 
-The buttons were made using the icons from [Phosphor Icons](https://phosphoricons.com/) and the software [Lunacy by Icons8](https://intercom.help/icons8-7fb7577e8170/en/articles/5534926-universal-multimedia-license-agreement-for-icons8).
+The buttons were made using the icons from [Phosphor Icons](https://phosphoricons.com/) and the software [Penpot](https://github.com/penpot/penpot).
 
 ## 🎨 Cosmetica
 
-All Cosmetics were made using [Blockbench](https://www.blockbench.net/) an Open-source tool and [PAINT.NET](https://www.getpaint.net/download.html) those who want to learn how to make cosmetics can freely use all the resources found [here](https://github.com/LifeMC-Studios/LifeMC/blob/main/assets/cosmetica)
+All Cosmetics were made using [Blockbench](https://www.blockbench.net/) those who want to learn how to make cosmetics can freely use all the resources found [here](https://github.com/LifeMC-Studios/LifeMC/tree/main/assets/images/cosmetica)
 
 ## 🏅 Badges
 
@@ -20,4 +20,4 @@ The badges used come from an opensource library called Devin's Badges made by [D
 
 The flag icons used come from an opensource library called flag-icons made by [Lipis](https://github.com/lipis/flag-icons)
 
-> All rights reserved. © 2021-2024 LifeMC Studios
+> All rights reserved. © 2021-2025 LifeMC Studios
