@@ -44,7 +44,7 @@ loading_animation() {
 # Function to display the version selection menu
 show_menu() {
     echo -e "\e[34m"
-    echo "Which version would you like to update?"
+    echo "Which version do you want to upgrade?"
     echo "1. 1.18.2"
     echo "2. 1.19.4"
     echo "3. 1.20.4"

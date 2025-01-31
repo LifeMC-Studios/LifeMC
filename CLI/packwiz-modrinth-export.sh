@@ -44,7 +44,7 @@ loading_animation() {
 # Function to display the version selection menu
 show_menu() {
     echo -e "\e[34m"
-    echo "Which version would you like to update?"
+    echo "Which version do you want to export?"
     echo "1. 1.18.2"
     echo "2. 1.19.4"
     echo "3. 1.20.4"
@@ -57,8 +57,8 @@ show_menu() {
     echo -e "\e[0m"
 }
 
-# Function to update the modpack for the selected version
-update_modpack() {
+# Function to export the modpack for the selected version
+export_modpack() {
     local selected_version="$1"
     echo -e "\e[32m"
     echo "You have selected: $selected_version"
@@ -66,12 +66,12 @@ update_modpack() {
     sleep 1
     cd "$packwiz_dir/$selected_version"
 
-    # Update the modpack
-    pw update --all -y &
+    # Export the modpack
+    pw mr export &
     loading_animation $!
     cd -
     echo -e "\e[32m"
-    echo "Modpack update completed!"
+    echo "Modpack export completed!"
     echo -e "\e[0m"
     sleep 1
 }
@@ -84,38 +84,38 @@ while true; do
 
     case "$choice" in
         1)
-            update_modpack "1.18.2"
+            export_modpack "1.18.2"
         ;;
         2)
-            update_modpack "1.19.4"
+            export_modpack "1.19.4"
         ;;
         3)
-            update_modpack "1.20.4"
+            export_modpack "1.20.4"
         ;;
         4)
-            update_modpack "1.20.6"
+            export_modpack "1.20.6"
         ;;
         5)
-            update_modpack "1.21"
+            export_modpack "1.21"
         ;;
         6)
-            update_modpack "1.21.1"
+            export_modpack "1.21.1"
         ;;
         7)
-            update_modpack "1.21.4"
+            export_modpack "1.21.4"
         ;;
         8)
             echo -e "\e[32m"
             echo "You have selected All versions"
             echo -e "\e[0m"
             sleep 1
-            update_modpack "1.18.2"
-            update_modpack "1.19.4"
-            update_modpack "1.20.4"
-            update_modpack "1.20.6"
-            update_modpack "1.21"
-            update_modpack "1.21.1"
-            update_modpack "1.21.4"
+            export_modpack "1.18.2"
+            export_modpack "1.19.4"
+            export_modpack "1.20.4"
+            export_modpack "1.20.6"
+            export_modpack "1.21"
+            export_modpack "1.21.1"
+            export_modpack "1.21.4"
         ;;
         9)
             echo -e "\e[31m"
