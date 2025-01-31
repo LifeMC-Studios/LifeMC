@@ -13,7 +13,7 @@ show_intro() {
     echo " | |___| |  _|  __/ |  | | |___   ___) | |_| |_| | (_| | | (_) \__ \\"
     echo " |_____|_|_|  \___|_|  |_|\____| |____/ \__|\__,_|\__,_|_|\___/|___/"
     echo -e "\e[0m"
-    
+
     echo -e "\e[33m"
     echo "This script was created by LifeMC Studios for internal use in our project."
     echo "It is open-source and intended to simplify specific operations within our team."
@@ -47,10 +47,13 @@ show_menu() {
     echo "Which version do you want to export?"
     echo "1. 1.18.2"
     echo "2. 1.19.4"
-    echo "5. 1.20.4"
-    echo "6. 1.20.5"
-    echo "7. All versions"
-    echo "8. Close"
+    echo "3. 1.20.4"
+    echo "4. 1.20.6"
+    echo "5. 1.21"
+    echo "6. 1.21.1"
+    echo "7. 1.21.4"
+    echo "8. All versions"
+    echo "9. Close"
     echo -e "\e[0m"
 }
 
@@ -62,7 +65,7 @@ export_modpack() {
     echo -e "\e[0m"
     sleep 1
     cd "$packwiz_dir/$selected_version"
-    
+
     # Export the modpack
     pw mr export &
     loading_animation $!
@@ -78,8 +81,8 @@ export_modpack() {
 while true; do
     show_intro
     show_menu
-    read -p "Enter version (1-5): " choice
-    
+    read -p "Enter version (1-8): " choice
+
     case "$choice" in
         1)
             export_modpack "1.18.2"
@@ -87,13 +90,22 @@ while true; do
         2)
             export_modpack "1.19.4"
         ;;
-        5)
+        3)
             export_modpack "1.20.4"
         ;;
+        4)
+            export_modpack "1.20.6"
+        ;;
+        5)
+            export_modpack "1.21"
+        ;;
         6)
-            export_modpack "1.20.5"
+            export_modpack "1.21.1"
         ;;
         7)
+            export_modpack "1.21.4"
+        ;;
+        8)
             echo -e "\e[32m"
             echo "You have selected All versions"
             echo -e "\e[0m"
@@ -101,9 +113,12 @@ while true; do
             export_modpack "1.18.2"
             export_modpack "1.19.4"
             export_modpack "1.20.4"
-            export_modpack "1.20.5"
+            export_modpack "1.20.6"
+            export_modpack "1.21"
+            export_modpack "1.21.1"
+            export_modpack "1.21.4"
         ;;
-        8)
+        9)
             echo -e "\e[31m"
             echo "Closure..."
             echo -e "\e[0m"
@@ -117,8 +132,8 @@ while true; do
             sleep 1
         ;;
     esac
-    
+
     echo
 done
 
-# > All rights reserved. © 2021-2024 LifeMC Studios
+# > All rights reserved. © 2021-2025 LifeMC Studios
