@@ -1,5 +1,6 @@
 {
   "global": {
-    "delegate_setup": true
+    "delegate_setup": true,
+    "quiet_mode": true
   }
 }
