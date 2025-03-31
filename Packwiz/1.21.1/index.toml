@@ -446,35 +446,35 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "381fdaf5a0b56ff0b8295d97d4316290079984193f17916779f4a40432a687a4"
+hash = "e77146024e3704be0a20a864e3336c7f9af36d2ba8ae649af0a2ab170a6cb4d7"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "23b869888962741cd7f1ee461fffcfce059716e106730bfbefe010d6cfa22130"
+hash = "5b306892c75e69aa3db92ede0069d84df752883c64275cf8247ce0428014f4e1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "7fb1f9410d3e143821dd263da6f30b39c7803433d7280eef1935d9e9a2c4e5aa"
+hash = "b3892cdb8675cde7f9de15c04556436e953f12da07077757707e770d6bd26255"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "39ef0d20788fc4beb24e52186569259bea6dbdb92e76d2dea81095a4e48956ab"
+hash = "d97764cc27b736f56221662f0bc41774e3d933e0cc75b7caed5f04ba22d1dcf2"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "d43c56eebfa71b83e9ca4d02588b332aa0456bb9c6d81a2a5d98bb4c3c72adc7"
+hash = "02dec8e9a13ccfd39f6cb4bbfbb12eb284a7d7a78c7f441d0f0537e883f95576"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "7c75c9dd33dfe3ce3de21af89ddcf4c6a99e8c0dd05b6dc2cef10763e0989837"
+hash = "058454ec15226be666992961efcc7cf3561a5aaf7d73a5c55aaab021b5974060"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.dark.txt"
-hash = "e8ed20de90e9f4cac9c1feb4fa02c5a6ae9a58ce5af691a00cf93a42b1c7c1b9"
+hash = "3134d824a2db599c7c17b64f4d5fd71d126f437754ba0eeab288f09abe7c2823"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.light.txt"
-hash = "9e4b59f52f874b80397758063668a7c34578378ca7fdf8706b982ad410fc77ff"
+hash = "e79f40ab18a9f43a8a6c72280ea48cbd64bfbba14e0d12f58757c7f06b416f50"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -486,7 +486,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/options.txt"
-hash = "f9bad32f38d07d06b126d8d35a672b71e6cb859898db184b772e60173cbb2506"
+hash = "c15a90e3dd4558bed67a58902745db0c63e9775f4a7cdeea466b468e409587e5"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_0.png"

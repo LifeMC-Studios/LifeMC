@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1713052895583
+  last_edited_time = 1743295298301
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:991974de-f90a-472d-860a-61b93790cd26-1713052876716] = [groups:][instances:48128516-aefe-4c87-8b46-77eb5e6d3256-1712996051442;]
+  [loading_requirement_container_meta:a06522ec-a3c7-47ff-a704-434be0e24c9d-1743295296558] = [groups:][instances:48128516-aefe-4c87-8b46-77eb5e6d3256-1712996051442;]
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:48128516-aefe-4c87-8b46-77eb5e6d3256-1712996051442] = theme:1
 }
 
@@ -30,6 +30,8 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
 }
 
 element {
@@ -148,10 +150,10 @@ vanilla_button {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = vanilla
-  x = 187
-  y = 180
-  width = 480
-  height = 120
+  x = 192
+  y = 177
+  width = 470
+  height = 116
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
@@ -180,9 +182,9 @@ vanilla_button {
   fade_in = false
   fade_in_speed = 1.0
   anchor_point = vanilla
-  x = 187
-  y = 394
-  width = 480
+  x = 192
+  y = 387
+  width = 470
   height = 10
   stretch_x = false
   stretch_y = false
