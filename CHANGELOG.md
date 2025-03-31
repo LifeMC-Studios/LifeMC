@@ -24,7 +24,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 * ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -52,7 +52,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 * ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -80,7 +80,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 * ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -108,7 +108,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 * ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -136,7 +136,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 * ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -164,7 +164,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 * ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -192,7 +192,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 * ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -445,7 +445,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -697,7 +697,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -949,7 +949,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -1201,7 +1201,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -1453,7 +1453,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -1705,7 +1705,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -1957,7 +1957,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -2135,7 +2135,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.8 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/387
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.7...v1.0.8
@@ -2313,7 +2313,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.8 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/387
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.7...v1.0.8
@@ -2491,7 +2491,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.8 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/387
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.7...v1.0.8
@@ -2669,7 +2669,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.8 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/387
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.7...v1.0.8
@@ -2847,7 +2847,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.8 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/387
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.7...v1.0.8
@@ -2951,7 +2951,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/358
 * ✨ v1.0.7 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/371
 
@@ -3056,7 +3056,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/358
 * ✨ v1.0.7 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/371
 
@@ -3161,7 +3161,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/358
 * ✨ v1.0.7 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/371
 
@@ -3266,7 +3266,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/358
 * ✨ v1.0.7 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/371
 
@@ -3358,7 +3358,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.6 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/357
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.5...v1.0.6
@@ -3449,7 +3449,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.6 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/357
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.5...v1.0.6
@@ -3540,7 +3540,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.6 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/357
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.5...v1.0.6
@@ -3611,7 +3611,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.5 is out!  by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
 
 
@@ -3683,7 +3683,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.5 is out!  by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
 
 
@@ -3755,7 +3755,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.5 is out!  by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
 
 
@@ -3827,7 +3827,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.5 is out!  by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
 
 
@@ -3899,7 +3899,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.5 is out!  by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
 
 
@@ -3981,7 +3981,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/324
 * ✨ v1.0.4 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/331
 
@@ -4064,7 +4064,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/324
 * ✨ v1.0.4 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/331
 
@@ -4147,7 +4147,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/324
 * ✨ v1.0.4 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/331
 
@@ -4230,7 +4230,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/324
 * ✨ v1.0.4 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/331
 
@@ -4313,7 +4313,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/324
 * ✨ v1.0.4 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/331
 
@@ -4446,7 +4446,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.3 by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/323
 
 
@@ -4578,7 +4578,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.3 by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/323
 
 
@@ -4710,7 +4710,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.3 by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/323
 
 
@@ -4842,7 +4842,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * ✨ v1.0.3 by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/323
 
 
@@ -4867,7 +4867,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * v1.0.2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/314
 
 
@@ -4892,7 +4892,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * v1.0.2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/314
 
 
@@ -4917,7 +4917,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * v1.0.2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/314
 
 
@@ -4942,7 +4942,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
+### What's Changed
 * v1.0.2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/314
 
 
@@ -5192,7 +5192,7 @@ A big thank you to all contributors! 🙌
 Best regards,
 LifeMC Studios team
 
-## What's Changed
+### What's Changed
 * Major updates and bug fixes 2024 part2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/305
 * build(deps): bump crowdin/github-action from 1.16.0 to 1.19.0 by @dependabot in https://github.com/LifeMC-Studios/LifeMC/pull/303
 
@@ -5442,7 +5442,7 @@ A big thank you to all contributors! 🙌
 Best regards,
 LifeMC Studios team
 
-## What's Changed
+### What's Changed
 * Major updates and bug fixes 2024 part2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/305
 * build(deps): bump crowdin/github-action from 1.16.0 to 1.19.0 by @dependabot in https://github.com/LifeMC-Studios/LifeMC/pull/303
 
@@ -5692,7 +5692,7 @@ A big thank you to all contributors! 🙌
 Best regards,
 LifeMC Studios team
 
-## What's Changed
+### What's Changed
 * Major updates and bug fixes 2024 part2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/305
 * build(deps): bump crowdin/github-action from 1.16.0 to 1.19.0 by @dependabot in https://github.com/LifeMC-Studios/LifeMC/pull/303
 
@@ -5942,7 +5942,7 @@ A big thank you to all contributors! 🙌
 Best regards,
 LifeMC Studios team
 
-## What's Changed
+### What's Changed
 * Major updates and bug fixes 2024 part2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/305
 * build(deps): bump crowdin/github-action from 1.16.0 to 1.19.0 by @dependabot in https://github.com/LifeMC-Studios/LifeMC/pull/303
 
