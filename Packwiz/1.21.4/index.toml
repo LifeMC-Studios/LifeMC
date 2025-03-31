@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c4aaf2de5d0769c3c8dbdc4d6904ac24ce36883f76c7c38bc2ed0d466fd171f0"
+hash = "785d3b11b06f994613f66485489c87e4e3b93bc47f8c8942b6997feee5f58387"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
@@ -446,35 +446,35 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "381fdaf5a0b56ff0b8295d97d4316290079984193f17916779f4a40432a687a4"
+hash = "45f935831e941c0226c0693c1ca65a7197cb7d2aa8836ca8adebd45e503ac57b"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "23b869888962741cd7f1ee461fffcfce059716e106730bfbefe010d6cfa22130"
+hash = "28723140b48576647674ee136d6d0e8eca9ccb697cdc4204485bad6ab32f288b"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "7fb1f9410d3e143821dd263da6f30b39c7803433d7280eef1935d9e9a2c4e5aa"
+hash = "675ad5d16eb6b5a0f7ef91496da7925258abb777d589a572106db3ef9785effa"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "39ef0d20788fc4beb24e52186569259bea6dbdb92e76d2dea81095a4e48956ab"
+hash = "27e9451cb0a3cf005d7f5fa1d3da437d74a69e63d4e7b6bdcf3371376b4a653d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "d43c56eebfa71b83e9ca4d02588b332aa0456bb9c6d81a2a5d98bb4c3c72adc7"
+hash = "23a4e9e419483ce5cddfe6d35f6d2a69f90ce38ef8ba53da79df61430c7fc6f0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "7c75c9dd33dfe3ce3de21af89ddcf4c6a99e8c0dd05b6dc2cef10763e0989837"
+hash = "507ba5c52e4715cbf6d6dc5edc405152023d7dfb12e4af4dcfe29225adff6db5"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.dark.txt"
-hash = "e8ed20de90e9f4cac9c1feb4fa02c5a6ae9a58ce5af691a00cf93a42b1c7c1b9"
+hash = "17321f847f37a3ea6593cfc89fe4d8727999540fc775d4037914143376f4f8fd"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.light.txt"
-hash = "9e4b59f52f874b80397758063668a7c34578378ca7fdf8706b982ad410fc77ff"
+hash = "212f4ce58271eb42a197a573ef8f4fb515dc2640adca1707baacd7520637d95e"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -486,7 +486,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/options.txt"
-hash = "f9bad32f38d07d06b126d8d35a672b71e6cb859898db184b772e60173cbb2506"
+hash = "c15a90e3dd4558bed67a58902745db0c63e9775f4a7cdeea466b468e409587e5"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_0.png"
@@ -582,11 +582,11 @@ hash = "2bf1fdee96ff7ac57adf1fa6eb52e5aabb0d97368003c26447b7852a689dc8bd"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "c9c011945debd72b98d6f495c74f60591cc138a76925d14c6ee444406ab91be9"
+hash = "e77caf45a110ff2740b289be6f1cd6cb37b373cebbcde826715d85766d397af3"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/modpack-info.txt"
-hash = "534ca47a2e11819889341bc69fc48652b03b5dcf671a593a9d11dabe2e9e43ad"
+hash = "8f05da3a85d7ac0a895d82725d8fe2058b3aafd949852308c8cde5225e07ace3"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -713,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "5a9522298bbd61481a92606bc0e3081d7ebac04db7ce735cad233b7084401a3c"
+hash = "c4f594550b51ba50331fc1e0dc8088e2a6379daa7f9c1c3807e5b726700b8223"
 metafile = true
 
 [[files]]
@@ -763,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "9392d9f8c9077d61294f3eb90f7c0df013000fb9d191124689771612e8f6d04a"
+hash = "3ec16b2656b208d75471decae64aa8877bc0292882bfcfa430ec4d196db618f2"
 metafile = true
 
 [[files]]
