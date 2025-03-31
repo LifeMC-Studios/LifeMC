@@ -2,6 +2,202 @@
 
 Welcome to the section dedicated to the changes made to the modpack. Here you will find a complete list of all the new features, bug fixes and other improvements introduced with each update for each version. Discover what's new in each of our modpack versions and make sure you always use the latest version for the best gaming experience!
 
+## v1.0.10+1.21.4-beta.1 (2025-01-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+feat: ✨ Start of development v1.0.10
+feat: 🔧 Updated Fabric to version 0.16.10
+fix: 🐛 Changed the permissions of CLI tools by running them with root
+feat: 📦 Updated FancyMenu and Drippy Loading Screen mods
+fix: 🐛 Fixed all graphical bugs in FancyMenu GUIs
+feat: 🔖 Changed version 1.21.4 tag from alpha 1 to beta 1 in modpack info of all versions
+build: 🚀 Added past and upcoming versions in the bug report
+build: 🔥 Removed dependabot no longer used
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+## What's Changed
+* docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
+* ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.9...v1.0.10
+
+## v1.0.10+1.21.1 (2025-01-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+feat: ✨ Start of development v1.0.10
+feat: 🔧 Updated Fabric to version 0.16.10
+fix: 🐛 Changed the permissions of CLI tools by running them with root
+feat: 📦 Updated FancyMenu and Drippy Loading Screen mods
+fix: 🐛 Fixed all graphical bugs in FancyMenu GUIs
+feat: 🔖 Changed version 1.21.4 tag from alpha 1 to beta 1 in modpack info of all versions
+build: 🚀 Added past and upcoming versions in the bug report
+build: 🔥 Removed dependabot no longer used
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+## What's Changed
+* docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
+* ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.9...v1.0.10
+
+## v1.0.10+1.21 (2025-01-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+feat: ✨ Start of development v1.0.10
+feat: 🔧 Updated Fabric to version 0.16.10
+fix: 🐛 Changed the permissions of CLI tools by running them with root
+feat: 📦 Updated FancyMenu and Drippy Loading Screen mods
+fix: 🐛 Fixed all graphical bugs in FancyMenu GUIs
+feat: 🔖 Changed version 1.21.4 tag from alpha 1 to beta 1 in modpack info of all versions
+build: 🚀 Added past and upcoming versions in the bug report
+build: 🔥 Removed dependabot no longer used
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+## What's Changed
+* docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
+* ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.9...v1.0.10
+
+## v1.0.10+1.20.6 (2025-01-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+feat: ✨ Start of development v1.0.10
+feat: 🔧 Updated Fabric to version 0.16.10
+fix: 🐛 Changed the permissions of CLI tools by running them with root
+feat: 📦 Updated FancyMenu and Drippy Loading Screen mods
+fix: 🐛 Fixed all graphical bugs in FancyMenu GUIs
+feat: 🔖 Changed version 1.21.4 tag from alpha 1 to beta 1 in modpack info of all versions
+build: 🚀 Added past and upcoming versions in the bug report
+build: 🔥 Removed dependabot no longer used
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+## What's Changed
+* docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
+* ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.9...v1.0.10
+
+## v1.0.10+1.20.4 (2025-01-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+feat: ✨ Start of development v1.0.10
+feat: 🔧 Updated Fabric to version 0.16.10
+fix: 🐛 Changed the permissions of CLI tools by running them with root
+feat: 📦 Updated FancyMenu and Drippy Loading Screen mods
+fix: 🐛 Fixed all graphical bugs in FancyMenu GUIs
+feat: 🔖 Changed version 1.21.4 tag from alpha 1 to beta 1 in modpack info of all versions
+build: 🚀 Added past and upcoming versions in the bug report
+build: 🔥 Removed dependabot no longer used
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+## What's Changed
+* docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
+* ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.9...v1.0.10
+
+## v1.0.10+1.19.4 (2025-01-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+feat: ✨ Start of development v1.0.10
+feat: 🔧 Updated Fabric to version 0.16.10
+fix: 🐛 Changed the permissions of CLI tools by running them with root
+feat: 📦 Updated FancyMenu and Drippy Loading Screen mods
+fix: 🐛 Fixed all graphical bugs in FancyMenu GUIs
+feat: 🔖 Changed version 1.21.4 tag from alpha 1 to beta 1 in modpack info of all versions
+build: 🚀 Added past and upcoming versions in the bug report
+build: 🔥 Removed dependabot no longer used
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+## What's Changed
+* docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
+* ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.9...v1.0.10
+
+## v1.0.10+1.18.2 (2025-01-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+feat: ✨ Start of development v1.0.10
+feat: 🔧 Updated Fabric to version 0.16.10
+fix: 🐛 Changed the permissions of CLI tools by running them with root
+feat: 📦 Updated FancyMenu and Drippy Loading Screen mods
+fix: 🐛 Fixed all graphical bugs in FancyMenu GUIs
+feat: 🔖 Changed version 1.21.4 tag from alpha 1 to beta 1 in modpack info of all versions
+build: 🚀 Added past and upcoming versions in the bug report
+build: 🔥 Removed dependabot no longer used
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+## What's Changed
+* docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
+* ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.9...v1.0.10
+
 ## v1.0.9+1.21.4-alpha.1 (2025-02-03)
 
 👋 Hello everyone,
