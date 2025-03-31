@@ -262,7 +262,7 @@ hash = "4a5f43a81995fb1ccd41eb5099557f595af42fddf7ea9960724f4bb8c8d0a7b3"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/modpack-info.txt"
-hash = "534ca47a2e11819889341bc69fc48652b03b5dcf671a593a9d11dabe2e9e43ad"
+hash = "c9d18328e07ee8be957c56d6dfdf1362a64adb2e8839c423e802f9f611fb0cf3"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
