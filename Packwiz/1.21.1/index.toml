@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "5bcf3d643f022367219776bc8e32c517ae63089398eba313ce46db89b7170a0e"
+hash = "8fc4f182d48098e62fad1ae4c07bb4ce63d593efb367a627ab4459f496dc1279"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
