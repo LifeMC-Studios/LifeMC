@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LifeMC-Studios/LifeMC/dev_main/assets/images/lifemc_logo.png" height="256px"/>
+  <img src="https://raw.githubusercontent.com/LifeMC-Studios/LifeMC/main/assets/images/lifemc_logo.png" height="256px"/>
 </p>
 
 <h1 align="center">LifeMC</h1>
