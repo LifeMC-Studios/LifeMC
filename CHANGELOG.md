@@ -2,6 +2,1539 @@
 
 Welcome to the section dedicated to the changes made to the modpack. Here you will find a complete list of all the new features, bug fixes and other improvements introduced with each update for each version. Discover what's new in each of our modpack versions and make sure you always use the latest version for the best gaming experience!
 
+## v1.0.11+1.21.4-beta.2 (2025-07-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: ⬆️ Updated is forced fabric version to 0.16.12
+- feat: ✨ Updated the version tag to v1.0.11
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - Continuity
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc, Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Indium
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - Sodium Extra
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Modpack Update Checker
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - ShulkerBoxTooltip
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - Architectury API
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Blur+
+  - Chat Patches
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Mod Menu
+  - More Culling
+  - Not Enough Animations
+  - Polytone
+  - Puzzle
+  - Resourcify
+  - Searchables
+  - ShulkerBoxTooltip
+  - Sodium
+  - Symbol Chat
+  - TCDCommons API
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  ```
+- feat: 🔧 Updated the options.txt files
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
+- docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
+- ✨ v1.0.11 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/442
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.10...v1.0.11
+
+## v1.0.11+1.21.1 (2025-07-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: ⬆️ Updated is forced fabric version to 0.16.12
+- feat: ✨ Updated the version tag to v1.0.11
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - Continuity
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc, Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Indium
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - Sodium Extra
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Modpack Update Checker
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - ShulkerBoxTooltip
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - Architectury API
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Blur+
+  - Chat Patches
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Mod Menu
+  - More Culling
+  - Not Enough Animations
+  - Polytone
+  - Puzzle
+  - Resourcify
+  - Searchables
+  - ShulkerBoxTooltip
+  - Sodium
+  - Symbol Chat
+  - TCDCommons API
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  ```
+- feat: 🔧 Updated the options.txt files
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
+- docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
+- ✨ v1.0.11 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/442
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.10...v1.0.11
+
+## v1.0.11+1.21 (2025-07-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: ⬆️ Updated is forced fabric version to 0.16.12
+- feat: ✨ Updated the version tag to v1.0.11
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - Continuity
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc, Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Indium
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - Sodium Extra
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Modpack Update Checker
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - ShulkerBoxTooltip
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - Architectury API
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Blur+
+  - Chat Patches
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Mod Menu
+  - More Culling
+  - Not Enough Animations
+  - Polytone
+  - Puzzle
+  - Resourcify
+  - Searchables
+  - ShulkerBoxTooltip
+  - Sodium
+  - Symbol Chat
+  - TCDCommons API
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  ```
+- feat: 🔧 Updated the options.txt files
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
+- docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
+- ✨ v1.0.11 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/442
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.10...v1.0.11
+
+## v1.0.11+1.20.6 (2025-07-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: ⬆️ Updated is forced fabric version to 0.16.12
+- feat: ✨ Updated the version tag to v1.0.11
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - Continuity
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc, Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Indium
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - Sodium Extra
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Modpack Update Checker
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - ShulkerBoxTooltip
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - Architectury API
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Blur+
+  - Chat Patches
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Mod Menu
+  - More Culling
+  - Not Enough Animations
+  - Polytone
+  - Puzzle
+  - Resourcify
+  - Searchables
+  - ShulkerBoxTooltip
+  - Sodium
+  - Symbol Chat
+  - TCDCommons API
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  ```
+- feat: 🔧 Updated the options.txt files
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
+- docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
+- ✨ v1.0.11 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/442
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.10...v1.0.11
+
+## v1.0.11+1.20.4 (2025-07-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: ⬆️ Updated is forced fabric version to 0.16.12
+- feat: ✨ Updated the version tag to v1.0.11
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - Continuity
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc, Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Indium
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - Sodium Extra
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Modpack Update Checker
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - ShulkerBoxTooltip
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - Architectury API
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Blur+
+  - Chat Patches
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Mod Menu
+  - More Culling
+  - Not Enough Animations
+  - Polytone
+  - Puzzle
+  - Resourcify
+  - Searchables
+  - ShulkerBoxTooltip
+  - Sodium
+  - Symbol Chat
+  - TCDCommons API
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  ```
+- feat: 🔧 Updated the options.txt files
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
+- docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
+- ✨ v1.0.11 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/442
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.10...v1.0.11
+
+## v1.0.11+1.19.4 (2025-07-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: ⬆️ Updated is forced fabric version to 0.16.12
+- feat: ✨ Updated the version tag to v1.0.11
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - Continuity
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc, Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Indium
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - Sodium Extra
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Modpack Update Checker
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - ShulkerBoxTooltip
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - Architectury API
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Blur+
+  - Chat Patches
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Mod Menu
+  - More Culling
+  - Not Enough Animations
+  - Polytone
+  - Puzzle
+  - Resourcify
+  - Searchables
+  - ShulkerBoxTooltip
+  - Sodium
+  - Symbol Chat
+  - TCDCommons API
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  ```
+- feat: 🔧 Updated the options.txt files
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
+- docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
+- ✨ v1.0.11 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/442
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.10...v1.0.11
+
+## v1.0.11+1.18.2 (2025-07-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: ⬆️ Updated is forced fabric version to 0.16.12
+- feat: ✨ Updated the version tag to v1.0.11
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - Continuity
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc, Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Indium
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Continuity
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - Sodium Extra
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Modpack Update Checker
+  - More Culling
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Polytone
+  - Reese's Sodium Options
+  - Resourcify
+  - ShulkerBoxTooltip
+  - Sodium
+  - TCDCommons API
+  - UniLib
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - Architectury API
+  - Better Statistics Screen (Fabric/Forge)
+  - BetterGrassify
+  - Blur+
+  - Chat Patches
+  - Controlify
+  - Controlling
+  - CraftPresence
+  - Dynamic FPS
+  - e4mc
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Gamma Utils
+  - ImmediatelyFast
+  - Iris Shaders
+  - LambDynamicLights
+  - Language Reload
+  - Lithium
+  - MidnightLib
+  - ModernFix
+  - Mod Menu
+  - More Culling
+  - Not Enough Animations
+  - Polytone
+  - Puzzle
+  - Resourcify
+  - Searchables
+  - ShulkerBoxTooltip
+  - Sodium
+  - Symbol Chat
+  - TCDCommons API
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - YetAnotherConfigLib
+  ```
+- feat: 🔧 Updated the options.txt files
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
+- docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
+- docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
+- ✨ v1.0.11 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/442
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.10...v1.0.11
+
 ## v1.0.10+1.21.4-beta.1 (2025-01-04)
 
 👋 Hello everyone,
