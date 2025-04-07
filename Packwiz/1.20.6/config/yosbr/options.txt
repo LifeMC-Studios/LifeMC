@@ -11,8 +11,8 @@ guiScale:3
 maxFps:260
 graphicsMode:0
 advancedItemTooltips:true
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","seamless:default_seamless","file/ReimaginedGUI(Light) 1.20.6.zip","file/ReimaginedGUI(Dark) 1.20.6.zip","file/Translations for LifeMC.zip"]
-incompatibleResourcePacks:["boatiview","catconfig-mc","controlling","craterlib","drippyloadingscreen","e4mc_minecraft","fancymenu","imblocker","konkrete","modernfix","resourcify","screenshot_viewer","searchables","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","seamless:default_seamless","file/ReimaginedGUI(Light) 1.20.2-1.21.x.zip","file/ReimaginedGUI(Dark) 1.20.2-1.21.x.zip","file/Translations for LifeMC.zip"]
+incompatibleResourcePacks:["catconfig-mc","controlling","drippyloadingscreen","fancymenu","konkrete","modernfix","resourcify","screenshot_viewer","searchables","yet_another_config_lib_v3"]
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true

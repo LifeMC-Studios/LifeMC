@@ -630,7 +630,7 @@ hash = "7274b750a9257a7134915f43a4ea29554e44e77e36fe7f1d9c0d2e91cf2ed6ab"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d5fde5b1589d0e142927cb8db732abe17c235c25ace59b468d709554f7b15d8d"
+hash = "3a0fa2998c90d6b8ba6a16ffb528706cd93bd3faac0d31058f81122d211ece21"
 
 [[files]]
 file = "config/yosbr/servers.dat"
