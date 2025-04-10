@@ -787,6 +787,11 @@ hash = "583db02f6a60be2321bec8293490ba37fc2fe2ddc7664ea2ce57cc28e2fadc74"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
