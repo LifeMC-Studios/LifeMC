@@ -446,19 +446,19 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "e77146024e3704be0a20a864e3336c7f9af36d2ba8ae649af0a2ab170a6cb4d7"
+hash = "6eaccd367215a852cdd89088867f1834396edc6176429b151640c20eee945a32"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "5b306892c75e69aa3db92ede0069d84df752883c64275cf8247ce0428014f4e1"
+hash = "1dd52d3cae7b892793bdb0cad3503312a68f346acf5e13e01fc682496d5b3653"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "b3892cdb8675cde7f9de15c04556436e953f12da07077757707e770d6bd26255"
+hash = "01992e3e88fbd9800c00b5e6488b99c02304805f3434dff052c866c8f8806037"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "d97764cc27b736f56221662f0bc41774e3d933e0cc75b7caed5f04ba22d1dcf2"
+hash = "adc0599eefbdbbf66a2aaec4ea4a6baad494f3da5ea1862a5d40117ef5c0ad54"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
@@ -944,6 +944,11 @@ metafile = true
 [[files]]
 file = "mods/satin-api.pw.toml"
 hash = "b3c5a875a20aa12e1567bba1e95c099c5248917776a6118ef50ea74d1613a5c2"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "ba23c74355d05314b666f63512ebc1b91abc4926a48b00c137bd5e2be6868e82"
 metafile = true
 
 [[files]]
