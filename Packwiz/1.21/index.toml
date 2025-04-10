@@ -982,6 +982,11 @@ hash = "ffa71e1ce188b71291daa8bb67e8094ff7d0ef695add362200591c28e75cf457"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "5afa351b0c8e379990b962af499f90b124a4c79fc86f8f3dc3ef716a472e766e"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "b596c60d06c7645dce40b16e49eb8ea18c92d09a656cdfce6000e0ff2c8eeae7"
 metafile = true
