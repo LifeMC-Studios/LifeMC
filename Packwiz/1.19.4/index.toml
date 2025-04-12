@@ -90,11 +90,11 @@ hash = "e9317c2934e6a086ecd78c64d688a453227b1c4532bf68eea306601887afa1b1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "feb0d00d4ebc6bf14a7de4c44a8d3f577210aa6f4a16b321b7033dfa8cdd05fe"
+hash = "331640c645ce3fab81dc1021432236f773f4237241c12b97ee201ee573490752"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "bb1de7441b54eb520498db207d248dce9d2db121f769aaa8d1fcc0db144ae0af"
+hash = "233c0a2623185962a6defe53aab65d394ef20ed5354c277044c17a3766fa518e"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
@@ -114,11 +114,11 @@ hash = "2850be695938552ed18cf83c64d45b78586823038bad9633ddc8e13c2e805441"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.dark.txt"
-hash = "7918a053a9c8b05ce0e42df292a7affa8eaabf807a2cc566aa559a74e6fd2537"
+hash = "9d9a0f974fb627caee0a1285b15b894809ba79dab4731780cbcdedd59f3837d4"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.light.txt"
-hash = "47bcf926abd234411c49e4cd4ac0c4cef13453da4feaa159197eabc71f4ec933"
+hash = "34d5600ea934091e0ee93135ea3a95e11b6d9b18d0d8243d85dff5285b96be05"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/extensions/fmaudio/config.cfg"
@@ -162,11 +162,11 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "24ff86a3227385ab97e7136e6fcc30857ba386ff9222fc8d81b9f354878ecfaa"
+hash = "c57a6b36a7d2cf4e6bcc79aef4433f6c42ea693be2cc39ecb68ea5887cb352f0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "6b11a865b16cb91668544699c84f32f7e8fa1f5b155b0b30cbfdead97617b174"
+hash = "ca1c17921e8c30a1a1c79fb7a5944f2ff77bc411f7e864ba0f76234bc9b46970"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_0.png"
@@ -629,8 +629,8 @@ file = "config/yosbr/config/resources/minecraft/buttons/light/lifemc-btn-video-s
 hash = "76f0df39e544463f9255796df7b9b3086ca4ba1160a321fff91c2a46b971bf55"
 
 [[files]]
-file = "config/yosbr/config/resources/minecraft/images/lifemc_logo.png"
-hash = "d4ef6a3c8e283f22f601b49eaf4626e72b4b55f8e1573b73295e5b617222a650"
+file = "config/yosbr/config/resources/minecraft/img/lifemc_logo.png"
+hash = "813fb44d50ec2087e1841886332b302fcd60e2bbdb089490102bf54771ec59d6"
 
 [[files]]
 file = "config/yosbr/config/screenshot_viewer-client.json"

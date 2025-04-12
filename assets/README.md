@@ -2,7 +2,7 @@
 
 ## 🖌️ Logo
 
-To create the logo I used [Gemini](https://gemini.google.com), then it was upscaled using [Upscayl](https://upscayl.org/) and I removed the background using [GIMP](https://www.gimp.org/)
+To create the logo I used [ChatGPT](https://chatgpt.com/), then it was upscaled using [Upscayl](https://upscayl.org/) and I removed the background using [GIMP](https://www.gimp.org/)
 
 ## ⌨️ Buttons
 
