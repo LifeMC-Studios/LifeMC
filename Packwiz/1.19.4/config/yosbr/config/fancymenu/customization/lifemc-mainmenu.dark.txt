@@ -434,7 +434,7 @@ customization {
   orientation = bottom-centered
   restartbackgroundanimations = true
   delayappearanceseconds = 1.0
-  buttonaction = openlink;https://discord.com/invite/XRcdUqrY9R%btnaction_splitter_fm%
+  buttonaction = openlink;https://discord.lifemcstudios.cloud%btnaction_splitter_fm%
   backgroundhovered = config/resources/minecraft/buttons/dark/lifemc-btn-discord-on.dark.png
   label =
   loopbackgroundanimations = true
@@ -454,7 +454,7 @@ customization {
 customization {
   orientation = top-centered
   delayappearanceseconds = 1.0
-  path = config/resources/minecraft/images/lifemc_logo.png
+  path = config/resources/minecraft/img/lifemc_logo.png
   fadein = true
   fadeinspeed = 1.0
   x = -65

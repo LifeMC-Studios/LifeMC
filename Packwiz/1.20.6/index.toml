@@ -422,19 +422,19 @@ hash = "76f0df39e544463f9255796df7b9b3086ca4ba1160a321fff91c2a46b971bf55"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/icons/icon-macos.icns"
-hash = "dd77a064c3e7bc6c3a299c85ec29ee190d7d948daba05ab74970864edc916ce1"
+hash = "3916d992fc27b854fe13b64f8ddf6db7e0bd8884fac7b4345738f7ab926c0385"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/icons/icon16x16.png"
-hash = "24ff86a3227385ab97e7136e6fcc30857ba386ff9222fc8d81b9f354878ecfaa"
+hash = "c57a6b36a7d2cf4e6bcc79aef4433f6c42ea693be2cc39ecb68ea5887cb352f0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/icons/icon32x32.png"
-hash = "6b11a865b16cb91668544699c84f32f7e8fa1f5b155b0b30cbfdead97617b174"
+hash = "ca1c17921e8c30a1a1c79fb7a5944f2ff77bc411f7e864ba0f76234bc9b46970"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/img/lifemc_logo.png"
-hash = "d4ef6a3c8e283f22f601b49eaf4626e72b4b55f8e1573b73295e5b617222a650"
+hash = "813fb44d50ec2087e1841886332b302fcd60e2bbdb089490102bf54771ec59d6"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/custom_gui_screens.txt"
@@ -446,11 +446,11 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "fe32c5ff78015d6e9c498d7886437b9ea6831fd0727fff38c8391755e51feca2"
+hash = "31cf26c54c1dfb8c51275490a1c4d9eb2f6c147f736d4fd98a675b996b554d7f"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "b3e2fc077ee4edab5b93015ee54db397f330ad783b0b50b8159eb43edf6d262a"
+hash = "29edd3089c11e2a55a34457795ad220433ded20c6fcec7758cd369418acd464c"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
@@ -582,11 +582,11 @@ hash = "2bf1fdee96ff7ac57adf1fa6eb52e5aabb0d97368003c26447b7852a689dc8bd"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "4e66d865899c8028836084a69f3d7013a8bcc983d9d5c885add542be9b9fd0bc"
+hash = "a847310910fc94efa1c66215d189f80bec1a54d62b22a11c7ee9b05046d1c395"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/modpack-info.txt"
-hash = "8f05da3a85d7ac0a895d82725d8fe2058b3aafd949852308c8cde5225e07ace3"
+hash = "218127ba003f122dbd4d951e8d133855e1a072519c286ccf4c3dbb7599de5106"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -1038,5 +1038,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-lifemc.pw.toml"
-hash = "0f72cb21a63cc4c46a9ba1caadbcf2f5fc913a86daba69c8bdd2048da61289b9"
+hash = "030999e9e43ea075b1e4a0e1251fc14d4f83c9cd8465290a4e890af7a028a4db"
 metafile = true

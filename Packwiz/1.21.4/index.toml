@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f7f04fb7a5157fe01a7a7ec6a15b7a1f5da5884f06c45a8847d799b07803e464"
+hash = "34189fe4f54abc96eb24f0fa2b1801659cdc9ede62798016b54cdf6f322ef6fd"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
@@ -422,19 +422,19 @@ hash = "76f0df39e544463f9255796df7b9b3086ca4ba1160a321fff91c2a46b971bf55"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/icons/icon-macos.icns"
-hash = "dd77a064c3e7bc6c3a299c85ec29ee190d7d948daba05ab74970864edc916ce1"
+hash = "3916d992fc27b854fe13b64f8ddf6db7e0bd8884fac7b4345738f7ab926c0385"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/icons/icon16x16.png"
-hash = "24ff86a3227385ab97e7136e6fcc30857ba386ff9222fc8d81b9f354878ecfaa"
+hash = "c57a6b36a7d2cf4e6bcc79aef4433f6c42ea693be2cc39ecb68ea5887cb352f0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/icons/icon32x32.png"
-hash = "6b11a865b16cb91668544699c84f32f7e8fa1f5b155b0b30cbfdead97617b174"
+hash = "ca1c17921e8c30a1a1c79fb7a5944f2ff77bc411f7e864ba0f76234bc9b46970"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/img/lifemc_logo.png"
-hash = "d4ef6a3c8e283f22f601b49eaf4626e72b4b55f8e1573b73295e5b617222a650"
+hash = "813fb44d50ec2087e1841886332b302fcd60e2bbdb089490102bf54771ec59d6"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/custom_gui_screens.txt"
@@ -446,19 +446,19 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "45f935831e941c0226c0693c1ca65a7197cb7d2aa8836ca8adebd45e503ac57b"
+hash = "5cd5880c0f46ea00f54d9b7cd049f79f8a9e8fd51d6ed007a28246a1cb7dea33"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "28723140b48576647674ee136d6d0e8eca9ccb697cdc4204485bad6ab32f288b"
+hash = "1d8e99c7956c5a96c2b48ed2a28a342cd84d75bb5cd89e265dc36f99b85fc31c"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "675ad5d16eb6b5a0f7ef91496da7925258abb777d589a572106db3ef9785effa"
+hash = "401c80c5689091383b75188cb3a210ef32c9abd6a705795e67eb377fd3991511"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "27e9451cb0a3cf005d7f5fa1d3da437d74a69e63d4e7b6bdcf3371376b4a653d"
+hash = "04f04bd41eed4a416afe9d8ddfa99e1522a1c4e22c76bdb5c068658531cc4228"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
@@ -582,11 +582,11 @@ hash = "2bf1fdee96ff7ac57adf1fa6eb52e5aabb0d97368003c26447b7852a689dc8bd"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "e77caf45a110ff2740b289be6f1cd6cb37b373cebbcde826715d85766d397af3"
+hash = "44d1e2b2ccde2074c653d42e5697894cfa10a162d7a7d07c96500385571ac163"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/modpack-info.txt"
-hash = "8f05da3a85d7ac0a895d82725d8fe2058b3aafd949852308c8cde5225e07ace3"
+hash = "218127ba003f122dbd4d951e8d133855e1a072519c286ccf4c3dbb7599de5106"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -767,6 +767,11 @@ hash = "3ec16b2656b208d75471decae64aa8877bc0292882bfcfa430ec4d196db618f2"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
@@ -917,6 +922,11 @@ hash = "fe56e851eb796c9a20491ddb6034fb3b51baf762f09b9daecfe756df602e7349"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "3ffd98bad6bf131ed40e07b51da46f8b5692982de63ad05cc8c4738e1d7a88ec"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "7ead84f8df46c7e292fb00079d11aa78d15724398b150db11d06e6713583fcb0"
 metafile = true
@@ -944,6 +954,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "3273d96b0b01d6d976741979c1a66965665522548de69bba69a6f30d9a0c8c9f"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
 metafile = true
 
 [[files]]
@@ -998,5 +1013,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-lifemc.pw.toml"
-hash = "0f72cb21a63cc4c46a9ba1caadbcf2f5fc913a86daba69c8bdd2048da61289b9"
+hash = "030999e9e43ea075b1e4a0e1251fc14d4f83c9cd8465290a4e890af7a028a4db"
 metafile = true

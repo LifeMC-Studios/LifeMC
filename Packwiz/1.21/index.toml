@@ -422,19 +422,19 @@ hash = "76f0df39e544463f9255796df7b9b3086ca4ba1160a321fff91c2a46b971bf55"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/icons/icon-macos.icns"
-hash = "dd77a064c3e7bc6c3a299c85ec29ee190d7d948daba05ab74970864edc916ce1"
+hash = "3916d992fc27b854fe13b64f8ddf6db7e0bd8884fac7b4345738f7ab926c0385"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/icons/icon16x16.png"
-hash = "24ff86a3227385ab97e7136e6fcc30857ba386ff9222fc8d81b9f354878ecfaa"
+hash = "c57a6b36a7d2cf4e6bcc79aef4433f6c42ea693be2cc39ecb68ea5887cb352f0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/icons/icon32x32.png"
-hash = "6b11a865b16cb91668544699c84f32f7e8fa1f5b155b0b30cbfdead97617b174"
+hash = "ca1c17921e8c30a1a1c79fb7a5944f2ff77bc411f7e864ba0f76234bc9b46970"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/img/lifemc_logo.png"
-hash = "d4ef6a3c8e283f22f601b49eaf4626e72b4b55f8e1573b73295e5b617222a650"
+hash = "813fb44d50ec2087e1841886332b302fcd60e2bbdb089490102bf54771ec59d6"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/custom_gui_screens.txt"
@@ -446,19 +446,19 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "a4154698188bd0808569da47141afc7458ba2dbd81cd90123dc89763139263b6"
+hash = "4151eeb489b99aaa795570b0316009a596e1340c93d0b6ef835d25d962e60a82"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "2499a0266df5ed8cf4b458944af35f88c6ca5d7682e6fc8050ff414c918a734d"
+hash = "f83979d826669d1e7a61aab94667326e6abc2f641e7c1a6a0847e3e532274386"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "9613f01be05a4f3033d8c1d49444a8519cfbd25eaa972b9de3d0f7b43fac8c80"
+hash = "e0981f8c117be3f1cef54e5ed5b961af513fc80d539ffad223736f68f48d8a34"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "703b082244564da5f26d7d62e8f91cb2164da153c382365eb7bbed527643050a"
+hash = "31f34814673d76e5021871b112b577aba01b4c7bdd0da5ece194c46456904cec"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
@@ -582,11 +582,11 @@ hash = "2bf1fdee96ff7ac57adf1fa6eb52e5aabb0d97368003c26447b7852a689dc8bd"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "06c64fb2c3fb7671f2531cc5123fb2cd78260511ef2728059fd0816c692843fb"
+hash = "ed7370d406966b2bd84b763326381a915fe2a172f02b9c1197beaf72c1d20c59"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/modpack-info.txt"
-hash = "8f05da3a85d7ac0a895d82725d8fe2058b3aafd949852308c8cde5225e07ace3"
+hash = "218127ba003f122dbd4d951e8d133855e1a072519c286ccf4c3dbb7599de5106"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -787,6 +787,11 @@ hash = "e93c516f9469293e640ce54f0c2955014951b3aa0d0ef8110f94bc96fd4dd946"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
@@ -942,6 +947,11 @@ hash = "b3c5a875a20aa12e1567bba1e95c099c5248917776a6118ef50ea74d1613a5c2"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "ba23c74355d05314b666f63512ebc1b91abc4926a48b00c137bd5e2be6868e82"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "d01b1f9d06639265f4e8b76f854591daa4446161a83c778e83106b4dfe06b622"
 metafile = true
@@ -969,6 +979,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "ffa71e1ce188b71291daa8bb67e8094ff7d0ef695add362200591c28e75cf457"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "5afa351b0c8e379990b962af499f90b124a4c79fc86f8f3dc3ef716a472e766e"
 metafile = true
 
 [[files]]
@@ -1023,5 +1038,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-lifemc.pw.toml"
-hash = "0f72cb21a63cc4c46a9ba1caadbcf2f5fc913a86daba69c8bdd2048da61289b9"
+hash = "030999e9e43ea075b1e4a0e1251fc14d4f83c9cd8465290a4e890af7a028a4db"
 metafile = true
