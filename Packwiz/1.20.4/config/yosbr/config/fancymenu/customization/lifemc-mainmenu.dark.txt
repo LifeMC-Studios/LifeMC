@@ -128,7 +128,7 @@ element {
 
 element {
   button_element_executable_block_identifier = f29b4f2a-14d3-4f5e-837d-4f5f0d590d43-1711663743556
-  [executable_action_instance:349bfffc-67e5-44a6-94c8-96ba3ac94891-1711663743557][action_type:openlink] = https://discord.com/invite/XRcdUqrY9R
+  [executable_action_instance:349bfffc-67e5-44a6-94c8-96ba3ac94891-1711663743557][action_type:openlink] = https://discord.lifemcstudios.cloud
   [executable_block:f29b4f2a-14d3-4f5e-837d-4f5f0d590d43-1711663743556][type:generic] = [executables:349bfffc-67e5-44a6-94c8-96ba3ac94891-1711663743557;]
   backgroundnormal = [source:local]config/fancymenu/assets/buttons/dark/lifemc-btn-discord-off.dark.png
   backgroundhovered = [source:local]config/fancymenu/assets/buttons/dark/lifemc-btn-discord-on.dark.png
