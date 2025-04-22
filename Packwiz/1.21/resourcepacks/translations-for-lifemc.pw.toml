@@ -3,11 +3,11 @@ filename = "Translations for LifeMC.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6EMOKrMb/versions/6cIifiW2/Translations%20for%20LifeMC.zip"
+url = "https://cdn.modrinth.com/data/6EMOKrMb/versions/7S5qwkai/Translations%20for%20LifeMC.zip"
 hash-format = "sha512"
-hash = "def716e136f75c33e8d1179f641a2fc2d92a437027fcf2066a34a0e30eafbbb6a09e361123dfd944dbf536f281772bf900467b7d9fc584802c52fe3d94084d5e"
+hash = "e55f83333677e7d75102d84ee1e8e04838f92084c8c24ad2adf080d57a8057166a6fe07961e221d04fad3c981df301a2531cb2284dbfa96316bdc6cebc5d5e45"
 
 [update]
 [update.modrinth]
 mod-id = "6EMOKrMb"
-version = "6cIifiW2"
+version = "7S5qwkai"
