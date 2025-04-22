@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1745355504915
+  last_edited_time = 1745355990896
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:8772f6e7-75e0-4bdc-9c60-832872155a25-1745355494496] = [groups:][instances:48128516-aefe-4c87-8b46-77eb5e6d3256-1712996051442;]
+  [loading_requirement_container_meta:9b5eb2ab-5602-4975-be9f-ec1b225d8869-1745355967545] = [groups:][instances:48128516-aefe-4c87-8b46-77eb5e6d3256-1712996051442;]
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:48128516-aefe-4c87-8b46-77eb5e6d3256-1712996051442] = theme:1
 }
 
@@ -79,7 +79,7 @@ element {
 
 element {
   interactable = true
-  source = {"placeholder":"local","values":{"key":"lifemc.copying"}}
+  source = ^^^%n%{"placeholder":"local","values":{"key":"lifemc.copying"}}%n%^^^
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -136,7 +136,7 @@ element {
 
 element {
   interactable = true
-  source = LifeMC - {"placeholder":"mpuc:current-modpack-version"}
+  source = ^^^%n%LifeMC - {"placeholder":"mpuc:current-modpack-version"}%n%^^^
   source_mode = direct
   shadow = true
   scale = 1.0
