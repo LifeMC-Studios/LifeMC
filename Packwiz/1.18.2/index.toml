@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "7051da6fb8df0a7b8c66e9bae14b37c2f96a5393e6f0e8af5e0d501eed50dcc2"
+hash = "e63a2524ad78a4bbca55d2b59238338ab25304b5235124318f5acaef6e7c8cc5"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
@@ -715,17 +715,17 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "304e4629e83d62bd3fcf335a3ea891d0cb2ec3e13ce1f35e1e470b833e1f1692"
+hash = "d92c0ae42e11b86841fe5efa6d1e975fc4e0e14a35595c1154162fb4f2b28520"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "81a9567d99e6b223aaf058018d6566425d42a1bf008deac218cbc5e066fce069"
+hash = "31b6a51878cc1deede7b78c638254d3cb8689ef3b872ec7c695f2825e47e442f"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "187517b83015b5f421534643fc42586145c2ce6a6cd8b753d33d5c86b23ee6d9"
+hash = "1e847cffc67f4e8f5926db35d98212fd8d323ca9fd069e55a4cb87209ac14407"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "a5e46b75c6ddfc2a012b0f313cb8502659f759529f65bba991124b020ad6afc6"
+hash = "0e1a311470a69f15083d209b3395a2f154533cce594f60699c1c97f977080887"
 metafile = true
 
 [[files]]
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "e9dd310c958989bba07ad2996df7e69c21aa50a8d34817cf61be3416e3cf39cc"
+hash = "97b8193c05bf687adcfc92cc992b6a8cdc448ca231d6878e7d8fa3013ab5ee1e"
 metafile = true
 
 [[files]]
@@ -1025,5 +1025,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-lifemc.pw.toml"
-hash = "030999e9e43ea075b1e4a0e1251fc14d4f83c9cd8465290a4e890af7a028a4db"
+hash = "eb002e31d6367856a555b341bcd6a17f8cb69a7d18005c7e46bf8be87adece68"
 metafile = true
