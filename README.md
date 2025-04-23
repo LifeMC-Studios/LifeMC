@@ -33,7 +33,7 @@ Some functions you will find in LifeMC:
 - 🔭 Better zoom than OptiFine, thanks to the Zoomify mod
 - 🪟 Merged glass thanks to Continuity
 - 🕯️ Better Dynamic light  than OptiFine, thanks to the LambDynamicLights mod
-- 🗺️ +56 languages supported to translate the custom menu and other things
+- 🗺️ +60 languages supported to translate the custom menu and other things
 - 🌐 Hosting your own world with the e4mc mod
 - 🌳 Tree leaves better than OptiFine thanks to MoreCulling mod
 - 🎨 Custom menu with dark and light theme and update notification and more

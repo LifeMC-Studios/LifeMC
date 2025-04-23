@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e0bbb0595f089772c2dcf1ab27b80ee89bd6d1a8b5dcca09912f96ce2e312977"
+hash = "9f441202c1665e8f9c57c0931c8baccf5f520d537a496df84a628b6b57f28aac"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
@@ -258,7 +258,7 @@ hash = "2bf1fdee96ff7ac57adf1fa6eb52e5aabb0d97368003c26447b7852a689dc8bd"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "0b6d49d70091381b0febe494a7edd5034691cc530dcbe57794efa88892c6989c"
+hash = "d7fe35e565a3bd88dcbba6e8013dd337afef6e30d1adedba7d9a673ab3569d15"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/modpack-info.txt"
@@ -771,12 +771,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b2df9500501262e14e4da90203fb34b96a0e0f45f6b2365de1b90d794d6dfdff"
+hash = "1afb3b457890a8d53be4494ec51530457acdba44e32dfb39cce52053dbdca1f1"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "187517b83015b5f421534643fc42586145c2ce6a6cd8b753d33d5c86b23ee6d9"
+hash = "1e847cffc67f4e8f5926db35d98212fd8d323ca9fd069e55a4cb87209ac14407"
 metafile = true
 
 [[files]]
@@ -1031,7 +1031,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "d2b306f8e70f974c5d3dd50c42cb0bde1c92c9d0e1ab0448bc8eff5063145b97"
+hash = "56d12feb068689dc00d0069cdb251d096bf39d110fb6b204496b3709698d7f2e"
 metafile = true
 
 [[files]]
@@ -1081,5 +1081,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-lifemc.pw.toml"
-hash = "030999e9e43ea075b1e4a0e1251fc14d4f83c9cd8465290a4e890af7a028a4db"
+hash = "eb002e31d6367856a555b341bcd6a17f8cb69a7d18005c7e46bf8be87adece68"
 metafile = true

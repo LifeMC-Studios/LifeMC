@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "34189fe4f54abc96eb24f0fa2b1801659cdc9ede62798016b54cdf6f322ef6fd"
+hash = "8efc031b5447daafa3722cf397388d5baf530249e975c652c6fdac5f5e3211b7"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
@@ -446,35 +446,35 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "5cd5880c0f46ea00f54d9b7cd049f79f8a9e8fd51d6ed007a28246a1cb7dea33"
+hash = "25b73a49c39bbb29f800741e9728ac4516e699f76fba62337a0e64415e867f53"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "1d8e99c7956c5a96c2b48ed2a28a342cd84d75bb5cd89e265dc36f99b85fc31c"
+hash = "f9c306bb74dc9e3989e46ed4642aaa2c925c9e601ca955cb542de49ba392ffc2"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
-hash = "401c80c5689091383b75188cb3a210ef32c9abd6a705795e67eb377fd3991511"
+hash = "f71a8596db192070411012871d69ec4fe3d80430e12cc734a200cb8073346dac"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.light.txt"
-hash = "04f04bd41eed4a416afe9d8ddfa99e1522a1c4e22c76bdb5c068658531cc4228"
+hash = "39efa9def822a3693d1bdf644bb391190ad7a4a2ad31ec14691a01cdc4e824a8"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "23a4e9e419483ce5cddfe6d35f6d2a69f90ce38ef8ba53da79df61430c7fc6f0"
+hash = "7cb1678967df01a9fe9c53fee284eb5b349ea45776f07350edf685bd306bc6a6"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "507ba5c52e4715cbf6d6dc5edc405152023d7dfb12e4af4dcfe29225adff6db5"
+hash = "37de424173cd554e7f5f7b93662c48c06f630e66c994a58147639b8eccc5bb8d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.dark.txt"
-hash = "17321f847f37a3ea6593cfc89fe4d8727999540fc775d4037914143376f4f8fd"
+hash = "619b404c24826a0decd54feb21b3114ce22bbb9373e573aef96b7afeeb986ce9"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.light.txt"
-hash = "212f4ce58271eb42a197a573ef8f4fb515dc2640adca1707baacd7520637d95e"
+hash = "52f7461329c98bbb7f93853d1e862981aa6ee4ffceb4554bd3a8783b90eb2acb"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -582,7 +582,7 @@ hash = "2bf1fdee96ff7ac57adf1fa6eb52e5aabb0d97368003c26447b7852a689dc8bd"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "44d1e2b2ccde2074c653d42e5697894cfa10a162d7a7d07c96500385571ac163"
+hash = "e1a999da9fdefd123d91e027307cf16b2f0b7f8abfa829a6e292c934a91020b6"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/modpack-info.txt"
@@ -688,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "853087309c5b08115038d1f349928cd95370926956ae7a293b810f2b2711e7f3"
+hash = "70736e594e6023d68367510f699f99aa8b26c84fa6ad0d656fbf08c70539d991"
 metafile = true
 
 [[files]]
@@ -713,17 +713,17 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "c4f594550b51ba50331fc1e0dc8088e2a6379daa7f9c1c3807e5b726700b8223"
+hash = "471c976b987c0b78a37793e4d483626a0601aae293e7da91be74c75e44936cac"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d1a2a4ef509bb718243d16e2950b1289f286428c3067685f4ef40f4ec4f8a0a6"
+hash = "19183871606b6b95796af7ca4a16b81aa8cf29f22df8bb2fbd8dd6e9a66b5a63"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "187517b83015b5f421534643fc42586145c2ce6a6cd8b753d33d5c86b23ee6d9"
+hash = "1e847cffc67f4e8f5926db35d98212fd8d323ca9fd069e55a4cb87209ac14407"
 metafile = true
 
 [[files]]
@@ -763,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "3ec16b2656b208d75471decae64aa8877bc0292882bfcfa430ec4d196db618f2"
+hash = "4d9afe066ad40c88d21e5d8bbe840c7486f2ec97773b67b4c0fbfd523161b0a5"
 metafile = true
 
 [[files]]
@@ -813,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c716469739cf0e6c33cd1c71ce67cd942a23395b5ecb3f04b59ddba87e0347f6"
+hash = "72028ee2d4464eb37fcdfafb39bab016e265f6f761bfd67dab103d2cb7b18e11"
 metafile = true
 
 [[files]]
@@ -823,7 +823,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "18677747bc547d16bed5542b30691c6c7cdfa203e88c156ab367accd01273b93"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
 
 [[files]]
@@ -833,7 +833,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "33ee37bdfc014335d6789dd4daa1d8966163487eb328c9eda4b126a8e2801539"
+hash = "77c1125246a7662f4674018015a8c67152af405b7a3abe9cb249ebb36a264ea5"
 metafile = true
 
 [[files]]
@@ -893,7 +893,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "72ae143a29339b05237519f59d23f3bae5b4adf672ce5195b07a4da8833c8eb6"
+hash = "1caa2814a90844bdd1d43f1a8bcbf9ee0a96b70d2f65fa14e193def4cc756536"
 metafile = true
 
 [[files]]
@@ -958,12 +958,12 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "a5f9299d97fa94f981726417671569eea366d283720cd08e7e4e20c07de0bb60"
+hash = "056202946961c2e466355305003cbfdbdb9048b7356c71d37f31b1a4c2b570aa"
 metafile = true
 
 [[files]]
@@ -1003,15 +1003,15 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguidark.pw.toml"
-hash = "de8100a6b088fef896933a76086b83cd6fba04e04a40785da3fca0f3960998b3"
+hash = "d2c5668df0b7a4b02b28667f4bc422a095a21c421f92cbf8cb50ae3c7accd812"
 metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguilight.pw.toml"
-hash = "a66c9b5b59e952c350cae360d0fa8358b2af9773dd03bd30caab7308416e66e3"
+hash = "2f9b4e5fc5503146e0f63265a66108f88c904267dddc7866034f713b69a4542f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-lifemc.pw.toml"
-hash = "030999e9e43ea075b1e4a0e1251fc14d4f83c9cd8465290a4e890af7a028a4db"
+hash = "eb002e31d6367856a555b341bcd6a17f8cb69a7d18005c7e46bf8be87adece68"
 metafile = true

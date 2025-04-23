@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "11b29880d5d01a607396d02f200e4de16467bab93b9ad614df7560d01a218bf1"
+hash = "b3c0d1db4e3d484ac6f240405c7411bb6ddfa481d3b33e8a775197f6bb94d87d"
 
 [[files]]
 file = "config/yosbr/COPYING.md"
@@ -582,7 +582,7 @@ hash = "2bf1fdee96ff7ac57adf1fa6eb52e5aabb0d97368003c26447b7852a689dc8bd"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "ed7370d406966b2bd84b763326381a915fe2a172f02b9c1197beaf72c1d20c59"
+hash = "da316e1bacc64a48557a66972be2fbcafd0a7198ff608ff0808311dc2a5f683c"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/modpack-info.txt"
@@ -668,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "c489e8da02e454741ea29f511b0b46c37fa5e716d0d0ef43bc7bf387022532ab"
+hash = "3cd806739cb85cea04a11b68f642345963bf2b48de6bef6a8604ad8a7fe2739e"
 metafile = true
 
 [[files]]
@@ -728,12 +728,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "981438ab40fcb62a1e41dc6e16b11f351bd49134d8c0b9ace25acaac31993ec9"
+hash = "71314f7a5609378c77f372c31d2c501a330cc901c6e4f6e060d7f3095d362086"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "187517b83015b5f421534643fc42586145c2ce6a6cd8b753d33d5c86b23ee6d9"
+hash = "1e847cffc67f4e8f5926db35d98212fd8d323ca9fd069e55a4cb87209ac14407"
 metafile = true
 
 [[files]]
@@ -833,7 +833,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "b51341c6f2ff3732617d7ffa3b3ed3d09c05d2d24fbc243734aefbe47f149f83"
+hash = "fcd2efc7933249606e692b7cfd6d041f4ab01e8d35c365c2497bbebbd476027f"
 metafile = true
 
 [[files]]
@@ -988,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "b596c60d06c7645dce40b16e49eb8ea18c92d09a656cdfce6000e0ff2c8eeae7"
+hash = "7358fb654936b6a5fa8c04f19baa73558ec209688b301af4d10961b948ef097c"
 metafile = true
 
 [[files]]
@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "5d6688e328b553f99c8d0864d484173a2501a930bd485d1dc63ebe7452be0673"
+hash = "99cc4bdfa44196b887c0b6ea48622f89a6a004866a9af47b929dabe5331e2605"
 metafile = true
 
 [[files]]
@@ -1028,15 +1028,15 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguidark.pw.toml"
-hash = "de8100a6b088fef896933a76086b83cd6fba04e04a40785da3fca0f3960998b3"
+hash = "d2c5668df0b7a4b02b28667f4bc422a095a21c421f92cbf8cb50ae3c7accd812"
 metafile = true
 
 [[files]]
 file = "resourcepacks/reimaginedguilight.pw.toml"
-hash = "a66c9b5b59e952c350cae360d0fa8358b2af9773dd03bd30caab7308416e66e3"
+hash = "2f9b4e5fc5503146e0f63265a66108f88c904267dddc7866034f713b69a4542f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-lifemc.pw.toml"
-hash = "030999e9e43ea075b1e4a0e1251fc14d4f83c9cd8465290a4e890af7a028a4db"
+hash = "eb002e31d6367856a555b341bcd6a17f8cb69a7d18005c7e46bf8be87adece68"
 metafile = true
