@@ -570,7 +570,7 @@ hash = "9500f4cde6bc48aca8c31ece468d697105469fc53172bf69cd6ff8819d6ba315"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "5a3c27a244e817a2d79c5be707648c1efbe4a1410084734596cbebb6737831b8"
+hash = "311ac71881cbe6960d3670878f8f16f7711c2ea7ac17c28ef48af8cd543b3c00"
 
 [[files]]
 file = "config/yosbr/config/modpack-update-checker/modpack-info.txt"
