@@ -1,0 +1,13 @@
+name = "Cherished Worlds"
+filename = "cherishedworlds-fabric-2.0.2-1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3azQ6p0W/versions/UN84WNHf/cherishedworlds-fabric-2.0.2-1.18.jar"
+hash-format = "sha512"
+hash = "747af2cf563a15a1de99dedfbf257f54d6b8a1f8d019db04b0717c60f3b08cef430a832fe0c09f39c554dbd83f2a070747dbdca310c4099ccc5c5c2ae9e77e57"
+
+[update]
+[update.modrinth]
+mod-id = "3azQ6p0W"
+version = "UN84WNHf"

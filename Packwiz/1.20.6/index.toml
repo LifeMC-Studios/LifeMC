@@ -677,6 +677,11 @@ hash = "a3adb1164bd2360d0b4e2568dd87c520875afe61884f890100b895ecadd41215"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "2421ac237c161c3eabebb1416d661f90560f17b24a7679dae4098026a9a44619"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1d3d810fb49f6b74078abfb8aa2816715cc2840ba6324c9fcabff984b9b72412"
 metafile = true

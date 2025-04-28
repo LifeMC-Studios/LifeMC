@@ -674,6 +674,11 @@ hash = "01dd9f032dd3e9a23a78e56ca42dc5a0e59de5886f66ea58f0e7c82ec5ce5cd1"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "7612d08249ce35e10237449605026b76e5b56a0fac52038a018407275e38b474"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "3f2fabb5b9e0534db50a787a001261462354c0b5c4a19a2a35f8b271118e2909"
 metafile = true
