@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "62068d84417de36d1330cb01617871bd4187fabd11bc150225b1089b765ee0f6"
+hash = "bd158082a6f42501278e64870a7d8a466abe020aefc1b17cdaec940c4003c57a"
 metafile = true
 
 [[files]]
