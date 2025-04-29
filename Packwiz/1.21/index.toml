@@ -250,175 +250,175 @@ hash = "857a74b32bef8aa3195e864e2e1a1d0bf897cdf1578185f92918c99d1473b13f"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-accessibility-off.light.png"
-hash = "af41bde6b5f31509482e438275d45dc457f73181c49040e5b444855a7e0a7a45"
+hash = "2cd6b98b1a55c517582045615be8c5926d9e4636da18eb470e1dfb0c8a159667"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-accessibility-on.light.png"
-hash = "ea0e3a5db0b23464dd45b57952cb3fee7cabf9c3d64a402772f4ffae4482bdd6"
+hash = "6b3a647afbea48575f70423671ba9eeb15b296f12b6278c38bd5ca9269270212"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-audio-off.light.png"
-hash = "5f37905011449beb4446197145e9be3fae9bbdb77297961c29714caef0658a8a"
+hash = "234823f84bd111536fd2a6b6f28f5e40a90c43836a8f5eb31de69d4f5a0be02d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-audio-on.light.png"
-hash = "46a86adf5552386c27c0e977f1765ecf28cc9d4b499d95f102c38e286d7db7e8"
+hash = "7bce03fbf7986e7c6fa5609da7b8ac7bc7cecb9130638fb877f0e9819c47e47c"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-chat-off.light.png"
-hash = "530f36fbaddd6d8987dea162ba4120b88b9899a90cb2765ba4f8a6d81b9f70de"
+hash = "c6d064c89390abaa91471ede7464761352895b6a62de1710b3ca6ca59e9c160d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-chat-on.light.png"
-hash = "c6c270b7536f90b0147a6c60689ff4d2605a31d5b744071433a67cdbe8fe5763"
+hash = "709e75f7c45a7541db3fbeff6c71ebaa140ed86ce882a0418137d87375dcf046"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-close-off.light.png"
-hash = "62b185efecda4bad371fd8c844d4f2fb082a04b8346c9c80a436be0e534f9ac3"
+hash = "6502d6fa036a9c8ac553824a1209de8a6198cea433c5118e4845632607bb8234"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-close-on.light.png"
-hash = "bf40fea78b5c8f80009e9de2effe310eb20b692016fc182896723a9a6137b568"
+hash = "caaf15986558ac2487495b3475189717bf12f5c280afd28d9e3d3dbb400cc578"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-contribution-off.light.png"
-hash = "b958af87623052a550e3cda927324b5dca7401048f44855d169ea8d2c364052f"
+hash = "7236c2cb7461d08f0740a7d4699d8079ddbd5e42cdc636beb9ecd9399326edf1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-contribution-on.light.png"
-hash = "f3becfa2e17ebda22526b1044acd98207d62daed6d89847b004774320eb0cd31"
+hash = "bd305198fb4d8914d7682683aaa4b3a86e669925abeada881ba2a4f43f29bf9e"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-controls-off.light.png"
-hash = "ebbcf24a2d714b6c1795a4872e5ca2d0212e18069fb89257f870808aeb7a8034"
+hash = "0cbcf8a398abd7720283eca3456de91b1b4e22ac4b0c62136cecbbd7e58f445e"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-controls-on.light.png"
-hash = "6feba045a41a8be1494b0f605cefade6b90c9d9fa0fd85d4ff3251a64f32994f"
+hash = "470b0d743436f3484d7fe8c7484639655d46209621c7b75d711fe85459c70e9d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-cosmetica-off.light.png"
-hash = "9da4c2b24e2c244d312738a6da4b0be42e9765eed1c9320c173d4a0d0e1409fe"
+hash = "9e4a0a7011ecd0fa8920defd13e76d93860aef0466f7b8965957d405a7798548"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-cosmetica-on.light.png"
-hash = "130287f44fa5d58c72336b0e17f9dd57028f7ff6e4d7ac4c0d84d33a431ed109"
+hash = "ca86b72c74154689503153d7b427331a91902c5f285928daac0799396ff60e99"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-discord-off.light.png"
-hash = "2f17e9b1dca362e1ab97761e892ffa7919d69dda3532c205ebf09e585b8b26cc"
+hash = "408f5a003d6f20c1a5eb663c9adc81c5dae17b6e92c9beee66e461f4601d1fd5"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-discord-on.light.png"
-hash = "73f0d275cd47da1de751d6f1004a9dfc56e19569b41a4e89890ce6949c6e377d"
+hash = "7973087114922c36dc07b807bb57c2f0202cd751896ed828a43e730cde4c5bfe"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-lang-mainmenu-off.light.png"
-hash = "0f10608c140cc82d021171710e3b8e28ef501f08a3139b3877633eb17dfb112b"
+hash = "ed2aa42c8e14501a4d07758769d732fbc567350aee4fd8cdb57d2134a9da50e9"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-lang-mainmenu-on.light.png"
-hash = "807f5a23b30d32a8c3c87d11c4b02a39ac6167ff729e3eb305b875ee828693b1"
+hash = "87ad66b248882dd9326ab839c8984d2da0132e6fe0b9714e1dbd60ab6875dcbd"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-lang-off.light.png"
-hash = "3699b24b4e931d3a4e7b9132823c41c31c2d55a0043548770183fbcd464a750f"
+hash = "0a0ce3cf7ef4675056475bc5b36a951cdc0103b9f71b57ab3ac2c14d26369cd0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-lang-on.light.png"
-hash = "abbd6a864444c29082d4a7ee653792660bda155461678b5564db8ca5ef71f62d"
+hash = "735a4d118fdaa03dda2954d50b03f6721ded248427df2a4e515db64ab5c26be2"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-mods-off.light.png"
-hash = "8b320674ee006cb812eb48f45c784f1fde5907e65a97e8a7b8cea1111c47631f"
+hash = "329c80287ccab747c8f052e0f83db9c7aa7b8288b1c33741814024bda021c44a"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-mods-on.light.png"
-hash = "f0b601e31a6eadb0adc1db09a50a892ace0d80f23c49e4c2aa299ee647fc70a0"
+hash = "e6a58f0d9e5d03cb0e76dcfe50f93c902e99fd9c75464911b2757a9aa29b324f"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-normal-off.light.png"
-hash = "33c238411cf636c4bf434b711e2d77e494ea091f44a0dd7affbe565bd04cad17"
+hash = "63ea5768da6b212846678f6dd7f2d80959db1b3915ea10469d058070b774c56d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-normal-on.light.png"
-hash = "9096f32a233fb330eb7a5631f2c26d7103b291efa833bf42d29b80b0a919b113"
+hash = "d77ba8039c7e2f64fd40dae5b51efdd74680d3d566164426ca8f9291bbf8453e"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-online-off.light.png"
-hash = "6ac0e614228280e74c216e1d0282d424a173369cc9d871f24899e50c9d6424d8"
+hash = "7ac93898c2137dfd4434e4a590ef848f7a1cddcdd83accdbb7d4f5f14d157b65"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-online-on.light.png"
-hash = "a6674ec20b15bc467522f4f8023b8cb5d3087a85930751fd59586dc16b0cb4ae"
+hash = "061485cbef05b4f6cf30bfa667670cae9831d1476e609e6091f0e208e9a1dcd1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-packs-off.light.png"
-hash = "ff6e4bac0e4ffe75203c740143765e5bb26267eddd0cf0a8799edd767102651a"
+hash = "81ea5ee87f35956d404a9460f6015ed204c6b82d6c68443dfbb4f82965650316"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-packs-on.light.png"
-hash = "9373cc5fdc3344447e736ce8d1abfb4d75948f14627fe4f9dd4baf064379e166"
+hash = "50fd57f91969b4493c6d56e23f9dce6e79b2f22a6dceef6866cee1e8d28b6769"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-report-bug-off.light.png"
-hash = "211062402362949e7ea2d6aabb5ff4bfbd83317d04b9848af464efdfa1b9ec69"
+hash = "849d8c978f595b655098cc2b2ec3dea75d443b5883db1a112079e47b61fe1218"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-report-bug-on.light.png"
-hash = "64897ab6fe1cb72019d7dc18fe6eec04b8c5efeba344be4bee9caf6c4ef0873a"
+hash = "0e975ad38d73a0d246e039e77e56c17a8e15558a0d84fe3154978434385ae101"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-screenshot-menu-off.light.png"
-hash = "073a964cce751e45dbcaed8291ca800b903345aff746541d8267aaee66608697"
+hash = "4fa8309a01616203db353efdd4c1b94c53add58269ccf58190f1e63d2c267067"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-screenshot-menu-on.light.png"
-hash = "a583e5bfd0d10c34536f8ece57de924ec3d05dec0662296aa6ae4a5686b79fbe"
+hash = "6c3a79c4dab1a0e7f796c054202597f17299ad703112c1af4f1c65ed08b85250"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-settings-off.light.png"
-hash = "06ec246f83f50f6128b187226fa14b5638745e027c6ff2e7be03fb5a47394d8f"
+hash = "4c7f256936bded9d1365ed7cdf00b8dc0ade3e4fe11deb12b869bd64b21ec05f"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-settings-on.light.png"
-hash = "9ed4d9ff42c1ef12ac2a7bcd74d4c3c3fa7cae293cdeeca2de1a01b48a00c787"
+hash = "678d72ab42eab5bd941acef0d0cc30caaf5aff98435486d915c951f62c87c9cd"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-small-inactive.light.png"
-hash = "3052cef3868a0fa758009ad08e5e64865449c780ab26100f8af935c0982f94a0"
+hash = "c34a0b07ea03a8b6c0ce5e29eb4be758464523cd4d64d596feed6602b9b419af"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-small-off.light.png"
-hash = "b54e07cdd2f615cb011847f64e7d573b32a35d7212f041d8ea8dfbb37622c49b"
+hash = "a5fdc99f4fd43b0773e7180038ae1bb1e82d845ac418f9753d157f0f2a5fa29e"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-small-on.light.png"
-hash = "e4b1fd8d0c1b2f957f5f88fa32b683e3ee781e286521af89928eceafb82a6836"
+hash = "5cb4513c37a1342b2fc00d06b9df6ce4768fac67ce50add3f40a1c13d693e604"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-theme-off.light.png"
-hash = "61d8047da6c51a1a5b5c2d9039f02662a96f74ae3581348921777694ab28a5d8"
+hash = "1f9d77778957312c1518b831ae29adc548756be0310e5448ea68663ed8ff3a37"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-theme-on.light.png"
-hash = "c148aa2690cec3f830e98748ad1c97d634fbf037f8540a0eb78517bd8523e213"
+hash = "fbdcc2284757732640975a95d13c6f3b83dc789bd0a840f70d44e8dda93bcd1e"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-update-off.light.png"
-hash = "de8b9b4ec411075364598a9f206ad33e0a3931af636d06a99a12d2ad17c2fd29"
+hash = "b39b1f9577b89c6bffd26099206ea4c8acc50d4f935d4f738f84d1ddb7cca632"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-update-on.light.png"
-hash = "f18335f86dc69b2a895a242f3ac560c1d12602ec32fb883e26e71ff93d755b53"
+hash = "03dc5f717d6a98ddbb725faec00a4b3b7c41f779e757f5205d7a61622121d1f1"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-video-settings-off.light.png"
-hash = "1cc7e062f1a68a474a1da2efd36adff314efc55d33a8f0d664acaa536c994a16"
+hash = "2d0279b998b2ade981f3bf85a6b0ccf89e1209c8fc7bcf10036e7f5e65c2d528"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/buttons/light/lifemc-btn-video-settings-on.light.png"
-hash = "76f0df39e544463f9255796df7b9b3086ca4ba1160a321fff91c2a46b971bf55"
+hash = "a0e46896be3cb89f5eeb508d9c8ca0b121e4f574abae6aef358d45fe70533ae0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/assets/icons/icon-macos.icns"
