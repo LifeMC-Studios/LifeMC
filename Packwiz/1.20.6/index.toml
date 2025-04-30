@@ -673,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "a3adb1164bd2360d0b4e2568dd87c520875afe61884f890100b895ecadd41215"
+hash = "589bd9faba6954e1e84bdeb30a5d7d3e49031870021746abb7419642e135b7a7"
 metafile = true
 
 [[files]]
@@ -698,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "e19390f4995ea8ac15c24f53c67640ae8fb208d6ca66ea4535681841a173d48c"
+hash = "6f508a4c640d486fd6fc8c4a96578255d4e686aa0e1f405e7212d62301e41c2a"
 metafile = true
 
 [[files]]
@@ -713,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "a07bc05d1cf899a8b069865d1a8b0fed2fb87b946ff5ebe24be83288ebd25422"
+hash = "6adefde3ba0a4a4c620ae0b9bf6fd744f079a790b16623f9329d6ea7ef2f274b"
 metafile = true
 
 [[files]]
