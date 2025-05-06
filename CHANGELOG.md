@@ -376,7 +376,7 @@ The team at LifeMC Studios
 
 ## v1.2.0+1.20.4 (2025-30-04)
 
-#### **Java 21 required**
+### **Java 21 required**
 
 👋 Hello everyone,
 
