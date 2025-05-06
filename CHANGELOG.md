@@ -2,6 +2,1667 @@
 
 Welcome to the section dedicated to the changes made to the modpack. Here you will find a complete list of all the new features, bug fixes and other improvements introduced with each update for each version. Discover what's new in each of our modpack versions and make sure you always use the latest version for the best gaming experience!
 
+## v1.2.0+1.21.4 (2025-30-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Added Cherished Worlds mod
+- feat: ✨ Improved CraftPresence config
+- refactor: ⚡ Decreased the weight of dark buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of light buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Chat Patches
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Added AppleSkin mod
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
+
+## v1.2.0+1.21.1 (2025-30-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Added Cherished Worlds mod
+- feat: ✨ Improved CraftPresence config
+- refactor: ⚡ Decreased the weight of dark buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of light buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Chat Patches
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Added AppleSkin mod
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
+
+## v1.2.0+1.21 (2025-30-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Added Cherished Worlds mod
+- feat: ✨ Improved CraftPresence config
+- refactor: ⚡ Decreased the weight of dark buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of light buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Chat Patches
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Added AppleSkin mod
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
+
+## v1.2.0+1.20.6 (2025-30-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Added Cherished Worlds mod
+- feat: ✨ Improved CraftPresence config
+- refactor: ⚡ Decreased the weight of dark buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of light buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Chat Patches
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Added AppleSkin mod
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
+
+## v1.2.0+1.20.4 (2025-30-04)
+
+### **Java 21 required**
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Added Cherished Worlds mod
+- feat: ✨ Improved CraftPresence config
+- refactor: ⚡ Decreased the weight of dark buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of light buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Chat Patches
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Added AppleSkin mod
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
+
+## v1.2.0+1.19.4 (2025-30-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Added Cherished Worlds mod
+- feat: ✨ Improved CraftPresence config
+- refactor: ⚡ Decreased the weight of dark buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of light buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Chat Patches
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Added AppleSkin mod
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
+
+## v1.2.0+1.18.2 (2025-30-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Added Cherished Worlds mod
+- feat: ✨ Improved CraftPresence config
+- refactor: ⚡ Decreased the weight of dark buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of light buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Chat Patches
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Added AppleSkin mod
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
+
+## v1.1.1+1.21.4 (2025-23-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- docs: 📝 Updated the SECURITY.md
+- feat: 🔧 Updated the modpack version tag in packwiz
+- feat: 🔧 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔧 Updated the modpack version tag in Modpack Update Checker
+- feat: 🔧 Updated fabric version to 0.16.14 in the packwiz
+- feat: 🔧 Updated fabric version to 0.16.14 in fabric_loader_dependencies.json
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Blur (Fabric)
+  - Dynamic FPS
+  - e4mc
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Blur (Fabric)
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - Fabric API
+  - FancyMenu
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - LambDynamicLights
+  - Lithium
+  - MidnightLib
+  - Polytone
+  - ThreadTweak
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- fix: 🐛 Fixed text problem in FancyMenu for versions 1.21.1 is 1.21.4
+- fix: 🐛 Fixed text alignment in FancyMenu startup screen for versions 1.18.2, 1.21.1 is 1.21.4
+- docs: 📝 Updated the README.md
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
+
+## v1.1.1+1.21.1 (2025-23-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- docs: 📝 Updated the SECURITY.md
+- feat: 🔧 Updated the modpack version tag in packwiz
+- feat: 🔧 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔧 Updated the modpack version tag in Modpack Update Checker
+- feat: 🔧 Updated fabric version to 0.16.14 in the packwiz
+- feat: 🔧 Updated fabric version to 0.16.14 in fabric_loader_dependencies.json
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Blur (Fabric)
+  - Dynamic FPS
+  - e4mc
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Blur (Fabric)
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - Fabric API
+  - FancyMenu
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - LambDynamicLights
+  - Lithium
+  - MidnightLib
+  - Polytone
+  - ThreadTweak
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- fix: 🐛 Fixed text problem in FancyMenu for versions 1.21.1 is 1.21.4
+- fix: 🐛 Fixed text alignment in FancyMenu startup screen for versions 1.18.2, 1.21.1 is 1.21.4
+- docs: 📝 Updated the README.md
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
+
+## v1.1.1+1.21 (2025-23-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- docs: 📝 Updated the SECURITY.md
+- feat: 🔧 Updated the modpack version tag in packwiz
+- feat: 🔧 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔧 Updated the modpack version tag in Modpack Update Checker
+- feat: 🔧 Updated fabric version to 0.16.14 in the packwiz
+- feat: 🔧 Updated fabric version to 0.16.14 in fabric_loader_dependencies.json
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Blur (Fabric)
+  - Dynamic FPS
+  - e4mc
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Blur (Fabric)
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - Fabric API
+  - FancyMenu
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - LambDynamicLights
+  - Lithium
+  - MidnightLib
+  - Polytone
+  - ThreadTweak
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- fix: 🐛 Fixed text problem in FancyMenu for versions 1.21.1 is 1.21.4
+- fix: 🐛 Fixed text alignment in FancyMenu startup screen for versions 1.18.2, 1.21.1 is 1.21.4
+- docs: 📝 Updated the README.md
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
+
+## v1.1.1+1.20.6 (2025-23-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- docs: 📝 Updated the SECURITY.md
+- feat: 🔧 Updated the modpack version tag in packwiz
+- feat: 🔧 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔧 Updated the modpack version tag in Modpack Update Checker
+- feat: 🔧 Updated fabric version to 0.16.14 in the packwiz
+- feat: 🔧 Updated fabric version to 0.16.14 in fabric_loader_dependencies.json
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Blur (Fabric)
+  - Dynamic FPS
+  - e4mc
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Blur (Fabric)
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - Fabric API
+  - FancyMenu
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - LambDynamicLights
+  - Lithium
+  - MidnightLib
+  - Polytone
+  - ThreadTweak
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- fix: 🐛 Fixed text problem in FancyMenu for versions 1.21.1 is 1.21.4
+- fix: 🐛 Fixed text alignment in FancyMenu startup screen for versions 1.18.2, 1.21.1 is 1.21.4
+- docs: 📝 Updated the README.md
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
+
+## v1.1.1+1.20.4 (2025-23-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- docs: 📝 Updated the SECURITY.md
+- feat: 🔧 Updated the modpack version tag in packwiz
+- feat: 🔧 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔧 Updated the modpack version tag in Modpack Update Checker
+- feat: 🔧 Updated fabric version to 0.16.14 in the packwiz
+- feat: 🔧 Updated fabric version to 0.16.14 in fabric_loader_dependencies.json
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Blur (Fabric)
+  - Dynamic FPS
+  - e4mc
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Blur (Fabric)
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - Fabric API
+  - FancyMenu
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - LambDynamicLights
+  - Lithium
+  - MidnightLib
+  - Polytone
+  - ThreadTweak
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- fix: 🐛 Fixed text problem in FancyMenu for versions 1.21.1 is 1.21.4
+- fix: 🐛 Fixed text alignment in FancyMenu startup screen for versions 1.18.2, 1.21.1 is 1.21.4
+- docs: 📝 Updated the README.md
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
+
+## v1.1.1+1.19.4 (2025-23-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- docs: 📝 Updated the SECURITY.md
+- feat: 🔧 Updated the modpack version tag in packwiz
+- feat: 🔧 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔧 Updated the modpack version tag in Modpack Update Checker
+- feat: 🔧 Updated fabric version to 0.16.14 in the packwiz
+- feat: 🔧 Updated fabric version to 0.16.14 in fabric_loader_dependencies.json
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Blur (Fabric)
+  - Dynamic FPS
+  - e4mc
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Blur (Fabric)
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - Fabric API
+  - FancyMenu
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - LambDynamicLights
+  - Lithium
+  - MidnightLib
+  - Polytone
+  - ThreadTweak
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- fix: 🐛 Fixed text problem in FancyMenu for versions 1.21.1 is 1.21.4
+- fix: 🐛 Fixed text alignment in FancyMenu startup screen for versions 1.18.2, 1.21.1 is 1.21.4
+- docs: 📝 Updated the README.md
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
+
+## v1.1.1+1.18.2 (2025-23-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- docs: 📝 Updated the SECURITY.md
+- feat: 🔧 Updated the modpack version tag in packwiz
+- feat: 🔧 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔧 Updated the modpack version tag in Modpack Update Checker
+- feat: 🔧 Updated fabric version to 0.16.14 in the packwiz
+- feat: 🔧 Updated fabric version to 0.16.14 in fabric_loader_dependencies.json
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Blur (Fabric)
+  - Dynamic FPS
+  - e4mc
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Blur (Fabric)
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - Fabric API
+  - FancyMenu
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - LambDynamicLights
+  - Lithium
+  - MidnightLib
+  - Polytone
+  - ThreadTweak
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- fix: 🐛 Fixed text problem in FancyMenu for versions 1.21.1 is 1.21.4
+- fix: 🐛 Fixed text alignment in FancyMenu startup screen for versions 1.18.2, 1.21.1 is 1.21.4
+- docs: 📝 Updated the README.md
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
+
+## v1.1.0+1.21.4 (2025-15-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 📦 Re-added FastQuit mod to versions 1.21, 1.21.1, 1.21.4
+- feat: 📦 Re-added Screenshot Viewer mod for versions: 1.21, 1.21.1, 1.21.4
+- feat: ✨ Changed 1.21.4 from beta to stable
+- feat: 🔧 Changed version tag to Modpack Update Checker
+- feat: 📦 Re-added the ThreadTweak mod for versions: 1.21, 1.21.1, 1.21.4
+- refactor: 🎨 Updated the logo is the resource path
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the SECURITY.md
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the CONTRIBUTING.md
+- refactor: 🔧 Updated discord link in menus
+- feat: 📦 Updated the Translations for LifeMC package
+- docs: 📝 Updated the CODE_OF_CONDUCT.md
+- docs: 📝 Re-updated the SECURITY.md
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
+- ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.11...v1.1.0
+
+## v1.1.0+1.21.1 (2025-15-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 📦 Re-added FastQuit mod to versions 1.21, 1.21.1, 1.21.4
+- feat: 📦 Re-added Screenshot Viewer mod for versions: 1.21, 1.21.1, 1.21.4
+- feat: ✨ Changed 1.21.4 from beta to stable
+- feat: 🔧 Changed version tag to Modpack Update Checker
+- feat: 📦 Re-added the ThreadTweak mod for versions: 1.21, 1.21.1, 1.21.4
+- refactor: 🎨 Updated the logo is the resource path
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the SECURITY.md
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the CONTRIBUTING.md
+- refactor: 🔧 Updated discord link in menus
+- feat: 📦 Updated the Translations for LifeMC package
+- docs: 📝 Updated the CODE_OF_CONDUCT.md
+- docs: 📝 Re-updated the SECURITY.md
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
+- ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.11...v1.1.0
+
+## v1.1.0+1.21 (2025-15-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 📦 Re-added FastQuit mod to versions 1.21, 1.21.1, 1.21.4
+- feat: 📦 Re-added Screenshot Viewer mod for versions: 1.21, 1.21.1, 1.21.4
+- feat: ✨ Changed 1.21.4 from beta to stable
+- feat: 🔧 Changed version tag to Modpack Update Checker
+- feat: 📦 Re-added the ThreadTweak mod for versions: 1.21, 1.21.1, 1.21.4
+- refactor: 🎨 Updated the logo is the resource path
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the SECURITY.md
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the CONTRIBUTING.md
+- refactor: 🔧 Updated discord link in menus
+- feat: 📦 Updated the Translations for LifeMC package
+- docs: 📝 Updated the CODE_OF_CONDUCT.md
+- docs: 📝 Re-updated the SECURITY.md
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
+- ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.11...v1.1.0
+
+## v1.1.0+1.20.6 (2025-15-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 📦 Re-added FastQuit mod to versions 1.21, 1.21.1, 1.21.4
+- feat: 📦 Re-added Screenshot Viewer mod for versions: 1.21, 1.21.1, 1.21.4
+- feat: ✨ Changed 1.21.4 from beta to stable
+- feat: 🔧 Changed version tag to Modpack Update Checker
+- feat: 📦 Re-added the ThreadTweak mod for versions: 1.21, 1.21.1, 1.21.4
+- refactor: 🎨 Updated the logo is the resource path
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the SECURITY.md
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the CONTRIBUTING.md
+- refactor: 🔧 Updated discord link in menus
+- feat: 📦 Updated the Translations for LifeMC package
+- docs: 📝 Updated the CODE_OF_CONDUCT.md
+- docs: 📝 Re-updated the SECURITY.md
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
+- ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.11...v1.1.0
+
+## v1.1.0+1.20.4 (2025-15-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 📦 Re-added FastQuit mod to versions 1.21, 1.21.1, 1.21.4
+- feat: 📦 Re-added Screenshot Viewer mod for versions: 1.21, 1.21.1, 1.21.4
+- feat: ✨ Changed 1.21.4 from beta to stable
+- feat: 🔧 Changed version tag to Modpack Update Checker
+- feat: 📦 Re-added the ThreadTweak mod for versions: 1.21, 1.21.1, 1.21.4
+- refactor: 🎨 Updated the logo is the resource path
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the SECURITY.md
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the CONTRIBUTING.md
+- refactor: 🔧 Updated discord link in menus
+- feat: 📦 Updated the Translations for LifeMC package
+- docs: 📝 Updated the CODE_OF_CONDUCT.md
+- docs: 📝 Re-updated the SECURITY.md
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
+- ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.11...v1.1.0
+
+## v1.1.0+1.19.4 (2025-15-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 📦 Re-added FastQuit mod to versions 1.21, 1.21.1, 1.21.4
+- feat: 📦 Re-added Screenshot Viewer mod for versions: 1.21, 1.21.1, 1.21.4
+- feat: ✨ Changed 1.21.4 from beta to stable
+- feat: 🔧 Changed version tag to Modpack Update Checker
+- feat: 📦 Re-added the ThreadTweak mod for versions: 1.21, 1.21.1, 1.21.4
+- refactor: 🎨 Updated the logo is the resource path
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the SECURITY.md
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the CONTRIBUTING.md
+- refactor: 🔧 Updated discord link in menus
+- feat: 📦 Updated the Translations for LifeMC package
+- docs: 📝 Updated the CODE_OF_CONDUCT.md
+- docs: 📝 Re-updated the SECURITY.md
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
+- ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.11...v1.1.0
+
+## v1.1.0+1.18.2 (2025-15-04)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 📦 Re-added FastQuit mod to versions 1.21, 1.21.1, 1.21.4
+- feat: 📦 Re-added Screenshot Viewer mod for versions: 1.21, 1.21.1, 1.21.4
+- feat: ✨ Changed 1.21.4 from beta to stable
+- feat: 🔧 Changed version tag to Modpack Update Checker
+- feat: 📦 Re-added the ThreadTweak mod for versions: 1.21, 1.21.1, 1.21.4
+- refactor: 🎨 Updated the logo is the resource path
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the SECURITY.md
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the CONTRIBUTING.md
+- refactor: 🔧 Updated discord link in menus
+- feat: 📦 Updated the Translations for LifeMC package
+- docs: 📝 Updated the CODE_OF_CONDUCT.md
+- docs: 📝 Re-updated the SECURITY.md
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
+- ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.11...v1.1.0
+
 ## v1.0.11+1.21.4-beta.2 (2025-07-04)
 
 👋 Hello everyone,
