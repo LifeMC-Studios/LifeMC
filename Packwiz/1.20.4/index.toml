@@ -446,11 +446,11 @@ hash = "c624114661353f9bf92725afa39725ab2000b3c5af47e53397037e42466aafa3"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.dark.txt"
-hash = "e3962e344d1f18b4dde49adc3c35c6b0820dde24dafe3b3aba2c89f7f45a201d"
+hash = "2669f3c03c3d2579c578d79514fa9dcbe199d52dfe36aa8582cbf0c6fe59115d"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-mainmenu.light.txt"
-hash = "4a6f3e869a8d8cf87a66ac5251680bfa27376a1f37bcb274b94d53d9b3ac9acb"
+hash = "c447b0fa6fb6f1114d1c3fbe62c57982a401dbda201cef0a0257f87351b51911"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-menupaused.dark.txt"
