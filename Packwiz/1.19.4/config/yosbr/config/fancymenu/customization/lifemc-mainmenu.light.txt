@@ -70,125 +70,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = bottom-centered
-  x = 53
-  action = movebutton
-  y = -43
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  width = 24
-  action = resizebutton
-  height = 24
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = setbuttonlabel
-  value =
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-close-on.light.png
-  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-close-off.light.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  seconds = 1.0
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = -25
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-normal-on.light.png
-  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-normal-off.light.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  seconds = 1.0
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  orientation = bottom-centered
-  x = 20
-  action = movebutton
-  y = -43
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  width = 24
-  action = resizebutton
-  height = 24
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  action = setbuttonlabel
-  value =
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-mods-on.light.png
-  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-mods-off.light.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  seconds = 1.0
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=376298%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = hidebutton
 }
@@ -282,6 +163,50 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-centered
+  x = 53
+  action = movebutton
+  y = -43
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 24
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value =
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-close-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-close-off.light.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
 }
@@ -326,7 +251,82 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-normal-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-normal-off.light.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = bottom-centered
+  x = 20
+  action = movebutton
+  y = -43
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 24
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = setbuttonlabel
+  value =
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/resources/minecraft/buttons/light/lifemc-btn-mods-on.light.png
+  backgroundnormal = config/resources/minecraft/buttons/light/lifemc-btn-mods-off.light.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376298%
   action = hidebutton
 }
 

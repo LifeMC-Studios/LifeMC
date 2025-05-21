@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = title_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1743440656047
+  last_edited_time = 1747447588712
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:7f7a140e-a439-4913-81a0-2ffef86e3a42-1743440653628] = [groups:][instances:fca46937-70a4-4944-a7e3-db07c51eecfd1683252598175;]
+  [loading_requirement_container_meta:06f16b65-f8a3-4936-a07e-a3f6fd2dd1b4-1747447539321] = [groups:][instances:fca46937-70a4-4944-a7e3-db07c51eecfd1683252598175;]
   [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:fca46937-70a4-4944-a7e3-db07c51eecfd1683252598175] = theme:0
 }
 
@@ -91,6 +91,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -157,6 +158,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -166,7 +168,6 @@ element {
   backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-discord-off.light.png
   backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-discord-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -174,6 +175,18 @@ element {
   navigatable = true
   widget_active_state_requirement_container_identifier = 02d98d5c-21ea-4053-95b4-0c51ce1047bd-1743440653629
   [loading_requirement_container_meta:02d98d5c-21ea-4053-95b4-0c51ce1047bd-1743440653629] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = custom_button
   instance_identifier = 983d5e5c-870a-4f71-bb45-0847c6207abd1686852879420
   appearance_delay = first_time
@@ -204,6 +217,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -243,6 +257,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -252,7 +267,6 @@ element {
   backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-theme-off.light.png
   backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-theme-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -260,6 +274,18 @@ element {
   navigatable = true
   widget_active_state_requirement_container_identifier = d29249b0-720b-4e93-8d72-c41a188cdaf6-1743440653629
   [loading_requirement_container_meta:d29249b0-720b-4e93-8d72-c41a188cdaf6-1743440653629] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = custom_button
   instance_identifier = f74f3230-090e-4b05-8b08-4a6a889345c31686853468245
   appearance_delay = first_time
@@ -290,6 +316,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -299,7 +326,6 @@ element {
   backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-update-off.light.png
   backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-update-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -307,6 +333,18 @@ element {
   navigatable = true
   widget_active_state_requirement_container_identifier = 685cdc36-766f-4e44-9638-617cd452abfa-1743440653629
   [loading_requirement_container_meta:685cdc36-766f-4e44-9638-617cd452abfa-1743440653629] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = custom_button
   instance_identifier = 0a82d1ec-9544-4d7e-be74-46c199c2fdfb1686853479674
   appearance_delay = first_time
@@ -337,6 +375,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -393,6 +432,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -402,7 +442,6 @@ element {
   backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-report-bug-off.light.png
   backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-report-bug-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -410,6 +449,18 @@ element {
   navigatable = true
   widget_active_state_requirement_container_identifier = dfeb4bfd-8e2d-4911-ab50-225a9bbf3479-1743440653629
   [loading_requirement_container_meta:dfeb4bfd-8e2d-4911-ab50-225a9bbf3479-1743440653629] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = custom_button
   instance_identifier = d73d6d1f-fa3d-48d0-b626-b38f84e884e81694290337336
   appearance_delay = first_time
@@ -440,6 +491,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -449,7 +501,6 @@ element {
   backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-contribution-off.light.png
   backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-contribution-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -457,6 +508,18 @@ element {
   navigatable = true
   widget_active_state_requirement_container_identifier = 65d1c76e-80bb-4920-ac1f-12f9e1ce3923-1743440653629
   [loading_requirement_container_meta:65d1c76e-80bb-4920-ac1f-12f9e1ce3923-1743440653629] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = custom_button
   instance_identifier = 011d6472-0a49-4ea4-a3d7-cb51da5a32e91694290355466
   appearance_delay = first_time
@@ -487,6 +550,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -496,7 +560,6 @@ element {
   backgroundnormal = [source:local]/config/fancymenu/assets/buttons/light/lifemc-btn-lang-mainmenu-off.light.png
   backgroundhovered = [source:local]/config/fancymenu/assets/buttons/light/lifemc-btn-lang-mainmenu-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -504,6 +567,18 @@ element {
   navigatable = true
   widget_active_state_requirement_container_identifier = ab0a6d0d-6f57-470a-9930-e6674d09a092-1743440653629
   [loading_requirement_container_meta:ab0a6d0d-6f57-470a-9930-e6674d09a092-1743440653629] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = custom_button
   instance_identifier = f84d34e0-76c4-468a-a70e-e0bc8b8f4f59-1713294395617
   appearance_delay = first_time
@@ -534,6 +609,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -543,7 +619,6 @@ element {
   backgroundnormal = [source:local]/config/fancymenu/assets/buttons/light/lifemc-btn-settings-off.light.png
   backgroundhovered = [source:local]/config/fancymenu/assets/buttons/light/lifemc-btn-settings-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -551,6 +626,18 @@ element {
   navigatable = true
   widget_active_state_requirement_container_identifier = bf6b1b08-b774-431f-9739-11ced730a277-1743440653629
   [loading_requirement_container_meta:bf6b1b08-b774-431f-9739-11ced730a277-1743440653629] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = custom_button
   instance_identifier = 3df0b967-e225-43ab-8715-5e1b5f00d8e7-1713294453919
   appearance_delay = first_time
@@ -581,6 +668,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -590,7 +678,6 @@ element {
   backgroundnormal = [source:local]/config/fancymenu/assets/buttons/light/lifemc-btn-mods-off.light.png
   backgroundhovered = [source:local]/config/fancymenu/assets/buttons/light/lifemc-btn-mods-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -598,6 +685,18 @@ element {
   navigatable = true
   widget_active_state_requirement_container_identifier = 004d5352-6098-4e82-b4de-0a6002cf5d00-1743440653629
   [loading_requirement_container_meta:004d5352-6098-4e82-b4de-0a6002cf5d00-1743440653629] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = custom_button
   instance_identifier = c06b5285-6537-4240-899e-cecd7457fecb-1713294499603
   appearance_delay = first_time
@@ -628,6 +727,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -637,7 +737,6 @@ element {
   backgroundnormal = [source:local]/config/fancymenu/assets/buttons/light/lifemc-btn-close-off.light.png
   backgroundhovered = [source:local]/config/fancymenu/assets/buttons/light/lifemc-btn-close-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -645,6 +744,18 @@ element {
   navigatable = true
   widget_active_state_requirement_container_identifier = 9f2857e2-66f1-4631-a05d-9f7be39870f3-1743440653629
   [loading_requirement_container_meta:9f2857e2-66f1-4631-a05d-9f7be39870f3-1743440653629] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = custom_button
   instance_identifier = 9d15a29f-9e0a-4dad-9450-562c97fcc668-1713294549290
   appearance_delay = first_time
@@ -675,6 +786,7 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
 }
 
 element {
@@ -684,7 +796,6 @@ element {
   backgroundnormal = [source:local]/config/fancymenu/assets/buttons/light/lifemc-btn-screenshot-menu-off.light.png
   backgroundhovered = [source:local]/config/fancymenu/assets/buttons/light/lifemc-btn-screenshot-menu-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -692,6 +803,18 @@ element {
   navigatable = true
   widget_active_state_requirement_container_identifier = 17401430-62a4-4e38-8567-862c195604b6-1743440653629
   [loading_requirement_container_meta:17401430-62a4-4e38-8567-862c195604b6-1743440653629] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = custom_button
   instance_identifier = 6416867d-58b7-4d8e-99dd-44165531db75-1713295339762
   appearance_delay = first_time
@@ -722,6 +845,64 @@ element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = e9067335-bf42-4142-b44e-539d30bc63f1-1747447539323
+  [executable_block:e9067335-bf42-4142-b44e-539d30bc63f1-1747447539323][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 668aa45f-6a4c-4ed1-a909-b1d38949589b-1747447539323
+  [loading_requirement_container_meta:668aa45f-6a4c-4ed1-a909-b1d38949589b-1747447539323] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = minecraft_logo_widget
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = vanilla
+  x = 290
+  y = 30
+  width = 274
+  height = 51
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 7a1daf2d-23a3-44a3-b770-b2ff5c72a227-1747447539323
+  [loading_requirement_container_meta:7a1daf2d-23a3-44a3-b770-b2ff5c72a227-1747447539323] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  is_hidden = true
+  automated_button_clicks = 0
 }
 
 vanilla_button {
@@ -730,13 +911,24 @@ vanilla_button {
   backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-off.light.png
   backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   navigatable = true
   widget_active_state_requirement_container_identifier = 0fcf0568-9627-4773-b416-29cb20f859e7-1743440653630
   [loading_requirement_container_meta:0fcf0568-9627-4773-b416-29cb20f859e7-1743440653630] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_multiplayer_button
   appearance_delay = first_time
@@ -767,206 +959,9 @@ vanilla_button {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
   is_hidden = false
   automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = 997d2624-72fa-41ad-878b-4b1d882eaa1a-1715752875269
-  [executable_block:997d2624-72fa-41ad-878b-4b1d882eaa1a-1715752875269][type:generic] = [executables:]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  navigatable = true
-  widget_active_state_requirement_container_identifier = 1af92148-6665-456c-8590-3826ab16b9a8-1743440653630
-  [loading_requirement_container_meta:1af92148-6665-456c-8590-3826ab16b9a8-1743440653630] = [groups:][instances:]
-  element_type = vanilla_button
-  instance_identifier = 376298
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = vanilla
-  x = 303
-  y = 168
-  width = 20
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 511d0242-8310-435b-a073-7b09bb28c1e2-1715752875269
-  [loading_requirement_container_meta:511d0242-8310-435b-a073-7b09bb28c1e2-1715752875269] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  is_hidden = true
-  automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = 188dcc61-e7de-492d-8299-7746b9cf5a33-1710189796614
-  [executable_block:188dcc61-e7de-492d-8299-7746b9cf5a33-1710189796614][type:generic] = [executables:]
-  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-screenshot-menu-off.light.png
-  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-screenshot-menu-on.light.png
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label =
-  navigatable = true
-  widget_active_state_requirement_container_identifier = 5aba7735-0ac3-4929-b111-7a877b6c870a-1743440653630
-  [loading_requirement_container_meta:5aba7735-0ac3-4929-b111-7a877b6c870a-1743440653630] = [groups:][instances:]
-  element_type = vanilla_button
-  instance_identifier = 628382
-  appearance_delay = first_time
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = first_time
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = bottom-left
-  x = 72
-  y = -59
-  width = 24
-  height = 24
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 18686410-c5d3-4a12-a1a4-12be93066923-1710189796614
-  [loading_requirement_container_meta:18686410-c5d3-4a12-a1a4-12be93066923-1710189796614] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  is_hidden = true
-  automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = aa7d70bb-4076-49dd-b80f-7b3a7190ec8b-1710189796616
-  [executable_block:aa7d70bb-4076-49dd-b80f-7b3a7190ec8b-1710189796616][type:generic] = [executables:]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  navigatable = true
-  widget_active_state_requirement_container_identifier = 1f4b39ba-9ea6-4f62-a899-35882bc16247-1743440653630
-  [loading_requirement_container_meta:1f4b39ba-9ea6-4f62-a899-35882bc16247-1743440653630] = [groups:][instances:]
-  element_type = vanilla_button
-  instance_identifier = mc_titlescreen_realms_button
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = vanilla
-  x = 327
-  y = 216
-  width = 98
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = cdcfc5a5-52ef-4fa2-a929-ae83d606282c-1710189796616
-  [loading_requirement_container_meta:cdcfc5a5-52ef-4fa2-a929-ae83d606282c-1710189796616] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  is_hidden = true
-  automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = 95edcfeb-b994-4297-b363-1ed66aaca891-1743440653630
-  [executable_block:95edcfeb-b994-4297-b363-1ed66aaca891-1743440653630][type:generic] = [executables:]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  navigatable = true
-  widget_active_state_requirement_container_identifier = 41f973f8-8624-4f86-98da-525dfd8e1a1f-1743440653630
-  [loading_requirement_container_meta:41f973f8-8624-4f86-98da-525dfd8e1a1f-1743440653630] = [groups:][instances:]
-  element_type = vanilla_button
-  instance_identifier = title_screen_copyright_button
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = vanilla
-  x = 656
-  y = 470
-  width = 196
-  height = 10
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 204d0f06-3a9d-44ed-81b4-91122b5e786b-1743440653630
-  [loading_requirement_container_meta:204d0f06-3a9d-44ed-81b4-91122b5e786b-1743440653630] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  is_hidden = false
-  automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
 }
 
 vanilla_button {
@@ -975,7 +970,6 @@ vanilla_button {
   backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-lang-mainmenu-off.light.png
   backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-lang-mainmenu-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -983,6 +977,18 @@ vanilla_button {
   navigatable = true
   widget_active_state_requirement_container_identifier = b5e05165-5479-4a09-86a0-1c18fba32351-1743440653630
   [loading_requirement_container_meta:b5e05165-5479-4a09-86a0-1c18fba32351-1743440653630] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_language_button
   appearance_delay = first_time
@@ -1013,125 +1019,33 @@ vanilla_button {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
   is_hidden = true
   automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = 85dd8443-ab79-43a3-a928-389c06723bd7-1710189796616
-  [executable_block:85dd8443-ab79-43a3-a928-389c06723bd7-1710189796616][type:generic] = [executables:]
-  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-close-off.light.png
-  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-close-on.light.png
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  label =
-  navigatable = true
-  widget_active_state_requirement_container_identifier = 2497212b-9a27-4ad5-8de1-972249e13a9c-1743440653630
-  [loading_requirement_container_meta:2497212b-9a27-4ad5-8de1-972249e13a9c-1743440653630] = [groups:][instances:]
-  element_type = vanilla_button
-  instance_identifier = mc_titlescreen_quit_button
-  appearance_delay = first_time
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = first_time
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = bottom-centered
-  x = 53
-  y = -43
-  width = 24
-  height = 24
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = 1d751d9b-0ed9-494f-b8f4-794ef490b9e2-1710189796616
-  [loading_requirement_container_meta:1d751d9b-0ed9-494f-b8f4-794ef490b9e2-1710189796616] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  is_hidden = true
-  automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-}
-
-vanilla_button {
-  button_element_executable_block_identifier = e040d6e7-cdcf-4c64-abaf-6688a2f33763-1710189796616
-  [executable_block:e040d6e7-cdcf-4c64-abaf-6688a2f33763-1710189796616][type:generic] = [executables:]
-  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-off.light.png
-  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-on.light.png
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  navigatable = true
-  widget_active_state_requirement_container_identifier = 59b5a8aa-43b8-4672-8ab9-ef60e7a796dc-1743440653630
-  [loading_requirement_container_meta:59b5a8aa-43b8-4672-8ab9-ef60e7a796dc-1743440653630] = [groups:][instances:]
-  element_type = vanilla_button
-  instance_identifier = mc_titlescreen_singleplayer_button
-  appearance_delay = first_time
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = first_time
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = mid-centered
-  x = -100
-  y = -25
-  width = 200
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = f27cf97a-d086-407d-bccf-ce9fb02c4058-1710189796616
-  [loading_requirement_container_meta:f27cf97a-d086-407d-bccf-ce9fb02c4058-1710189796616] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  is_hidden = false
-  automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
 }
 
 vanilla_button {
   button_element_executable_block_identifier = 7bb55f79-cd3a-4b6f-a01b-c3186d980df5-1710189796614
   [executable_block:7bb55f79-cd3a-4b6f-a01b-c3186d980df5-1710189796614][type:generic] = [executables:]
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   navigatable = true
   widget_active_state_requirement_container_identifier = a89b4011-a18f-46fd-8707-510b2a82bb65-1743440653630
   [loading_requirement_container_meta:a89b4011-a18f-46fd-8707-510b2a82bb65-1743440653630] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_accessibility_button
   appearance_delay = no_delay
@@ -1162,32 +1076,38 @@ vanilla_button {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
   is_hidden = true
   automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = 78e9cc66-342f-4e76-8162-6412008c0dd8-1710189796616
-  [executable_block:78e9cc66-342f-4e76-8162-6412008c0dd8-1710189796616][type:generic] = [executables:]
-  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-mods-off.light.png
-  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-mods-on.light.png
+  button_element_executable_block_identifier = 3060a91d-65d2-4eb0-8b42-2a033110fa88-1747447539323
+  [executable_block:3060a91d-65d2-4eb0-8b42-2a033110fa88-1747447539323][type:generic] = [executables:]
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label =
   navigatable = true
-  widget_active_state_requirement_container_identifier = 6d6fb72f-322f-4e31-b9e6-0e0427f5e446-1743440653630
-  [loading_requirement_container_meta:6d6fb72f-322f-4e31-b9e6-0e0427f5e446-1743440653630] = [groups:][instances:]
+  widget_active_state_requirement_container_identifier = 39a69577-5da0-4cd7-9f00-895935a06d32-1747447539323
+  [loading_requirement_container_meta:39a69577-5da0-4cd7-9f00-895935a06d32-1747447539323] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = vanilla_button
-  instance_identifier = modmenu_titlescreen_mods_button
-  appearance_delay = first_time
+  instance_identifier = minecraft_splash_widget
+  appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in_v2 = first_time
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
   fade_out = no_fading
   fade_out_speed = 1.0
@@ -1196,16 +1116,16 @@ vanilla_button {
   auto_sizing_base_screen_width = 0
   auto_sizing_base_screen_height = 0
   sticky_anchor = false
-  anchor_point = bottom-centered
-  x = 20
-  y = -43
-  width = 24
-  height = 24
+  anchor_point = vanilla
+  x = 500
+  y = 49
+  width = 100
+  height = 40
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
-  element_loading_requirement_container_identifier = 5aeed11c-0ce3-4d5a-a3c4-3688c123d37d-1710189796616
-  [loading_requirement_container_meta:5aeed11c-0ce3-4d5a-a3c4-3688c123d37d-1710189796616] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 6a139c63-be42-45d3-b6b7-e2d9569115bf-1747447539323
+  [loading_requirement_container_meta:6a139c63-be42-45d3-b6b7-e2d9569115bf-1747447539323] = [groups:][instances:]
   enable_parallax = false
   parallax_intensity = 0.5
   invert_parallax = false
@@ -1213,11 +1133,123 @@ vanilla_button {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
   is_hidden = true
   automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = aa7d70bb-4076-49dd-b80f-7b3a7190ec8b-1710189796616
+  [executable_block:aa7d70bb-4076-49dd-b80f-7b3a7190ec8b-1710189796616][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 1f4b39ba-9ea6-4f62-a899-35882bc16247-1743440653630
+  [loading_requirement_container_meta:1f4b39ba-9ea6-4f62-a899-35882bc16247-1743440653630] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
   nine_slice_slider_handle = false
   nine_slice_slider_handle_border_x = 5
   nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_realms_button
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = vanilla
+  x = 327
+  y = 216
+  width = 98
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = cdcfc5a5-52ef-4fa2-a929-ae83d606282c-1710189796616
+  [loading_requirement_container_meta:cdcfc5a5-52ef-4fa2-a929-ae83d606282c-1710189796616] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  is_hidden = true
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 997d2624-72fa-41ad-878b-4b1d882eaa1a-1715752875269
+  [executable_block:997d2624-72fa-41ad-878b-4b1d882eaa1a-1715752875269][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 1af92148-6665-456c-8590-3826ab16b9a8-1743440653630
+  [loading_requirement_container_meta:1af92148-6665-456c-8590-3826ab16b9a8-1743440653630] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = 376298
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = vanilla
+  x = 303
+  y = 168
+  width = 20
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 511d0242-8310-435b-a073-7b09bb28c1e2-1715752875269
+  [loading_requirement_container_meta:511d0242-8310-435b-a073-7b09bb28c1e2-1715752875269] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  is_hidden = true
+  automated_button_clicks = 0
 }
 
 vanilla_button {
@@ -1226,7 +1258,6 @@ vanilla_button {
   backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-settings-off.light.png
   backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-settings-on.light.png
   restartbackgroundanimations = true
-  loopbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
@@ -1234,6 +1265,18 @@ vanilla_button {
   navigatable = true
   widget_active_state_requirement_container_identifier = 31120842-af22-497c-b6ee-fb7d1746f606-1743440653630
   [loading_requirement_container_meta:31120842-af22-497c-b6ee-fb7d1746f606-1743440653630] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_options_button
   appearance_delay = first_time
@@ -1264,19 +1307,41 @@ vanilla_button {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
   is_hidden = true
   automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 85dd8443-ab79-43a3-a928-389c06723bd7-1710189796616
+  [executable_block:85dd8443-ab79-43a3-a928-389c06723bd7-1710189796616][type:generic] = [executables:]
+  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-close-off.light.png
+  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-close-on.light.png
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label =
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 2497212b-9a27-4ad5-8de1-972249e13a9c-1743440653630
+  [loading_requirement_container_meta:2497212b-9a27-4ad5-8de1-972249e13a9c-1743440653630] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
   nine_slice_slider_handle = false
   nine_slice_slider_handle_border_x = 5
   nine_slice_slider_handle_border_y = 5
-}
-
-deep_element {
-  element_type = title_screen_logo
-  instance_identifier = deep:title_screen_logo
-  appearance_delay = no_delay
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_quit_button
+  appearance_delay = first_time
   appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
+  fade_in_v2 = first_time
   fade_in_speed = 1.0
   fade_out = no_fading
   fade_out_speed = 1.0
@@ -1285,16 +1350,16 @@ deep_element {
   auto_sizing_base_screen_width = 0
   auto_sizing_base_screen_height = 0
   sticky_anchor = false
-  anchor_point = top-left
-  x = 290
-  y = 30
-  width = 274
-  height = 52
+  anchor_point = bottom-centered
+  x = 53
+  y = -43
+  width = 24
+  height = 24
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
-  element_loading_requirement_container_identifier = 563b492c-c61f-402f-9f51-9d13b5c01df2-1710202523670
-  [loading_requirement_container_meta:563b492c-c61f-402f-9f51-9d13b5c01df2-1710202523670] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 1d751d9b-0ed9-494f-b8f4-794ef490b9e2-1710189796616
+  [loading_requirement_container_meta:1d751d9b-0ed9-494f-b8f4-794ef490b9e2-1710189796616] = [groups:][instances:]
   enable_parallax = false
   parallax_intensity = 0.5
   invert_parallax = false
@@ -1302,46 +1367,35 @@ deep_element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
   is_hidden = true
+  automated_button_clicks = 0
 }
 
-deep_element {
-  element_type = title_screen_branding
-  instance_identifier = deep:title_screen_branding
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = top-left
-  x = 2
-  y = 468
-  width = 165
-  height = 10
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = 57bd65c7-d3d0-426d-be52-4ebde90efcba-1710202523670
-  [loading_requirement_container_meta:57bd65c7-d3d0-426d-be52-4ebde90efcba-1710202523670] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  is_hidden = true
-}
-
-deep_element {
-  element_type = title_screen_splash
-  instance_identifier = deep:title_screen_splash
+vanilla_button {
+  button_element_executable_block_identifier = 1f075599-376d-4c7a-9550-17f8e5cc406b-1747447539323
+  [executable_block:1f075599-376d-4c7a-9550-17f8e5cc406b-1747447539323][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 03abbc59-cd10-4e97-bc16-80d32819e411-1747447539323
+  [loading_requirement_container_meta:03abbc59-cd10-4e97-bc16-80d32819e411-1747447539323] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = minecraft_branding_widget
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
   fade_in_v2 = no_fading
@@ -1354,15 +1408,15 @@ deep_element {
   auto_sizing_base_screen_height = 0
   sticky_anchor = false
   anchor_point = vanilla
-  x = 0
-  y = 0
-  width = 60
-  height = 30
+  x = 2
+  y = 470
+  width = 169
+  height = 9
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
-  element_loading_requirement_container_identifier = 5528fd48-1bd8-4850-b784-12d2f473e636-1710202523670
-  [loading_requirement_container_meta:5528fd48-1bd8-4850-b784-12d2f473e636-1710202523670] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 0ede21f7-9105-4efc-8bb9-1881a2c4a651-1747447539323
+  [loading_requirement_container_meta:0ede21f7-9105-4efc-8bb9-1881a2c4a651-1747447539323] = [groups:][instances:]
   enable_parallax = false
   parallax_intensity = 0.5
   invert_parallax = false
@@ -1370,15 +1424,41 @@ deep_element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
   is_hidden = true
+  automated_button_clicks = 0
 }
 
-deep_element {
-  element_type = title_screen_realms_notification
-  instance_identifier = deep:title_screen_realms_notification
-  appearance_delay = no_delay
+vanilla_button {
+  button_element_executable_block_identifier = 78e9cc66-342f-4e76-8162-6412008c0dd8-1710189796616
+  [executable_block:78e9cc66-342f-4e76-8162-6412008c0dd8-1710189796616][type:generic] = [executables:]
+  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-mods-off.light.png
+  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-mods-on.light.png
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label =
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 6d6fb72f-322f-4e31-b9e6-0e0427f5e446-1743440653630
+  [loading_requirement_container_meta:6d6fb72f-322f-4e31-b9e6-0e0427f5e446-1743440653630] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = modmenu_titlescreen_mods_button
+  appearance_delay = first_time
   appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
+  fade_in_v2 = first_time
   fade_in_speed = 1.0
   fade_out = no_fading
   fade_out_speed = 1.0
@@ -1387,16 +1467,16 @@ deep_element {
   auto_sizing_base_screen_width = 0
   auto_sizing_base_screen_height = 0
   sticky_anchor = false
-  anchor_point = top-left
-  x = 530
-  y = 220
-  width = 13
-  height = 13
+  anchor_point = bottom-centered
+  x = 20
+  y = -43
+  width = 24
+  height = 24
   stretch_x = false
   stretch_y = false
   stay_on_screen = false
-  element_loading_requirement_container_identifier = a3efc7a5-40d7-4676-b68e-364786219d49-1710202523670
-  [loading_requirement_container_meta:a3efc7a5-40d7-4676-b68e-364786219d49-1710202523670] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 5aeed11c-0ce3-4d5a-a3c4-3688c123d37d-1710189796616
+  [loading_requirement_container_meta:5aeed11c-0ce3-4d5a-a3c4-3688c123d37d-1710189796616] = [groups:][instances:]
   enable_parallax = false
   parallax_intensity = 0.5
   invert_parallax = false
@@ -1404,6 +1484,184 @@ deep_element {
   animated_offset_y = 0
   load_once_per_session = false
   in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
   is_hidden = true
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 188dcc61-e7de-492d-8299-7746b9cf5a33-1710189796614
+  [executable_block:188dcc61-e7de-492d-8299-7746b9cf5a33-1710189796614][type:generic] = [executables:]
+  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-screenshot-menu-off.light.png
+  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-screenshot-menu-on.light.png
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label =
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 5aba7735-0ac3-4929-b111-7a877b6c870a-1743440653630
+  [loading_requirement_container_meta:5aba7735-0ac3-4929-b111-7a877b6c870a-1743440653630] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = 628382
+  appearance_delay = first_time
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = first_time
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = bottom-left
+  x = 72
+  y = -59
+  width = 24
+  height = 24
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 18686410-c5d3-4a12-a1a4-12be93066923-1710189796614
+  [loading_requirement_container_meta:18686410-c5d3-4a12-a1a4-12be93066923-1710189796614] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  is_hidden = true
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 95edcfeb-b994-4297-b363-1ed66aaca891-1743440653630
+  [executable_block:95edcfeb-b994-4297-b363-1ed66aaca891-1743440653630][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 41f973f8-8624-4f86-98da-525dfd8e1a1f-1743440653630
+  [loading_requirement_container_meta:41f973f8-8624-4f86-98da-525dfd8e1a1f-1743440653630] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = title_screen_copyright_button
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 2562
+  auto_sizing_base_screen_height = 1440
+  sticky_anchor = false
+  anchor_point = bottom-right
+  x = -202
+  y = -16
+  width = 196
+  height = 10
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 204d0f06-3a9d-44ed-81b4-91122b5e786b-1743440653630
+  [loading_requirement_container_meta:204d0f06-3a9d-44ed-81b4-91122b5e786b-1743440653630] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  is_hidden = false
+  automated_button_clicks = 0
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = e040d6e7-cdcf-4c64-abaf-6688a2f33763-1710189796616
+  [executable_block:e040d6e7-cdcf-4c64-abaf-6688a2f33763-1710189796616][type:generic] = [executables:]
+  backgroundnormal = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-off.light.png
+  backgroundhovered = [source:local]config/fancymenu/assets/buttons/light/lifemc-btn-normal-on.light.png
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 59b5a8aa-43b8-4672-8ab9-ef60e7a796dc-1743440653630
+  [loading_requirement_container_meta:59b5a8aa-43b8-4672-8ab9-ef60e7a796dc-1743440653630] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_singleplayer_button
+  appearance_delay = first_time
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = first_time
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -100
+  y = -25
+  width = 200
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = f27cf97a-d086-407d-bccf-ce9fb02c4058-1710189796616
+  [loading_requirement_container_meta:f27cf97a-d086-407d-bccf-ce9fb02c4058-1710189796616] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  is_hidden = false
+  automated_button_clicks = 0
 }
 
