@@ -2,6 +2,225 @@
 
 Welcome to the section dedicated to the changes made to the modpack. Here you will find a complete list of all the new features, bug fixes and other improvements introduced with each update for each version. Discover what's new in each of our modpack versions and make sure you always use the latest version for the best gaming experience!
 
+## v1.2.1+1.21.4 (2025-21-05)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.18.2
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.19.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.6
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.1
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.4
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
+- ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.0...v1.2.1
+
+## v1.2.1+1.21.1 (2025-21-05)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.18.2
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.19.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.6
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.1
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.4
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
+- ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.0...v1.2.1
+
+## v1.2.1+1.21 (2025-21-05)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.18.2
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.19.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.6
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.1
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.4
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
+- ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.0...v1.2.1
+
+## v1.2.1+1.20.6 (2025-21-05)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.18.2
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.19.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.6
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.1
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.4
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
+- ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.0...v1.2.1
+
+## v1.2.1+1.20.4 (2025-21-05)
+
+### **Java 21 required**
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.18.2
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.19.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.6
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.1
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.4
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
+- ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.0...v1.2.1
+
+## v1.2.1+1.19.4 (2025-21-05)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.18.2
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.19.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.6
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.1
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.4
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
+- ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.0...v1.2.1
+
+## v1.2.1+1.18.2 (2025-21-05)
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.18.2
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.19.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.4
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.20.6
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.1
+- fix: 🐛 Fixed the mojang copyright issue in the main menu for 1.21.4
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
+- ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.0...v1.2.1
+
 ## v1.2.0+1.21.4 (2025-30-04)
 
 👋 Hello everyone,
