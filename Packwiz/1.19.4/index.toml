@@ -916,6 +916,11 @@ hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
 metafile = true
 
 [[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "b7af7dad2102626b9a67f22d6af66a050a905fa464d6fca76e970c1285d6faf6"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "bb3f98696004987f53dd9d45af1ac3ab9c902362205bdac9c10f05a789cb87b6"
 metafile = true

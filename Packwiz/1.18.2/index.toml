@@ -875,6 +875,11 @@ hash = "b99c1cae57386de36e5a6dc1d247057d0d5c0e9c5a5563b67d078ea7975919a9"
 metafile = true
 
 [[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "11c92dbac28a99eaa92b1c4d75637ed6b0fc40dc1bde4fd1b193e6cb000629cc"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "9231bdc69e057d19a13e49723f7bf7dfcfeb0dc0a20d903f8990252a92b9d96b"
 metafile = true
