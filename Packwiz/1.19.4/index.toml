@@ -33,10 +33,6 @@ file = "config/yosbr/config/bettergrass.json5"
 hash = "1e48d214f0186f634fba7b62e9b4e4ed155e10a2906d7e7db35ff963dcaa8b96"
 
 [[files]]
-file = "config/yosbr/config/borderlessmining.json"
-hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
-
-[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 

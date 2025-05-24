@@ -17,10 +17,6 @@ file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "151c2f7d5c2ca2836a98093f0328ad32970ed71610f2b450707b3b2fdd1c3c6b"
 
 [[files]]
-file = "config/yosbr/config/borderlessmining.json"
-hash = "0dc2ef0b77d6ec7e6fc516d4aad34e40870a2f70f0ef1c15665b6c5e50d6f718"
-
-[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "cf07071736d9fdd4d3f37fd23acf392579446d15e76f432a48a326e640698369"
 
