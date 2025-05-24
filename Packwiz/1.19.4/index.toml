@@ -725,11 +725,6 @@ hash = "94481b17c1fde6dcbfebe6c2f42f9b2d843751a3577c7414a3f83836d7c2e579"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "7acf38db94d546ab2a048e2d0ba077f1d80885ca1e32642ff4a1fbb59aa3f342"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "79aaa3977274f2dfe851592d25237abc98fa889a3b9c0d1ccbc1de295e115b26"
 metafile = true
