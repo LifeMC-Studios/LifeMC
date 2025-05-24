@@ -634,11 +634,6 @@ hash = "1555447a33865134c9b24bfe585f49486152afede5bdced17c50a6324fa2d7b3"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "471190b2467d200f034d7f8b38ac932cb76082724439fa500dce4041a431b1f2"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a87c2d4a488b9210aa0026d8db5ea488278f6492651b8dd691ffc70fdd4d9c6"
 metafile = true
