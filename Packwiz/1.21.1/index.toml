@@ -767,16 +767,6 @@ hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "9baaaf98f919bf3258f50ae0b8552a53c16d298650cb90d48cbec6f96d1ef556"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "1f6c74d7140e368e85df87d1bdbb4b533052488dcee7e23ecc1f699dfd2efe82"
-metafile = true
-
-[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "b062d71c371b3361e700edb4db46acd1a1feed6c91b95764e08e03cdb25ba1f5"
 metafile = true
