@@ -710,11 +710,6 @@ hash = "55c14fd0cba0ae4478945420862cfdec970a5ab40b04a34ce9e3f94b9d721e38"
 metafile = true
 
 [[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "43c8d0c7b3642fe1748d07da8f3c6277a0a195bdc4043b9189fc53479e26b957"
-metafile = true
-
-[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "6938ff578a851770f49d90d5ff85164144d50dc7a57c36c5c2cefcf72a933811"
 metafile = true
@@ -757,6 +752,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "dd9c69934b00be1c412b190fd2a7d01a5ba77f22b646218e44b51680b053846c"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "117826cf067f154ec6bd84528bb72ae3978f0c26879f2357d1aa6ffbda42da72"
 metafile = true
 
 [[files]]
