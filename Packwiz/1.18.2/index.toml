@@ -586,7 +586,7 @@ hash = "ec4f68f111d8ad9667954c1a9c8bb9b694f98af3aeb7b6a206ea3f3a00f3404d"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "d1b6dc890e63638f9c472d67b260f7b4c02753e007555f1730ae90e360b248ac"
+hash = "1d0b7294c1a7df6cf83be6fe3f6d1c4df137e2512d65249e1fe9a5f05079de3e"
 
 [[files]]
 file = "config/yosbr/config/rebrand.toml"
