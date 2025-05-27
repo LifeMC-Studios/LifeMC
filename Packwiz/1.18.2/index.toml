@@ -5,6 +5,14 @@ file = "config/fabric_loader_dependencies.json"
 hash = "21acd3afcb1929cf000b02d685f19c23b4818b6f6c9c1e4c5e0a7ba8e99d7d22"
 
 [[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "7a051e17a7111b2db8e0c846f58f0f10c89c1dbba189395b0835fd9de907236e"
+
+[[files]]
+file = "config/modpack-update-checker/modpack-info.txt"
+hash = "218127ba003f122dbd4d951e8d133855e1a072519c286ccf4c3dbb7599de5106"
+
+[[files]]
 file = "config/yosbr/COPYING.md"
 hash = "5bbde565d36dcbbc8283838bfa2e2c645a9f2a47664363c5e7e2d67524fe09e6"
 
@@ -563,14 +571,6 @@ hash = "cd50e339e4c2b8e30aa69de615540f491365cfb0d8e4b6c167168ff1fd84a348"
 [[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "4fb39003a78afba5f1dda0b588d2c803c0f62ff46d3e1ff03a00b27ccf376cd8"
-
-[[files]]
-file = "config/yosbr/config/modpack-update-checker/config.json"
-hash = "7a051e17a7111b2db8e0c846f58f0f10c89c1dbba189395b0835fd9de907236e"
-
-[[files]]
-file = "config/yosbr/config/modpack-update-checker/modpack-info.txt"
-hash = "218127ba003f122dbd4d951e8d133855e1a072519c286ccf4c3dbb7599de5106"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
