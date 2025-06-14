@@ -474,7 +474,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/options.txt"
-hash = "c15a90e3dd4558bed67a58902745db0c63e9775f4a7cdeea466b468e409587e5"
+hash = "2ac683717ff4b478d7eb949d9efe684950a7801647066c60c03316760ed58c7c"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/panoramas/dark/panorama/panorama_0.png"
@@ -534,7 +534,7 @@ hash = "732cbd580784441461aa430ff2bd45421a20daefabc50e5caa5377f3489b1ce0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/ui_themes/dark.json"
-hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/ui_themes/light.json"
