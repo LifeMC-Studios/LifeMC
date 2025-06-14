@@ -470,11 +470,11 @@ hash = "512634eb2f9961de1a8246fa5affbf21e0673d5d5a540dad456f80a835925641"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.dark.txt"
-hash = "4c285cda1e63736eab9889e6ed90d0670477bd8fdd9233c877473360e8ca6f66"
+hash = "e296900d32c1c244d1f18d38944de2101d4df3255990cdbbeed8cfd4cb2737dc"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-settings.light.txt"
-hash = "32ce46634c851e0be53101eb0e79a4c6f4628b08bca588789f1bc35a9f06f6df"
+hash = "39e5cdad99b87e1bbc3b5574ea3b69cf1520b157b53e3a5dd26824d112611bf7"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/lifemc-startup.dark.txt"
