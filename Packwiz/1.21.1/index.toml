@@ -5,6 +5,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "e4f8595643036b3763176c6ce25aec529193be3ebd2bd891e34c75df99344833"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "cd50e339e4c2b8e30aa69de615540f491365cfb0d8e4b6c167168ff1fd84a348"
+
+[[files]]
 file = "config/modpack-update-checker/config.json"
 hash = "053d6cdaa0609d1895ef4faa4f643596951ae1607f55aff869c32c0aced99b4f"
 
