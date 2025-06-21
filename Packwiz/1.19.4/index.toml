@@ -74,7 +74,7 @@ hash = "d2b2c35de77f6b1f6e9e0ff1c7b909a8c2c480d74c3b4ac9defc6ffbe932b6a3"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
-hash = "785646f97635d108847592191d7649ff18e41785c2f9ea702146fd1666aaed54"
+hash = "6fb650d682052a613c23528a0f2019f45c06d7aa2e48390079c43959af349a70"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
