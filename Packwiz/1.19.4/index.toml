@@ -666,7 +666,7 @@ hash = "4bc7888df93a73dd6638a3893cb082c4efc3b98d01755a5f80435fe845ae457f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "b8504030cf0d6b272903e552f089ae21e5137c7bbfc542bbfeb8a2dc814d4f06"
+hash = "260d4075a6c89412643a1cb6141a304f8eaab8ad9010bad00fa4260cf83a14b2"
 metafile = true
 
 [[files]]
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "dd9c69934b00be1c412b190fd2a7d01a5ba77f22b646218e44b51680b053846c"
+hash = "31ae099e09e43d3f0b1e5f0a185aa99e39f74311119db3bd945fc2d43fae7be2"
 metafile = true
 
 [[files]]
@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1afb3b457890a8d53be4494ec51530457acdba44e32dfb39cce52053dbdca1f1"
+hash = "eb73ab8fb786d19f50407ec7b2169a52e192891d1670ce8ed110457a88720623"
 metafile = true
 
 [[files]]
@@ -791,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "dde6275039fd9370d38a7c01936566fbb6b0a3b88fb560bb95ae7e60c68d2745"
+hash = "509b91e653118dabf5c65b8e2968c8f6a66309421a78ff54dcf4daf155dff7d6"
 metafile = true
 
 [[files]]
@@ -806,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -911,7 +911,7 @@ metafile = true
 
 [[files]]
 file = "mods/modpack-update-checker.pw.toml"
-hash = "5b4285d6515c28fe73e8db9f4551a3c2efb4a08258f6c30df319c9fae4b6171a"
+hash = "392c0792fe299a5547def70b20870dec78730a9e50ddcc059313e131cdfcb13a"
 metafile = true
 
 [[files]]
@@ -931,7 +931,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "0c35d1f5cd3c870964b7d3c130919b127c40324272b21e79c3d8046b067088b8"
+hash = "a7f86e79d449a61aae3130ba8abb41c354f8e4cb365b2ba75be7fc65d56f8e9a"
 metafile = true
 
 [[files]]
@@ -946,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/paperdoll.pw.toml"
-hash = "2d3e51b9ebea35a8f4614969d9555db0594893fadb490c5d4ad3cced802dfa35"
+hash = "21ed7e4e6f3215e16278fb289908b01b08773964ff4c266fac16066d169ec4f1"
 metafile = true
 
 [[files]]
@@ -1026,7 +1026,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "56d12feb068689dc00d0069cdb251d096bf39d110fb6b204496b3709698d7f2e"
+hash = "722be4134e40344c8ed3528495cca4ed90ddaabb45376d10768b89e29ffde1f9"
 metafile = true
 
 [[files]]
@@ -1046,7 +1046,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "b1d34816fc43dc0ae3d93fbe6ace324a82c99798584bf9486f6f57c40c476aa9"
+hash = "06b0c5873b3b0bf2cd8933d6dedb1900311515fb154129d34e7bdeeeb667b28b"
 metafile = true
 
 [[files]]

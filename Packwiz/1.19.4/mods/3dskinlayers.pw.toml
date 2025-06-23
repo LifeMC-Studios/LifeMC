@@ -1,13 +1,13 @@
 name = "3D Skin Layers"
-filename = "skinlayers3d-fabric-1.7.5-mc1.19.4.jar"
+filename = "skinlayers3d-fabric-1.8.0-mc1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/2R4XXhBc/skinlayers3d-fabric-1.7.5-mc1.19.4.jar"
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/CvmZ1Jul/skinlayers3d-fabric-1.8.0-mc1.19.4.jar"
 hash-format = "sha512"
-hash = "14554a38d69ac1d8550bd832162a7b20d48329cc20ec8148a9e59f4ad685b8d835c11db86b3665d0e4bb468073c53ce93929b099b293567d853c434a5401176f"
+hash = "0324279e082afcf95730e78e1b54cc9f7a1051f74496ff0e1f60db30dcd8b4d8e5baf161de6ac906b3e6b04dab096e852225466fd91335f80f5565115223e184"
 
 [update]
 [update.modrinth]
 mod-id = "zV5r3pPn"
-version = "2R4XXhBc"
+version = "CvmZ1Jul"
