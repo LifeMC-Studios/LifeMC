@@ -177,6 +177,14 @@ customization {
 }
 
 customization {
+  identifier = %id=635154%
+  orientation = mid-centered
+  x = 134
+  action = movebutton
+  y = -80
+}
+
+customization {
   identifier = %id=345208%
   action = hidebutton
 }

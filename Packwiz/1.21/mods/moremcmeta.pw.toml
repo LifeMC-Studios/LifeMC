@@ -1,0 +1,13 @@
+name = "MoreMcmeta"
+filename = "moremcmeta-1.21-4.5.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HFlxNpln/versions/cNKdfQGN/moremcmeta-1.21-4.5.0-fabric.jar"
+hash-format = "sha512"
+hash = "b857989dc46d3b3dca60c0386237f7bf6993748c34e0c8cbdc1e7795deb80e8f8958342db191ae1bcda5bec9878e64da1455786d60720d47a011c55a5546cd21"
+
+[update]
+[update.modrinth]
+mod-id = "HFlxNpln"
+version = "cNKdfQGN"

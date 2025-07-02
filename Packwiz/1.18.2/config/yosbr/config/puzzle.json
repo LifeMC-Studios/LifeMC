@@ -1,7 +1,6 @@
 {
   "disabledIntegrations": [
     "cem",
-    "citresewn",
     "continuity",
     "entity_texture_features",
     "iris",
