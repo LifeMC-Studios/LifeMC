@@ -2,6 +2,1470 @@
 
 Welcome to the section dedicated to the changes made to the modpack. Here you will find a complete list of all the new features, bug fixes and other improvements introduced with each update for each version. Discover what's new in each of our modpack versions and make sure you always use the latest version for the best gaming experience!
 
+## v2.0.0+1.21.4 (2025-03-06)
+
+## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+
+### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+### 2. Update the modpack
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Removed the Animatica mod
+- feat: 📦 Removed CIT Resewn mod
+- feat: 📦 Removed FabricSkyboxes and FabricSkyBoxes Interop mods
+- refactor: 🔧 Removed in the options.txt file the options for FabricSkyboxes
+- refactor: 🔧 Removed the AntiGhost options in the options.txt file
+- feat: ⚡ Replaced Borderless Mining mod with Cubes Without Borders for 1.18.2 and 1.19.4
+- refactor: 🔥 Removed Borderless Mining mod configuration files for 1.18.2 and 1.19.4
+- feat: 📦 Added MoreMcmeta mod (replaces Animatica)
+- feat: 🔧 Hidden MoreMcmeta submodules in the modmenu
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config for 1.18.2
+- fix: 🐛 Migrated Modpack Update Checker files outside of YOSBR
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.18.2
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.19.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.6
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.1
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.18.2
+- refactor: 🎨 Added missing files in FancyMenu for 1.19.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.6
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.1
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.19.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.6
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.1
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.18.2
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.19.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.6
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.1
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - Fabric Language Kotlin
+  - FancyMenu
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Screenshot Viewer
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - ModernFix
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Blur+
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Fabrishot
+  - Gamma Utils
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
+- ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
+
+### New Contributors
+- @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
+
+## v2.0.0+1.21.1 (2025-03-06)
+
+## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+
+### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+### 2. Update the modpack
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Removed the Animatica mod
+- feat: 📦 Removed CIT Resewn mod
+- feat: 📦 Removed FabricSkyboxes and FabricSkyBoxes Interop mods
+- refactor: 🔧 Removed in the options.txt file the options for FabricSkyboxes
+- refactor: 🔧 Removed the AntiGhost options in the options.txt file
+- feat: ⚡ Replaced Borderless Mining mod with Cubes Without Borders for 1.18.2 and 1.19.4
+- refactor: 🔥 Removed Borderless Mining mod configuration files for 1.18.2 and 1.19.4
+- feat: 📦 Added MoreMcmeta mod (replaces Animatica)
+- feat: 🔧 Hidden MoreMcmeta submodules in the modmenu
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config for 1.18.2
+- fix: 🐛 Migrated Modpack Update Checker files outside of YOSBR
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.18.2
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.19.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.6
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.1
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.18.2
+- refactor: 🎨 Added missing files in FancyMenu for 1.19.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.6
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.1
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.19.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.6
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.1
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.18.2
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.19.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.6
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.1
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - Fabric Language Kotlin
+  - FancyMenu
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Screenshot Viewer
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - ModernFix
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Blur+
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Fabrishot
+  - Gamma Utils
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
+- ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
+
+### New Contributors
+- @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
+
+## v2.0.0+1.21 (2025-03-06)
+
+## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+
+### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+### 2. Update the modpack
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Removed the Animatica mod
+- feat: 📦 Removed CIT Resewn mod
+- feat: 📦 Removed FabricSkyboxes and FabricSkyBoxes Interop mods
+- refactor: 🔧 Removed in the options.txt file the options for FabricSkyboxes
+- refactor: 🔧 Removed the AntiGhost options in the options.txt file
+- feat: ⚡ Replaced Borderless Mining mod with Cubes Without Borders for 1.18.2 and 1.19.4
+- refactor: 🔥 Removed Borderless Mining mod configuration files for 1.18.2 and 1.19.4
+- feat: 📦 Added MoreMcmeta mod (replaces Animatica)
+- feat: 🔧 Hidden MoreMcmeta submodules in the modmenu
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config for 1.18.2
+- fix: 🐛 Migrated Modpack Update Checker files outside of YOSBR
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.18.2
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.19.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.6
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.1
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.18.2
+- refactor: 🎨 Added missing files in FancyMenu for 1.19.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.6
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.1
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.19.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.6
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.1
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.18.2
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.19.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.6
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.1
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - Fabric Language Kotlin
+  - FancyMenu
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Screenshot Viewer
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - ModernFix
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Blur+
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Fabrishot
+  - Gamma Utils
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
+- ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
+
+### New Contributors
+- @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
+
+## v2.0.0+1.20.6 (2025-03-06)
+
+## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+
+### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+### 2. Update the modpack
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Removed the Animatica mod
+- feat: 📦 Removed CIT Resewn mod
+- feat: 📦 Removed FabricSkyboxes and FabricSkyBoxes Interop mods
+- refactor: 🔧 Removed in the options.txt file the options for FabricSkyboxes
+- refactor: 🔧 Removed the AntiGhost options in the options.txt file
+- feat: ⚡ Replaced Borderless Mining mod with Cubes Without Borders for 1.18.2 and 1.19.4
+- refactor: 🔥 Removed Borderless Mining mod configuration files for 1.18.2 and 1.19.4
+- feat: 📦 Added MoreMcmeta mod (replaces Animatica)
+- feat: 🔧 Hidden MoreMcmeta submodules in the modmenu
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config for 1.18.2
+- fix: 🐛 Migrated Modpack Update Checker files outside of YOSBR
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.18.2
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.19.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.6
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.1
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.18.2
+- refactor: 🎨 Added missing files in FancyMenu for 1.19.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.6
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.1
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.19.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.6
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.1
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.18.2
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.19.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.6
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.1
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - Fabric Language Kotlin
+  - FancyMenu
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Screenshot Viewer
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - ModernFix
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Blur+
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Fabrishot
+  - Gamma Utils
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
+- ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
+
+### New Contributors
+- @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
+
+## v2.0.0+1.20.4 (2025-03-06)
+
+### **Java 21 required**
+## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+
+### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+### 2. Update the modpack
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Removed the Animatica mod
+- feat: 📦 Removed CIT Resewn mod
+- feat: 📦 Removed FabricSkyboxes and FabricSkyBoxes Interop mods
+- refactor: 🔧 Removed in the options.txt file the options for FabricSkyboxes
+- refactor: 🔧 Removed the AntiGhost options in the options.txt file
+- feat: ⚡ Replaced Borderless Mining mod with Cubes Without Borders for 1.18.2 and 1.19.4
+- refactor: 🔥 Removed Borderless Mining mod configuration files for 1.18.2 and 1.19.4
+- feat: 📦 Added MoreMcmeta mod (replaces Animatica)
+- feat: 🔧 Hidden MoreMcmeta submodules in the modmenu
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config for 1.18.2
+- fix: 🐛 Migrated Modpack Update Checker files outside of YOSBR
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.18.2
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.19.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.6
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.1
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.18.2
+- refactor: 🎨 Added missing files in FancyMenu for 1.19.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.6
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.1
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.19.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.6
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.1
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.18.2
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.19.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.6
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.1
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - Fabric Language Kotlin
+  - FancyMenu
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Screenshot Viewer
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - ModernFix
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Blur+
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Fabrishot
+  - Gamma Utils
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
+- ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
+
+### New Contributors
+- @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
+
+## v2.0.0+1.19.4 (2025-03-06)
+
+## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+
+### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+### 2. Update the modpack
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Removed the Animatica mod
+- feat: 📦 Removed CIT Resewn mod
+- feat: 📦 Removed FabricSkyboxes and FabricSkyBoxes Interop mods
+- refactor: 🔧 Removed in the options.txt file the options for FabricSkyboxes
+- refactor: 🔧 Removed the AntiGhost options in the options.txt file
+- feat: ⚡ Replaced Borderless Mining mod with Cubes Without Borders for 1.18.2 and 1.19.4
+- refactor: 🔥 Removed Borderless Mining mod configuration files for 1.18.2 and 1.19.4
+- feat: 📦 Added MoreMcmeta mod (replaces Animatica)
+- feat: 🔧 Hidden MoreMcmeta submodules in the modmenu
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config for 1.18.2
+- fix: 🐛 Migrated Modpack Update Checker files outside of YOSBR
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.18.2
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.19.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.6
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.1
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.18.2
+- refactor: 🎨 Added missing files in FancyMenu for 1.19.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.6
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.1
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.19.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.6
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.1
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.18.2
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.19.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.6
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.1
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - Fabric Language Kotlin
+  - FancyMenu
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Screenshot Viewer
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - ModernFix
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Blur+
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Fabrishot
+  - Gamma Utils
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
+- ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
+
+### New Contributors
+- @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
+
+## v2.0.0+1.18.2 (2025-03-06)
+
+## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+
+### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+### 2. Update the modpack
+
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Removed the Animatica mod
+- feat: 📦 Removed CIT Resewn mod
+- feat: 📦 Removed FabricSkyboxes and FabricSkyBoxes Interop mods
+- refactor: 🔧 Removed in the options.txt file the options for FabricSkyboxes
+- refactor: 🔧 Removed the AntiGhost options in the options.txt file
+- feat: ⚡ Replaced Borderless Mining mod with Cubes Without Borders for 1.18.2 and 1.19.4
+- refactor: 🔥 Removed Borderless Mining mod configuration files for 1.18.2 and 1.19.4
+- feat: 📦 Added MoreMcmeta mod (replaces Animatica)
+- feat: 🔧 Hidden MoreMcmeta submodules in the modmenu
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config
+- refactor: 🔧 Removed Cit Resewn integration in Puzzle mod config for 1.18.2
+- fix: 🐛 Migrated Modpack Update Checker files outside of YOSBR
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.18.2
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.19.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.4
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.20.6
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.1
+- fix: 🐛 Fixed the BUG of the difficulty change button position in Single Player for 1.21.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.18.2
+- refactor: 🎨 Added missing files in FancyMenu for 1.19.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.4
+- refactor: 🎨 Added missing files in FancyMenu for 1.20.6
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.1
+- refactor: 🎨 Added missing files in FancyMenu for 1.21.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.19.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.4
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.20.6
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.1
+- feat: ⚡ Forced disabling of dynamic resources in Modernfix for 1.21.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.18.2
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.19.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.4
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.20.6
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.1
+- feat: ⚡ Dynamic FPS config migration with improvements for 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - Fabric Language Kotlin
+  - FancyMenu
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - UniLib
+  - Wavey Capes
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Screenshot Viewer
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Resourcify
+  - UniLib
+  - Wavey Capes
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - LambDynamicLights
+  - Language Reload
+  - ModernFix
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Zoomify
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - 3D Skin Layers
+  - BetterGrassify
+  - Blur+
+  - Controlify
+  - CraftPresence
+  - Dynamic FPS
+  - EntityCulling
+  - Fabric API
+  - Fabric Language Kotlin
+  - Fabrishot
+  - Gamma Utils
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Polytone
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - YetAnotherConfigLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  ```
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
+- ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
+
+### New Contributors
+- @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
+
 ## v1.2.1+1.21.4 (2025-21-05)
 
 👋 Hello everyone,
