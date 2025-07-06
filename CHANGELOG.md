@@ -4,10 +4,10 @@ Welcome to the section dedicated to the changes made to the modpack. Here you wi
 
 ## v2.0.0+1.21.4 (2025-03-06)
 
-## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+### To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
 
-### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
-### 2. Update the modpack
+1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+2. Update the modpack
 
 👋 Hello everyone,
 
@@ -213,10 +213,10 @@ The team at LifeMC Studios
 
 ## v2.0.0+1.21.1 (2025-03-06)
 
-## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+### To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
 
-### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
-### 2. Update the modpack
+1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+2. Update the modpack
 
 👋 Hello everyone,
 
@@ -422,10 +422,10 @@ The team at LifeMC Studios
 
 ## v2.0.0+1.21 (2025-03-06)
 
-## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+### To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
 
-### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
-### 2. Update the modpack
+1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+2. Update the modpack
 
 👋 Hello everyone,
 
@@ -631,10 +631,10 @@ The team at LifeMC Studios
 
 ## v2.0.0+1.20.6 (2025-03-06)
 
-## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+### To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
 
-### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
-### 2. Update the modpack
+1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+2. Update the modpack
 
 👋 Hello everyone,
 
@@ -841,10 +841,10 @@ The team at LifeMC Studios
 ## v2.0.0+1.20.4 (2025-03-06)
 
 ### **Java 21 required**
-## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+### To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
 
-### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
-### 2. Update the modpack
+1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+2. Update the modpack
 
 👋 Hello everyone,
 
@@ -1050,10 +1050,10 @@ The team at LifeMC Studios
 
 ## v2.0.0+1.19.4 (2025-03-06)
 
-## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+### To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
 
-### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
-### 2. Update the modpack
+1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+2. Update the modpack
 
 👋 Hello everyone,
 
@@ -1259,10 +1259,10 @@ The team at LifeMC Studios
 
 ## v2.0.0+1.18.2 (2025-03-06)
 
-## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+### To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
 
-### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
-### 2. Update the modpack
+1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+2. Update the modpack
 
 👋 Hello everyone,
 
