@@ -9,15 +9,15 @@ Here are the Resource Packs used in LifeMC.
 The "Reimagined GUI" Resource Packs were created by [AmongstReality](https://www.planetminecraft.com/member/amongstreality/)
 
 - 🌟 Reimagined GUI Light: [Modrinth](https://modrinth.com/resourcepack/reimaginedguilight) or [Curseforge](https://www.curseforge.com/minecraft/texture-packs/reimaginedguilight)
-  - 📝 [LICENSE](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Light)/LICENSE)
+  - 📝 [LICENSE](<https://github.com/LifeMC-Studios/LifeMC/blob/main/assets/resourcepacks/ReimaginedGUI(Light)/LICENSE>)
   - ❤️ [BuyMeCoffe](https://www.buymeacoffee.com/amongstreality)
-  - 📃 [Credits](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Light)/Credits.txt)
-  - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Light)/Links.txt)
+  - 📃 [Credits](<https://github.com/LifeMC-Studios/LifeMC/blob/main/assets/resourcepacks/ReimaginedGUI(Light)/Credits.txt>)
+  - 🔗 [Useful links](<https://github.com/LifeMC-Studios/LifeMC/blob/main/assets/resourcepacks/ReimaginedGUI(Light)/Links.txt>)
 
 - 🌑 Reimagined GUI Dark: [Modrinth](https://modrinth.com/resourcepack/reimaginedguidark) or [Curseforge](https://www.curseforge.com/minecraft/texture-packs/reimaginedguidark)
-  - 📝 [LICENSE](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Dark)/LICENSE)
+  - 📝 [LICENSE](<https://github.com/LifeMC-Studios/LifeMC/blob/main/assets/resourcepacks/ReimaginedGUI(Dark)/LICENSE>)
   - ❤️ [BuyMeCoffe](https://www.buymeacoffee.com/amongstreality)
-  - 📃 [Credits](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Dark)/Credits.txt)
-  - 🔗 [Useful links](https://github.com/LifeMC-Studios/LifeMC/blob/main/Resource-Packs/ReimaginedGUI(Dark)/Links.txt)
+  - 📃 [Credits](<https://github.com/LifeMC-Studios/LifeMC/blob/main/assets/resourcepacks/ReimaginedGUI(Dark)/Credits.txt>)
+  - 🔗 [Useful links](<https://github.com/LifeMC-Studios/LifeMC/blob/main/assets/resourcepacks/ReimaginedGUI(Dark)/Links.txt>)
 
 > All rights reserved. © 2021-2025 LifeMC Studios
