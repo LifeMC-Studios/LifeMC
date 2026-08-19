@@ -1,6 +1,6 @@
 # 🚀 Contribution Guidelines
 
- 🙌 Thank you for considering contributing to LifeMC! We welcome all contributions, including bug fixes, new features and documentation improvements.
+🙌 Thank you for considering contributing to LifeMC! We welcome all contributions, including bug fixes, new features and documentation improvements.
 
 ## 🔨 Getting Started
 
@@ -27,11 +27,11 @@
 
 ## 🛡️ Code of Conduct
 
-🚫 Please note that the LifeMC project is governed by the Contributor's Agreement version 2.1. By participating, you are expected to abide by this code. Please report any unacceptable behaviour in the [Server Discord](https://discord.lifemcstudios.cloud)
+🚫 Please note that the LifeMC project is governed by the Contributor's Agreement version 2.1. By participating, you are expected to abide by this code. Please report any unacceptable behaviour in the [Server Discord](https://discord.lifemcstudios.com)
 
-## 📚 Resources 
+## 📚 Resources
 
-- 🎤 [Server Discord](https://discord.lifemcstudios.cloud)
+- 🎤 [Server Discord](https://discord.lifemcstudios.com)
 - 🔗 [Modrinth](https://modrinth.com/modpack/lifemc)
 - 🐛 [Issue Tracker](https://github.com/LifeMC-Studios/LifeMC/issues)
 - 🔒 [Security Policy](https://github.com/LifeMC-Studios/LifeMC/blob/main/SECURITY.md)

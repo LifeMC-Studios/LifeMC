@@ -8,8 +8,8 @@
 <div align="center">
 
 [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/modpack/lifemc)
-[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_64h.png)](https://discord.lifemcstudios.cloud)
-[![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/translate/crowdin_64h.png)](https://translate.lifemcstudios.cloud)
+[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_64h.png)](https://discord.lifemcstudios.com)
+[![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/translate/crowdin_64h.png)](https://translate.lifemcstudios.com)
 [![ghpages](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/ghpages_64h.png)](https://lifemc-studios.github.io/docs)
 [![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitter-plural_64h.png)](https://twitter.com/LifeMCStudios)
 [![ghsponsors-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/ghsponsors-plural_64h.png)](https://github.com/LifeMC-Studios/LifeMC/blob/main/CONTRIBUTING.md)
@@ -32,7 +32,7 @@ Some functions you will find in LifeMC:
 - 🌅 Full compatibility with OptiFine skies thanks to two mod FabricSkyboxes and FabricSkyBoxes Interop
 - 🔭 Better zoom than OptiFine, thanks to the Zoomify mod
 - 🪟 Merged glass thanks to Continuity
-- 🕯️ Better Dynamic light  than OptiFine, thanks to the LambDynamicLights mod
+- 🕯️ Better Dynamic light than OptiFine, thanks to the LambDynamicLights mod
 - 🗺️ +60 languages supported to translate the custom menu and other things
 - 🌐 Hosting your own world with the e4mc mod
 - 🌳 Tree leaves better than OptiFine thanks to MoreCulling mod
