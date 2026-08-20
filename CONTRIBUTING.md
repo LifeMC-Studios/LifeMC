@@ -36,4 +36,4 @@
 - 🐛 [Issue Tracker](https://github.com/LifeMC-Studios/LifeMC/issues)
 - 🔒 [Security Policy](https://github.com/LifeMC-Studios/LifeMC/blob/main/SECURITY.md)
 
-> All rights reserved. © 2021-2025 LifeMC Studios
+> All rights reserved. © 2021-2026 LifeMC Studios

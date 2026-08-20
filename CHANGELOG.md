@@ -203,10 +203,12 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
 - ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
 
 ### New Contributors
+
 - @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
@@ -412,10 +414,12 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
 - ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
 
 ### New Contributors
+
 - @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
@@ -621,10 +625,12 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
 - ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
 
 ### New Contributors
+
 - @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
@@ -830,10 +836,12 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
 - ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
 
 ### New Contributors
+
 - @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
@@ -841,6 +849,7 @@ The team at LifeMC Studios
 ## v2.0.0+1.20.4 (2025-03-06)
 
 ### **Java 21 required**
+
 ### To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
 
 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
@@ -1040,10 +1049,12 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
 - ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
 
 ### New Contributors
+
 - @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
@@ -1249,10 +1260,12 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
 - ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
 
 ### New Contributors
+
 - @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
@@ -1458,10 +1471,12 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/482
 - ✨ v2.0.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/498
 
 ### New Contributors
+
 - @MasterMC5801 made their first contribution in https://github.com/LifeMC-Studios/LifeMC/pull/482
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.2.1...v2.0.0
@@ -1492,6 +1507,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
 - ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
 
@@ -1523,6 +1539,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
 - ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
 
@@ -1554,6 +1571,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
 - ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
 
@@ -1585,6 +1603,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
 - ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
 
@@ -1618,6 +1637,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
 - ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
 
@@ -1649,6 +1669,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
 - ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
 
@@ -1680,6 +1701,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the CHANGELOG.md by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/477
 - ✨ v1.2.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/479
 
@@ -1774,6 +1796,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
@@ -1867,6 +1890,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
@@ -1960,6 +1984,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
@@ -2053,6 +2078,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
@@ -2148,6 +2174,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
@@ -2241,6 +2268,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
@@ -2334,6 +2362,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
@@ -2444,6 +2473,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
@@ -2554,6 +2584,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
@@ -2664,6 +2695,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
@@ -2774,6 +2806,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
@@ -2884,6 +2917,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
@@ -2994,6 +3028,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
@@ -3104,6 +3139,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
@@ -3137,6 +3173,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
 - ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
 
@@ -3171,6 +3208,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
 - ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
 
@@ -3205,6 +3243,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
 - ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
 
@@ -3239,6 +3278,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
 - ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
 
@@ -3273,6 +3313,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
 - ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
 
@@ -3307,6 +3348,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
 - ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
 
@@ -3341,6 +3383,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
 - ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
 
@@ -3558,6 +3601,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
 - docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
@@ -3777,6 +3821,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
 - docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
@@ -3996,6 +4041,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
 - docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
@@ -4215,6 +4261,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
 - docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
@@ -4434,6 +4481,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
 - docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
@@ -4653,6 +4701,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
 - docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
@@ -4872,6 +4921,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/436
 - docs: 📝 Updated the CHANGELOG.md by decreasing the size of the What's Changed much more by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/437
 - docs: 📝 Update CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/438
@@ -4902,6 +4952,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 - ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -4930,6 +4981,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 - ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -4958,6 +5010,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 - ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -4986,6 +5039,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 - ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -5014,6 +5068,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 - ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -5042,6 +5097,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 - ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -5070,6 +5126,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - docs: :memo: Updated the CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/425
 - ✨ v1.0.10 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/435
 
@@ -5323,6 +5380,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -5575,6 +5633,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -5827,6 +5886,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -6079,6 +6139,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -6331,6 +6392,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -6583,6 +6645,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -6835,6 +6898,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9
@@ -6852,126 +6916,126 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔥 Removed CraterLib mod for 1.20.4/1.20.6
 - feat: 🎨 Migration of configs from Simple Discord RPC to CraftPresence
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - CraftPresence
-       - Dynamic FPS
-       - e4mc
-       - ModernFix
-       - Modpack Update Checker
-       - Not Enough Animations
-       - PaperDoll
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       - skipped ShulkerBoxTooltip 3.4.4
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - CraftPresence
+      - Dynamic FPS
+      - e4mc
+      - ModernFix
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      - skipped ShulkerBoxTooltip 3.4.4
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - CraftPresence
-       - e4mc
-       - Modpack Update Checker
-       - Not Enough Animations
-       - PaperDoll
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - CraftPresence
+      - e4mc
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Animatica
-       - Controlify
-       - CraftPresence
-       - Cubes Without Borders
-       - Dynamic FPS
-       - e4mc
-       - Enhanced Block Entities
-       - Entity Model Features [CEM]
-       - EntityCulling
-       - Entity Texture Features
-       - Fabric API
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Mod Menu
-       - Modpack Update Checker
-       - Not Enough Animations 
-       - PaperDoll
-       - Polytone
-       - Resourcify
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Animatica
+      - Controlify
+      - CraftPresence
+      - Cubes Without Borders
+      - Dynamic FPS
+      - e4mc
+      - Enhanced Block Entities
+      - Entity Model Features [CEM]
+      - EntityCulling
+      - Entity Texture Features
+      - Fabric API
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Mod Menu
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Polytone
+      - Resourcify
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.6:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Animatica
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Chat Patches
-       - Controlify
-       - CraftPresence
-       - Cubes Without Borders
-       - Dynamic FPS
-       - e4mc
-       - Entity Model Features [CEM]
-       - EntityCulling
-       - Entity Texture Features
-       - Fabric API
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Lithium
-       - ModernFix
-       - Mod Menu
-       - Modpack Update Checker
-       - No Chat Reports
-       - Not Enough Animations
-       - Polytone
-       - Resourcify
-       - Satin API
-       - ShulkerBoxTooltip
-       - Sodium Extra
-       - Sodium
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.6:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Animatica
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Chat Patches
+      - Controlify
+      - CraftPresence
+      - Cubes Without Borders
+      - Dynamic FPS
+      - e4mc
+      - Entity Model Features [CEM]
+      - EntityCulling
+      - Entity Texture Features
+      - Fabric API
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Lithium
+      - ModernFix
+      - Mod Menu
+      - Modpack Update Checker
+      - No Chat Reports
+      - Not Enough Animations
+      - Polytone
+      - Resourcify
+      - Satin API
+      - ShulkerBoxTooltip
+      - Sodium Extra
+      - Sodium
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.21:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Cubes Without Borders
-       - e4mc
-       - Fabric API
-       - ModernFix
-       - More Culling
-       - PaperDoll
-       - Reese's Sodium Options
-       - ShulkerBoxTooltip
-       - Symbol Chat
-       - TCDCommons API
-       - Visuality
-       - Translations for LifeMC
-       ```
+  - **1.21:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Cubes Without Borders
+      - e4mc
+      - Fabric API
+      - ModernFix
+      - More Culling
+      - PaperDoll
+      - Reese's Sodium Options
+      - ShulkerBoxTooltip
+      - Symbol Chat
+      - TCDCommons API
+      - Visuality
+      - Translations for LifeMC
+      ```
 
 - feat: ✨ Added TCDCommons API mod required by 1.20.6 for Better Statistics Screen mod to work
 - feat: 🔥 Removed dark and light background from settings menu causes problems
@@ -6986,6 +7050,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔧 Changed the data version in the options.txt file of 1.21
 - feat: 🔧 Change the active resource packs in the options.txt file of 1.21
 - feat: 🔥 Temporarily removed mods not yet available for 1.21
+
   ```
   - AntiGhost
   - Boat Item View
@@ -6993,7 +7058,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
   - FastQuit
   - ThreadTweak
   - Raised
-  - Seamless 
+  - Seamless
   - Screenshot Viewer
   ```
 
@@ -7001,7 +7066,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - fix: 🐛 Fixed settings menu bugs for 1.20.6
 - feat: ✨ Enabled modpack mode in fancymenu for 1.18.2, 1.20.4, 1.20.6, 1.21
 - fix: 🐛 Fixed settings menu bugs for 1.21
-- fix: 🐛 Fixed menu paused bugs for 1.21 
+- fix: 🐛 Fixed menu paused bugs for 1.21
 - fix: 🐛 Minor bug fixes in the CraftPresence config
 
 We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
@@ -7012,6 +7077,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.8 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/387
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.7...v1.0.8
@@ -7029,126 +7095,126 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔥 Removed CraterLib mod for 1.20.4/1.20.6
 - feat: 🎨 Migration of configs from Simple Discord RPC to CraftPresence
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - CraftPresence
-       - Dynamic FPS
-       - e4mc
-       - ModernFix
-       - Modpack Update Checker
-       - Not Enough Animations
-       - PaperDoll
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       - skipped ShulkerBoxTooltip 3.4.4
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - CraftPresence
+      - Dynamic FPS
+      - e4mc
+      - ModernFix
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      - skipped ShulkerBoxTooltip 3.4.4
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - CraftPresence
-       - e4mc
-       - Modpack Update Checker
-       - Not Enough Animations
-       - PaperDoll
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - CraftPresence
+      - e4mc
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Animatica
-       - Controlify
-       - CraftPresence
-       - Cubes Without Borders
-       - Dynamic FPS
-       - e4mc
-       - Enhanced Block Entities
-       - Entity Model Features [CEM]
-       - EntityCulling
-       - Entity Texture Features
-       - Fabric API
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Mod Menu
-       - Modpack Update Checker
-       - Not Enough Animations 
-       - PaperDoll
-       - Polytone
-       - Resourcify
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Animatica
+      - Controlify
+      - CraftPresence
+      - Cubes Without Borders
+      - Dynamic FPS
+      - e4mc
+      - Enhanced Block Entities
+      - Entity Model Features [CEM]
+      - EntityCulling
+      - Entity Texture Features
+      - Fabric API
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Mod Menu
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Polytone
+      - Resourcify
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.6:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Animatica
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Chat Patches
-       - Controlify
-       - CraftPresence
-       - Cubes Without Borders
-       - Dynamic FPS
-       - e4mc
-       - Entity Model Features [CEM]
-       - EntityCulling
-       - Entity Texture Features
-       - Fabric API
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Lithium
-       - ModernFix
-       - Mod Menu
-       - Modpack Update Checker
-       - No Chat Reports
-       - Not Enough Animations
-       - Polytone
-       - Resourcify
-       - Satin API
-       - ShulkerBoxTooltip
-       - Sodium Extra
-       - Sodium
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.6:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Animatica
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Chat Patches
+      - Controlify
+      - CraftPresence
+      - Cubes Without Borders
+      - Dynamic FPS
+      - e4mc
+      - Entity Model Features [CEM]
+      - EntityCulling
+      - Entity Texture Features
+      - Fabric API
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Lithium
+      - ModernFix
+      - Mod Menu
+      - Modpack Update Checker
+      - No Chat Reports
+      - Not Enough Animations
+      - Polytone
+      - Resourcify
+      - Satin API
+      - ShulkerBoxTooltip
+      - Sodium Extra
+      - Sodium
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.21:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Cubes Without Borders
-       - e4mc
-       - Fabric API
-       - ModernFix
-       - More Culling
-       - PaperDoll
-       - Reese's Sodium Options
-       - ShulkerBoxTooltip
-       - Symbol Chat
-       - TCDCommons API
-       - Visuality
-       - Translations for LifeMC
-       ```
+  - **1.21:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Cubes Without Borders
+      - e4mc
+      - Fabric API
+      - ModernFix
+      - More Culling
+      - PaperDoll
+      - Reese's Sodium Options
+      - ShulkerBoxTooltip
+      - Symbol Chat
+      - TCDCommons API
+      - Visuality
+      - Translations for LifeMC
+      ```
 
 - feat: ✨ Added TCDCommons API mod required by 1.20.6 for Better Statistics Screen mod to work
 - feat: 🔥 Removed dark and light background from settings menu causes problems
@@ -7163,6 +7229,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔧 Changed the data version in the options.txt file of 1.21
 - feat: 🔧 Change the active resource packs in the options.txt file of 1.21
 - feat: 🔥 Temporarily removed mods not yet available for 1.21
+
   ```
   - AntiGhost
   - Boat Item View
@@ -7170,7 +7237,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
   - FastQuit
   - ThreadTweak
   - Raised
-  - Seamless 
+  - Seamless
   - Screenshot Viewer
   ```
 
@@ -7178,7 +7245,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - fix: 🐛 Fixed settings menu bugs for 1.20.6
 - feat: ✨ Enabled modpack mode in fancymenu for 1.18.2, 1.20.4, 1.20.6, 1.21
 - fix: 🐛 Fixed settings menu bugs for 1.21
-- fix: 🐛 Fixed menu paused bugs for 1.21 
+- fix: 🐛 Fixed menu paused bugs for 1.21
 - fix: 🐛 Minor bug fixes in the CraftPresence config
 
 We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
@@ -7189,6 +7256,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.8 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/387
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.7...v1.0.8
@@ -7206,126 +7274,126 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔥 Removed CraterLib mod for 1.20.4/1.20.6
 - feat: 🎨 Migration of configs from Simple Discord RPC to CraftPresence
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - CraftPresence
-       - Dynamic FPS
-       - e4mc
-       - ModernFix
-       - Modpack Update Checker
-       - Not Enough Animations
-       - PaperDoll
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       - skipped ShulkerBoxTooltip 3.4.4
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - CraftPresence
+      - Dynamic FPS
+      - e4mc
+      - ModernFix
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      - skipped ShulkerBoxTooltip 3.4.4
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - CraftPresence
-       - e4mc
-       - Modpack Update Checker
-       - Not Enough Animations
-       - PaperDoll
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - CraftPresence
+      - e4mc
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Animatica
-       - Controlify
-       - CraftPresence
-       - Cubes Without Borders
-       - Dynamic FPS
-       - e4mc
-       - Enhanced Block Entities
-       - Entity Model Features [CEM]
-       - EntityCulling
-       - Entity Texture Features
-       - Fabric API
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Mod Menu
-       - Modpack Update Checker
-       - Not Enough Animations 
-       - PaperDoll
-       - Polytone
-       - Resourcify
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Animatica
+      - Controlify
+      - CraftPresence
+      - Cubes Without Borders
+      - Dynamic FPS
+      - e4mc
+      - Enhanced Block Entities
+      - Entity Model Features [CEM]
+      - EntityCulling
+      - Entity Texture Features
+      - Fabric API
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Mod Menu
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Polytone
+      - Resourcify
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.6:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Animatica
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Chat Patches
-       - Controlify
-       - CraftPresence
-       - Cubes Without Borders
-       - Dynamic FPS
-       - e4mc
-       - Entity Model Features [CEM]
-       - EntityCulling
-       - Entity Texture Features
-       - Fabric API
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Lithium
-       - ModernFix
-       - Mod Menu
-       - Modpack Update Checker
-       - No Chat Reports
-       - Not Enough Animations
-       - Polytone
-       - Resourcify
-       - Satin API
-       - ShulkerBoxTooltip
-       - Sodium Extra
-       - Sodium
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.6:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Animatica
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Chat Patches
+      - Controlify
+      - CraftPresence
+      - Cubes Without Borders
+      - Dynamic FPS
+      - e4mc
+      - Entity Model Features [CEM]
+      - EntityCulling
+      - Entity Texture Features
+      - Fabric API
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Lithium
+      - ModernFix
+      - Mod Menu
+      - Modpack Update Checker
+      - No Chat Reports
+      - Not Enough Animations
+      - Polytone
+      - Resourcify
+      - Satin API
+      - ShulkerBoxTooltip
+      - Sodium Extra
+      - Sodium
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.21:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Cubes Without Borders
-       - e4mc
-       - Fabric API
-       - ModernFix
-       - More Culling
-       - PaperDoll
-       - Reese's Sodium Options
-       - ShulkerBoxTooltip
-       - Symbol Chat
-       - TCDCommons API
-       - Visuality
-       - Translations for LifeMC
-       ```
+  - **1.21:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Cubes Without Borders
+      - e4mc
+      - Fabric API
+      - ModernFix
+      - More Culling
+      - PaperDoll
+      - Reese's Sodium Options
+      - ShulkerBoxTooltip
+      - Symbol Chat
+      - TCDCommons API
+      - Visuality
+      - Translations for LifeMC
+      ```
 
 - feat: ✨ Added TCDCommons API mod required by 1.20.6 for Better Statistics Screen mod to work
 - feat: 🔥 Removed dark and light background from settings menu causes problems
@@ -7340,6 +7408,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔧 Changed the data version in the options.txt file of 1.21
 - feat: 🔧 Change the active resource packs in the options.txt file of 1.21
 - feat: 🔥 Temporarily removed mods not yet available for 1.21
+
   ```
   - AntiGhost
   - Boat Item View
@@ -7347,7 +7416,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
   - FastQuit
   - ThreadTweak
   - Raised
-  - Seamless 
+  - Seamless
   - Screenshot Viewer
   ```
 
@@ -7355,7 +7424,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - fix: 🐛 Fixed settings menu bugs for 1.20.6
 - feat: ✨ Enabled modpack mode in fancymenu for 1.18.2, 1.20.4, 1.20.6, 1.21
 - fix: 🐛 Fixed settings menu bugs for 1.21
-- fix: 🐛 Fixed menu paused bugs for 1.21 
+- fix: 🐛 Fixed menu paused bugs for 1.21
 - fix: 🐛 Minor bug fixes in the CraftPresence config
 
 We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
@@ -7366,6 +7435,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.8 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/387
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.7...v1.0.8
@@ -7383,126 +7453,126 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔥 Removed CraterLib mod for 1.20.4/1.20.6
 - feat: 🎨 Migration of configs from Simple Discord RPC to CraftPresence
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - CraftPresence
-       - Dynamic FPS
-       - e4mc
-       - ModernFix
-       - Modpack Update Checker
-       - Not Enough Animations
-       - PaperDoll
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       - skipped ShulkerBoxTooltip 3.4.4
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - CraftPresence
+      - Dynamic FPS
+      - e4mc
+      - ModernFix
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      - skipped ShulkerBoxTooltip 3.4.4
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - CraftPresence
-       - e4mc
-       - Modpack Update Checker
-       - Not Enough Animations
-       - PaperDoll
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - CraftPresence
+      - e4mc
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Animatica
-       - Controlify
-       - CraftPresence
-       - Cubes Without Borders
-       - Dynamic FPS
-       - e4mc
-       - Enhanced Block Entities
-       - Entity Model Features [CEM]
-       - EntityCulling
-       - Entity Texture Features
-       - Fabric API
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Mod Menu
-       - Modpack Update Checker
-       - Not Enough Animations 
-       - PaperDoll
-       - Polytone
-       - Resourcify
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Animatica
+      - Controlify
+      - CraftPresence
+      - Cubes Without Borders
+      - Dynamic FPS
+      - e4mc
+      - Enhanced Block Entities
+      - Entity Model Features [CEM]
+      - EntityCulling
+      - Entity Texture Features
+      - Fabric API
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Mod Menu
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Polytone
+      - Resourcify
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.6:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Animatica
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Chat Patches
-       - Controlify
-       - CraftPresence
-       - Cubes Without Borders
-       - Dynamic FPS
-       - e4mc
-       - Entity Model Features [CEM]
-       - EntityCulling
-       - Entity Texture Features
-       - Fabric API
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Lithium
-       - ModernFix
-       - Mod Menu
-       - Modpack Update Checker
-       - No Chat Reports
-       - Not Enough Animations
-       - Polytone
-       - Resourcify
-       - Satin API
-       - ShulkerBoxTooltip
-       - Sodium Extra
-       - Sodium
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.6:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Animatica
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Chat Patches
+      - Controlify
+      - CraftPresence
+      - Cubes Without Borders
+      - Dynamic FPS
+      - e4mc
+      - Entity Model Features [CEM]
+      - EntityCulling
+      - Entity Texture Features
+      - Fabric API
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Lithium
+      - ModernFix
+      - Mod Menu
+      - Modpack Update Checker
+      - No Chat Reports
+      - Not Enough Animations
+      - Polytone
+      - Resourcify
+      - Satin API
+      - ShulkerBoxTooltip
+      - Sodium Extra
+      - Sodium
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.21:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Cubes Without Borders
-       - e4mc
-       - Fabric API
-       - ModernFix
-       - More Culling
-       - PaperDoll
-       - Reese's Sodium Options
-       - ShulkerBoxTooltip
-       - Symbol Chat
-       - TCDCommons API
-       - Visuality
-       - Translations for LifeMC
-       ```
+  - **1.21:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Cubes Without Borders
+      - e4mc
+      - Fabric API
+      - ModernFix
+      - More Culling
+      - PaperDoll
+      - Reese's Sodium Options
+      - ShulkerBoxTooltip
+      - Symbol Chat
+      - TCDCommons API
+      - Visuality
+      - Translations for LifeMC
+      ```
 
 - feat: ✨ Added TCDCommons API mod required by 1.20.6 for Better Statistics Screen mod to work
 - feat: 🔥 Removed dark and light background from settings menu causes problems
@@ -7517,6 +7587,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔧 Changed the data version in the options.txt file of 1.21
 - feat: 🔧 Change the active resource packs in the options.txt file of 1.21
 - feat: 🔥 Temporarily removed mods not yet available for 1.21
+
   ```
   - AntiGhost
   - Boat Item View
@@ -7524,7 +7595,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
   - FastQuit
   - ThreadTweak
   - Raised
-  - Seamless 
+  - Seamless
   - Screenshot Viewer
   ```
 
@@ -7532,7 +7603,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - fix: 🐛 Fixed settings menu bugs for 1.20.6
 - feat: ✨ Enabled modpack mode in fancymenu for 1.18.2, 1.20.4, 1.20.6, 1.21
 - fix: 🐛 Fixed settings menu bugs for 1.21
-- fix: 🐛 Fixed menu paused bugs for 1.21 
+- fix: 🐛 Fixed menu paused bugs for 1.21
 - fix: 🐛 Minor bug fixes in the CraftPresence config
 
 We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
@@ -7543,6 +7614,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.8 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/387
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.7...v1.0.8
@@ -7560,126 +7632,126 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔥 Removed CraterLib mod for 1.20.4/1.20.6
 - feat: 🎨 Migration of configs from Simple Discord RPC to CraftPresence
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - CraftPresence
-       - Dynamic FPS
-       - e4mc
-       - ModernFix
-       - Modpack Update Checker
-       - Not Enough Animations
-       - PaperDoll
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       - skipped ShulkerBoxTooltip 3.4.4
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - CraftPresence
+      - Dynamic FPS
+      - e4mc
+      - ModernFix
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      - skipped ShulkerBoxTooltip 3.4.4
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - CraftPresence
-       - e4mc
-       - Modpack Update Checker
-       - Not Enough Animations
-       - PaperDoll
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - CraftPresence
+      - e4mc
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Animatica
-       - Controlify
-       - CraftPresence
-       - Cubes Without Borders
-       - Dynamic FPS
-       - e4mc
-       - Enhanced Block Entities
-       - Entity Model Features [CEM]
-       - EntityCulling
-       - Entity Texture Features
-       - Fabric API
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Mod Menu
-       - Modpack Update Checker
-       - Not Enough Animations 
-       - PaperDoll
-       - Polytone
-       - Resourcify
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Animatica
+      - Controlify
+      - CraftPresence
+      - Cubes Without Borders
+      - Dynamic FPS
+      - e4mc
+      - Enhanced Block Entities
+      - Entity Model Features [CEM]
+      - EntityCulling
+      - Entity Texture Features
+      - Fabric API
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Mod Menu
+      - Modpack Update Checker
+      - Not Enough Animations
+      - PaperDoll
+      - Polytone
+      - Resourcify
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.6:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Animatica
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Chat Patches
-       - Controlify
-       - CraftPresence
-       - Cubes Without Borders
-       - Dynamic FPS
-       - e4mc
-       - Entity Model Features [CEM]
-       - EntityCulling
-       - Entity Texture Features
-       - Fabric API
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Lithium
-       - ModernFix
-       - Mod Menu
-       - Modpack Update Checker
-       - No Chat Reports
-       - Not Enough Animations
-       - Polytone
-       - Resourcify
-       - Satin API
-       - ShulkerBoxTooltip
-       - Sodium Extra
-       - Sodium
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.6:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Animatica
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Chat Patches
+      - Controlify
+      - CraftPresence
+      - Cubes Without Borders
+      - Dynamic FPS
+      - e4mc
+      - Entity Model Features [CEM]
+      - EntityCulling
+      - Entity Texture Features
+      - Fabric API
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Lithium
+      - ModernFix
+      - Mod Menu
+      - Modpack Update Checker
+      - No Chat Reports
+      - Not Enough Animations
+      - Polytone
+      - Resourcify
+      - Satin API
+      - ShulkerBoxTooltip
+      - Sodium Extra
+      - Sodium
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.21:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Cubes Without Borders
-       - e4mc
-       - Fabric API
-       - ModernFix
-       - More Culling
-       - PaperDoll
-       - Reese's Sodium Options
-       - ShulkerBoxTooltip
-       - Symbol Chat
-       - TCDCommons API
-       - Visuality
-       - Translations for LifeMC
-       ```
+  - **1.21:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Cubes Without Borders
+      - e4mc
+      - Fabric API
+      - ModernFix
+      - More Culling
+      - PaperDoll
+      - Reese's Sodium Options
+      - ShulkerBoxTooltip
+      - Symbol Chat
+      - TCDCommons API
+      - Visuality
+      - Translations for LifeMC
+      ```
 
 - feat: ✨ Added TCDCommons API mod required by 1.20.6 for Better Statistics Screen mod to work
 - feat: 🔥 Removed dark and light background from settings menu causes problems
@@ -7694,6 +7766,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔧 Changed the data version in the options.txt file of 1.21
 - feat: 🔧 Change the active resource packs in the options.txt file of 1.21
 - feat: 🔥 Temporarily removed mods not yet available for 1.21
+
   ```
   - AntiGhost
   - Boat Item View
@@ -7701,7 +7774,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
   - FastQuit
   - ThreadTweak
   - Raised
-  - Seamless 
+  - Seamless
   - Screenshot Viewer
   ```
 
@@ -7709,7 +7782,7 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - fix: 🐛 Fixed settings menu bugs for 1.20.6
 - feat: ✨ Enabled modpack mode in fancymenu for 1.18.2, 1.20.4, 1.20.6, 1.21
 - fix: 🐛 Fixed settings menu bugs for 1.21
-- fix: 🐛 Fixed menu paused bugs for 1.21 
+- fix: 🐛 Fixed menu paused bugs for 1.21
 - fix: 🐛 Minor bug fixes in the CraftPresence config
 
 We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
@@ -7720,6 +7793,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.8 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/387
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.7...v1.0.8
@@ -7737,59 +7811,59 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔥 Removed auto-saving of files when changing windows in vscode to avoid problems
 - feat: ✨ Updated the version of Fabric and the required version to 0.15.11
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Entity Texture Features
-       - Fabric Language Kotlin
-       - FancyMenu
-       - Not Enough Animations
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Entity Texture Features
+      - Fabric Language Kotlin
+      - FancyMenu
+      - Not Enough Animations
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Continuity
-       - Entity Model Features [CEM]
-       - Fabric Language Kotlin
-       - Language Reload
-       - Not Enough Animations
-       - Resourcify
-       - ShulkerBoxTooltip
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Continuity
+      - Entity Model Features [CEM]
+      - Fabric Language Kotlin
+      - Language Reload
+      - Not Enough Animations
+      - Resourcify
+      - ShulkerBoxTooltip
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Chat Patches
-       - Continuity
-       - Entity Model Features [CEM]
-       - Fabric Language Kotlin
-       - FancyMenu
-       - ImmediatelyFast
-       - Language Reload
-       - No Chat Reports
-       - Not Enough Animations
-       - Polytone
-       - Resourcify
-       - Screenshot Viewer
-       - ShulkerBoxTooltip
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Chat Patches
+      - Continuity
+      - Entity Model Features [CEM]
+      - Fabric Language Kotlin
+      - FancyMenu
+      - ImmediatelyFast
+      - Language Reload
+      - No Chat Reports
+      - Not Enough Animations
+      - Polytone
+      - Resourcify
+      - Screenshot Viewer
+      - ShulkerBoxTooltip
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
 - fix: 🐛 fixed the problem of resource packs in the options.txt file of 1.20.4
 - feat: ✨ Start of development of v1.0.7+1.20.6-alpha.1
@@ -7824,6 +7898,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/358
 - ✨ v1.0.7 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/371
 
@@ -7837,64 +7912,64 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 
 - feat: ✨ Beginning development v1.0.7 (including 1.20.6)
 - chore: 🎨 Improved the bug_report.yml
-   - Removed PolyMC and added LifeMC Launcher, GDLauncher and improved the layout in the Launcher options
+  - Removed PolyMC and added LifeMC Launcher, GDLauncher and improved the layout in the Launcher options
 - feat: 🔥 Removed GitLens from the recommended extensions on vscode and replace it with Git Graph
 - feat: 🔥 Removed auto-saving of files when changing windows in vscode to avoid problems
 - feat: ✨ Updated the version of Fabric and the required version to 0.15.11
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Entity Texture Features
-       - Fabric Language Kotlin
-       - FancyMenu
-       - Not Enough Animations
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Entity Texture Features
+      - Fabric Language Kotlin
+      - FancyMenu
+      - Not Enough Animations
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Continuity
-       - Entity Model Features [CEM]
-       - Fabric Language Kotlin
-       - Language Reload
-       - Not Enough Animations
-       - Resourcify
-       - ShulkerBoxTooltip
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Continuity
+      - Entity Model Features [CEM]
+      - Fabric Language Kotlin
+      - Language Reload
+      - Not Enough Animations
+      - Resourcify
+      - ShulkerBoxTooltip
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Chat Patches
-       - Continuity
-       - Entity Model Features [CEM]
-       - Fabric Language Kotlin
-       - FancyMenu
-       - ImmediatelyFast
-       - Language Reload
-       - No Chat Reports
-       - Not Enough Animations
-       - Polytone
-       - Resourcify
-       - Screenshot Viewer
-       - ShulkerBoxTooltip
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Chat Patches
+      - Continuity
+      - Entity Model Features [CEM]
+      - Fabric Language Kotlin
+      - FancyMenu
+      - ImmediatelyFast
+      - Language Reload
+      - No Chat Reports
+      - Not Enough Animations
+      - Polytone
+      - Resourcify
+      - Screenshot Viewer
+      - ShulkerBoxTooltip
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
 - fix: 🐛 fixed the problem of resource packs in the options.txt file of 1.20.4
 - feat: ✨ Start of development of v1.0.7+1.20.6-alpha.1
@@ -7929,6 +8004,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/358
 - ✨ v1.0.7 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/371
 
@@ -7942,64 +8018,64 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 
 - feat: ✨ Beginning development v1.0.7 (including 1.20.6)
 - chore: 🎨 Improved the bug_report.yml
-   - Removed PolyMC and added LifeMC Launcher, GDLauncher and improved the layout in the Launcher options
+  - Removed PolyMC and added LifeMC Launcher, GDLauncher and improved the layout in the Launcher options
 - feat: 🔥 Removed GitLens from the recommended extensions on vscode and replace it with Git Graph
 - feat: 🔥 Removed auto-saving of files when changing windows in vscode to avoid problems
 - feat: ✨ Updated the version of Fabric and the required version to 0.15.11
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Entity Texture Features
-       - Fabric Language Kotlin
-       - FancyMenu
-       - Not Enough Animations
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Entity Texture Features
+      - Fabric Language Kotlin
+      - FancyMenu
+      - Not Enough Animations
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Continuity
-       - Entity Model Features [CEM]
-       - Fabric Language Kotlin
-       - Language Reload
-       - Not Enough Animations
-       - Resourcify
-       - ShulkerBoxTooltip
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Continuity
+      - Entity Model Features [CEM]
+      - Fabric Language Kotlin
+      - Language Reload
+      - Not Enough Animations
+      - Resourcify
+      - ShulkerBoxTooltip
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Chat Patches
-       - Continuity
-       - Entity Model Features [CEM]
-       - Fabric Language Kotlin
-       - FancyMenu
-       - ImmediatelyFast
-       - Language Reload
-       - No Chat Reports
-       - Not Enough Animations
-       - Polytone
-       - Resourcify
-       - Screenshot Viewer
-       - ShulkerBoxTooltip
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Chat Patches
+      - Continuity
+      - Entity Model Features [CEM]
+      - Fabric Language Kotlin
+      - FancyMenu
+      - ImmediatelyFast
+      - Language Reload
+      - No Chat Reports
+      - Not Enough Animations
+      - Polytone
+      - Resourcify
+      - Screenshot Viewer
+      - ShulkerBoxTooltip
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
 - fix: 🐛 fixed the problem of resource packs in the options.txt file of 1.20.4
 - feat: ✨ Start of development of v1.0.7+1.20.6-alpha.1
@@ -8034,6 +8110,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/358
 - ✨ v1.0.7 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/371
 
@@ -8047,64 +8124,64 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 
 - feat: ✨ Beginning development v1.0.7 (including 1.20.6)
 - chore: 🎨 Improved the bug_report.yml
-   - Removed PolyMC and added LifeMC Launcher, GDLauncher and improved the layout in the Launcher options
+  - Removed PolyMC and added LifeMC Launcher, GDLauncher and improved the layout in the Launcher options
 - feat: 🔥 Removed GitLens from the recommended extensions on vscode and replace it with Git Graph
 - feat: 🔥 Removed auto-saving of files when changing windows in vscode to avoid problems
 - feat: ✨ Updated the version of Fabric and the required version to 0.15.11
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Entity Texture Features
-       - Fabric Language Kotlin
-       - FancyMenu
-       - Not Enough Animations
-       - Resourcify
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Entity Texture Features
+      - Fabric Language Kotlin
+      - FancyMenu
+      - Not Enough Animations
+      - Resourcify
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Continuity
-       - Entity Model Features [CEM]
-       - Fabric Language Kotlin
-       - Language Reload
-       - Not Enough Animations
-       - Resourcify
-       - ShulkerBoxTooltip
-       - Wavey Capes
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Continuity
+      - Entity Model Features [CEM]
+      - Fabric Language Kotlin
+      - Language Reload
+      - Not Enough Animations
+      - Resourcify
+      - ShulkerBoxTooltip
+      - Wavey Capes
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Chat Patches
-       - Continuity
-       - Entity Model Features [CEM]
-       - Fabric Language Kotlin
-       - FancyMenu
-       - ImmediatelyFast
-       - Language Reload
-       - No Chat Reports
-       - Not Enough Animations
-       - Polytone
-       - Resourcify
-       - Screenshot Viewer
-       - ShulkerBoxTooltip
-       - Wavey Capes
-       - YetAnotherConfigLib
-       - Zoomify
-       - Reimagined GUI (Dark)
-       - Reimagined GUI (Light)
-       ```
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Chat Patches
+      - Continuity
+      - Entity Model Features [CEM]
+      - Fabric Language Kotlin
+      - FancyMenu
+      - ImmediatelyFast
+      - Language Reload
+      - No Chat Reports
+      - Not Enough Animations
+      - Polytone
+      - Resourcify
+      - Screenshot Viewer
+      - ShulkerBoxTooltip
+      - Wavey Capes
+      - YetAnotherConfigLib
+      - Zoomify
+      - Reimagined GUI (Dark)
+      - Reimagined GUI (Light)
+      ```
 
 - fix: 🐛 fixed the problem of resource packs in the options.txt file of 1.20.4
 - feat: ✨ Start of development of v1.0.7+1.20.6-alpha.1
@@ -8139,6 +8216,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/358
 - ✨ v1.0.7 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/371
 
@@ -8158,58 +8236,58 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: ✨ Added Polytone mod for 1.18.2 and 1.20.4 for optifine color features and other features for resource packs
 - feat: ⚡ Migration from Borderless Mining mod to Cubes Without Borders mod for 1.19.4 and 1.20.4, for 1.18.2 in future.
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - FancyMenu
-       - ModernFix
-       - Not Enough Animations
-       - Resourcify
-       - Wavey Capes
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - FancyMenu
+      - ModernFix
+      - Not Enough Animations
+      - Resourcify
+      - Wavey Capes
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Not Enough Animations
-       - Resourcify
-       - Wavey Capes
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Not Enough Animations
+      - Resourcify
+      - Wavey Capes
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Better Statistics Screen (Fabric/Forge)
-       - Controlify
-       - Controlling
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric API
-       - FancyMenu
-       - ImmediatelyFast
-       - Iris Shaders
-       - ModernFix
-       - Mod Menu
-       - More Culling
-       - No Chat Reports
-       - Not Enough Animations
-       - OptiGUI
-       - Resourcify
-       - Symbol Chat
-       - Wavey Capes
-       - YetAnotherConfigLib
-       ```
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Better Statistics Screen (Fabric/Forge)
+      - Controlify
+      - Controlling
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric API
+      - FancyMenu
+      - ImmediatelyFast
+      - Iris Shaders
+      - ModernFix
+      - Mod Menu
+      - More Culling
+      - No Chat Reports
+      - Not Enough Animations
+      - OptiGUI
+      - Resourcify
+      - Symbol Chat
+      - Wavey Capes
+      - YetAnotherConfigLib
+      ```
 
 - fix: ⚡ Remigrated to the Borderless Mining mod for 1.19.4, the Cubes Without Borders mod does not work in 1.19.4
 - fix: 🐛 Fixed small theme bug in 1.19.4
@@ -8231,6 +8309,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.6 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/357
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.5...v1.0.6
@@ -8249,58 +8328,58 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: ✨ Added Polytone mod for 1.18.2 and 1.20.4 for optifine color features and other features for resource packs
 - feat: ⚡ Migration from Borderless Mining mod to Cubes Without Borders mod for 1.19.4 and 1.20.4, for 1.18.2 in future.
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - FancyMenu
-       - ModernFix
-       - Not Enough Animations
-       - Resourcify
-       - Wavey Capes
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - FancyMenu
+      - ModernFix
+      - Not Enough Animations
+      - Resourcify
+      - Wavey Capes
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Not Enough Animations
-       - Resourcify
-       - Wavey Capes
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Not Enough Animations
+      - Resourcify
+      - Wavey Capes
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Better Statistics Screen (Fabric/Forge)
-       - Controlify
-       - Controlling
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric API
-       - FancyMenu
-       - ImmediatelyFast
-       - Iris Shaders
-       - ModernFix
-       - Mod Menu
-       - More Culling
-       - No Chat Reports
-       - Not Enough Animations
-       - OptiGUI
-       - Resourcify
-       - Symbol Chat
-       - Wavey Capes
-       - YetAnotherConfigLib
-       ```
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Better Statistics Screen (Fabric/Forge)
+      - Controlify
+      - Controlling
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric API
+      - FancyMenu
+      - ImmediatelyFast
+      - Iris Shaders
+      - ModernFix
+      - Mod Menu
+      - More Culling
+      - No Chat Reports
+      - Not Enough Animations
+      - OptiGUI
+      - Resourcify
+      - Symbol Chat
+      - Wavey Capes
+      - YetAnotherConfigLib
+      ```
 
 - fix: ⚡ Remigrated to the Borderless Mining mod for 1.19.4, the Cubes Without Borders mod does not work in 1.19.4
 - fix: 🐛 Fixed small theme bug in 1.19.4
@@ -8322,6 +8401,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.6 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/357
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.5...v1.0.6
@@ -8340,58 +8420,58 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: ✨ Added Polytone mod for 1.18.2 and 1.20.4 for optifine color features and other features for resource packs
 - feat: ⚡ Migration from Borderless Mining mod to Cubes Without Borders mod for 1.19.4 and 1.20.4, for 1.18.2 in future.
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - FancyMenu
-       - ModernFix
-       - Not Enough Animations
-       - Resourcify
-       - Wavey Capes
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - FancyMenu
+      - ModernFix
+      - Not Enough Animations
+      - Resourcify
+      - Wavey Capes
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Not Enough Animations
-       - Resourcify
-       - Wavey Capes
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Not Enough Animations
+      - Resourcify
+      - Wavey Capes
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Better Statistics Screen (Fabric/Forge)
-       - Controlify
-       - Controlling
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric API
-       - FancyMenu
-       - ImmediatelyFast
-       - Iris Shaders
-       - ModernFix
-       - Mod Menu
-       - More Culling
-       - No Chat Reports
-       - Not Enough Animations
-       - OptiGUI
-       - Resourcify
-       - Symbol Chat
-       - Wavey Capes
-       - YetAnotherConfigLib
-       ```
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Better Statistics Screen (Fabric/Forge)
+      - Controlify
+      - Controlling
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric API
+      - FancyMenu
+      - ImmediatelyFast
+      - Iris Shaders
+      - ModernFix
+      - Mod Menu
+      - More Culling
+      - No Chat Reports
+      - Not Enough Animations
+      - OptiGUI
+      - Resourcify
+      - Symbol Chat
+      - Wavey Capes
+      - YetAnotherConfigLib
+      ```
 
 - fix: ⚡ Remigrated to the Borderless Mining mod for 1.19.4, the Cubes Without Borders mod does not work in 1.19.4
 - fix: 🐛 Fixed small theme bug in 1.19.4
@@ -8413,6 +8493,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.6 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/357
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.5...v1.0.6
@@ -8427,51 +8508,51 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: ✨ Added the Panorama in the main menu and settings according to the theme
 - perf: 🔥 Temporarily remove Dynamic FPS and ImmediatelyFast mods for 1.19.4 cause boot problems
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - Cosmetica
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - Cosmetica
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - CIT Resewn
-       - Cosmetica
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - CIT Resewn
-       - Controlify
-       - Cosmetica
-       - ImmediatelyFast
-       - Rethinking Voxels
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - CIT Resewn
+      - Cosmetica
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Cosmetica
-       - ImmediatelyFast
-       - Zoomify
-       - Rethinking Voxels
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - CIT Resewn
+      - Controlify
+      - Cosmetica
+      - ImmediatelyFast
+      - Rethinking Voxels
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - CIT Resewn
-       - Controlify
-       - Debugify
-       - Visuality
-       - Very Many Players (Fabric)
-       - Rethinking Voxels
-       ```
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Cosmetica
+      - ImmediatelyFast
+      - Zoomify
+      - Rethinking Voxels
+      ```
+
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - CIT Resewn
+      - Controlify
+      - Debugify
+      - Visuality
+      - Very Many Players (Fabric)
+      - Rethinking Voxels
+      ```
 
 - fix: 🐛 Fixed bug of loading some default resource packs
 - feat: ✨ v1.0.5 is out!
@@ -8484,7 +8565,8 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
-- ✨ v1.0.5 is out!  by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
+
+- ✨ v1.0.5 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.4...v1.0.5
 
@@ -8498,51 +8580,51 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: ✨ Added the Panorama in the main menu and settings according to the theme
 - perf: 🔥 Temporarily remove Dynamic FPS and ImmediatelyFast mods for 1.19.4 cause boot problems
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - Cosmetica
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - Cosmetica
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - CIT Resewn
-       - Cosmetica
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - CIT Resewn
-       - Controlify
-       - Cosmetica
-       - ImmediatelyFast
-       - Rethinking Voxels
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - CIT Resewn
+      - Cosmetica
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Cosmetica
-       - ImmediatelyFast
-       - Zoomify
-       - Rethinking Voxels
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - CIT Resewn
+      - Controlify
+      - Cosmetica
+      - ImmediatelyFast
+      - Rethinking Voxels
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - CIT Resewn
-       - Controlify
-       - Debugify
-       - Visuality
-       - Very Many Players (Fabric)
-       - Rethinking Voxels
-       ```
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Cosmetica
+      - ImmediatelyFast
+      - Zoomify
+      - Rethinking Voxels
+      ```
+
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - CIT Resewn
+      - Controlify
+      - Debugify
+      - Visuality
+      - Very Many Players (Fabric)
+      - Rethinking Voxels
+      ```
 
 - fix: 🐛 Fixed bug of loading some default resource packs
 - feat: ✨ v1.0.5 is out!
@@ -8555,7 +8637,8 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
-- ✨ v1.0.5 is out!  by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
+
+- ✨ v1.0.5 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.4...v1.0.5
 
@@ -8569,51 +8652,51 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: ✨ Added the Panorama in the main menu and settings according to the theme
 - perf: 🔥 Temporarily remove Dynamic FPS and ImmediatelyFast mods for 1.19.4 cause boot problems
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - Cosmetica
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - Cosmetica
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - CIT Resewn
-       - Cosmetica
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - CIT Resewn
-       - Controlify
-       - Cosmetica
-       - ImmediatelyFast
-       - Rethinking Voxels
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - CIT Resewn
+      - Cosmetica
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Cosmetica
-       - ImmediatelyFast
-       - Zoomify
-       - Rethinking Voxels
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - CIT Resewn
+      - Controlify
+      - Cosmetica
+      - ImmediatelyFast
+      - Rethinking Voxels
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - CIT Resewn
-       - Controlify
-       - Debugify
-       - Visuality
-       - Very Many Players (Fabric)
-       - Rethinking Voxels
-       ```
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Cosmetica
+      - ImmediatelyFast
+      - Zoomify
+      - Rethinking Voxels
+      ```
+
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - CIT Resewn
+      - Controlify
+      - Debugify
+      - Visuality
+      - Very Many Players (Fabric)
+      - Rethinking Voxels
+      ```
 
 - fix: 🐛 Fixed bug of loading some default resource packs
 - feat: ✨ v1.0.5 is out!
@@ -8626,7 +8709,8 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
-- ✨ v1.0.5 is out!  by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
+
+- ✨ v1.0.5 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.4...v1.0.5
 
@@ -8640,51 +8724,51 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: ✨ Added the Panorama in the main menu and settings according to the theme
 - perf: 🔥 Temporarily remove Dynamic FPS and ImmediatelyFast mods for 1.19.4 cause boot problems
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - Cosmetica
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - Cosmetica
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - CIT Resewn
-       - Cosmetica
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - CIT Resewn
-       - Controlify
-       - Cosmetica
-       - ImmediatelyFast
-       - Rethinking Voxels
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - CIT Resewn
+      - Cosmetica
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Cosmetica
-       - ImmediatelyFast
-       - Zoomify
-       - Rethinking Voxels
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - CIT Resewn
+      - Controlify
+      - Cosmetica
+      - ImmediatelyFast
+      - Rethinking Voxels
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - CIT Resewn
-       - Controlify
-       - Debugify
-       - Visuality
-       - Very Many Players (Fabric)
-       - Rethinking Voxels
-       ```
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Cosmetica
+      - ImmediatelyFast
+      - Zoomify
+      - Rethinking Voxels
+      ```
+
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - CIT Resewn
+      - Controlify
+      - Debugify
+      - Visuality
+      - Very Many Players (Fabric)
+      - Rethinking Voxels
+      ```
 
 - fix: 🐛 Fixed bug of loading some default resource packs
 - feat: ✨ v1.0.5 is out!
@@ -8697,7 +8781,8 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
-- ✨ v1.0.5 is out!  by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
+
+- ✨ v1.0.5 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.4...v1.0.5
 
@@ -8711,51 +8796,51 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: ✨ Added the Panorama in the main menu and settings according to the theme
 - perf: 🔥 Temporarily remove Dynamic FPS and ImmediatelyFast mods for 1.19.4 cause boot problems
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - Cosmetica
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - Cosmetica
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - CIT Resewn
-       - Cosmetica
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - CIT Resewn
-       - Controlify
-       - Cosmetica
-       - ImmediatelyFast
-       - Rethinking Voxels
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - CIT Resewn
+      - Cosmetica
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Cosmetica
-       - ImmediatelyFast
-       - Zoomify
-       - Rethinking Voxels
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - CIT Resewn
+      - Controlify
+      - Cosmetica
+      - ImmediatelyFast
+      - Rethinking Voxels
+      ```
 
-   - **1.20.4:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - CIT Resewn
-       - Controlify
-       - Debugify
-       - Visuality
-       - Very Many Players (Fabric)
-       - Rethinking Voxels
-       ```
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Cosmetica
+      - ImmediatelyFast
+      - Zoomify
+      - Rethinking Voxels
+      ```
+
+  - **1.20.4:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - CIT Resewn
+      - Controlify
+      - Debugify
+      - Visuality
+      - Very Many Players (Fabric)
+      - Rethinking Voxels
+      ```
 
 - fix: 🐛 Fixed bug of loading some default resource packs
 - feat: ✨ v1.0.5 is out!
@@ -8768,7 +8853,8 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
-- ✨ v1.0.5 is out!  by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
+
+- ✨ v1.0.5 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.4...v1.0.5
 
@@ -8782,58 +8868,58 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔧 Updated the required fabric version base starting with 0.15.7
 - fix: 🐛 Indium mod downgraded to 1.0.28 for 1.20.2
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - ModernFix
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - ModernFix
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - IMBlocker
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Mod Detection Preventer
-       - Model Gap Fix
-       - ModernFix
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - IMBlocker
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Chat Patches
-       - Mod Detection Preventer
-       - OptiGUI
-       - Raised
-       - Screenshot Viewer
-       - Wavey Capes
-       - Zoomify
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Mod Detection Preventer
+      - Model Gap Fix
+      - ModernFix
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Chat Patches
+      - Mod Detection Preventer
+      - OptiGUI
+      - Raised
+      - Screenshot Viewer
+      - Wavey Capes
+      - Zoomify
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
 - ci: 👷 Updated and improved CLI programs
 - feat: ✨ 1.20.4
@@ -8848,6 +8934,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/324
 - ✨ v1.0.4 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/331
 
@@ -8863,58 +8950,58 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔧 Updated the required fabric version base starting with 0.15.7
 - fix: 🐛 Indium mod downgraded to 1.0.28 for 1.20.2
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - ModernFix
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - ModernFix
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - IMBlocker
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Mod Detection Preventer
-       - Model Gap Fix
-       - ModernFix
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - IMBlocker
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Chat Patches
-       - Mod Detection Preventer
-       - OptiGUI
-       - Raised
-       - Screenshot Viewer
-       - Wavey Capes
-       - Zoomify
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Mod Detection Preventer
+      - Model Gap Fix
+      - ModernFix
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Chat Patches
+      - Mod Detection Preventer
+      - OptiGUI
+      - Raised
+      - Screenshot Viewer
+      - Wavey Capes
+      - Zoomify
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
 - ci: 👷 Updated and improved CLI programs
 - feat: ✨ 1.20.4
@@ -8929,6 +9016,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/324
 - ✨ v1.0.4 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/331
 
@@ -8944,58 +9032,58 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔧 Updated the required fabric version base starting with 0.15.7
 - fix: 🐛 Indium mod downgraded to 1.0.28 for 1.20.2
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - ModernFix
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - ModernFix
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - IMBlocker
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Mod Detection Preventer
-       - Model Gap Fix
-       - ModernFix
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - IMBlocker
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Chat Patches
-       - Mod Detection Preventer
-       - OptiGUI
-       - Raised
-       - Screenshot Viewer
-       - Wavey Capes
-       - Zoomify
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Mod Detection Preventer
+      - Model Gap Fix
+      - ModernFix
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Chat Patches
+      - Mod Detection Preventer
+      - OptiGUI
+      - Raised
+      - Screenshot Viewer
+      - Wavey Capes
+      - Zoomify
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
 - ci: 👷 Updated and improved CLI programs
 - feat: ✨ 1.20.4
@@ -9010,6 +9098,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/324
 - ✨ v1.0.4 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/331
 
@@ -9025,58 +9114,58 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔧 Updated the required fabric version base starting with 0.15.7
 - fix: 🐛 Indium mod downgraded to 1.0.28 for 1.20.2
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - ModernFix
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - ModernFix
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - IMBlocker
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Mod Detection Preventer
-       - Model Gap Fix
-       - ModernFix
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - IMBlocker
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Chat Patches
-       - Mod Detection Preventer
-       - OptiGUI
-       - Raised
-       - Screenshot Viewer
-       - Wavey Capes
-       - Zoomify
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Mod Detection Preventer
+      - Model Gap Fix
+      - ModernFix
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Chat Patches
+      - Mod Detection Preventer
+      - OptiGUI
+      - Raised
+      - Screenshot Viewer
+      - Wavey Capes
+      - Zoomify
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
 - ci: 👷 Updated and improved CLI programs
 - feat: ✨ 1.20.4
@@ -9091,6 +9180,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/324
 - ✨ v1.0.4 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/331
 
@@ -9106,58 +9196,58 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 - feat: 🔧 Updated the required fabric version base starting with 0.15.7
 - fix: 🐛 Indium mod downgraded to 1.0.28 for 1.20.2
 - feat: 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - ModernFix
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - ModernFix
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - IMBlocker
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Better Statistics Screen (Fabric/Forge)
-       - Mod Detection Preventer
-       - Model Gap Fix
-       - ModernFix
-       - Raised
-       - Wavey Capes
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - IMBlocker
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Chat Patches
-       - Mod Detection Preventer
-       - OptiGUI
-       - Raised
-       - Screenshot Viewer
-       - Wavey Capes
-       - Zoomify
-       - Dramatic Skys
-       - BSL Shaders
-       - Shrimple
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Better Statistics Screen (Fabric/Forge)
+      - Mod Detection Preventer
+      - Model Gap Fix
+      - ModernFix
+      - Raised
+      - Wavey Capes
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Chat Patches
+      - Mod Detection Preventer
+      - OptiGUI
+      - Raised
+      - Screenshot Viewer
+      - Wavey Capes
+      - Zoomify
+      - Dramatic Skys
+      - BSL Shaders
+      - Shrimple
+      ```
 
 - ci: 👷 Updated and improved CLI programs
 - feat: ✨ 1.20.4
@@ -9172,6 +9262,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/324
 - ✨ v1.0.4 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/331
 
@@ -9185,109 +9276,109 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 
 - 🐛 Solved the problem of screenshots button animation
 - 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Drippy Loading Screen
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric Language Kotlin
-       - FancyMenu
-       - ModernFix
-       - Not Enough Animations
-       - PaperDoll
-       - Raised
-       - Resourcify
-       - Wavey Capes
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Solas Shader
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Drippy Loading Screen
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric Language Kotlin
+      - FancyMenu
+      - ModernFix
+      - Not Enough Animations
+      - PaperDoll
+      - Raised
+      - Resourcify
+      - Wavey Capes
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Solas Shader
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - BSL Shaders
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric Language Kotlin
-       - Faithful 32x
-       - ImmediatelyFast
-       - Not Enough Animations
-       - PaperDoll
-       - Pixlli 128x
-       - Raised
-       - Resourcify
-       - Solas Shader
-       - Wavey Capes
-       - rotrBLOCKS 128/256x
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Architecture API
-       - Better Statistics Screen (Fabric/Forge)
-       - BSL Shaders
-       - Drippy Loading Screen
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - FancyMenu
-       - Faithful 32x
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Konkrete
-       - ModernFix
-       - More Culling
-       - Not Enough Animations
-       - PaperDoll
-       - Pixlli 128x
-       - Raised
-       - Reese's Sodium Options
-       - Resourcify
-       - rotrBLOCKS 128/256x
-       - Sodium
-       - Sodium Extra
-       - Solas Shader
-       - Wavey Capes
-       - YetAnotherConfigLib
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - BSL Shaders
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric Language Kotlin
+      - Faithful 32x
+      - ImmediatelyFast
+      - Not Enough Animations
+      - PaperDoll
+      - Pixlli 128x
+      - Raised
+      - Resourcify
+      - Solas Shader
+      - Wavey Capes
+      - rotrBLOCKS 128/256x
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Controlling
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - FancyMenu
-       - ImmediatelyFast
-       - Indium
-       - More Culling
-       - Not Enough Animations
-       - PaperDoll
-       - Raised
-       - Resourcify
-       - Wavey Capes
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Solas Shader
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Architecture API
+      - Better Statistics Screen (Fabric/Forge)
+      - BSL Shaders
+      - Drippy Loading Screen
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - FancyMenu
+      - Faithful 32x
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Konkrete
+      - ModernFix
+      - More Culling
+      - Not Enough Animations
+      - PaperDoll
+      - Pixlli 128x
+      - Raised
+      - Reese's Sodium Options
+      - Resourcify
+      - rotrBLOCKS 128/256x
+      - Sodium
+      - Sodium Extra
+      - Solas Shader
+      - Wavey Capes
+      - YetAnotherConfigLib
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Controlling
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - FancyMenu
+      - ImmediatelyFast
+      - Indium
+      - More Culling
+      - Not Enough Animations
+      - PaperDoll
+      - Raised
+      - Resourcify
+      - Wavey Capes
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Solas Shader
+      ```
 
 - ⚡ Removed the mod Auudio and Audio Extension for FancyMenu v2 and all their files for 1.18.2 and 1.20.1 and add Melody mod
 - 🐛 Resolved the x parameter of the screenshot button in the pause menu
@@ -9304,6 +9395,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.3 by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/323
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.2...v1.0.3
@@ -9316,109 +9408,109 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 
 - 🐛 Solved the problem of screenshots button animation
 - 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Drippy Loading Screen
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric Language Kotlin
-       - FancyMenu
-       - ModernFix
-       - Not Enough Animations
-       - PaperDoll
-       - Raised
-       - Resourcify
-       - Wavey Capes
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Solas Shader
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Drippy Loading Screen
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric Language Kotlin
+      - FancyMenu
+      - ModernFix
+      - Not Enough Animations
+      - PaperDoll
+      - Raised
+      - Resourcify
+      - Wavey Capes
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Solas Shader
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - BSL Shaders
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric Language Kotlin
-       - Faithful 32x
-       - ImmediatelyFast
-       - Not Enough Animations
-       - PaperDoll
-       - Pixlli 128x
-       - Raised
-       - Resourcify
-       - Solas Shader
-       - Wavey Capes
-       - rotrBLOCKS 128/256x
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Architecture API
-       - Better Statistics Screen (Fabric/Forge)
-       - BSL Shaders
-       - Drippy Loading Screen
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - FancyMenu
-       - Faithful 32x
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Konkrete
-       - ModernFix
-       - More Culling
-       - Not Enough Animations
-       - PaperDoll
-       - Pixlli 128x
-       - Raised
-       - Reese's Sodium Options
-       - Resourcify
-       - rotrBLOCKS 128/256x
-       - Sodium
-       - Sodium Extra
-       - Solas Shader
-       - Wavey Capes
-       - YetAnotherConfigLib
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - BSL Shaders
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric Language Kotlin
+      - Faithful 32x
+      - ImmediatelyFast
+      - Not Enough Animations
+      - PaperDoll
+      - Pixlli 128x
+      - Raised
+      - Resourcify
+      - Solas Shader
+      - Wavey Capes
+      - rotrBLOCKS 128/256x
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Controlling
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - FancyMenu
-       - ImmediatelyFast
-       - Indium
-       - More Culling
-       - Not Enough Animations
-       - PaperDoll
-       - Raised
-       - Resourcify
-       - Wavey Capes
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Solas Shader
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Architecture API
+      - Better Statistics Screen (Fabric/Forge)
+      - BSL Shaders
+      - Drippy Loading Screen
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - FancyMenu
+      - Faithful 32x
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Konkrete
+      - ModernFix
+      - More Culling
+      - Not Enough Animations
+      - PaperDoll
+      - Pixlli 128x
+      - Raised
+      - Reese's Sodium Options
+      - Resourcify
+      - rotrBLOCKS 128/256x
+      - Sodium
+      - Sodium Extra
+      - Solas Shader
+      - Wavey Capes
+      - YetAnotherConfigLib
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Controlling
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - FancyMenu
+      - ImmediatelyFast
+      - Indium
+      - More Culling
+      - Not Enough Animations
+      - PaperDoll
+      - Raised
+      - Resourcify
+      - Wavey Capes
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Solas Shader
+      ```
 
 - ⚡ Removed the mod Auudio and Audio Extension for FancyMenu v2 and all their files for 1.18.2 and 1.20.1 and add Melody mod
 - 🐛 Resolved the x parameter of the screenshot button in the pause menu
@@ -9435,6 +9527,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.3 by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/323
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.2...v1.0.3
@@ -9447,109 +9540,109 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 
 - 🐛 Solved the problem of screenshots button animation
 - 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Drippy Loading Screen
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric Language Kotlin
-       - FancyMenu
-       - ModernFix
-       - Not Enough Animations
-       - PaperDoll
-       - Raised
-       - Resourcify
-       - Wavey Capes
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Solas Shader
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Drippy Loading Screen
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric Language Kotlin
+      - FancyMenu
+      - ModernFix
+      - Not Enough Animations
+      - PaperDoll
+      - Raised
+      - Resourcify
+      - Wavey Capes
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Solas Shader
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - BSL Shaders
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric Language Kotlin
-       - Faithful 32x
-       - ImmediatelyFast
-       - Not Enough Animations
-       - PaperDoll
-       - Pixlli 128x
-       - Raised
-       - Resourcify
-       - Solas Shader
-       - Wavey Capes
-       - rotrBLOCKS 128/256x
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Architecture API
-       - Better Statistics Screen (Fabric/Forge)
-       - BSL Shaders
-       - Drippy Loading Screen
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - FancyMenu
-       - Faithful 32x
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Konkrete
-       - ModernFix
-       - More Culling
-       - Not Enough Animations
-       - PaperDoll
-       - Pixlli 128x
-       - Raised
-       - Reese's Sodium Options
-       - Resourcify
-       - rotrBLOCKS 128/256x
-       - Sodium
-       - Sodium Extra
-       - Solas Shader
-       - Wavey Capes
-       - YetAnotherConfigLib
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - BSL Shaders
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric Language Kotlin
+      - Faithful 32x
+      - ImmediatelyFast
+      - Not Enough Animations
+      - PaperDoll
+      - Pixlli 128x
+      - Raised
+      - Resourcify
+      - Solas Shader
+      - Wavey Capes
+      - rotrBLOCKS 128/256x
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Controlling
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - FancyMenu
-       - ImmediatelyFast
-       - Indium
-       - More Culling
-       - Not Enough Animations
-       - PaperDoll
-       - Raised
-       - Resourcify
-       - Wavey Capes
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Solas Shader
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Architecture API
+      - Better Statistics Screen (Fabric/Forge)
+      - BSL Shaders
+      - Drippy Loading Screen
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - FancyMenu
+      - Faithful 32x
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Konkrete
+      - ModernFix
+      - More Culling
+      - Not Enough Animations
+      - PaperDoll
+      - Pixlli 128x
+      - Raised
+      - Reese's Sodium Options
+      - Resourcify
+      - rotrBLOCKS 128/256x
+      - Sodium
+      - Sodium Extra
+      - Solas Shader
+      - Wavey Capes
+      - YetAnotherConfigLib
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Controlling
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - FancyMenu
+      - ImmediatelyFast
+      - Indium
+      - More Culling
+      - Not Enough Animations
+      - PaperDoll
+      - Raised
+      - Resourcify
+      - Wavey Capes
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Solas Shader
+      ```
 
 - ⚡ Removed the mod Auudio and Audio Extension for FancyMenu v2 and all their files for 1.18.2 and 1.20.1 and add Melody mod
 - 🐛 Resolved the x parameter of the screenshot button in the pause menu
@@ -9566,6 +9659,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.3 by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/323
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.2...v1.0.3
@@ -9578,109 +9672,109 @@ Here's the latest news! 🚀 This update introduces many significant improvement
 
 - 🐛 Solved the problem of screenshots button animation
 - 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Drippy Loading Screen
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric Language Kotlin
-       - FancyMenu
-       - ModernFix
-       - Not Enough Animations
-       - PaperDoll
-       - Raised
-       - Resourcify
-       - Wavey Capes
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Solas Shader
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Drippy Loading Screen
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric Language Kotlin
+      - FancyMenu
+      - ModernFix
+      - Not Enough Animations
+      - PaperDoll
+      - Raised
+      - Resourcify
+      - Wavey Capes
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Solas Shader
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - BSL Shaders
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric Language Kotlin
-       - Faithful 32x
-       - ImmediatelyFast
-       - Not Enough Animations
-       - PaperDoll
-       - Pixlli 128x
-       - Raised
-       - Resourcify
-       - Solas Shader
-       - Wavey Capes
-       - rotrBLOCKS 128/256x
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - Architecture API
-       - Better Statistics Screen (Fabric/Forge)
-       - BSL Shaders
-       - Drippy Loading Screen
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - FancyMenu
-       - Faithful 32x
-       - ImmediatelyFast
-       - Indium
-       - Iris Shaders
-       - Konkrete
-       - ModernFix
-       - More Culling
-       - Not Enough Animations
-       - PaperDoll
-       - Pixlli 128x
-       - Raised
-       - Reese's Sodium Options
-       - Resourcify
-       - rotrBLOCKS 128/256x
-       - Sodium
-       - Sodium Extra
-       - Solas Shader
-       - Wavey Capes
-       - YetAnotherConfigLib
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - BSL Shaders
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric Language Kotlin
+      - Faithful 32x
+      - ImmediatelyFast
+      - Not Enough Animations
+      - PaperDoll
+      - Pixlli 128x
+      - Raised
+      - Resourcify
+      - Solas Shader
+      - Wavey Capes
+      - rotrBLOCKS 128/256x
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - Architectury API
-       - Better Statistics Screen (Fabric/Forge)
-       - Controlling
-       - Dynamic FPS
-       - Entity Model Features [CEM]
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - FancyMenu
-       - ImmediatelyFast
-       - Indium
-       - More Culling
-       - Not Enough Animations
-       - PaperDoll
-       - Raised
-       - Resourcify
-       - Wavey Capes
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Solas Shader
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - Architecture API
+      - Better Statistics Screen (Fabric/Forge)
+      - BSL Shaders
+      - Drippy Loading Screen
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - FancyMenu
+      - Faithful 32x
+      - ImmediatelyFast
+      - Indium
+      - Iris Shaders
+      - Konkrete
+      - ModernFix
+      - More Culling
+      - Not Enough Animations
+      - PaperDoll
+      - Pixlli 128x
+      - Raised
+      - Reese's Sodium Options
+      - Resourcify
+      - rotrBLOCKS 128/256x
+      - Sodium
+      - Sodium Extra
+      - Solas Shader
+      - Wavey Capes
+      - YetAnotherConfigLib
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - Architectury API
+      - Better Statistics Screen (Fabric/Forge)
+      - Controlling
+      - Dynamic FPS
+      - Entity Model Features [CEM]
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - FancyMenu
+      - ImmediatelyFast
+      - Indium
+      - More Culling
+      - Not Enough Animations
+      - PaperDoll
+      - Raised
+      - Resourcify
+      - Wavey Capes
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Solas Shader
+      ```
 
 - ⚡ Removed the mod Auudio and Audio Extension for FancyMenu v2 and all their files for 1.18.2 and 1.20.1 and add Melody mod
 - 🐛 Resolved the x parameter of the screenshot button in the pause menu
@@ -9697,6 +9791,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - ✨ v1.0.3 by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/323
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.2...v1.0.3
@@ -9721,6 +9816,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - v1.0.2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/314
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.1...v1.0.2
@@ -9745,6 +9841,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - v1.0.2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/314
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.1...v1.0.2
@@ -9769,6 +9866,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - v1.0.2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/314
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.1...v1.0.2
@@ -9793,6 +9891,7 @@ Sincerely,
 The team at LifeMC Studios
 
 ### What's Changed
+
 - v1.0.2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/314
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.1...v1.0.2
@@ -9804,233 +9903,233 @@ The team at LifeMC Studios
 🎉🚀 Exciting news! 🚀🎉 We're thrilled to unveil the release of 1.0.1 for our modpack! 🌟 This update brings a lot of fixes and various improvements! 🛠️:
 
 - 🎨 **Aesthetic Renewal and Menu Enhancement:**
-   - Replaced the logo throughout the project.
-   - Updated all language files.
-   - Updated all language files
-   - Updated icons with new logo and removed logo from pause menu and settings menu.
+  - Replaced the logo throughout the project.
+  - Updated all language files.
+  - Updated all language files
+  - Updated icons with new logo and removed logo from pause menu and settings menu.
 - 🔄 **Fabric Update:** Updated Fabric version to 0.15.3.
 - ☕ **Donation Update:** Replaced donation support via Ko-fi with the Patreon link.
 - 🛠️ **Modpack Migration:** Migrated the modpack to version 1.20.2.
 - 🖥️ **CLI Improvements:** Updated and improved CLI programs.
 - 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       - Continuity
-       - Entity Model Features [CEM]
-       - Language Reload
-       - ImmediatelyFast
-       - Cloth Config API
-       - Rethinking Voxels
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       - Continuity
-       - Entity Model Features [CEM]
-       - Language Reload
-       - ImmediatelyFast
-       - Cloth Config API
-       - Rethinking Voxels
-       - Audio Extension for FancyMenu
-       - Better Statistics Screen (Fabric/Forge)
-       - Drippy Loading Screen
-       - EntityCulling
-       - FabricSkyBoxes Interop
-       - FabricSkyboxes
-       - Fabrishot
-       - FerriteCore
-       - Indium
-       - Searchables
-       - Sodium
-       - ThreadTweak
-       - Visuality
-       - Very Many Players (Fabric)
-       - YetAnotherConfigLib
-       - CraterLib
-       - More Culling
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      - Continuity
+      - Entity Model Features [CEM]
+      - Language Reload
+      - ImmediatelyFast
+      - Cloth Config API
+      - Rethinking Voxels
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Chat Patches
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       - Continuity
-       - Entity Model Features [CEM]
-       - Language Reload
-       - ImmediatelyFast
-       - Cloth Config API
-       - Rethinking Voxels
-       - Audio Extension for FancyMenu
-       - Better Statistics Screen (Fabric/Forge)
-       - Drippy Loading Screen
-       - EntityCulling
-       - FabricSkyBoxes Interop
-       - FabricSkyboxes
-       - Fabrishot
-       - FerriteCore
-       - Indium
-       - Searchables
-       - Sodium
-       - ThreadTweak
-       - Visuality
-       - Very Many Players (Fabric)
-       - YetAnotherConfigLib
-       - CraterLib
-       - More Culling
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      - Continuity
+      - Entity Model Features [CEM]
+      - Language Reload
+      - ImmediatelyFast
+      - Cloth Config API
+      - Rethinking Voxels
+      - Audio Extension for FancyMenu
+      - Better Statistics Screen (Fabric/Forge)
+      - Drippy Loading Screen
+      - EntityCulling
+      - FabricSkyBoxes Interop
+      - FabricSkyboxes
+      - Fabrishot
+      - FerriteCore
+      - Indium
+      - Searchables
+      - Sodium
+      - ThreadTweak
+      - Visuality
+      - Very Many Players (Fabric)
+      - YetAnotherConfigLib
+      - CraterLib
+      - More Culling
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Chat Patches
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      - Continuity
+      - Entity Model Features [CEM]
+      - Language Reload
+      - ImmediatelyFast
+      - Cloth Config API
+      - Rethinking Voxels
+      - Audio Extension for FancyMenu
+      - Better Statistics Screen (Fabric/Forge)
+      - Drippy Loading Screen
+      - EntityCulling
+      - FabricSkyBoxes Interop
+      - FabricSkyboxes
+      - Fabrishot
+      - FerriteCore
+      - Indium
+      - Searchables
+      - Sodium
+      - ThreadTweak
+      - Visuality
+      - Very Many Players (Fabric)
+      - YetAnotherConfigLib
+      - CraterLib
+      - More Culling
+      ```
 
 - 🎨 **Aesthetics Upgrade:** Updated the logo and spiced up the README.md.
 - ❌ **Removed Mods:**
-   - Better Name Visibility
-   - ClearDespawn
-   - Bobby
-   - AdvancementInfo
-   - GraphUtil
-   - Memory Leak Fix
+  - Better Name Visibility
+  - ClearDespawn
+  - Bobby
+  - AdvancementInfo
+  - GraphUtil
+  - Memory Leak Fix
 - 🗺️ **Language updates**
-   - Add Italian
-   - Add Ukrainian   
-- ➕ **New Addition:** 
-   - Added the Paginated Advancements & Custom Frames mod.
-   - Added the Resourcify mod.
-   - Updated the modpack version to 1.0.1.
-   - Updated the FUNDING.yml file.
-   - Updated dependabot interval to daily and added PR part.
-   - Updated the bug report by adding 1.0.1 and the BakaXL launcher.
-   - Fixed 1.19.4 version startup problem caused by deprecated Controlify mod, replaced with MidnightControls.
-   - Removed Webbilizard from the project.
-   - Updated the logo to Simple RPC and added ReaX Network server.
-   - Added ReaX Network to the list of default servers.
-   - Updated the modpack assets.
-   - Improved screenshot weight, now vanilla again and Fabrishot screenshots available with F9.
-   - Added the Screenshot Viewer mod and its configuration.
-   - Improved the game menu.
-   - Fixed the incorrect version number in 1.20.2.
-   - Updated the Discord link throughout the project.
-   - Added the Mod Detection Preventer mod (For 1.20.1 and 1.20.2).
-   - Temporarily removed donations.
-   - Removed bug fixes resolved in 1.20.2.
-   - Removed Patreon from FUNDING.yml.
-   - Added MasterMC5801 to the auto_assign.yml file.
+  - Add Italian
+  - Add Ukrainian
+- ➕ **New Addition:**
+  - Added the Paginated Advancements & Custom Frames mod.
+  - Added the Resourcify mod.
+  - Updated the modpack version to 1.0.1.
+  - Updated the FUNDING.yml file.
+  - Updated dependabot interval to daily and added PR part.
+  - Updated the bug report by adding 1.0.1 and the BakaXL launcher.
+  - Fixed 1.19.4 version startup problem caused by deprecated Controlify mod, replaced with MidnightControls.
+  - Removed Webbilizard from the project.
+  - Updated the logo to Simple RPC and added ReaX Network server.
+  - Added ReaX Network to the list of default servers.
+  - Updated the modpack assets.
+  - Improved screenshot weight, now vanilla again and Fabrishot screenshots available with F9.
+  - Added the Screenshot Viewer mod and its configuration.
+  - Improved the game menu.
+  - Fixed the incorrect version number in 1.20.2.
+  - Updated the Discord link throughout the project.
+  - Added the Mod Detection Preventer mod (For 1.20.1 and 1.20.2).
+  - Temporarily removed donations.
+  - Removed bug fixes resolved in 1.20.2.
+  - Removed Patreon from FUNDING.yml.
+  - Added MasterMC5801 to the auto_assign.yml file.
 - 🔄 **FOV Adjustment:** Changed the field of view (fov) from Quake Pro to Normal.
 - ⚙️ **Configuration Addition:** Added configuration for the Paginated Advancements & Custom Frames mod.
 
@@ -10042,6 +10141,7 @@ Best regards,
 LifeMC Studios team
 
 ### What's Changed
+
 - Major updates and bug fixes 2024 part2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/305
 - build(deps): bump crowdin/github-action from 1.16.0 to 1.19.0 by @dependabot in https://github.com/LifeMC-Studios/LifeMC/pull/303
 
@@ -10054,233 +10154,233 @@ LifeMC Studios team
 🎉🚀 Exciting news! 🚀🎉 We're thrilled to unveil the release of 1.0.1 for our modpack! 🌟 This update brings a lot of fixes and various improvements! 🛠️:
 
 - 🎨 **Aesthetic Renewal and Menu Enhancement:**
-   - Replaced the logo throughout the project.
-   - Updated all language files.
-   - Updated all language files
-   - Updated icons with new logo and removed logo from pause menu and settings menu.
+  - Replaced the logo throughout the project.
+  - Updated all language files.
+  - Updated all language files
+  - Updated icons with new logo and removed logo from pause menu and settings menu.
 - 🔄 **Fabric Update:** Updated Fabric version to 0.15.3.
 - ☕ **Donation Update:** Replaced donation support via Ko-fi with the Patreon link.
 - 🛠️ **Modpack Migration:** Migrated the modpack to version 1.20.2.
 - 🖥️ **CLI Improvements:** Updated and improved CLI programs.
 - 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       - Continuity
-       - Entity Model Features [CEM]
-       - Language Reload
-       - ImmediatelyFast
-       - Cloth Config API
-       - Rethinking Voxels
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       - Continuity
-       - Entity Model Features [CEM]
-       - Language Reload
-       - ImmediatelyFast
-       - Cloth Config API
-       - Rethinking Voxels
-       - Audio Extension for FancyMenu
-       - Better Statistics Screen (Fabric/Forge)
-       - Drippy Loading Screen
-       - EntityCulling
-       - FabricSkyBoxes Interop
-       - FabricSkyboxes
-       - Fabrishot
-       - FerriteCore
-       - Indium
-       - Searchables
-       - Sodium
-       - ThreadTweak
-       - Visuality
-       - Very Many Players (Fabric)
-       - YetAnotherConfigLib
-       - CraterLib
-       - More Culling
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      - Continuity
+      - Entity Model Features [CEM]
+      - Language Reload
+      - ImmediatelyFast
+      - Cloth Config API
+      - Rethinking Voxels
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Chat Patches
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       - Continuity
-       - Entity Model Features [CEM]
-       - Language Reload
-       - ImmediatelyFast
-       - Cloth Config API
-       - Rethinking Voxels
-       - Audio Extension for FancyMenu
-       - Better Statistics Screen (Fabric/Forge)
-       - Drippy Loading Screen
-       - EntityCulling
-       - FabricSkyBoxes Interop
-       - FabricSkyboxes
-       - Fabrishot
-       - FerriteCore
-       - Indium
-       - Searchables
-       - Sodium
-       - ThreadTweak
-       - Visuality
-       - Very Many Players (Fabric)
-       - YetAnotherConfigLib
-       - CraterLib
-       - More Culling
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      - Continuity
+      - Entity Model Features [CEM]
+      - Language Reload
+      - ImmediatelyFast
+      - Cloth Config API
+      - Rethinking Voxels
+      - Audio Extension for FancyMenu
+      - Better Statistics Screen (Fabric/Forge)
+      - Drippy Loading Screen
+      - EntityCulling
+      - FabricSkyBoxes Interop
+      - FabricSkyboxes
+      - Fabrishot
+      - FerriteCore
+      - Indium
+      - Searchables
+      - Sodium
+      - ThreadTweak
+      - Visuality
+      - Very Many Players (Fabric)
+      - YetAnotherConfigLib
+      - CraterLib
+      - More Culling
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Chat Patches
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      - Continuity
+      - Entity Model Features [CEM]
+      - Language Reload
+      - ImmediatelyFast
+      - Cloth Config API
+      - Rethinking Voxels
+      - Audio Extension for FancyMenu
+      - Better Statistics Screen (Fabric/Forge)
+      - Drippy Loading Screen
+      - EntityCulling
+      - FabricSkyBoxes Interop
+      - FabricSkyboxes
+      - Fabrishot
+      - FerriteCore
+      - Indium
+      - Searchables
+      - Sodium
+      - ThreadTweak
+      - Visuality
+      - Very Many Players (Fabric)
+      - YetAnotherConfigLib
+      - CraterLib
+      - More Culling
+      ```
 
 - 🎨 **Aesthetics Upgrade:** Updated the logo and spiced up the README.md.
 - ❌ **Removed Mods:**
-   - Better Name Visibility
-   - ClearDespawn
-   - Bobby
-   - AdvancementInfo
-   - GraphUtil
-   - Memory Leak Fix
+  - Better Name Visibility
+  - ClearDespawn
+  - Bobby
+  - AdvancementInfo
+  - GraphUtil
+  - Memory Leak Fix
 - 🗺️ **Language updates**
-   - Add Italian
-   - Add Ukrainian   
-- ➕ **New Addition:** 
-   - Added the Paginated Advancements & Custom Frames mod.
-   - Added the Resourcify mod.
-   - Updated the modpack version to 1.0.1.
-   - Updated the FUNDING.yml file.
-   - Updated dependabot interval to daily and added PR part.
-   - Updated the bug report by adding 1.0.1 and the BakaXL launcher.
-   - Fixed 1.19.4 version startup problem caused by deprecated Controlify mod, replaced with MidnightControls.
-   - Removed Webbilizard from the project.
-   - Updated the logo to Simple RPC and added ReaX Network server.
-   - Added ReaX Network to the list of default servers.
-   - Updated the modpack assets.
-   - Improved screenshot weight, now vanilla again and Fabrishot screenshots available with F9.
-   - Added the Screenshot Viewer mod and its configuration.
-   - Improved the game menu.
-   - Fixed the incorrect version number in 1.20.2.
-   - Updated the Discord link throughout the project.
-   - Added the Mod Detection Preventer mod (For 1.20.1 and 1.20.2).
-   - Temporarily removed donations.
-   - Removed bug fixes resolved in 1.20.2.
-   - Removed Patreon from FUNDING.yml.
-   - Added MasterMC5801 to the auto_assign.yml file.
+  - Add Italian
+  - Add Ukrainian
+- ➕ **New Addition:**
+  - Added the Paginated Advancements & Custom Frames mod.
+  - Added the Resourcify mod.
+  - Updated the modpack version to 1.0.1.
+  - Updated the FUNDING.yml file.
+  - Updated dependabot interval to daily and added PR part.
+  - Updated the bug report by adding 1.0.1 and the BakaXL launcher.
+  - Fixed 1.19.4 version startup problem caused by deprecated Controlify mod, replaced with MidnightControls.
+  - Removed Webbilizard from the project.
+  - Updated the logo to Simple RPC and added ReaX Network server.
+  - Added ReaX Network to the list of default servers.
+  - Updated the modpack assets.
+  - Improved screenshot weight, now vanilla again and Fabrishot screenshots available with F9.
+  - Added the Screenshot Viewer mod and its configuration.
+  - Improved the game menu.
+  - Fixed the incorrect version number in 1.20.2.
+  - Updated the Discord link throughout the project.
+  - Added the Mod Detection Preventer mod (For 1.20.1 and 1.20.2).
+  - Temporarily removed donations.
+  - Removed bug fixes resolved in 1.20.2.
+  - Removed Patreon from FUNDING.yml.
+  - Added MasterMC5801 to the auto_assign.yml file.
 - 🔄 **FOV Adjustment:** Changed the field of view (fov) from Quake Pro to Normal.
 - ⚙️ **Configuration Addition:** Added configuration for the Paginated Advancements & Custom Frames mod.
 
@@ -10292,6 +10392,7 @@ Best regards,
 LifeMC Studios team
 
 ### What's Changed
+
 - Major updates and bug fixes 2024 part2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/305
 - build(deps): bump crowdin/github-action from 1.16.0 to 1.19.0 by @dependabot in https://github.com/LifeMC-Studios/LifeMC/pull/303
 
@@ -10304,233 +10405,233 @@ LifeMC Studios team
 🎉🚀 Exciting news! 🚀🎉 We're thrilled to unveil the release of 1.0.1 for our modpack! 🌟 This update brings a lot of fixes and various improvements! 🛠️:
 
 - 🎨 **Aesthetic Renewal and Menu Enhancement:**
-   - Replaced the logo throughout the project.
-   - Updated all language files.
-   - Updated all language files
-   - Updated icons with new logo and removed logo from pause menu and settings menu.
+  - Replaced the logo throughout the project.
+  - Updated all language files.
+  - Updated all language files
+  - Updated icons with new logo and removed logo from pause menu and settings menu.
 - 🔄 **Fabric Update:** Updated Fabric version to 0.15.3.
 - ☕ **Donation Update:** Replaced donation support via Ko-fi with the Patreon link.
 - 🛠️ **Modpack Migration:** Migrated the modpack to version 1.20.2.
 - 🖥️ **CLI Improvements:** Updated and improved CLI programs.
 - 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       - Continuity
-       - Entity Model Features [CEM]
-       - Language Reload
-       - ImmediatelyFast
-       - Cloth Config API
-       - Rethinking Voxels
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       - Continuity
-       - Entity Model Features [CEM]
-       - Language Reload
-       - ImmediatelyFast
-       - Cloth Config API
-       - Rethinking Voxels
-       - Audio Extension for FancyMenu
-       - Better Statistics Screen (Fabric/Forge)
-       - Drippy Loading Screen
-       - EntityCulling
-       - FabricSkyBoxes Interop
-       - FabricSkyboxes
-       - Fabrishot
-       - FerriteCore
-       - Indium
-       - Searchables
-       - Sodium
-       - ThreadTweak
-       - Visuality
-       - Very Many Players (Fabric)
-       - YetAnotherConfigLib
-       - CraterLib
-       - More Culling
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      - Continuity
+      - Entity Model Features [CEM]
+      - Language Reload
+      - ImmediatelyFast
+      - Cloth Config API
+      - Rethinking Voxels
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Chat Patches
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       - Continuity
-       - Entity Model Features [CEM]
-       - Language Reload
-       - ImmediatelyFast
-       - Cloth Config API
-       - Rethinking Voxels
-       - Audio Extension for FancyMenu
-       - Better Statistics Screen (Fabric/Forge)
-       - Drippy Loading Screen
-       - EntityCulling
-       - FabricSkyBoxes Interop
-       - FabricSkyboxes
-       - Fabrishot
-       - FerriteCore
-       - Indium
-       - Searchables
-       - Sodium
-       - ThreadTweak
-       - Visuality
-       - Very Many Players (Fabric)
-       - YetAnotherConfigLib
-       - CraterLib
-       - More Culling
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      - Continuity
+      - Entity Model Features [CEM]
+      - Language Reload
+      - ImmediatelyFast
+      - Cloth Config API
+      - Rethinking Voxels
+      - Audio Extension for FancyMenu
+      - Better Statistics Screen (Fabric/Forge)
+      - Drippy Loading Screen
+      - EntityCulling
+      - FabricSkyBoxes Interop
+      - FabricSkyboxes
+      - Fabrishot
+      - FerriteCore
+      - Indium
+      - Searchables
+      - Sodium
+      - ThreadTweak
+      - Visuality
+      - Very Many Players (Fabric)
+      - YetAnotherConfigLib
+      - CraterLib
+      - More Culling
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Chat Patches
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      - Continuity
+      - Entity Model Features [CEM]
+      - Language Reload
+      - ImmediatelyFast
+      - Cloth Config API
+      - Rethinking Voxels
+      - Audio Extension for FancyMenu
+      - Better Statistics Screen (Fabric/Forge)
+      - Drippy Loading Screen
+      - EntityCulling
+      - FabricSkyBoxes Interop
+      - FabricSkyboxes
+      - Fabrishot
+      - FerriteCore
+      - Indium
+      - Searchables
+      - Sodium
+      - ThreadTweak
+      - Visuality
+      - Very Many Players (Fabric)
+      - YetAnotherConfigLib
+      - CraterLib
+      - More Culling
+      ```
 
 - 🎨 **Aesthetics Upgrade:** Updated the logo and spiced up the README.md.
 - ❌ **Removed Mods:**
-   - Better Name Visibility
-   - ClearDespawn
-   - Bobby
-   - AdvancementInfo
-   - GraphUtil
-   - Memory Leak Fix
+  - Better Name Visibility
+  - ClearDespawn
+  - Bobby
+  - AdvancementInfo
+  - GraphUtil
+  - Memory Leak Fix
 - 🗺️ **Language updates**
-   - Add Italian
-   - Add Ukrainian   
-- ➕ **New Addition:** 
-   - Added the Paginated Advancements & Custom Frames mod.
-   - Added the Resourcify mod.
-   - Updated the modpack version to 1.0.1.
-   - Updated the FUNDING.yml file.
-   - Updated dependabot interval to daily and added PR part.
-   - Updated the bug report by adding 1.0.1 and the BakaXL launcher.
-   - Fixed 1.19.4 version startup problem caused by deprecated Controlify mod, replaced with MidnightControls.
-   - Removed Webbilizard from the project.
-   - Updated the logo to Simple RPC and added ReaX Network server.
-   - Added ReaX Network to the list of default servers.
-   - Updated the modpack assets.
-   - Improved screenshot weight, now vanilla again and Fabrishot screenshots available with F9.
-   - Added the Screenshot Viewer mod and its configuration.
-   - Improved the game menu.
-   - Fixed the incorrect version number in 1.20.2.
-   - Updated the Discord link throughout the project.
-   - Added the Mod Detection Preventer mod (For 1.20.1 and 1.20.2).
-   - Temporarily removed donations.
-   - Removed bug fixes resolved in 1.20.2.
-   - Removed Patreon from FUNDING.yml.
-   - Added MasterMC5801 to the auto_assign.yml file.
+  - Add Italian
+  - Add Ukrainian
+- ➕ **New Addition:**
+  - Added the Paginated Advancements & Custom Frames mod.
+  - Added the Resourcify mod.
+  - Updated the modpack version to 1.0.1.
+  - Updated the FUNDING.yml file.
+  - Updated dependabot interval to daily and added PR part.
+  - Updated the bug report by adding 1.0.1 and the BakaXL launcher.
+  - Fixed 1.19.4 version startup problem caused by deprecated Controlify mod, replaced with MidnightControls.
+  - Removed Webbilizard from the project.
+  - Updated the logo to Simple RPC and added ReaX Network server.
+  - Added ReaX Network to the list of default servers.
+  - Updated the modpack assets.
+  - Improved screenshot weight, now vanilla again and Fabrishot screenshots available with F9.
+  - Added the Screenshot Viewer mod and its configuration.
+  - Improved the game menu.
+  - Fixed the incorrect version number in 1.20.2.
+  - Updated the Discord link throughout the project.
+  - Added the Mod Detection Preventer mod (For 1.20.1 and 1.20.2).
+  - Temporarily removed donations.
+  - Removed bug fixes resolved in 1.20.2.
+  - Removed Patreon from FUNDING.yml.
+  - Added MasterMC5801 to the auto_assign.yml file.
 - 🔄 **FOV Adjustment:** Changed the field of view (fov) from Quake Pro to Normal.
 - ⚙️ **Configuration Addition:** Added configuration for the Paginated Advancements & Custom Frames mod.
 
@@ -10542,6 +10643,7 @@ Best regards,
 LifeMC Studios team
 
 ### What's Changed
+
 - Major updates and bug fixes 2024 part2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/305
 - build(deps): bump crowdin/github-action from 1.16.0 to 1.19.0 by @dependabot in https://github.com/LifeMC-Studios/LifeMC/pull/303
 
@@ -10554,233 +10656,233 @@ LifeMC Studios team
 🎉🚀 Exciting news! 🚀🎉 We're thrilled to unveil the release of 1.0.1 for our modpack! 🌟 This update brings a lot of fixes and various improvements! 🛠️:
 
 - 🎨 **Aesthetic Renewal and Menu Enhancement:**
-   - Replaced the logo throughout the project.
-   - Updated all language files.
-   - Updated all language files
-   - Updated icons with new logo and removed logo from pause menu and settings menu.
+  - Replaced the logo throughout the project.
+  - Updated all language files.
+  - Updated all language files
+  - Updated icons with new logo and removed logo from pause menu and settings menu.
 - 🔄 **Fabric Update:** Updated Fabric version to 0.15.3.
 - ☕ **Donation Update:** Replaced donation support via Ko-fi with the Patreon link.
 - 🛠️ **Modpack Migration:** Migrated the modpack to version 1.20.2.
 - 🖥️ **CLI Improvements:** Updated and improved CLI programs.
 - 📦 **Package Updates:**
-   - **1.18.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       ```
+  - **1.18.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      ```
 
-   - **1.19.4:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       - Continuity
-       - Entity Model Features [CEM]
-       - Language Reload
-       - ImmediatelyFast
-       - Cloth Config API
-       - Rethinking Voxels
-       ```
-       
-   - **1.20.1:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       - Continuity
-       - Entity Model Features [CEM]
-       - Language Reload
-       - ImmediatelyFast
-       - Cloth Config API
-       - Rethinking Voxels
-       - Audio Extension for FancyMenu
-       - Better Statistics Screen (Fabric/Forge)
-       - Drippy Loading Screen
-       - EntityCulling
-       - FabricSkyBoxes Interop
-       - FabricSkyboxes
-       - Fabrishot
-       - FerriteCore
-       - Indium
-       - Searchables
-       - Sodium
-       - ThreadTweak
-       - Visuality
-       - Very Many Players (Fabric)
-       - YetAnotherConfigLib
-       - CraterLib
-       - More Culling
-       ```
+  - **1.19.4:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      - Continuity
+      - Entity Model Features [CEM]
+      - Language Reload
+      - ImmediatelyFast
+      - Cloth Config API
+      - Rethinking Voxels
+      ```
 
-   - **1.20.2:**
-     - Mod Updates:
-       ```
-       - 3D Skin Layers
-       - Cosmetica
-       - Chat Patches
-       - Dynamic FPS
-       - Entity Texture Features
-       - Fabric API
-       - Fabric Language Kotlin
-       - Iris Shaders
-       - ModernFix
-       - OptiGUI
-       - Raised
-       - Seamless
-       - ShulkerBoxTooltip
-       - Simple Discord RPC
-       - Dramatic Skys
-       - Faithful 32x
-       - Pixlli 128x
-       - rotrBLOCKS 128/256x
-       - BSL Shaders
-       - Complementary Reimagined
-       - Complementary Shaders v4
-       - Shrimple
-       - Solas Shader
-       - Super Duper Vanilla
-       - Memory Leak Fix
-       - Not Enough Animations
-       - Alacrity
-       - FancyMenu
-       - Konkrete
-       - Continuity
-       - Entity Model Features [CEM]
-       - Language Reload
-       - ImmediatelyFast
-       - Cloth Config API
-       - Rethinking Voxels
-       - Audio Extension for FancyMenu
-       - Better Statistics Screen (Fabric/Forge)
-       - Drippy Loading Screen
-       - EntityCulling
-       - FabricSkyBoxes Interop
-       - FabricSkyboxes
-       - Fabrishot
-       - FerriteCore
-       - Indium
-       - Searchables
-       - Sodium
-       - ThreadTweak
-       - Visuality
-       - Very Many Players (Fabric)
-       - YetAnotherConfigLib
-       - CraterLib
-       - More Culling
-       ```
+  - **1.20.1:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      - Continuity
+      - Entity Model Features [CEM]
+      - Language Reload
+      - ImmediatelyFast
+      - Cloth Config API
+      - Rethinking Voxels
+      - Audio Extension for FancyMenu
+      - Better Statistics Screen (Fabric/Forge)
+      - Drippy Loading Screen
+      - EntityCulling
+      - FabricSkyBoxes Interop
+      - FabricSkyboxes
+      - Fabrishot
+      - FerriteCore
+      - Indium
+      - Searchables
+      - Sodium
+      - ThreadTweak
+      - Visuality
+      - Very Many Players (Fabric)
+      - YetAnotherConfigLib
+      - CraterLib
+      - More Culling
+      ```
+
+  - **1.20.2:**
+    - Mod Updates:
+      ```
+      - 3D Skin Layers
+      - Cosmetica
+      - Chat Patches
+      - Dynamic FPS
+      - Entity Texture Features
+      - Fabric API
+      - Fabric Language Kotlin
+      - Iris Shaders
+      - ModernFix
+      - OptiGUI
+      - Raised
+      - Seamless
+      - ShulkerBoxTooltip
+      - Simple Discord RPC
+      - Dramatic Skys
+      - Faithful 32x
+      - Pixlli 128x
+      - rotrBLOCKS 128/256x
+      - BSL Shaders
+      - Complementary Reimagined
+      - Complementary Shaders v4
+      - Shrimple
+      - Solas Shader
+      - Super Duper Vanilla
+      - Memory Leak Fix
+      - Not Enough Animations
+      - Alacrity
+      - FancyMenu
+      - Konkrete
+      - Continuity
+      - Entity Model Features [CEM]
+      - Language Reload
+      - ImmediatelyFast
+      - Cloth Config API
+      - Rethinking Voxels
+      - Audio Extension for FancyMenu
+      - Better Statistics Screen (Fabric/Forge)
+      - Drippy Loading Screen
+      - EntityCulling
+      - FabricSkyBoxes Interop
+      - FabricSkyboxes
+      - Fabrishot
+      - FerriteCore
+      - Indium
+      - Searchables
+      - Sodium
+      - ThreadTweak
+      - Visuality
+      - Very Many Players (Fabric)
+      - YetAnotherConfigLib
+      - CraterLib
+      - More Culling
+      ```
 
 - 🎨 **Aesthetics Upgrade:** Updated the logo and spiced up the README.md.
 - ❌ **Removed Mods:**
-   - Better Name Visibility
-   - ClearDespawn
-   - Bobby
-   - AdvancementInfo
-   - GraphUtil
-   - Memory Leak Fix
+  - Better Name Visibility
+  - ClearDespawn
+  - Bobby
+  - AdvancementInfo
+  - GraphUtil
+  - Memory Leak Fix
 - 🗺️ **Language updates**
-   - Add Italian
-   - Add Ukrainian   
-- ➕ **New Addition:** 
-   - Added the Paginated Advancements & Custom Frames mod.
-   - Added the Resourcify mod.
-   - Updated the modpack version to 1.0.1.
-   - Updated the FUNDING.yml file.
-   - Updated dependabot interval to daily and added PR part.
-   - Updated the bug report by adding 1.0.1 and the BakaXL launcher.
-   - Fixed 1.19.4 version startup problem caused by deprecated Controlify mod, replaced with MidnightControls.
-   - Removed Webbilizard from the project.
-   - Updated the logo to Simple RPC and added ReaX Network server.
-   - Added ReaX Network to the list of default servers.
-   - Updated the modpack assets.
-   - Improved screenshot weight, now vanilla again and Fabrishot screenshots available with F9.
-   - Added the Screenshot Viewer mod and its configuration.
-   - Improved the game menu.
-   - Fixed the incorrect version number in 1.20.2.
-   - Updated the Discord link throughout the project.
-   - Added the Mod Detection Preventer mod (For 1.20.1 and 1.20.2).
-   - Temporarily removed donations.
-   - Removed bug fixes resolved in 1.20.2.
-   - Removed Patreon from FUNDING.yml.
-   - Added MasterMC5801 to the auto_assign.yml file.
+  - Add Italian
+  - Add Ukrainian
+- ➕ **New Addition:**
+  - Added the Paginated Advancements & Custom Frames mod.
+  - Added the Resourcify mod.
+  - Updated the modpack version to 1.0.1.
+  - Updated the FUNDING.yml file.
+  - Updated dependabot interval to daily and added PR part.
+  - Updated the bug report by adding 1.0.1 and the BakaXL launcher.
+  - Fixed 1.19.4 version startup problem caused by deprecated Controlify mod, replaced with MidnightControls.
+  - Removed Webbilizard from the project.
+  - Updated the logo to Simple RPC and added ReaX Network server.
+  - Added ReaX Network to the list of default servers.
+  - Updated the modpack assets.
+  - Improved screenshot weight, now vanilla again and Fabrishot screenshots available with F9.
+  - Added the Screenshot Viewer mod and its configuration.
+  - Improved the game menu.
+  - Fixed the incorrect version number in 1.20.2.
+  - Updated the Discord link throughout the project.
+  - Added the Mod Detection Preventer mod (For 1.20.1 and 1.20.2).
+  - Temporarily removed donations.
+  - Removed bug fixes resolved in 1.20.2.
+  - Removed Patreon from FUNDING.yml.
+  - Added MasterMC5801 to the auto_assign.yml file.
 - 🔄 **FOV Adjustment:** Changed the field of view (fov) from Quake Pro to Normal.
 - ⚙️ **Configuration Addition:** Added configuration for the Paginated Advancements & Custom Frames mod.
 
@@ -10792,6 +10894,7 @@ Best regards,
 LifeMC Studios team
 
 ### What's Changed
+
 - Major updates and bug fixes 2024 part2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/305
 - build(deps): bump crowdin/github-action from 1.16.0 to 1.19.0 by @dependabot in https://github.com/LifeMC-Studios/LifeMC/pull/303
 
@@ -10809,4 +10912,4 @@ We are thrilled to embark on this exciting journey with you. After 2 years of de
 
 We are thrilled to embark on this exciting journey with you. After 2 years of development and various challenges, we are finally releasing the first version of the modpack! 🚀🎉😃
 
-> All rights reserved. © 2021-2025 LifeMC Studios
+> All rights reserved. © 2021-2026 LifeMC Studios

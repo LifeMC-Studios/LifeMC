@@ -20,4 +20,4 @@ The "Reimagined GUI" Resource Packs were created by [AmongstReality](https://www
   - 📃 [Credits](<https://github.com/LifeMC-Studios/LifeMC/blob/main/assets/resourcepacks/ReimaginedGUI(Dark)/Credits.txt>)
   - 🔗 [Useful links](<https://github.com/LifeMC-Studios/LifeMC/blob/main/assets/resourcepacks/ReimaginedGUI(Dark)/Links.txt>)
 
-> All rights reserved. © 2021-2025 LifeMC Studios
+> All rights reserved. © 2021-2026 LifeMC Studios

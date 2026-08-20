@@ -13,6 +13,7 @@ Please ensure that you have received a copy of the GNU General Public Licenses a
 - [Issues Page](https://github.com/LifeMC-Studios/LifeMC/issues): If you encounter problems or wish to report bugs or suggestions for improving the software, please visit this page to submit a report.
 
 ---
+
 ## 🖌️ PenPot
 
 ```
@@ -390,6 +391,7 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
   This Source Code Form is "Incompatible With Secondary Licenses", as
   defined by the Mozilla Public License, v. 2.0.
 ```
+
 ---
 
 ## 🟨 Phosphor Icons
@@ -417,11 +419,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
 ---
 
 ## 🎨 Reimagined GUI
 
-``` 
+```
 Copyright © Reimagined GUI
 Author @AmongstReality(https://www.planetminecraft.com/member/amongstreality/)
 
@@ -442,8 +445,9 @@ You must abide by the above rules if you are doing any of the following:
 
 Exceptions:
 
-1. If you're doing anything privately and undistributed to my assets (e.g. custom edit for personal use, unpublished add-ons, mod support, using the pack for a small private Minecraft server, or edits either by you or from different packs) you can safely disregard all of these requirements since you are not gaining unfairly from me in any form. 
+1. If you're doing anything privately and undistributed to my assets (e.g. custom edit for personal use, unpublished add-ons, mod support, using the pack for a small private Minecraft server, or edits either by you or from different packs) you can safely disregard all of these requirements since you are not gaining unfairly from me in any form.
 ```
+
 ---
 
-> All rights reserved. © 2021-2025 LifeMC Studios
+> All rights reserved. © 2021-2026 LifeMC Studios
