@@ -5,7 +5,8 @@
   "build": {
     "dockerfile": "Dockerfile"
   },
-  "remoteUser": "devcontainer",
+  "remoteUser": "vscode",
+  "updateRemoteUserUID": true,
   "customizations": {
     "zed": {
       "user_podman": true
