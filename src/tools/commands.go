@@ -28,22 +28,28 @@ func runValidate(_ context.Context, s session, _ []string) error {
 	return nil
 }
 
-// runScan scans every mods directory for prohibited files. It runs in dry-run
-// mode unless --apply is passed, and fails when a dry-run finds any file.
+// runScan scans a version's payload directories for prohibited files. It runs
+// in dry-run mode unless --apply is passed and always fails when it finds any
+// file. --version/-v scopes the scan to a single version.
 func runScan(_ context.Context, s session, args []string) error {
-	apply, err := parseApply(args)
+	flags, err := parseScanFlags(args)
 	if err != nil {
 		return err
 	}
 
-	report, err := security.Scan(s.roots(), security.Options{DryRun: !apply})
+	scoped, err := s.scoped(flags.version)
 	if err != nil {
 		return err
 	}
-	printReport(report, len(s.versions), apply)
 
-	if !apply && !report.Clean() {
-		return fmt.Errorf("scan: %d prohibited file(s) found (rerun with --apply to remove)", len(report.Findings))
+	report, err := security.Scan(scoped.roots(), security.Options{DryRun: !flags.apply})
+	if err != nil {
+		return err
+	}
+	printReport(report, len(scoped.versions), flags.apply)
+
+	if !report.Clean() {
+		return fmt.Errorf("scan: %d prohibited file(s) detected", len(report.Findings))
 	}
 	return nil
 }
@@ -81,11 +87,18 @@ func runUpdate(ctx context.Context, s session, args []string) error {
 }
 
 // runExport builds a Modrinth .mrpack for every version via packwiz.
+// --version/-v scopes the export to a single version.
 func runExport(ctx context.Context, s session, args []string) error {
-	if len(args) > 0 {
-		return usagef("export takes no arguments, got %q", args[0])
+	flags, err := parseExportFlags(args)
+	if err != nil {
+		return err
 	}
-	return eachPackwiz(ctx, s, "Exported", packwiz.Export)
+
+	scoped, err := s.scoped(flags.version)
+	if err != nil {
+		return err
+	}
+	return eachPackwiz(ctx, scoped, "Exported", packwiz.Export)
 }
 
 // eachPackwiz runs op against every version that carries a packwiz manifest.
@@ -105,20 +118,64 @@ func eachPackwiz(ctx context.Context, s session, label string, op func(context.C
 	return nil
 }
 
-// parseApply reports whether --apply was requested; --dry-run is the default.
-func parseApply(args []string) (bool, error) {
-	apply := false
-	for _, arg := range args {
-		switch arg {
+// scanFlags configures the scan command.
+type scanFlags struct {
+	apply   bool
+	version string
+}
+
+// parseScanFlags parses the scan command flags. The last value wins.
+func parseScanFlags(args []string) (scanFlags, error) {
+	flags := scanFlags{}
+	for i := 0; i < len(args); i++ {
+		switch arg := args[i]; arg {
 		case "--apply":
-			apply = true
+			flags.apply = true
 		case "--dry-run":
-			apply = false
+			flags.apply = false
+		case "--version", "-v":
+			value, next, err := takeValue(args, i, arg)
+			if err != nil {
+				return scanFlags{}, err
+			}
+			flags.version, i = value, next
 		default:
-			return false, usagef("unknown flag %q (want: --apply, --dry-run)", arg)
+			return scanFlags{}, usagef("unknown flag %q (want: --apply, --dry-run, --version)", arg)
 		}
 	}
-	return apply, nil
+	return flags, nil
+}
+
+// exportFlags configures the export command.
+type exportFlags struct {
+	version string
+}
+
+// parseExportFlags parses the export command flags. The last value wins.
+func parseExportFlags(args []string) (exportFlags, error) {
+	flags := exportFlags{}
+	for i := 0; i < len(args); i++ {
+		switch arg := args[i]; arg {
+		case "--version", "-v":
+			value, next, err := takeValue(args, i, arg)
+			if err != nil {
+				return exportFlags{}, err
+			}
+			flags.version, i = value, next
+		default:
+			return exportFlags{}, usagef("unknown flag %q (want: --version)", arg)
+		}
+	}
+	return flags, nil
+}
+
+// takeValue reads the value following a value flag located at index i.
+func takeValue(args []string, i int, flag string) (string, int, error) {
+	next := i + 1
+	if next >= len(args) {
+		return "", i, usagef("flag %q requires a value", flag)
+	}
+	return args[next], next, nil
 }
 
 // printReport renders a security report to stdout.

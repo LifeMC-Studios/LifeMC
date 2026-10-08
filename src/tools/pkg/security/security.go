@@ -1,5 +1,5 @@
-// Package security scans the mods directory of every active Minecraft version
-// for prohibited files and, when requested, removes them.
+// Package security scans the payload directories of every active Minecraft
+// version for prohibited files and, when requested, removes them.
 package security
 
 import (
@@ -12,16 +12,32 @@ import (
 	"strings"
 )
 
-// modSuffix is the only file type expected inside a packwiz mods directory.
+// modSuffix is the only file type expected inside a strict packwiz metadata
+// directory (mods, resourcepacks).
 const modSuffix = ".pw.toml"
 
-// DefaultProhibited lists the file suffixes that must never ship inside a mods
-// directory.
+// DefaultProhibited lists the file suffixes that must never ship inside a
+// version's payload directories.
 var DefaultProhibited = []string{
 	".exe",
 	".bat",
 	".sh",
 	".jar.bak",
+}
+
+// Target describes a version sub-directory inspected by a scan.
+type Target struct {
+	Name   string // directory name relative to the version root, e.g. "config"
+	Strict bool   // when true, only packwiz manifests are expected
+}
+
+// DefaultTargets lists the directories scanned inside every version root. mods
+// and resourcepacks hold packwiz metadata and are strict; config may hold
+// arbitrary configuration files and only rejects prohibited file types.
+var DefaultTargets = []Target{
+	{Name: "mods", Strict: true},
+	{Name: "resourcepacks", Strict: true},
+	{Name: "config", Strict: false},
 }
 
 // logger tags every record emitted by this package.
@@ -34,6 +50,17 @@ type Options struct {
 	// Prohibited holds the lowercase file suffixes to flag. A nil or empty slice
 	// falls back to DefaultProhibited.
 	Prohibited []string
+	// Targets lists the version sub-directories to inspect. A nil or empty slice
+	// falls back to DefaultTargets.
+	Targets []Target
+}
+
+// targets returns the configured scan targets, falling back to DefaultTargets.
+func (o Options) targets() []Target {
+	if len(o.Targets) == 0 {
+		return DefaultTargets
+	}
+	return o.Targets
 }
 
 // Finding describes a single prohibited file discovered during a scan.
@@ -64,11 +91,12 @@ func Scan(roots []string, opts Options) (*Report, error) {
 	}
 
 	prohibited := normalize(opts.Prohibited)
-	logger.Debug("scan start", "roots", len(roots), "dry_run", opts.DryRun, "prohibited", len(prohibited))
+	targets := opts.targets()
+	logger.Debug("scan start", "roots", len(roots), "dry_run", opts.DryRun, "prohibited", len(prohibited), "targets", len(targets))
 
 	report := &Report{Findings: make([]Finding, 0)}
 	for _, root := range roots {
-		findings, err := scanRoot(root, prohibited, opts.DryRun)
+		findings, err := scanRoot(root, prohibited, targets, opts.DryRun)
 		if err != nil {
 			return nil, err
 		}
@@ -79,20 +107,42 @@ func Scan(roots []string, opts Options) (*Report, error) {
 	return report, nil
 }
 
-// scanRoot walks the mods directory of a single version root.
-func scanRoot(root string, prohibited []string, dryRun bool) ([]Finding, error) {
-	mods, err := modsDir(root)
+// scanRoot walks every target directory of a single version root.
+func scanRoot(root string, prohibited []string, targets []Target, dryRun bool) ([]Finding, error) {
+	info, err := os.Stat(root)
 	if err != nil {
-		return nil, err
+		return nil, fmt.Errorf("security: stat root %q: %w", root, err)
 	}
-	if mods == "" {
-		logger.Debug("mods directory absent", "root", root)
-		return nil, nil
+	if !info.IsDir() {
+		return nil, fmt.Errorf("security: root %q is not a directory", root)
 	}
 
 	version := filepath.Base(root)
 	findings := make([]Finding, 0)
-	err = filepath.WalkDir(mods, func(path string, entry fs.DirEntry, err error) error {
+	for _, target := range targets {
+		dir := filepath.Join(root, target.Name)
+		exists, err := isDir(dir)
+		if err != nil {
+			return nil, fmt.Errorf("security: stat %q: %w", dir, err)
+		}
+		if !exists {
+			logger.Debug("target directory absent", "root", root, "target", target.Name)
+			continue
+		}
+
+		found, err := scanDir(root, version, dir, target, prohibited, dryRun)
+		if err != nil {
+			return nil, err
+		}
+		findings = append(findings, found...)
+	}
+	return findings, nil
+}
+
+// scanDir walks a single target directory and returns its findings.
+func scanDir(root, version, dir string, target Target, prohibited []string, dryRun bool) ([]Finding, error) {
+	findings := make([]Finding, 0)
+	err := filepath.WalkDir(dir, func(path string, entry fs.DirEntry, err error) error {
 		if err != nil {
 			return err
 		}
@@ -100,7 +150,7 @@ func scanRoot(root string, prohibited []string, dryRun bool) ([]Finding, error) 
 			return nil
 		}
 
-		reason := classify(entry.Name(), prohibited)
+		reason := classify(entry.Name(), target.Strict, prohibited)
 		if reason == "" && !entry.Type().IsRegular() {
 			reason = "unexpected non-regular file"
 		}
@@ -125,46 +175,34 @@ func scanRoot(root string, prohibited []string, dryRun bool) ([]Finding, error) 
 		return nil
 	})
 	if err != nil {
-		return nil, fmt.Errorf("security: walk %q: %w", mods, err)
+		return nil, fmt.Errorf("security: walk %q: %w", dir, err)
 	}
 	return findings, nil
 }
 
-// modsDir resolves the mods directory of root, returning "" when it is absent.
-func modsDir(root string) (string, error) {
-	info, err := os.Stat(root)
-	if err != nil {
-		return "", fmt.Errorf("security: stat root %q: %w", root, err)
-	}
-	if !info.IsDir() {
-		return "", fmt.Errorf("security: root %q is not a directory", root)
-	}
-
-	mods := filepath.Join(root, "mods")
-	info, err = os.Stat(mods)
+// isDir reports whether path exists and is a directory.
+func isDir(path string) (bool, error) {
+	info, err := os.Stat(path)
 	if errors.Is(err, os.ErrNotExist) {
-		return "", nil
+		return false, nil
 	}
 	if err != nil {
-		return "", fmt.Errorf("security: stat mods %q: %w", mods, err)
+		return false, err
 	}
-	if !info.IsDir() {
-		return "", fmt.Errorf("security: mods path %q is not a directory", mods)
-	}
-	return mods, nil
+	return info.IsDir(), nil
 }
 
-// classify returns the reason name is prohibited, or "" when it is a valid
-// packwiz mod manifest.
-func classify(name string, prohibited []string) string {
+// classify returns the reason name is prohibited, or "" when it is acceptable.
+// When strict is true only packwiz manifests are expected.
+func classify(name string, strict bool, prohibited []string) string {
 	lower := strings.ToLower(name)
 	for _, suffix := range prohibited {
 		if strings.HasSuffix(lower, suffix) {
 			return fmt.Sprintf("prohibited file type %q", suffix)
 		}
 	}
-	if !strings.HasSuffix(lower, modSuffix) {
-		return "unexpected file in mods directory"
+	if strict && !strings.HasSuffix(lower, modSuffix) {
+		return "unexpected file (expected " + modSuffix + ")"
 	}
 	return ""
 }

@@ -43,6 +43,29 @@ func (s session) roots() []string {
 	return roots
 }
 
+// scoped returns a session restricted to the version named name, or the full
+// session when name is empty. An unknown name is a usage error.
+func (s session) scoped(name string) (session, error) {
+	if name == "" {
+		return s, nil
+	}
+	for _, version := range s.versions {
+		if version.Name == name {
+			return session{root: s.root, versions: []scanner.Version{version}}, nil
+		}
+	}
+	return session{}, usagef("version %q not found (active: %s)", name, strings.Join(s.versionNames(), ", "))
+}
+
+// versionNames returns the name of every discovered version.
+func (s session) versionNames() []string {
+	names := make([]string, len(s.versions))
+	for i, version := range s.versions {
+		names[i] = version.Name
+	}
+	return names
+}
+
 // command is a single CLI action.
 type command struct {
 	name  string
@@ -54,10 +77,10 @@ type command struct {
 var commands = []command{
 	{name: "versions", usage: "list every active Minecraft version", run: runVersions},
 	{name: "validate", usage: "check download URLs against the CDN allowlist", run: runValidate},
-	{name: "scan", usage: "scan mods directories for prohibited files (--apply to remove)", run: runScan},
+	{name: "scan", usage: "scan payload directories for prohibited files (--version <name>, --apply)", run: runScan},
 	{name: "verify", usage: "run validate and scan as a single read-only gate", run: runVerify},
 	{name: "update", usage: "update every external file via packwiz", run: runUpdate},
-	{name: "export", usage: "export every version as a Modrinth .mrpack", run: runExport},
+	{name: "export", usage: "export versions as Modrinth .mrpack (--version <name>)", run: runExport},
 }
 
 func main() {

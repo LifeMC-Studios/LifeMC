@@ -9,30 +9,75 @@ import (
 	"lifemc-cli/pkg/scanner"
 )
 
-func TestParseApply(t *testing.T) {
+func TestParseScanFlags(t *testing.T) {
 	cases := []struct {
-		name  string
-		args  []string
-		apply bool
-		want  bool // whether an error is expected
+		name    string
+		args    []string
+		apply   bool
+		version string
+		want    bool // whether an error is expected
 	}{
-		{name: "default", args: nil, apply: false},
+		{name: "default", args: nil},
 		{name: "apply", args: []string{"--apply"}, apply: true},
-		{name: "dry-run", args: []string{"--dry-run"}, apply: false},
-		{name: "apply then dry-run", args: []string{"--apply", "--dry-run"}, apply: false},
+		{name: "dry-run", args: []string{"--dry-run"}},
+		{name: "apply then dry-run", args: []string{"--apply", "--dry-run"}},
+		{name: "version long", args: []string{"--version", "1.21.11"}, version: "1.21.11"},
+		{name: "version short", args: []string{"-v", "1.18.2", "--apply"}, version: "1.18.2", apply: true},
 		{name: "unknown", args: []string{"--force"}, want: true},
+		{name: "version without value", args: []string{"--version"}, want: true},
 	}
 
 	for _, tc := range cases {
 		t.Run(tc.name, func(t *testing.T) {
-			apply, err := parseApply(tc.args)
+			flags, err := parseScanFlags(tc.args)
 			if (err != nil) != tc.want {
-				t.Fatalf("parseApply(%v) error = %v, want err=%t", tc.args, err, tc.want)
+				t.Fatalf("parseScanFlags(%v) error = %v, want err=%t", tc.args, err, tc.want)
 			}
-			if apply != tc.apply {
-				t.Errorf("parseApply(%v) = %t, want %t", tc.args, apply, tc.apply)
+			if flags.apply != tc.apply {
+				t.Errorf("parseScanFlags(%v).apply = %t, want %t", tc.args, flags.apply, tc.apply)
+			}
+			if flags.version != tc.version {
+				t.Errorf("parseScanFlags(%v).version = %q, want %q", tc.args, flags.version, tc.version)
 			}
 		})
+	}
+}
+
+func TestParseExportFlags(t *testing.T) {
+	flags, err := parseExportFlags([]string{"--version", "1.20.6"})
+	if err != nil {
+		t.Fatalf("parseExportFlags() error = %v", err)
+	}
+	if flags.version != "1.20.6" {
+		t.Errorf("version = %q, want 1.20.6", flags.version)
+	}
+
+	if _, err := parseExportFlags([]string{"--apply"}); err == nil {
+		t.Fatal("parseExportFlags(--apply) error = nil, want usage error")
+	}
+}
+
+func TestSessionScoped(t *testing.T) {
+	s := session{root: "/src", versions: []scanner.Version{
+		{Name: "1.18.2", Path: "/src/1.18.2"},
+		{Name: "1.21.11", Path: "/src/1.21.11"},
+	}}
+
+	scoped, err := s.scoped("1.21.11")
+	if err != nil {
+		t.Fatalf("scoped() error = %v", err)
+	}
+	if len(scoped.versions) != 1 || scoped.versions[0].Name != "1.21.11" {
+		t.Fatalf("scoped() = %+v, want only 1.21.11", scoped.versions)
+	}
+
+	all, err := s.scoped("")
+	if err != nil || len(all.versions) != 2 {
+		t.Fatalf("scoped(\"\") = %d versions, %v, want 2 and no error", len(all.versions), err)
+	}
+
+	if _, err := s.scoped("9.9.9"); err == nil {
+		t.Fatal("scoped(9.9.9) error = nil, want error for unknown version")
 	}
 }
 
@@ -59,8 +104,9 @@ func TestRunScanDryRunFails(t *testing.T) {
 func TestRunScanApplyRemoves(t *testing.T) {
 	s, evil := versionWithFile(t, "evil.exe")
 
-	if err := runScan(context.Background(), s, []string{"--apply"}); err != nil {
-		t.Fatalf("runScan(--apply) error = %v, want nil", err)
+	// --apply removes the file but still fails on the detection.
+	if err := runScan(context.Background(), s, []string{"--apply"}); err == nil {
+		t.Fatal("runScan(--apply) error = nil, want failure on findings")
 	}
 	if _, err := os.Stat(evil); !os.IsNotExist(err) {
 		t.Errorf("file %q still present, want removed", evil)

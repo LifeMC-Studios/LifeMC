@@ -66,6 +66,65 @@ func TestScanFlagsUnexpectedFile(t *testing.T) {
 	}
 }
 
+func TestScanConfigProhibited(t *testing.T) {
+	root := t.TempDir()
+	mustWrite(t, filepath.Join(root, "config", "app.json"))
+	mustWrite(t, filepath.Join(root, "config", "packed", "evil.sh"))
+
+	report, err := Scan([]string{root}, Options{DryRun: true})
+	if err != nil {
+		t.Fatalf("Scan() error = %v", err)
+	}
+	if len(report.Findings) != 1 || !strings.Contains(report.Findings[0].Reason, ".sh") {
+		t.Fatalf("findings = %+v, want one .sh finding under config", report.Findings)
+	}
+	if got := report.Findings[0].File; got != filepath.Join("config", "packed", "evil.sh") {
+		t.Errorf("file = %q, want config/packed/evil.sh", got)
+	}
+}
+
+func TestScanConfigAllowsRegularFiles(t *testing.T) {
+	root := t.TempDir()
+	mustWrite(t, filepath.Join(root, "config", "fabric_loader_dependencies.json"))
+	mustWrite(t, filepath.Join(root, "config", "yosbr", "settings.yaml"))
+
+	report, err := Scan([]string{root}, Options{DryRun: true})
+	if err != nil {
+		t.Fatalf("Scan() error = %v", err)
+	}
+	if !report.Clean() {
+		t.Fatalf("findings = %+v, want none for regular config files", report.Findings)
+	}
+}
+
+func TestScanResourcepacksStrict(t *testing.T) {
+	root := t.TempDir()
+	mustWrite(t, filepath.Join(root, "resourcepacks", "pack.pw.toml"))
+	mustWrite(t, filepath.Join(root, "resourcepacks", "raw.zip"))
+
+	report, err := Scan([]string{root}, Options{DryRun: true})
+	if err != nil {
+		t.Fatalf("Scan() error = %v", err)
+	}
+	if len(report.Findings) != 1 || !strings.Contains(report.Findings[0].Reason, "unexpected") {
+		t.Fatalf("findings = %+v, want one unexpected finding under resourcepacks", report.Findings)
+	}
+}
+
+func TestScanCustomTargets(t *testing.T) {
+	root := t.TempDir()
+	mustWrite(t, filepath.Join(root, "mods", "evil.exe"))
+	mustWrite(t, filepath.Join(root, "config", "evil.exe"))
+
+	report, err := Scan([]string{root}, Options{DryRun: true, Targets: []Target{{Name: "config"}}})
+	if err != nil {
+		t.Fatalf("Scan() error = %v", err)
+	}
+	if len(report.Findings) != 1 || !strings.HasPrefix(report.Findings[0].File, "config") {
+		t.Fatalf("findings = %+v, want only the config target scanned", report.Findings)
+	}
+}
+
 func TestScanFlagsNonRegularFile(t *testing.T) {
 	root := t.TempDir()
 	mustWrite(t, filepath.Join(root, "mods", "sodium.pw.toml"))
