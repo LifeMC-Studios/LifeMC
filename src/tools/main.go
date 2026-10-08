@@ -2,124 +2,155 @@
 package main
 
 import (
+	"context"
+	"errors"
 	"fmt"
 	"log/slog"
 	"os"
+	"os/signal"
+	"strings"
+	"syscall"
 
 	"lifemc-cli/pkg/scanner"
-	"lifemc-cli/pkg/security"
-	"lifemc-cli/pkg/validator"
 )
+
+// logger tags every record emitted by the CLI entrypoint.
+var logger = slog.With("module", "cli")
+
+// usageError marks a malformed invocation; main maps it to exit code 2.
+type usageError struct{ msg string }
+
+// Error implements the error interface.
+func (e usageError) Error() string { return e.msg }
+
+// usagef builds a usageError from a format string.
+func usagef(format string, args ...any) error {
+	return usageError{msg: fmt.Sprintf(format, args...)}
+}
+
+// session carries the resolved source root and the discovered versions.
+type session struct {
+	root     string
+	versions []scanner.Version
+}
+
+// roots returns the absolute path of every discovered version.
+func (s session) roots() []string {
+	roots := make([]string, len(s.versions))
+	for i, version := range s.versions {
+		roots[i] = version.Path
+	}
+	return roots
+}
+
+// command is a single CLI action.
+type command struct {
+	name  string
+	usage string
+	run   func(ctx context.Context, s session, args []string) error
+}
+
+// commands lists every supported action in help order.
+var commands = []command{
+	{name: "versions", usage: "list every active Minecraft version", run: runVersions},
+	{name: "validate", usage: "check download URLs against the CDN allowlist", run: runValidate},
+	{name: "scan", usage: "scan mods directories for prohibited files (--apply to remove)", run: runScan},
+	{name: "verify", usage: "run validate and scan as a single read-only gate", run: runVerify},
+	{name: "update", usage: "update every external file via packwiz", run: runUpdate},
+	{name: "export", usage: "export every version as a Modrinth .mrpack", run: runExport},
+}
 
 func main() {
 	slog.SetDefault(slog.New(slog.NewTextHandler(os.Stderr, &slog.HandlerOptions{Level: slog.LevelInfo})))
 
-	if err := run(os.Args[1:]); err != nil {
+	ctx, stop := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
+	defer stop()
+
+	if err := run(ctx, os.Args[1:]); err != nil {
+		var usage usageError
+		if errors.As(err, &usage) {
+			fmt.Fprintln(os.Stderr, usage.Error())
+			os.Exit(2)
+		}
 		slog.Error("command failed", "error", err)
 		os.Exit(1)
 	}
 }
 
-// run dispatches the CLI subcommand against the discovered versions.
-func run(args []string) error {
-	command := "versions"
-	if len(args) > 0 {
-		command = args[0]
-	}
-	if command != "versions" && command != "validate" && command != "scan" {
-		return fmt.Errorf("unknown command %q (want: versions, validate, scan)", command)
+// run resolves the source root, discovers versions and dispatches the command.
+func run(ctx context.Context, args []string) error {
+	if len(args) == 0 {
+		printUsage()
+		return usagef("no command provided")
 	}
 
+	name := args[0]
+	if name == "help" || name == "-h" || name == "--help" {
+		printUsage()
+		return nil
+	}
+
+	cmd, ok := lookup(name)
+	if !ok {
+		return usagef("unknown command %q (want: %s)", name, commandNames())
+	}
+
+	s, err := newSession()
+	if err != nil {
+		return err
+	}
+
+	logger.Debug("dispatch", "command", name, "versions", len(s.versions))
+	return cmd.run(ctx, s, args[1:])
+}
+
+// newSession resolves the source root and discovers every active version.
+func newSession() (session, error) {
 	wd, err := os.Getwd()
 	if err != nil {
-		return fmt.Errorf("resolve working directory: %w", err)
+		return session{}, fmt.Errorf("resolve working directory: %w", err)
 	}
 
 	root, err := scanner.ResolveRoot(wd)
 	if err != nil {
-		return err
+		return session{}, err
 	}
 
 	versions, err := scanner.Discover(root)
 	if err != nil {
-		return err
+		return session{}, err
 	}
-
-	switch command {
-	case "validate":
-		return validateVersions(versions)
-	case "scan":
-		return scanVersions(versions, args[1:])
-	default:
-		return listVersions(root, versions)
-	}
+	return session{root: root, versions: versions}, nil
 }
 
-// listVersions prints every discovered version.
-func listVersions(root string, versions []scanner.Version) error {
-	fmt.Printf("Active Minecraft versions in %s:\n", root)
-	for _, version := range versions {
-		fmt.Printf("  - %s (packwiz=%t, mods=%t)\n", version.Name, version.HasPackwiz, version.HasMods)
-	}
-	return nil
-}
-
-// scanVersions scans every version's mods directory for prohibited files. It
-// runs in dry-run mode unless --apply is passed.
-func scanVersions(versions []scanner.Version, args []string) error {
-	apply := false
-	for _, arg := range args {
-		switch arg {
-		case "--apply":
-			apply = true
-		case "--dry-run":
-			apply = false
-		default:
-			return fmt.Errorf("unknown flag %q (want: --apply, --dry-run)", arg)
+// lookup finds a command by name.
+func lookup(name string) (command, bool) {
+	for _, cmd := range commands {
+		if cmd.name == name {
+			return cmd, true
 		}
 	}
-
-	roots := make([]string, len(versions))
-	for i, version := range versions {
-		roots[i] = version.Path
-	}
-
-	report, err := security.Scan(roots, security.Options{DryRun: !apply})
-	if err != nil {
-		return err
-	}
-
-	mode := "dry-run"
-	if apply {
-		mode = "apply"
-	}
-	if report.Clean() {
-		fmt.Printf("Scanned %d version(s) in %s mode: no prohibited files found.\n", len(roots), mode)
-		return nil
-	}
-
-	fmt.Printf("Scanned %d version(s) in %s mode: %d prohibited file(s) found.\n", len(roots), mode, len(report.Findings))
-	for _, finding := range report.Findings {
-		status := "flagged"
-		if finding.Removed {
-			status = "removed"
-		}
-		fmt.Printf("  - [%s] %s/%s: %s\n", status, finding.Version, finding.File, finding.Reason)
-	}
-	return nil
+	return command{}, false
 }
 
-// validateVersions checks every manifest against the approved CDN allowlist.
-func validateVersions(versions []scanner.Version) error {
-	roots := make([]string, len(versions))
-	for i, version := range versions {
-		roots[i] = version.Path
+// commandNames returns the comma-separated list of supported commands.
+func commandNames() string {
+	names := make([]string, len(commands))
+	for i, cmd := range commands {
+		names[i] = cmd.name
 	}
+	return strings.Join(names, ", ")
+}
 
-	if err := validator.Validate(roots, validator.DefaultAllowlist); err != nil {
-		return err
+// printUsage writes the command list to stdout.
+func printUsage() {
+	fmt.Println("LifeMC modpack maintenance CLI")
+	fmt.Println()
+	fmt.Println("Usage:")
+	fmt.Println("  lifemc-cli <command> [flags]")
+	fmt.Println()
+	fmt.Println("Commands:")
+	for _, cmd := range commands {
+		fmt.Printf("  %-9s %s\n", cmd.name, cmd.usage)
 	}
-
-	fmt.Printf("Validated %d version(s): all download URLs use approved domains.\n", len(roots))
-	return nil
 }
