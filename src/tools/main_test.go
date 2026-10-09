@@ -121,6 +121,23 @@ func TestRunVerifyFailsOnProhibited(t *testing.T) {
 	}
 }
 
+func TestVerifySessionFailsOnProhibited(t *testing.T) {
+	s, _ := versionWithFile(t, "evil.dll")
+
+	if err := verifySession(s); err == nil {
+		t.Fatal("verifySession() error = nil, want failure on prohibited file")
+	}
+}
+
+func TestRunExportFailsClosed(t *testing.T) {
+	s, _ := versionWithFile(t, "evil.sh")
+
+	// Verification must abort the export before packwiz is ever invoked.
+	if err := runExport(context.Background(), s, nil); err == nil {
+		t.Fatal("runExport() error = nil, want fail-closed on prohibited file")
+	}
+}
+
 // versionWithFile builds a session whose single version holds one mods file.
 func versionWithFile(t *testing.T, name string) (session, string) {
 	t.Helper()

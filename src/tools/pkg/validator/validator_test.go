@@ -84,6 +84,78 @@ func TestValidateNoRoots(t *testing.T) {
 	}
 }
 
+func TestValidateIPBasedURL(t *testing.T) {
+	root := t.TempDir()
+	mustWrite(t, filepath.Join(root, "mods", "evil.pw.toml"), `
+[download]
+url = "http://192.168.1.10/payload.jar"
+`)
+
+	var validationErr *ValidationError
+	if err := Validate([]string{root}, nil); !errors.As(err, &validationErr) {
+		t.Fatalf("Validate() error = %v, want *ValidationError", err)
+	}
+	if len(validationErr.Violations) != 1 || !strings.Contains(validationErr.Violations[0].Reason, "IP-based") {
+		t.Fatalf("violations = %+v, want one IP-based violation", validationErr.Violations)
+	}
+}
+
+func TestValidateDirectoryTraversal(t *testing.T) {
+	root := t.TempDir()
+	mustWrite(t, filepath.Join(root, "mods", "evil.pw.toml"), `
+file = "../../etc/passwd"
+
+[download]
+url = "https://cdn.modrinth.com/data/x/versions/y/z.jar"
+`)
+
+	var validationErr *ValidationError
+	if err := Validate([]string{root}, nil); !errors.As(err, &validationErr) {
+		t.Fatalf("Validate() error = %v, want *ValidationError", err)
+	}
+	if len(validationErr.Violations) != 1 || !strings.Contains(validationErr.Violations[0].Reason, "traversal") {
+		t.Fatalf("violations = %+v, want one traversal violation", validationErr.Violations)
+	}
+}
+
+func TestValidateAbsolutePath(t *testing.T) {
+	root := t.TempDir()
+	mustWrite(t, filepath.Join(root, "mods", "evil.pw.toml"), `
+file = "/etc/passwd"
+`)
+
+	var validationErr *ValidationError
+	if err := Validate([]string{root}, nil); !errors.As(err, &validationErr) {
+		t.Fatalf("Validate() error = %v, want *ValidationError", err)
+	}
+	if len(validationErr.Violations) != 1 || !strings.Contains(validationErr.Violations[0].Reason, "traversal") {
+		t.Fatalf("violations = %+v, want one traversal violation", validationErr.Violations)
+	}
+}
+
+func TestValidateWindowsStylePaths(t *testing.T) {
+	cases := map[string]string{
+		"backslash traversal": `file = '..\..\etc\passwd'`,
+		"drive letter":        `file = 'C:\Windows\System32\evil.dll'`,
+		"unc path":            `file = '\\server\share\evil'`,
+	}
+
+	for name, content := range cases {
+		t.Run(name, func(t *testing.T) {
+			root := t.TempDir()
+			mustWrite(t, filepath.Join(root, "mods", "evil.pw.toml"), content)
+
+			var validationErr *ValidationError
+			if err := Validate([]string{root}, nil); !errors.As(err, &validationErr) {
+				t.Fatalf("Validate() error = %v, want *ValidationError", err)
+			}
+			if len(validationErr.Violations) != 1 || !strings.Contains(validationErr.Violations[0].Reason, "traversal") {
+				t.Fatalf("violations = %+v, want one traversal violation", validationErr.Violations)
+			}
+		})
+	}
+}
+
 func mustWrite(t *testing.T, path, content string) {
 	t.Helper()
 	if err := os.MkdirAll(filepath.Dir(path), 0o755); err != nil {

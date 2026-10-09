@@ -59,7 +59,16 @@ func runVerify(_ context.Context, s session, args []string) error {
 	if len(args) > 0 {
 		return usagef("verify takes no arguments, got %q", args[0])
 	}
+	if err := verifySession(s); err != nil {
+		return err
+	}
+	fmt.Printf("Verified %d version(s): manifests valid, no prohibited files.\n", len(s.versions))
+	return nil
+}
 
+// verifySession runs the CDN allowlist check and the security scan across the
+// session, returning an error on the first anomaly (fail-closed).
+func verifySession(s session) error {
 	roots := s.roots()
 	if err := validator.Validate(roots, validator.DefaultAllowlist); err != nil {
 		return err
@@ -71,10 +80,8 @@ func runVerify(_ context.Context, s session, args []string) error {
 	}
 	if !report.Clean() {
 		printReport(report, len(s.versions), false)
-		return fmt.Errorf("verify: %d prohibited file(s) found", len(report.Findings))
+		return fmt.Errorf("security: %d prohibited file(s) detected", len(report.Findings))
 	}
-
-	fmt.Printf("Verified %d version(s): manifests valid, no prohibited files.\n", len(roots))
 	return nil
 }
 
@@ -87,7 +94,8 @@ func runUpdate(ctx context.Context, s session, args []string) error {
 }
 
 // runExport builds a Modrinth .mrpack for every version via packwiz.
-// --version/-v scopes the export to a single version.
+// --version/-v scopes the export to a single version. It is fail-closed: the
+// export is aborted when verification finds any anomaly.
 func runExport(ctx context.Context, s session, args []string) error {
 	flags, err := parseExportFlags(args)
 	if err != nil {
@@ -97,6 +105,10 @@ func runExport(ctx context.Context, s session, args []string) error {
 	scoped, err := s.scoped(flags.version)
 	if err != nil {
 		return err
+	}
+
+	if err := verifySession(scoped); err != nil {
+		return fmt.Errorf("export aborted: %w", err)
 	}
 	return eachPackwiz(ctx, scoped, "Exported", packwiz.Export)
 }

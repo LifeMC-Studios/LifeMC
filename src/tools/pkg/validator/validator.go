@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"io/fs"
 	"log/slog"
+	"net"
 	"net/url"
 	"os"
 	"path/filepath"
@@ -25,14 +26,17 @@ var DefaultAllowlist = []string{
 // logger tags every record emitted by this package.
 var logger = slog.With("module", "validator")
 
-// manifest mirrors the subset of a packwiz TOML that carries download URLs.
+// manifest mirrors the subset of a packwiz TOML that carries download URLs and
+// declared file paths.
 type manifest struct {
+	File     string      `toml:"file"`
 	Download download    `toml:"download"`
 	Files    []fileEntry `toml:"files"`
 }
 
 // fileEntry is a packwiz index entry that may embed a download table.
 type fileEntry struct {
+	File     string   `toml:"file"`
 	Download download `toml:"download"`
 }
 
@@ -53,6 +57,20 @@ func (m manifest) urls() []string {
 		}
 	}
 	return urls
+}
+
+// paths returns every file path declared by the manifest.
+func (m manifest) paths() []string {
+	paths := make([]string, 0, len(m.Files)+1)
+	if m.File != "" {
+		paths = append(paths, m.File)
+	}
+	for _, file := range m.Files {
+		if file.File != "" {
+			paths = append(paths, file.File)
+		}
+	}
+	return paths
 }
 
 // Violation describes a single manifest that failed validation.
@@ -157,10 +175,21 @@ func validateFile(root, path string, allowed map[string]struct{}) ([]Violation, 
 
 	file := relative(root, path)
 	violations := make([]Violation, 0)
+
+	for _, declared := range m.paths() {
+		if escapesRoot(declared) {
+			violations = append(violations, Violation{File: file, Reason: fmt.Sprintf("directory traversal in path %q", declared)})
+		}
+	}
+
 	for _, raw := range m.urls() {
 		host, err := hostOf(raw)
 		if err != nil {
 			violations = append(violations, Violation{File: file, Reason: fmt.Sprintf("invalid URL %q: %v", raw, err)})
+			continue
+		}
+		if net.ParseIP(host) != nil {
+			violations = append(violations, Violation{File: file, Reason: fmt.Sprintf("IP-based URL not allowed: %q", raw)})
 			continue
 		}
 		if _, ok := allowed[host]; ok {
@@ -169,6 +198,36 @@ func validateFile(root, path string, allowed map[string]struct{}) ([]Violation, 
 		violations = append(violations, Violation{File: file, Reason: fmt.Sprintf("unauthorized domain %q in %q", host, raw)})
 	}
 	return violations, nil
+}
+
+// escapesRoot reports whether a declared path is absolute or climbs out of the
+// pack root. It normalizes Windows separators so backslash traversal, drive
+// letters and UNC paths are caught on every platform.
+func escapesRoot(path string) bool {
+	if path == "" {
+		return false
+	}
+
+	normalized := strings.ReplaceAll(path, `\`, "/")
+	if strings.HasPrefix(normalized, "/") || hasDriveLetter(normalized) {
+		return true
+	}
+	for _, part := range strings.Split(normalized, "/") {
+		if part == ".." {
+			return true
+		}
+	}
+	return false
+}
+
+// hasDriveLetter reports whether path starts with a Windows drive designator
+// such as "C:".
+func hasDriveLetter(path string) bool {
+	if len(path) < 2 || path[1] != ':' {
+		return false
+	}
+	c := path[0]
+	return (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z')
 }
 
 // hostOf extracts the lowercased host from a raw URL.

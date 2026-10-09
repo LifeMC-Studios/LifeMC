@@ -5,6 +5,7 @@ package security
 import (
 	"errors"
 	"fmt"
+	"io"
 	"io/fs"
 	"log/slog"
 	"os"
@@ -17,12 +18,17 @@ import (
 const modSuffix = ".pw.toml"
 
 // DefaultProhibited lists the file suffixes that must never ship inside a
-// version's payload directories.
+// version's payload directories. It covers known infection vectors across
+// Windows, macOS and Linux.
 var DefaultProhibited = []string{
-	".exe",
-	".bat",
-	".sh",
-	".jar.bak",
+	// Executables and scripts.
+	".exe", ".bat", ".cmd", ".ps1", ".vbs", ".msi", ".sh", ".command",
+	// Dynamic libraries and injectable payloads.
+	".dll", ".so", ".dylib",
+	// Links and traps.
+	".lnk", ".url",
+	// Backups and temporary files.
+	".jar.bak", ".old", ".tmp",
 }
 
 // Target describes a version sub-directory inspected by a scan.
@@ -150,9 +156,9 @@ func scanDir(root, version, dir string, target Target, prohibited []string, dryR
 			return nil
 		}
 
-		reason := classify(entry.Name(), target.Strict, prohibited)
-		if reason == "" && !entry.Type().IsRegular() {
-			reason = "unexpected non-regular file"
+		reason, err := inspect(path, entry, target, prohibited)
+		if err != nil {
+			return err
 		}
 		if reason == "" {
 			return nil
@@ -201,10 +207,93 @@ func classify(name string, strict bool, prohibited []string) string {
 			return fmt.Sprintf("prohibited file type %q", suffix)
 		}
 	}
+	if isVersionedLibrary(lower) {
+		return "prohibited versioned library"
+	}
 	if strict && !strings.HasSuffix(lower, modSuffix) {
 		return "unexpected file (expected " + modSuffix + ")"
 	}
 	return ""
+}
+
+// isVersionedLibrary reports whether name is a versioned dynamic library such
+// as "libfoo.so.1" or "libbar.dylib.1.2".
+func isVersionedLibrary(name string) bool {
+	return strings.Contains(name, ".so.") || strings.Contains(name, ".dylib.")
+}
+
+// inspect returns the reason path is prohibited, or "" when it is acceptable.
+// It interdicts symbolic links, non-regular files, hard links, prohibited
+// suffixes, unexpected files in strict directories and raw binaries without an
+// extension.
+func inspect(path string, entry fs.DirEntry, target Target, prohibited []string) (string, error) {
+	kind := entry.Type()
+	if kind&fs.ModeSymlink != 0 {
+		return "symbolic link", nil
+	}
+	if !kind.IsRegular() {
+		return "unexpected non-regular file", nil
+	}
+
+	info, err := entry.Info()
+	if err != nil {
+		return "", fmt.Errorf("security: stat %q: %w", path, err)
+	}
+	if isHardlink(path, info) {
+		return "hard link", nil
+	}
+
+	if reason := classify(entry.Name(), target.Strict, prohibited); reason != "" {
+		return reason, nil
+	}
+	if isRawBinary(path, entry.Name()) {
+		return "raw binary without extension", nil
+	}
+	return "", nil
+}
+
+// isRawBinary reports whether an extensionless file starts with a known
+// executable magic number (ELF, PE or Mach-O).
+func isRawBinary(path, name string) bool {
+	if filepath.Ext(name) != "" {
+		return false
+	}
+	return hasBinaryMagic(path)
+}
+
+// hasBinaryMagic reports whether the file header matches a known executable
+// format.
+func hasBinaryMagic(path string) bool {
+	file, err := os.Open(path)
+	if err != nil {
+		return false
+	}
+	defer file.Close()
+
+	var header [4]byte
+	if _, err := io.ReadFull(file, header[:]); err != nil {
+		return false
+	}
+	return binaryMagic(header)
+}
+
+// binaryMagic reports whether header matches a known executable magic number.
+func binaryMagic(header [4]byte) bool {
+	switch {
+	case header[0] == 0x7F && header[1] == 'E' && header[2] == 'L' && header[3] == 'F': // ELF
+		return true
+	case header[0] == 'M' && header[1] == 'Z': // PE
+		return true
+	case header[0] == 0xFE && header[1] == 0xED && header[2] == 0xFA && (header[3] == 0xCE || header[3] == 0xCF): // Mach-O
+		return true
+	case header[0] == 0xCE && header[1] == 0xFA && header[2] == 0xED && header[3] == 0xFE: // Mach-O 32-bit LE
+		return true
+	case header[0] == 0xCF && header[1] == 0xFA && header[2] == 0xED && header[3] == 0xFE: // Mach-O 64-bit LE
+		return true
+	case header[0] == 0xCA && header[1] == 0xFE && header[2] == 0xBA && header[3] == 0xBE: // Mach-O fat / Java class
+		return true
+	}
+	return false
 }
 
 // normalize lowercases, trims and de-duplicates the prohibited suffixes,

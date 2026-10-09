@@ -125,7 +125,7 @@ func TestScanCustomTargets(t *testing.T) {
 	}
 }
 
-func TestScanFlagsNonRegularFile(t *testing.T) {
+func TestScanFlagsSymlink(t *testing.T) {
 	root := t.TempDir()
 	mustWrite(t, filepath.Join(root, "mods", "sodium.pw.toml"))
 	link := filepath.Join(root, "mods", "linked.pw.toml")
@@ -137,8 +137,99 @@ func TestScanFlagsNonRegularFile(t *testing.T) {
 	if err != nil {
 		t.Fatalf("Scan() error = %v", err)
 	}
-	if len(report.Findings) != 1 || !strings.Contains(report.Findings[0].Reason, "non-regular") {
-		t.Fatalf("findings = %+v, want one non-regular finding", report.Findings)
+	if len(report.Findings) != 1 || !strings.Contains(report.Findings[0].Reason, "symbolic link") {
+		t.Fatalf("findings = %+v, want one symbolic link finding", report.Findings)
+	}
+}
+
+func TestScanProhibitedExtensions(t *testing.T) {
+	evil := []string{
+		"payload.exe", "run.bat", "run.cmd", "run.ps1", "run.vbs", "setup.msi",
+		"run.sh", "run.command", "lib.dll", "lib.so", "lib.dylib",
+		"shortcut.lnk", "link.url", "mod.jar.bak", "legacy.old", "scratch.tmp",
+	}
+
+	for _, name := range evil {
+		t.Run(name, func(t *testing.T) {
+			root := t.TempDir()
+			mustWrite(t, filepath.Join(root, "config", name))
+
+			report, err := Scan([]string{root}, Options{DryRun: true})
+			if err != nil {
+				t.Fatalf("Scan() error = %v", err)
+			}
+			if len(report.Findings) != 1 {
+				t.Fatalf("findings = %+v, want 1 for %q", report.Findings, name)
+			}
+		})
+	}
+}
+
+func TestScanVersionedLibraries(t *testing.T) {
+	evil := []string{"libfoo.so.1", "libfoo.so.1.2", "libbar.dylib.1.2"}
+
+	for _, name := range evil {
+		t.Run(name, func(t *testing.T) {
+			root := t.TempDir()
+			mustWrite(t, filepath.Join(root, "config", name))
+
+			report, err := Scan([]string{root}, Options{DryRun: true})
+			if err != nil {
+				t.Fatalf("Scan() error = %v", err)
+			}
+			if len(report.Findings) != 1 || !strings.Contains(report.Findings[0].Reason, "versioned library") {
+				t.Fatalf("findings = %+v, want one versioned library finding for %q", report.Findings, name)
+			}
+		})
+	}
+}
+
+func TestScanRawBinaryWithoutExtension(t *testing.T) {
+	root := t.TempDir()
+	writeBytes(t, filepath.Join(root, "config", "payload"), []byte{0x7F, 'E', 'L', 'F', 0x02, 0x01, 0x01})
+
+	report, err := Scan([]string{root}, Options{DryRun: true})
+	if err != nil {
+		t.Fatalf("Scan() error = %v", err)
+	}
+	if len(report.Findings) != 1 || !strings.Contains(report.Findings[0].Reason, "raw binary") {
+		t.Fatalf("findings = %+v, want one raw binary finding", report.Findings)
+	}
+}
+
+func TestScanExtensionlessTextAllowed(t *testing.T) {
+	root := t.TempDir()
+	mustWrite(t, filepath.Join(root, "config", "README"))
+
+	report, err := Scan([]string{root}, Options{DryRun: true})
+	if err != nil {
+		t.Fatalf("Scan() error = %v", err)
+	}
+	if !report.Clean() {
+		t.Fatalf("findings = %+v, want none for extensionless text", report.Findings)
+	}
+}
+
+func TestScanHardlink(t *testing.T) {
+	root := t.TempDir()
+	dir := filepath.Join(root, "config")
+	original := filepath.Join(dir, "data.json")
+	mustWrite(t, original)
+	if err := os.Link(original, filepath.Join(dir, "linked.json")); err != nil {
+		t.Skipf("hardlink unsupported: %v", err)
+	}
+
+	report, err := Scan([]string{root}, Options{DryRun: true})
+	if err != nil {
+		t.Fatalf("Scan() error = %v", err)
+	}
+	if len(report.Findings) != 2 {
+		t.Fatalf("findings = %+v, want 2 hard link findings", report.Findings)
+	}
+	for _, finding := range report.Findings {
+		if !strings.Contains(finding.Reason, "hard link") {
+			t.Errorf("reason = %q, want it to mention hard link", finding.Reason)
+		}
 	}
 }
 
@@ -187,6 +278,16 @@ func mustWrite(t *testing.T, path string) {
 		t.Fatalf("mkdir %q: %v", filepath.Dir(path), err)
 	}
 	if err := os.WriteFile(path, []byte("name = \"test\"\n"), 0o644); err != nil {
+		t.Fatalf("write %q: %v", path, err)
+	}
+}
+
+func writeBytes(t *testing.T, path string, data []byte) {
+	t.Helper()
+	if err := os.MkdirAll(filepath.Dir(path), 0o755); err != nil {
+		t.Fatalf("mkdir %q: %v", filepath.Dir(path), err)
+	}
+	if err := os.WriteFile(path, data, 0o644); err != nil {
 		t.Fatalf("write %q: %v", path, err)
 	}
 }
