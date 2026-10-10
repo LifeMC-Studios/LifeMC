@@ -124,7 +124,7 @@ func TestRunVerifyFailsOnProhibited(t *testing.T) {
 func TestVerifySessionFailsOnProhibited(t *testing.T) {
 	s, _ := versionWithFile(t, "evil.dll")
 
-	if err := verifySession(s); err == nil {
+	if _, err := verifySession(s); err == nil {
 		t.Fatal("verifySession() error = nil, want failure on prohibited file")
 	}
 }

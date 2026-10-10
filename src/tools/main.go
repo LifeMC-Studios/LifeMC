@@ -12,6 +12,7 @@ import (
 	"syscall"
 
 	"lifemc-cli/pkg/scanner"
+	"lifemc-cli/pkg/ui"
 )
 
 // logger tags every record emitted by the CLI entrypoint.
@@ -92,7 +93,7 @@ func main() {
 	if err := run(ctx, os.Args[1:]); err != nil {
 		var usage usageError
 		if errors.As(err, &usage) {
-			fmt.Fprintln(os.Stderr, usage.Error())
+			fmt.Fprintln(os.Stderr, ui.Report("Usage error", ui.StatusError, usage.Error(), nil))
 			os.Exit(2)
 		}
 		slog.Error("command failed", "error", err)
@@ -165,15 +166,16 @@ func commandNames() string {
 	return strings.Join(names, ", ")
 }
 
-// printUsage writes the command list to stdout.
+// printUsage writes the branded command list to stdout.
 func printUsage() {
-	fmt.Println("LifeMC modpack maintenance CLI")
+	fmt.Println(ui.Banner())
+	fmt.Println(ui.Subtle("LifeMC Studios · modpack maintenance CLI"))
 	fmt.Println()
-	fmt.Println("Usage:")
-	fmt.Println("  lifemc-cli <command> [flags]")
-	fmt.Println()
-	fmt.Println("Commands:")
+
+	lines := make([]string, 0, len(commands))
 	for _, cmd := range commands {
-		fmt.Printf("  %-9s %s\n", cmd.name, cmd.usage)
+		lines = append(lines, ui.Strong(fmt.Sprintf("%-9s", cmd.name))+"  "+ui.Subtle(cmd.usage))
 	}
+	fmt.Println(ui.Box("Commands", lines))
+	fmt.Println(ui.Subtle("Usage: lifemc-cli <command> [flags]"))
 }

@@ -6,25 +6,35 @@ import (
 
 	"lifemc-cli/pkg/packwiz"
 	"lifemc-cli/pkg/security"
+	"lifemc-cli/pkg/ui"
 	"lifemc-cli/pkg/validator"
 )
 
 // runVersions prints every discovered version.
 func runVersions(_ context.Context, s session, _ []string) error {
-	fmt.Printf("Active Minecraft versions in %s:\n", s.root)
+	lines := make([]string, 0, len(s.versions))
 	for _, version := range s.versions {
-		fmt.Printf("  - %s (packwiz=%t, mods=%t)\n", version.Name, version.HasPackwiz, version.HasMods)
+		state := ui.Subtle(fmt.Sprintf("packwiz:%t  mods:%t", version.HasPackwiz, version.HasMods))
+		lines = append(lines, ui.Strong(version.Name)+"  "+state)
 	}
+
+	fmt.Println(ui.Header("Active Minecraft versions"))
+	fmt.Println(ui.Box(s.root, lines))
 	return nil
 }
 
 // runValidate checks every manifest against the approved CDN allowlist.
 func runValidate(_ context.Context, s session, _ []string) error {
+	fmt.Println(ui.Header("CDN validation"))
+
 	roots := s.roots()
 	if err := validator.Validate(roots, validator.DefaultAllowlist); err != nil {
+		fmt.Println(ui.Report("Result", ui.StatusError, err.Error(), nil))
 		return err
 	}
-	fmt.Printf("Validated %d version(s): all download URLs use approved domains.\n", len(roots))
+
+	summary := fmt.Sprintf("%d version(s): all download URLs use approved domains", len(roots))
+	fmt.Println(ui.Report("Result", ui.StatusSuccess, summary, nil))
 	return nil
 }
 
@@ -46,7 +56,9 @@ func runScan(_ context.Context, s session, args []string) error {
 	if err != nil {
 		return err
 	}
-	printReport(report, len(scoped.versions), flags.apply)
+
+	fmt.Println(ui.Header("Security scan"))
+	fmt.Println(ui.Report("Result", scanStatus(report, flags.apply), scanSummary(report), scanDetails(report)))
 
 	if !report.Clean() {
 		return fmt.Errorf("scan: %d prohibited file(s) detected", len(report.Findings))
@@ -59,30 +71,36 @@ func runVerify(_ context.Context, s session, args []string) error {
 	if len(args) > 0 {
 		return usagef("verify takes no arguments, got %q", args[0])
 	}
-	if err := verifySession(s); err != nil {
+
+	fmt.Println(ui.Header("Verification"))
+
+	report, err := verifySession(s)
+	if err != nil {
+		fmt.Println(ui.Report("Result", ui.StatusError, err.Error(), scanDetails(report)))
 		return err
 	}
-	fmt.Printf("Verified %d version(s): manifests valid, no prohibited files.\n", len(s.versions))
+
+	summary := fmt.Sprintf("%d version(s): manifests valid, no prohibited files", len(s.versions))
+	fmt.Println(ui.Report("Result", ui.StatusSuccess, summary, nil))
 	return nil
 }
 
 // verifySession runs the CDN allowlist check and the security scan across the
-// session, returning an error on the first anomaly (fail-closed).
-func verifySession(s session) error {
+// session, returning the security report and the first anomaly (fail-closed).
+func verifySession(s session) (*security.Report, error) {
 	roots := s.roots()
 	if err := validator.Validate(roots, validator.DefaultAllowlist); err != nil {
-		return err
+		return nil, err
 	}
 
 	report, err := security.Scan(roots, security.Options{DryRun: true})
 	if err != nil {
-		return err
+		return nil, err
 	}
 	if !report.Clean() {
-		printReport(report, len(s.versions), false)
-		return fmt.Errorf("security: %d prohibited file(s) detected", len(report.Findings))
+		return report, fmt.Errorf("security: %d prohibited file(s) detected", len(report.Findings))
 	}
-	return nil
+	return report, nil
 }
 
 // runUpdate refreshes every external file via packwiz.
@@ -90,7 +108,17 @@ func runUpdate(ctx context.Context, s session, args []string) error {
 	if len(args) > 0 {
 		return usagef("update takes no arguments, got %q", args[0])
 	}
-	return eachPackwiz(ctx, s, "Updated", packwiz.Update)
+
+	fmt.Println(ui.Header("Update"))
+
+	done, err := eachPackwiz(ctx, s, packwiz.Update)
+	if err != nil {
+		return err
+	}
+
+	summary := fmt.Sprintf("updated %d of %d version(s)", done, len(s.versions))
+	fmt.Println(ui.Report("Result", ui.StatusSuccess, summary, nil))
+	return nil
 }
 
 // runExport builds a Modrinth .mrpack for every version via packwiz.
@@ -107,14 +135,27 @@ func runExport(ctx context.Context, s session, args []string) error {
 		return err
 	}
 
-	if err := verifySession(scoped); err != nil {
+	fmt.Println(ui.Header("Export"))
+
+	report, err := verifySession(scoped)
+	if err != nil {
+		fmt.Println(ui.Report("Aborted", ui.StatusError, "export blocked: "+err.Error(), scanDetails(report)))
 		return fmt.Errorf("export aborted: %w", err)
 	}
-	return eachPackwiz(ctx, scoped, "Exported", packwiz.Export)
+
+	done, err := eachPackwiz(ctx, scoped, packwiz.Export)
+	if err != nil {
+		return err
+	}
+
+	summary := fmt.Sprintf("exported %d of %d version(s)", done, len(scoped.versions))
+	fmt.Println(ui.Report("Result", ui.StatusSuccess, summary, nil))
+	return nil
 }
 
-// eachPackwiz runs op against every version that carries a packwiz manifest.
-func eachPackwiz(ctx context.Context, s session, label string, op func(context.Context, string) error) error {
+// eachPackwiz runs op against every version that carries a packwiz manifest,
+// returning the number of versions processed.
+func eachPackwiz(ctx context.Context, s session, op func(context.Context, string) error) (int, error) {
 	done := 0
 	for _, version := range s.versions {
 		if !version.HasPackwiz {
@@ -122,12 +163,48 @@ func eachPackwiz(ctx context.Context, s session, label string, op func(context.C
 			continue
 		}
 		if err := op(ctx, version.Path); err != nil {
-			return err
+			return done, err
 		}
 		done++
 	}
-	fmt.Printf("%s %d of %d version(s).\n", label, done, len(s.versions))
-	return nil
+	return done, nil
+}
+
+// scanStatus selects the badge for a security report.
+func scanStatus(report *security.Report, apply bool) string {
+	switch {
+	case !report.Clean():
+		return ui.StatusError
+	case apply:
+		return ui.StatusSuccess
+	default:
+		return ui.StatusDryRun
+	}
+}
+
+// scanSummary renders the one-line summary of a security report.
+func scanSummary(report *security.Report) string {
+	if report.Clean() {
+		return "no prohibited files found"
+	}
+	return fmt.Sprintf("%d prohibited file(s) detected", len(report.Findings))
+}
+
+// scanDetails renders one row per prohibited file. A nil report yields no rows.
+func scanDetails(report *security.Report) []string {
+	if report == nil {
+		return nil
+	}
+
+	details := make([]string, 0, len(report.Findings))
+	for _, finding := range report.Findings {
+		status := "flagged"
+		if finding.Removed {
+			status = "removed"
+		}
+		details = append(details, fmt.Sprintf("  %s %s/%s — %s", ui.Subtle("["+status+"]"), finding.Version, finding.File, finding.Reason))
+	}
+	return details
 }
 
 // scanFlags configures the scan command.
@@ -188,24 +265,4 @@ func takeValue(args []string, i int, flag string) (string, int, error) {
 		return "", i, usagef("flag %q requires a value", flag)
 	}
 	return args[next], next, nil
-}
-
-// printReport renders a security report to stdout.
-func printReport(report *security.Report, versions int, apply bool) {
-	mode := "dry-run"
-	if apply {
-		mode = "apply"
-	}
-	if report.Clean() {
-		fmt.Printf("Scanned %d version(s) in %s mode: no prohibited files found.\n", versions, mode)
-		return
-	}
-	fmt.Printf("Scanned %d version(s) in %s mode: %d prohibited file(s) found.\n", versions, mode, len(report.Findings))
-	for _, finding := range report.Findings {
-		status := "flagged"
-		if finding.Removed {
-			status = "removed"
-		}
-		fmt.Printf("  - [%s] %s/%s: %s\n", status, finding.Version, finding.File, finding.Reason)
-	}
 }
