@@ -7,6 +7,7 @@
   },
   "remoteUser": "vscode",
   "updateRemoteUserUID": true,
+  "postCreateCommand": "./setup-cli.sh",
   "customizations": {
     "zed": {
       "user_podman": true
