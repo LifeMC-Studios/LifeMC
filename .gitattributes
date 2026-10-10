@@ -1,2 +1,4 @@
-# Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
-* -text
+# Disable Git line ending conversion to prevent packwiz index hashes changing from Windows
+- -text
+*.go text eol=lf
+*.sh text eol=lf
