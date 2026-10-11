@@ -1,0 +1,34 @@
+name: 🛡️ Security & Manifest Audit
+
+# Trigger the workflow on push or pull request events for the main branch
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  audit:
+    name: 🔍 Run Audit Gate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read # Read-only access to repository code for security and compliance
+
+    steps:
+      - name: 🛎️ Checkout Repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 0 # Fetch complete repository history for accurate versioning/changelogs
+          persist-credentials: false # Avoid storing sensitive GITHUB_TOKEN credentials locally
+          allow-unsafe-pr-checkout: true # Retained for compatibility across shared checkout templates
+
+      - name: 🐹 Setup Go
+        uses: actions/setup-go@b7ad1dad31e06c5925ef5d2fc7ad053ef454303e
+        with:
+          go-version: "1.27"
+          cache-dependency-path: src/tools/go.sum
+
+      - name: ⚡ Run Read-Only Gate (Validate & Security Scan)
+        run: |
+          cd src/tools
+          go run . verify
